@@ -2,32 +2,32 @@
   "datasetContractVersion": "v2",
   "files": {
     "data/v2/tickers.csv": {
-      "rows": 7004,
-      "sha256": "8bbc2c77defe2c492c82d3d15a52f291a12cf8faad777fc78ed5a23e9a9bf067"
+      "rows": 7010,
+      "sha256": "8819fcd0ca42efee72f6d254512db21f9c3ccc258224893ea1306221d9f3ba6e"
     }
   },
-  "generatedAt": "2026-10-09T17:01:43Z",
+  "generatedAt": "2026-10-12T19:51:07Z",
   "provenance": {
     "note": null,
     "status": "generated-by-updater"
   },
   "quality": {
-    "missingMarketCapRows": 389,
-    "rows": 7004,
+    "missingMarketCapRows": 385,
+    "rows": 7010,
     "sp500Rows": 503,
-    "uncategorizedIndustryRows": 670,
-    "uncategorizedSectorRows": 670,
-    "unitedStatesDomicileRows": 5272
+    "uncategorizedIndustryRows": 664,
+    "uncategorizedSectorRows": 664,
+    "unitedStatesDomicileRows": 5285
   },
   "schemaVersion": 1,
   "sources": {
     "nasdaq": {
-      "fetchedAt": "2026-10-09T17:01:42Z",
-      "rowsFetched": 7004,
+      "fetchedAt": "2026-10-12T19:51:05Z",
+      "rowsFetched": 7010,
       "url": "https://api.nasdaq.com/api/screener/stocks"
     },
     "wikipediaSp500": {
-      "fetchedAt": "2026-10-09T17:01:43Z",
+      "fetchedAt": "2026-10-12T19:51:07Z",
       "symbolsFetched": 503,
       "symbolsMatched": 503,
       "url": "https://en.wikipedia.org/w/index.php?title=List_of_S%26P_500_companies&action=raw"
