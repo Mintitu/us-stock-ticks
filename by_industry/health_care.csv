@@ -1,828 +1,826 @@
 symbol,name,price,marketCap,volume,industry
-LLY,Eli Lilly and Company Common Stock,1179.27,1110114146043.0,1393063,Health Care
-JNJ,Johnson & Johnson Common Stock,261.44,630043889200.0,5727293,Health Care
-ABBV,AbbVie Inc. Common Stock,276.47,488554915784.0,4297953,Health Care
-MRK,Merck & Company Inc. Common Stock (new),145.6,359220190493.0,9288749,Health Care
-UNH,UnitedHealth Group Incorporated Common Stock (DE),379.3,340457725467.0,7468031,Health Care
-PM,Philip Morris International Inc Common Stock,201.19,313577437792.0,3239685,Health Care
-AMGN,Amgen Inc. Common Stock,414.87,224291999914.0,2553182,Health Care
-GILD,Gilead Sciences Inc. Common Stock,151.17,187444020781.0,5802198,Health Care
-ABT,Abbott Laboratories Common Stock,99.6,172346176282.0,6962020,Health Care
-PFE,Pfizer Inc. Common Stock,28.28,161186769097.0,23204159,Health Care
-ISRG,Intuitive Surgical Inc. Common Stock,423.96,149775756990.0,1762192,Health Care
-VRTX,Vertex Pharmaceuticals Incorporated Common Stock,510.08,129285348114.0,1480862,Health Care
-BMY,Bristol-Myers Squibb Company Common Stock,59.12,120765290463.0,9253530,Health Care
-MO,Altria Group Inc.,71.68,119687244616.0,8383015,Health Care
-MDT,Medtronic plc. Ordinary Shares,88.48,113178120507.0,38862083,Health Care
-MCK,McKesson Corporation Common Stock,938.84,109459696399.0,482917,Health Care
-SYK,Stryker Corporation Common Stock,277.33,106376312847.0,1476651,Health Care
-HCA,HCA Healthcare Inc. Common Stock,451.09,97661661635.0,981153,Health Care
-MRNA,Moderna Inc. Common Stock,225.0,89828075025.0,28947320,Health Care
-ELV,Elevance Health Inc. Common Stock,412.7,89501955983.0,2077288,Health Care
-MMM,3M Company Common Stock,159.96,82494957823.0,2372304,Health Care
-REGN,Regeneron Pharmaceuticals Inc. Common Stock,746.54,76860016742.0,466028,Health Care
-CI,The Cigna Group Common Stock,282.43,74629440461.0,885420,Health Care
-BSX,Boston Scientific Corporation Common Stock,42.73,61925577646.0,13037405,Health Care
-COR,Cencora Inc. Common Stock,323.85,61799377385.0,781946,Health Care
-NTRA,Natera Inc. Common Stock,400.71,57760010361.0,1011449,Health Care
-CAH,Cardinal Health Inc. Common Stock,237.57,55011553592.0,1028180,Health Care
-HUM,Humana Inc. Common Stock,431.87,51859082616.0,4993541,Health Care
-BDX,Becton Dickinson and Company Common Stock,183.75,50051074500.0,1615715,Health Care
-EW,Edwards Lifesciences Corporation Common Stock,85.21,49115044000.0,3890694,Health Care
-MDLN,Medline Inc. Class A Common Stock,36.26,47671293660.0,5333903,Health Care
-IQV,IQVIA Holdings Inc. Common Stock,259.88,42776248000.0,972342,Health Care
-ILMN,Illumina Inc. Common Stock,278.17,42003670000.0,1895818,Health Care
-BTSGU,BrightSpring Health Services Inc. Tangible Equity Unit,210.9,41729568427.0,196,Health Care
-IDXX,IDEXX Laboratories Inc. Common Stock,518.0,40808618088.0,466780,Health Care
-RVMD,Revolution Medicines Inc. Common Stock,189.76,40672478680.0,2210664,Health Care
-BIIB,Biogen Inc. Common Stock,225.71,33349554889.0,815008,Health Care
-RPRX,Royalty Pharma plc Class A Ordinary Shares ,56.93,32734818544.0,2882096,Health Care
-RMD,ResMed Inc. Common Stock,230.05,32354057852.0,1003244,Health Care
-CNC,Centene Corporation Common Stock,65.36,32287513200.0,2853193,Health Care
-DXCM,DexCom Inc. Common Stock,84.11,31739813944.0,3154537,Health Care
-ALNY,Alnylam Pharmaceuticals Inc. Common Stock,232.68,31134705576.0,959452,Health Care
-ZTS,Zoetis Inc. Class A Common Stock,74.81,30913257666.0,2912336,Health Care
-GEHC,GE HealthCare Technologies Inc. Common Stock ,65.74,29693854206.0,2856934,Health Care
-WST,West Pharmaceutical Services Inc. Common Stock,366.0,25757528892.0,480506,Health Care
-DGX,Quest Diagnostics Incorporated Common Stock,230.97,25492934959.0,775719,Health Care
-LH,Labcorp Holdings Inc. Common Stock,312.15,25315365000.0,608069,Health Care
-UTHR,United Therapeutics Corporation Common Stock,549.16,23553852419.0,578177,Health Care
-INCY,Incyte Corp. Common Stock,112.79,22862278771.0,1122442,Health Care
-GH,Guardant Health Inc. Common Stock,167.47,22473832590.0,1520370,Health Care
-INSM,Insmed Incorporated Common Stock,100.6,21969179202.0,2474345,Health Care
-THC,Tenet Healthcare Corporation Common Stock,263.78,21239301820.0,525701,Health Care
-STE,STERIS plc (Ireland) Ordinary Shares,214.4,20904023584.0,597147,Health Care
-VTRS,Viatris Inc. Common Stock,17.64,20261142841.0,8831727,Health Care
-MEDP,Medpace Holdings Inc. Common Stock,612.05,17083328443.0,159865,Health Care
-ZBH,Zimmer Biomet Holdings Inc. Common Stock,89.14,17002357597.0,1604256,Health Care
-SOLV,Solventum Corporation Common Stock,87.29,14858829304.0,1063936,Health Care
-EXEL,Exelixis Inc. Common Stock,59.86,14832212083.0,2666251,Health Care
-NBIX,Neurocrine Biosciences Inc. Common Stock,142.44,14478909342.0,1020112,Health Care
-CRL,Charles River Laboratories International Inc. Common Stock,301.79,14407114181.0,679996,Health Care
-ULS,UL Solutions Inc. Class A Common Stock,69.99,14130853128.0,748462,Health Care
-SMMT,Summit Therapeutics Inc. Common Stock ,17.59,14067187693.0,5755454,Health Care
-CORT,Corcept Therapeutics Incorporated Common Stock,121.19,13100444732.0,624358,Health Care
-BBIO,BridgeBio Pharma Inc. Common Stock,65.35,12775106426.0,1846568,Health Care
-BTSG,BrightSpring Health Services Inc. Common Stock,63.74,12611866721.0,1614576,Health Care
-BAX,Baxter International Inc. Common Stock,24.35,12588852576.0,3011607,Health Care
-PEN,Penumbra Inc. Common Stock,319.4,12580981387.0,555310,Health Care
-HALO,Halozyme Therapeutics Inc. Common Stock,110.42,12532449160.0,1845582,Health Care
-EHC,Encompass Health Corporation Common Stock,123.33,12166921849.0,604423,Health Care
-ELAN,Elanco Animal Health Incorporated Common Stock,22.92,11451332344.0,2520389,Health Care
-DVA,DaVita Inc. Common Stock,179.25,11436150000.0,369642,Health Care
-TECH,Bio-Techne Corp Common Stock,72.46,11363049525.0,2228048,Health Care
-IBRX,ImmunityBio Inc. Common Stock,10.51,11138879229.0,18657822,Health Care
-MDGL,Madrigal Pharmaceuticals Inc. Common Stock,471.75,10899371441.0,313063,Health Care
-PCVX,Vaxcyte Inc. Common Stock,71.38,10621720744.0,4381922,Health Care
-BMRN,BioMarin Pharmaceutical Inc. Common Stock,54.795,10606874124.0,2146446,Health Care
-TWST,Twist Bioscience Corporation Common Stock,159.78,10593601582.0,3542392,Health Care
-UHS,Universal Health Services Inc. Common Stock,177.35,10452390935.0,397431,Health Care
-COO,The Cooper Companies Inc. Common Stock,54.37,10338743335.0,3182825,Health Care
-OSCR,Oscar Health Inc. Class A Common Stock,33.37,10299483650.0,5322813,Health Care
-MOH,Molina Healthcare Inc Common Stock,196.93,10279746000.0,509222,Health Care
-ALGN,Align Technology Inc. Common Stock,142.71,10138097279.0,1079320,Health Care
-GMED,Globus Medical Inc. Class A Common Stock,74.65,10022651880.0,1078740,Health Care
-ENSG,The Ensign Group Inc. Common Stock,171.8,10012922161.0,205370,Health Care
-KRYS,Krystal Biotech Inc. Common Stock,331.61,9815270006.0,197064,Health Care
-GKOS,Glaukos Corporation Common Stock,165.69,9773048522.0,1196103,Health Care
-PODD,Insulet Corporation Common Stock,135.28,9382236041.0,865518,Health Care
-HSIC,Henry Schein Inc. Common Stock,84.01,9362623993.0,1087528,Health Care
-KYMR,Kymera Therapeutics Inc. Common Stock,112.4,9346129463.0,1305238,Health Care
-PTGX,Protagonist Therapeutics Inc. Common Stock,143.73,9300521803.0,763157,Health Care
-ARWR,Arrowhead Pharmaceuticals Inc. Common Stock,62.75,8863717804.0,2765862,Health Care
-AXSM,Axsome Therapeutics Inc. Common Stock,168.35,8818310710.0,894520,Health Care
-CYTK,Cytokinetics Incorporated Common Stock,62.91,8745963226.0,1118534,Health Care
-RGEN,Repligen Corporation Common Stock,173.88,8506789142.0,1339923,Health Care
-TGTX,TG Therapeutics Inc. Common Stock,55.37,8475433465.0,1621563,Health Care
-CAI,Caris Life Sciences Inc. Common Stock,29.7,8393077024.0,5033973,Health Care
-SYRE,Spyre Therapeutics Inc. Common Stock,85.69,7555609666.0,1116514,Health Care
-IONS,Ionis Pharmaceuticals Inc. Common Stock,45.28,7524826100.0,4862321,Health Care
-PRAX,Praxis Precision Medicines Inc. Common Stock,259.86,7255288082.0,517313,Health Care
-HIMS,Hims & Hers Health Inc. Class A Common Stock,30.92,7214050730.0,16031726,Health Care
-MSA,MSA Safety Incorporated Common Stock,180.71,6971482605.0,193706,Health Care
-AMRX,Amneal Pharmaceuticals Inc. Class A Common Stock,19.91,6934573698.0,2087423,Health Care
-PACS,PACS Group Inc. Common Stock,43.3,6855932000.0,763958,Health Care
-IOVA,Iovance Biotherapeutics Inc. Common Stock,14.62,6622442336.0,16990350,Health Care
-LNTH,Lantheus Holdings Inc. Common Stock,100.15,6537027755.0,955497,Health Care
-CHE,Chemed Corp,499.82,6532627907.0,134500,Health Care
-IMVT,Immunovant Inc. Common Stock,30.47,6293660221.0,1494859,Health Care
-GRAL,GRAIL Inc. Common Stock ,140.58,6279179176.0,774114,Health Care
-KOD,Kodiak Sciences Inc Common Stock,99.87,6276775271.0,1735676,Health Care
-RYTM,Rhythm Pharmaceuticals Inc. Common Stock,90.78,6250392004.0,1411416,Health Care
-KNSA,Kiniksa Pharmaceuticals International plc Class A Ordinary Shares,79.78,6224755757.0,430335,Health Care
-BLTE,Belite Bio Inc American Depositary Shares,154.49,6221643527.0,179309,Health Care
-LGND,Ligand Pharmaceuticals Incorporated Common Stock,301.81,6016766152.0,183089,Health Care
-CGON,CG Oncology Inc. Common stock,63.82,5657028733.0,516560,Health Care
-ERAS,Erasca Inc. Common Stock,16.03,5606685421.0,7772363,Health Care
-MIRM,Mirum Pharmaceuticals Inc. Common Stock,86.01,5584818780.0,1139765,Health Care
-RDNT,RadNet Inc. Common Stock,70.91,5580422494.0,507494,Health Care
-MMED,MiniMed Group Inc. Common Stock,19.71,5545407140.0,18397706,Health Care
-MANE,Veradermics Incorporated Common Stock,130.9,5469019802.0,1114253,Health Care
-ORKA,Oruka Therapeutics Inc. Common Stock,82.11,5436478385.0,1206733,Health Care
-HAE,Haemonetics Corporation Common Stock,118.69,5400044983.0,1251423,Health Care
-PTCT,PTC Therapeutics Inc. Common Stock,64.7,5399913889.0,1171216,Health Care
-COGT,Cogent Biosciences Inc. Common Stock,31.0,5379274442.0,2522312,Health Care
-TFX,Teleflex Incorporated Common Stock,125.12,5301634313.0,424690,Health Care
-MMSI,Merit Medical Systems Inc. Common Stock,87.21,5207345728.0,480839,Health Care
-SHC,Sotera Health Company Common Stock,18.06,5153868798.0,1595056,Health Care
-SRRK,Scholar Rock Holding Corporation Common Stock,42.19,5138121048.0,1258373,Health Care
-DFTX,Definium Therapeutics Inc. Common Shares,36.9,4958140455.0,2773829,Health Care
-TVTX,Travere Therapeutics Inc. Common Stock,52.125,4913358899.0,1169437,Health Care
-LFST,LifeStance Health Group Inc. Common Stock,12.42,4746354506.0,1799620,Health Care
-CON,Concentra Group Holdings Parent Inc. Common Stock,37.19,4742384602.0,1064095,Health Care
-OPCH,Option Care Health Inc. Common Stock,31.07,4653827500.0,6206296,Health Care
-BLLN,BillionToOne Inc. Class A Common Stock,98.09,4628576557.0,325179,Health Care
-DNTH,Dianthus Therapeutics Inc. Common Stock,82.37,4607314716.0,738890,Health Care
-HTFL,Heartflow Inc. Common Stock,49.74,4325073407.0,812942,Health Care
-ITGR,Integer Holdings Corporation Common Stock,126.61,4303733197.0,1439809,Health Care
-EWTX,Edgewise Therapeutics Inc. Common Stock,39.06,4242077279.0,1062706,Health Care
-ADPT,Adaptive Biotechnologies Corporation Common Stock,26.49,4227693855.0,1525330,Health Care
-TNGX,Tango Therapeutics Inc.,23.81,4014612838.0,3098922,Health Care
-ICUI,ICU Medical Inc. Common Stock,160.32,4009128332.0,146020,Health Care
-RLAY,Relay Therapeutics Inc. Common Stock,17.88,3918252362.0,1764578,Health Care
-PLSE,Pulse Biosciences Inc Common Stock (DE),53.81,3837869483.0,367639,Health Care
-NVST,Envista Holdings Corporation Common Stock,23.0,3694207307.0,2357669,Health Care
-VCYT,Veracyte Inc. Common Stock,45.23,3636072763.0,966697,Health Care
-OGN,Organon & Co. Common Stock ,13.81,3626636270.0,3265035,Health Care
-LEGN,Legend Biotech Corporation American Depositary Shares,18.62,3621374250.0,1387499,Health Care
-VKTX,Viking Therapeutics Inc. Common Stock,28.51,3583383440.0,4045860,Health Care
-NHC,National HealthCare Corporation Common Stock,227.11,3556859418.0,62909,Health Care
-AMLX,Amylyx Pharmaceuticals Inc. Common Stock,28.14,3530396084.0,1471535,Health Care
-IRTC,iRhythm Holdings Inc. Common Stock,106.7,3517152420.0,516525,Health Care
-IDYA,IDEAYA Biosciences Inc. Common Stock,36.11,3484235267.0,699111,Health Care
-TARS,Tarsus Pharmaceuticals Inc. Common Stock,73.16,3423279894.0,481773,Health Care
-ACAD,ACADIA Pharmaceuticals Inc. Common Stock,19.78,3408203146.0,1470299,Health Care
-PBLS,Parabilis Medicines Inc. Common Stock,27.48,3351241784.0,1086625,Health Care
-ARQT,Arcutis Biotherapeutics Inc. Common Stock,26.58,3340892323.0,1731768,Health Care
-CELC,Celcuity Inc. Common Stock,67.94,3324433830.0,1277721,Health Care
-CDNA,CareDx Inc. Common Stock,63.67,3293917978.0,897233,Health Care
-WRBY,Warby Parker Inc. Class A Common Stock,25.3,3127283766.0,1542109,Health Care
-DNLI,Denali Therapeutics Inc. Common Stock,19.45,3109031988.0,1341040,Health Care
-RCUS,Arcus Biosciences Inc. Common Stock,24.41,3108207708.0,795212,Health Care
-DYN,Dyne Therapeutics Inc. Common Stock,16.64,3107460612.0,3565922,Health Care
-ELVN,Enliven Therapeutics Inc. Common Stock,40.98,3002635786.0,1002727,Health Care
-ATRC,AtriCure Inc. Common Stock,55.81,2838847868.0,712541,Health Care
-PGEN,Precigen Inc. Common Stock,7.81,2796255279.0,3384205,Health Care
-ACHC,Acadia Healthcare Company Inc. Common Stock,29.25,2723183044.0,1383759,Health Care
-TMDX,TransMedics Group Inc. Common Stock,77.87,2700153541.0,733739,Health Care
-AVAH,Aveanna Healthcare Holdings Inc. Common Stock,12.25,2673191276.0,1680858,Health Care
-PRVA,Privia Health Group Inc. Common Stock,20.85,2663258216.0,1128426,Health Care
-BEAM,Beam Therapeutics Inc. Common Stock,25.7,2654492991.0,1801750,Health Care
-NEOG,Neogen Corporation Common Stock,11.85,2586926503.0,3647788,Health Care
-MBX,MBX Biosciences Inc. Common Stock,53.24,2564043511.0,538814,Health Care
-CLOV,Clover Health Investments Corp. Class A Common Stock,4.79,2544238500.0,10549665,Health Care
-SUPN,Supernus Pharmaceuticals Inc. Common Stock,42.67,2480279645.0,643849,Health Care
-LQDA,Liquidia Corporation Common Stock,27.38,2450753436.0,3617074,Health Care
-BKD,Brookdale Senior Living Inc. Common Stock,10.12,2416830590.0,18825233,Health Care
-IRON,Disc Medicine Inc. Common Stock,62.06,2382659899.0,691153,Health Care
-SLS,SELLAS Life Sciences Group Inc. Common Stock,11.65,2352667510.0,4178359,Health Care
-CLDX,Celldex Therapeutics Inc.,29.89,2347247711.0,992802,Health Care
-HRMY,Harmony Biosciences Holdings Inc. Common Stock,40.28,2345761910.0,487209,Health Care
-RXRX,Recursion Pharmaceuticals Inc. Class A Common Stock,4.36,2334091861.0,35501560,Health Care
-ADMA,ADMA Biologics Inc Common Stock,10.36,2320481285.0,2828492,Health Care
-NRIX,Nurix Therapeutics Inc. Common stock,22.35,2319520615.0,1525512,Health Care
-IMNM,Immunome Inc. Common Stock,19.55,2306960918.0,998209,Health Care
-PBH,Prestige Consumer Healthcare Inc. Common Stock,48.23,2284873196.0,323724,Health Care
-UFPT,UFP Technologies Inc. Common Stock,288.97,2238300936.0,92676,Health Care
-BFLY,Butterfly Network Inc. Class A Common Stock,8.25,2196852760.0,3958098,Health Care
-BCRX,BioCryst Pharmaceuticals Inc. Common Stock,8.55,2184825148.0,2307971,Health Care
-MD,Pediatrix Medical Group Inc. Common Stock,26.64,2164587139.0,518058,Health Care
-VERA,Vera Therapeutics Inc. Class A Common Stock,29.88,2153252450.0,996598,Health Care
-PGNY,Progyny Inc. Common Stock,27.93,2142979468.0,694587,Health Care
-ADUS,Addus HomeCare Corporation Common Stock,114.33,2135032719.0,172867,Health Care
-AXGN,Axogen Inc. Common Stock,36.13,2119801765.0,929775,Health Care
-VRDN,Viridian Therapeutics Inc. Common Stock,18.66,2114033740.0,1334257,Health Care
-NVAX,Novavax Inc. Common Stock,12.75,2103058007.0,19026378,Health Care
-NEO,NeoGenomics Inc. Common Stock,16.35,2100573444.0,1385352,Health Care
-RVMDW,Revolution Medicines Inc. Warrant,9.765,2092995122.0,4001,Health Care
-PRGO,Perrigo Company plc Ordinary Shares,15.06,2089864830.0,4396773,Health Care
-MLYS,Mineralys Therapeutics Inc. Common Stock,23.37,2066068902.0,895348,Health Care
-TRLV,Trulieve Cannabis Corp. Subordinate Voting Shares,10.67,2054671772.0,1175461,Health Care
-VCEL,Vericel Corporation Common Stock,40.1,2053385221.0,506911,Health Care
-SDGR,Schrodinger Inc. Common Stock,27.28,2040697532.0,2080384,Health Care
-WGS,GeneDx Holdings Corp. Class A Common Stock,67.33,2007951686.0,405164,Health Care
-PVLA,Palvella Therapeutics Inc. Common Stock,138.77,1999454639.0,174055,Health Care
-INSP,Inspire Medical Systems Inc. Common Stock,68.89,1991635734.0,867384,Health Care
-FTRE,Fortrea Holdings Inc. Common Stock,20.84,1981884000.0,931352,Health Care
-VIR,Vir Biotechnology Inc. Common Stock,11.7,1979826709.0,1965236,Health Care
-MRVI,Maravai LifeSciences Holdings Inc. Class A Common Stock,7.44,1931971770.0,2306200,Health Care
-XERS,Xeris Biopharma Holdings Inc. Common Stock,10.48,1910716807.0,2995253,Health Care
-AGIO,Agios Pharmaceuticals Inc. Common Stock,31.81,1899116866.0,835703,Health Care
-ADRX,ADARx Pharmaceuticals Inc. Common Stock,17.78,1898927559.0,688478,Health Care
-SRPT,Sarepta Therapeutics Inc. Common Stock (DE),17.85,1885442325.0,3015117,Health Care
-TRVI,Trevi Therapeutics Inc. Common Stock,13.19,1879256343.0,5029890,Health Care
-LMAT,LeMaitre Vascular Inc. Common Stock,80.69,1845320347.0,126737,Health Care
-GENB,Generate Biomedicines Inc. Common Stock,14.34,1840573932.0,903400,Health Care
-NTLA,Intellia Therapeutics Inc. Common Stock,13.07,1831455878.0,8154911,Health Care
-XNCR,Xencor Inc. Common Stock,24.63,1831324168.0,1145292,Health Care
-ZYME,Zymeworks Inc. Common Stock,25.79,1830038825.0,491154,Health Care
-BHVN,Biohaven Ltd. Common Shares ,12.08,1824608874.0,1370068,Health Care
-GPCR,Structure Therapeutics Inc. American Depositary Shares,25.54,1821253748.0,593262,Health Care
-SGRY,Surgery Partners Inc. Common Stock,13.89,1818454631.0,929018,Health Care
-BRVE,Braveheart Bio Inc. Common Stock,20.02,1802580159.0,255244,Health Care
-SEPN,Septerna Inc. Common Stock,38.37,1790994456.0,349499,Health Care
-ZBIO,Zenas BioPharma Inc. Common Stock,27.26,1776717469.0,429836,Health Care
-XRAY,DENTSPLY SIRONA Inc. Common Stock,8.83,1760294725.0,4219822,Health Care
-NUVB,Nuvation Bio Inc. Class A Common Stock,5.0,1755616165.0,2957097,Health Care
-ABSI,Absci Corporation Common Stock,10.16,1743598342.0,4245443,Health Care
-PSNL,Personalis Inc. Common Stock,16.0,1708797952.0,1835957,Health Care
-ANIP,ANI Pharmaceuticals Inc.,73.89,1696476568.0,540866,Health Care
-FRNM,Freenome Inc. Common stock,15.78,1695510725.0,558764,Health Care
-SNDA,Sonida Senior Living Inc. Common Stock,35.24,1693211168.0,579124,Health Care
-OCUL,Ocular Therapeutix Inc. Common Stock,7.54,1655903645.0,2630547,Health Care
-ATEC,Alphatec Holdings Inc. Common Stock,10.67,1647992981.0,1565277,Health Care
-KMTS,Kestra Medical Technologies Ltd. Common Stock,26.98,1606977229.0,246796,Health Care
-STOK,Stoke Therapeutics Inc. Common Stock,24.74,1596379227.0,919003,Health Care
-ARDT,Ardent Health Inc. Common Stock,11.3,1593818749.0,568348,Health Care
-ETON,Eton Pharmaceuticals Inc. Common Stock,55.21,1578074883.0,371181,Health Care
-ALHC,Alignment Healthcare Inc. Common Stock,7.545,1565098199.0,26060501,Health Care
-PAHC,Phibro Animal Health Corporation Class A Common Stock,38.3,1555041395.0,235950,Health Care
-KRSA,Korsana Biosciences Inc. Common Stock,33.92,1544765136.0,45928,Health Care
-INVA,Innoviva Inc. Common Stock,21.21,1532326737.0,507602,Health Care
-RARE,Ultragenyx Pharmaceutical Inc. Common Stock,15.48,1526155754.0,2927662,Health Care
-SNDX,Syndax Pharmaceuticals Inc. Common Stock,16.99,1517157491.0,1459266,Health Care
-MAZE,Maze Therapeutics Inc. Common Stock,27.11,1505937944.0,670975,Health Care
-KLRA,Kailera Therapeutics Inc. Common Stock,11.61,1505163078.0,2182334,Health Care
-COAG,Hemab Therapeutics Holdings Inc. Common Stock,31.62,1477037140.0,619099,Health Care
-RAPP,Rapport Therapeutics Inc. Common Stock,30.65,1470534466.0,247937,Health Care
-TSHA,Taysha Gene Therapies Inc. Common Stock,4.49,1462992617.0,5382803,Health Care
-PCRX,Pacira BioSciences Inc. Common Stock,36.31,1447385081.0,4690516,Health Care
-OMER,Omeros Corporation Common Stock,19.83,1435460306.0,793964,Health Care
-HCSG,Healthcare Services Group Inc. Common Stock,20.59,1413137039.0,446314,Health Care
-NKTR,Nektar Therapeutics  Common Stock,41.17,1405667063.0,1174855,Health Care
-INBX,Inhibrx Biosciences Inc. Common Stock,95.01,1398324877.0,86840,Health Care
-PNTG,The Pennant Group Inc. Common Stock ,39.73,1387732110.0,321507,Health Care
-AGL,agilon health inc. Common Stock,82.39,1383427792.0,171902,Health Care
-KARD,Kardigan Inc. Common Stock,14.67,1371699264.0,740224,Health Care
-TYRA,Tyra Biosciences Inc. Common Stock,19.94,1370993424.0,649455,Health Care
-ANAB,AnaptysBio Inc. Common Stock,45.95,1360509702.0,495693,Health Care
-CNMD,CONMED Corporation Common Stock,44.42,1330434436.0,400470,Health Care
-OMDA,Omada Health Inc. Common Stock,21.55,1319219950.0,836781,Health Care
-EYE,National Vision Holdings Inc. Common Stock,16.68,1318876141.0,975669,Health Care
-REPL,Replimune Group Inc. Common Stock,13.42,1264427488.0,2022874,Health Care
-USPH,U.S. Physical Therapy Inc. Common Stock,84.67,1263504840.0,143479,Health Care
-ORIC,Oric Pharmaceuticals Inc. Common Stock,11.99,1242795345.0,1086660,Health Care
-INNV,InnovAge Holding Corp. Common Stock,9.1,1241707968.0,343094,Health Care
-LBRX,LB Pharmaceuticals Inc Common Stock,37.22,1200686494.0,642593,Health Care
-VOR,Vor Biopharma Inc. Common Stock,19.9,1177329651.0,1102378,Health Care
-BCAX,Bicara Therapeutics Inc. Common Stock,17.5,1158026345.0,715980,Health Care
-TRUP,Trupanion Inc. Common Stock,26.06,1143320243.0,269966,Health Care
-AVLN,Avalyn Pharma Inc. Common Stock,25.76,1142020527.0,241840,Health Care
-TRAX,First Tracks Biotherapeutics Inc. Ordinary Shares ,31.85,1138027350.0,855263,Health Care
-AMPH,Amphastar Pharmaceuticals Inc. Common Stock,26.62,1132360069.0,437729,Health Care
-JANX,Janux Therapeutics Inc. Common Stock,18.39,1124305255.0,1172994,Health Care
-TNDM,Tandem Diabetes Care Inc. Common Stock,16.11,1120912970.0,1431411,Health Care
-IRMD,iRadimed Corporation Common Stock,87.45,1118222363.0,68895,Health Care
-HROW,Harrow Inc. Common Stock,29.36,1100643276.0,1352443,Health Care
-BVS,Bioventus Inc. Class A Common Stock,13.065,1098660412.0,273347,Health Care
-STAA,STAAR Surgical Company Common Stock,21.67,1086620133.0,592523,Health Care
-LFMDP,LifeMD Inc. 8.875% Series A Cumulative Perpetual Preferred Stock,22.38,1078734732.0,359,Health Care
-LTGO,Latigo Biotherapeutics Inc. Common Stock,16.0,1060789552.0,184231,Health Care
-MNKD,MannKind Corporation Common Stock,3.29,1057881352.0,4549663,Health Care
-PRCT,PROCEPT BioRobotics Corporation Common Stock,18.4,1053835326.0,1114175,Health Care
-CSTL,Castle Biosciences Inc. Common Stock,34.42,1051514031.0,249162,Health Care
-CDRE,Cadre Holdings Inc. Common Stock,24.55,1051249020.0,877135,Health Care
-TDOC,Teladoc Health Inc. Common Stock,5.77,1048316801.0,4186151,Health Care
-IART,Integra LifeSciences Holdings Corporation Common Stock,13.44,1045262481.0,1228168,Health Care
-AORT,Artivion Inc. Common Stock,21.26,1036557258.0,343527,Health Care
-OPK,OPKO Health Inc. Common Stock,1.38,1029932951.0,1093626,Health Care
-MGTX,MeiraGTx Holdings plc Ordinary Shares,10.69,1026699627.0,523484,Health Care
-ENOV,Enovis Corporation Common Stock,17.69,1020173349.0,1146659,Health Care
-LMRI,Lumexa Imaging Holdings Inc. Common Stock,10.54,1012630247.0,370858,Health Care
-SVRA,Savara Inc. Common Stock,4.92,1010863274.0,1529169,Health Care
-AKTS,Aktis Oncology Inc. Common stock,18.15,1009493907.0,361056,Health Care
-CGEM,Cullinan Therapeutics Inc. Common Stock,15.53,999428398.0,567554,Health Care
-SPTX,Seaport Therapeutics Inc. Common Stock,18.15,971579483.0,171208,Health Care
-ANRO,Alto Neuroscience Inc. Common Stock,24.37,956330074.0,649436,Health Care
-KURA,Kura Oncology Inc. Common Stock,10.6,942982561.0,1474195,Health Care
-BBNX,Beta Bionics Inc. Common Stock,17.63,928076045.0,955149,Health Care
-ALMS,Alumis Inc. Common Stock,7.16,926756311.0,1371089,Health Care
-MLTX,MoonLake Immunotherapeutics Class A Ordinary Shares,10.82,920854332.0,2011046,Health Care
-QDEL,QuidelOrtho Corporation Common Stock,13.42,920282230.0,3576954,Health Care
-RIGL,Rigel Pharmaceuticals Inc. Common Stock,49.08,916807725.0,279408,Health Care
-JBIO,Jade Biosciences Inc. Common Stock,14.39,915166399.0,735612,Health Care
-ODTX,Odyssey Therapeutics Inc. Common Stock,19.0,913112013.0,325599,Health Care
-CBLL,CeriBell Inc. Common Stock,23.63,906874527.0,325358,Health Care
-CRVS,Corvus Pharmaceuticals Inc. Common Stock,10.52,884952331.0,1032411,Health Care
-CYRX,CryoPort Inc. Common Stock,17.35,878761885.0,479904,Health Care
-GLUE,Monte Rosa Therapeutics Inc. Common Stock,10.3,878728030.0,1201751,Health Care
-SIBN,SI-BONE Inc. Common Stock,19.37,868135798.0,555933,Health Care
-DNA,Ginkgo Bioworks Holdings Inc. Class A Common Stock,13.0,836423601.0,4519918,Health Care
-SANA,Sana Biotechnology Inc. Common Stock,2.79,835216177.0,2918411,Health Care
-SGP,SpyGlass Pharma Inc. Common Stock,24.92,833523637.0,68259,Health Care
-AHCO,AdaptHealth Corp. Common Stock,6.06,826245828.0,1456068,Health Care
-AVBP,ArriVent BioPharma Inc. Common Stock,16.73,824918306.0,1731798,Health Care
-ARDX,Ardelyx Inc. Common Stock,3.28,817335236.0,2357892,Health Care
-OBX,Obsidian Therapeutics Inc. Common Stock,13.0,803047388.0,532213,Health Care
-GERN,Geron Corporation Common Stock,1.225,787029926.0,5639854,Health Care
-GYRE,Gyre Therapeutics Inc. Common Stock,7.04,785029337.0,76635,Health Care
-IMMX,Immix Biopharma Inc. Common Stock,9.46,784261916.0,1109068,Health Care
-APMD,Apnimed Inc. Common Stock,18.52,771002027.0,268409,Health Care
-ACHV,Achieve Life Sciences Inc. Common Shares,7.41,762507451.0,987321,Health Care
-ANNX,Annexon Inc. Common Stock,4.02,762108119.0,2385193,Health Care
-CADL,Candel Therapeutics Inc. Common Stock,9.94,760594536.0,718381,Health Care
-VSTM,Verastem Inc. Common Stock,8.38,758921636.0,2970381,Health Care
-LXRX,Lexicon Pharmaceuticals Inc. Common Stock,1.68,747525969.0,2067727,Health Care
-ATTO,Attovia Therapeutics Inc. Common Stock,16.21,740006957.0,194201,Health Care
-SLDB,Solid Biosciences Inc. Common Stock,6.87,736637385.0,726819,Health Care
-FDMT,4D Molecular Therapeutics Inc. Common Stock,13.33,736405333.0,868132,Health Care
-AVTX,Avalo Therapeutics Inc. Common Stock,13.65,732049350.0,648592,Health Care
-DSGN,Design Therapeutics Inc. Common Stock,11.65,729076234.0,356607,Health Care
-PRME,Prime Medicine Inc. Common Stock,3.99,723693655.0,8066552,Health Care
-COLL,Collegium Pharmaceutical Inc. Common Stock,22.09,719153491.0,438453,Health Care
-OABI,OmniAb Inc. Common Stock,4.79,696420006.0,1039189,Health Care
-NVCT,Nuvectis Pharma Inc. Common Stock,21.12,688809074.0,152967,Health Care
-OLMA,Olema Pharmaceuticals Inc. Common Stock,7.82,684231287.0,758268,Health Care
-MDXG,MiMedx Group Inc Common Stock,4.67,680701386.0,391118,Health Care
-AURA,Aura Biosciences Inc. Common Stock,6.54,678229451.0,962567,Health Care
-ZVRA,Zevra Therapeutics Inc. Common Stock,11.39,676381266.0,730774,Health Care
-STLN,Starling Oncology Inc. Common Stock,6.63,675703842.0,1848361,Health Care
-FTH,Faeth Therapeutics Inc. Common Stock,26.03,672626263.0,197161,Health Care
-AVR,Anteris Technologies Global Corp. Common Stock,6.77,659793869.0,1344058,Health Care
-CLYM,Climb Bio Inc. Common Stock,11.0,631798805.0,638155,Health Care
-IRWD,Ironwood Pharmaceuticals Inc. Class A Common Stock,3.82,631216598.0,1721555,Health Care
-SGMT,Sagimet Biosciences Inc. Series A Common Stock,8.93,629859190.0,763538,Health Care
-AQST,Aquestive Therapeutics Inc. Common Stock,4.78,599945677.0,1691567,Health Care
-STTK,Shattuck Labs Inc. Common Stock,5.97,599168620.0,1049404,Health Care
-FLGT,Fulgent Genetics Inc. Common Stock,21.74,598182470.0,253953,Health Care
-FBIOP,Fortress Biotech Inc. 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock,17.84,594981715.0,823,Health Care
-PHAT,Phathom Pharmaceuticals Inc. Common Stock,7.25,586531772.0,928349,Health Care
-CRMD,CorMedix Inc. Common Stock,7.38,575229111.0,1194651,Health Care
-MPLT,MapLight Therapeutics Inc. Common Stock,8.83,571950941.0,495370,Health Care
-ETRA,Electra Therapeutics Inc. Common stock,9.04,567413273.0,778461,Health Care
-KIDS,OrthoPediatrics Corp. Common Stock,21.65,565276910.0,135551,Health Care
-ACRS,Aclaris Therapeutics Inc. Common Stock,3.83,563771760.0,5060118,Health Care
-CTMX,CytomX Therapeutics Inc. Common Stock,2.57,560001160.0,3040789,Health Care
-SBC,SBC Medical Group Holdings Incorporated Common Stock,5.42,557430431.0,156913,Health Care
-BLSM,BlossomHill Therapeutics Inc. Common Stock,17.48,555600209.0,131837,Health Care
-CBIO,Crescent Biopharma Inc. Common Stock,14.91,553816145.0,347158,Health Care
-DCTH,Delcath Systems Inc. Common Stock,15.36,532973491.0,190124,Health Care
-RGNX,REGENXBIO Inc. Common Stock,8.07,532726459.0,859330,Health Care
-PBYI,Puma Biotechnology Inc Common Stock,10.29,531170479.0,303089,Health Care
-MNPR,Monopar Therapeutics Inc. Common Stock,78.96,529993101.0,135856,Health Care
-PROK,ProKidney Corp. Class A Ordinary Shares,1.74,526041420.0,1385967,Health Care
-TLRY,Tilray Brands Inc. Common Stock ,3.54,523167831.0,5728052,Health Care
-EOLS,Evolus Inc. Common Stock,7.73,510569901.0,430135,Health Care
-TCMD,Tactile Systems Technology Inc. Common Stock,22.44,508317298.0,136727,Health Care
-ALT,Altimmune Inc. Common Stock,2.61,507691200.0,2677761,Health Care
-ALLO,Allogene Therapeutics Inc. Common Stock,1.46,504416686.0,10605485,Health Care
-CTNM,Contineum Therapeutics Inc. Class A Common Stock,13.38,503370746.0,885599,Health Care
-ARVN,Arvinas Inc. Common Stock,7.64,499550499.0,560108,Health Care
-SGHT,Sight Sciences Inc. Common Stock,8.89,489732231.0,289471,Health Care
-ANGO,AngioDynamics Inc. Common Stock,11.52,484467264.0,2156220,Health Care
-OVID,Ovid Therapeutics Inc. Common Stock,2.46,480432728.0,1406728,Health Care
-ASMB,Assembly Biosciences Inc. Common Stock,23.53,479084824.0,170500,Health Care
-YDES,YD Bio Limited Ordinary Shares,6.73,476694959.0,207842,Health Care
-SENS,Senseonics Holdings Inc. Common Stock,8.98,474808996.0,499359,Health Care
-TKNO,Alpha Teknova Inc. Common Stock,8.84,474604095.0,195404,Health Care
-RZLT,Rezolute Inc. Common Stock (NV),4.87,471069806.0,1873636,Health Care
-CERS,Cerus Corporation Common Stock,2.3,463507265.0,787974,Health Care
-TECX,Tectonic Therapeutic Inc. Common Stock,23.33,456086709.0,110732,Health Care
-CAPR,Capricor Therapeutics Inc. Common Stock,7.83,455228284.0,1697729,Health Care
-PRTA,Prothena Corporation plc Ordinary Shares,8.84,453818850.0,931679,Health Care
-NRC,NRC Health Common Stock,20.33,449690777.0,52572,Health Care
-DMAC,DiaMedica Therapeutics Inc. Common Stock,8.33,449201056.0,170159,Health Care
-EDIT,Editas Medicine Inc. Common Stock,2.9,445382102.0,3087587,Health Care
-NPCE,Neuropace Inc. Common Stock,12.67,434888552.0,72645,Health Care
-SPRY,ARS Pharmaceuticals Inc. Common Stock,4.23,420662261.0,1258404,Health Care
-AVIR,Atea Pharmaceuticals Inc. Common Stock,5.15,413054200.0,157972,Health Care
-MYGN,Myriad Genetics Inc. Common Stock,4.31,412249970.0,1367954,Health Care
-RCEL,Avita Medical Inc. Common Stock,13.21,408543649.0,280505,Health Care
-EIKN,Eikon Therapeutics Inc. Common Stock,7.47,404612774.0,288701,Health Care
-SCTX,Scribe Therapeutics Inc. Common Stock,21.17,400783666.0,397127,Health Care
-SRTA,Strata Critical Medical Inc. Class A Common Stock,4.53,400754631.0,623126,Health Care
-GALT,Galectin Therapeutics Inc. Common Stock,3.94,398125747.0,156516,Health Care
-KYTX,Kyverna Therapeutics Inc. Common Stock,6.39,395179607.0,876463,Health Care
-CARL,Carlsmed Inc. Common Stock,14.42,393705554.0,64519,Health Care
-CYH,Community Health Systems Inc. Common Stock,2.76,389185825.0,1060181,Health Care
-CCCC,C4 Therapeutics Inc. Common Stock,3.16,388759430.0,2506982,Health Care
-IRD,Opus Genetics Inc. Common Stock,4.65,386860577.0,1257324,Health Care
-TRXB,TRex Bio Inc. Common stock,14.0,384239548.0,1258358,Health Care
-SI,Shoulder Innovations Inc. Common Stock,18.13,377447690.0,91004,Health Care
-FENC,Fennec Pharmaceuticals Inc. Common Stock,10.71,375214140.0,93467,Health Care
-ENTA,Enanta Pharmaceuticals Inc. Common Stock,12.5,364067525.0,182076,Health Care
-VMD,Viemed Healthcare Inc. Common Shares,9.52,362599931.0,152493,Health Care
-EBS,Emergent BioSolutions Inc. Common Stock,7.06,361989752.0,850977,Health Care
-RLMD,Relmada Therapeutics Inc. Common Stock,3.39,361610778.0,1730513,Health Care
-OBIO,Orchestra BioMed Holdings Inc. Ordinary Shares,5.95,357625042.0,229325,Health Care
-TTRX,Turn Therapeutics Inc. Common Stock,12.0,357456480.0,109835,Health Care
-CV,CapsoVision Inc. Common Stock,6.59,350558951.0,57970,Health Care
-SRZN,Surrozen Inc. Common Stock,29.69,348963137.0,781407,Health Care
-AGEN,Agenus Inc. Common Stock,7.67,346391896.0,710438,Health Care
-ARTV,Artiva Biotherapeutics Inc. Common Stock,6.94,339297440.0,275943,Health Care
-INDP,Indaptus Therapeutics Inc. Common Stock,2.51,334438233.0,467617,Health Care
-CABA,Cabaletta Bio Inc. Common Stock,1.93,327222709.0,2595716,Health Care
-OCGN,Ocugen Inc. Common Stock,0.9555,324019988.0,13335937,Health Care
-SMTI,Sanara MedTech Inc. Common Stock,35.07,322224387.0,123981,Health Care
-EMBC,Embecta Corp. Common Stock,5.685,322109820.0,583131,Health Care
-CLPT,ClearPoint Neuro Inc. Common Stock,10.48,319684299.0,410019,Health Care
-CYPH,Cypherpunk Technologies Inc. Common Stock,2.94,316827283.0,10261937,Health Care
-PRLD,Prelude Therapeutics Incorporated Common Stock,3.89,310435557.0,341652,Health Care
-BNTC,Benitec Biopharma Inc. Common Stock,8.87,309409780.0,73151,Health Care
-CATX,Perspective Therapeutics Inc. Common Stock,2.66,303643424.0,1104756,Health Care
-BIOA,BioAge Labs Inc. Common Stock,6.34,290986403.0,667357,Health Care
-XFOR,X4 Pharmaceuticals Inc. Common Stock,2.91,288517022.0,541238,Health Care
-FULC,Fulcrum Therapeutics Inc. Common Stock,3.77,287959944.0,1798884,Health Care
-MOBI,Mobia Medical Inc. Common Stock,8.63,287302158.0,89127,Health Care
-ABEO,Abeona Therapeutics Inc. Common Stock,4.94,282489044.0,1284922,Health Care
-RCKT,Rocket Pharmaceuticals Inc. Common Stock,2.56,281022968.0,3371768,Health Care
-LRMR,Larimar Therapeutics Inc. Common Stock,2.67,277367442.0,868886,Health Care
-VNDA,Vanda Pharmaceuticals Inc. Common Stock,4.57,276314480.0,640281,Health Care
-IKT,Inhibikase Therapeutics Inc. Common Stock,1.97,274885723.0,435039,Health Care
-BDSX,Biodesix Inc. Common Stock,26.02,274540090.0,46752,Health Care
-SABS,SAB Biotherapeutics Inc. Common Stock,2.98,271139377.0,659616,Health Care
-USNA,USANA Health Sciences Inc. Common Stock,14.66,270865988.0,153403,Health Care
-INFU,InfuSystems Holdings Inc. Common Stock,13.56,270076974.0,63298,Health Care
-OSUR,OraSure Technologies Inc. Common Stock,3.9,268977645.0,446800,Health Care
-PALI,Palisade Bio Inc. Common Stock,1.54,268376659.0,1841015,Health Care
-IPSC,Century Therapeutics Inc. Common Stock,1.47,266180722.0,817052,Health Care
-BBOT,BridgeBio Oncology Therapeutics Inc. Common Stock  ,3.31,265376824.0,471953,Health Care
-LXEO,Lexeo Therapeutics Inc. Common Stock,3.23,265009404.0,961386,Health Care
-ANIK,Anika Therapeutics Inc. Common Stock,19.58,262038474.0,88597,Health Care
-FATE,Fate Therapeutics Inc. Common Stock,2.18,261208721.0,773469,Health Care
-VOGX,Vogenx Inc Common Stock,17.56,260855328.0,77197,Health Care
-UPB,Upstream Bio Inc. Common Stock,4.7,257423893.0,1187839,Health Care
-TMCI,Treace Medical Concepts Inc. Common Stock,3.95,256886480.0,161178,Health Care
-IMRX,Immuneering Corporation Class A Common Stock,3.94,254907764.0,709785,Health Care
-LCTX,Lineage Cell Therapeutics Inc. Common Stock,0.994,251390019.0,1158581,Health Care
-TLSI,TriSalus Life Sciences Inc. Common Stock,4.06,249992876.0,198960,Health Care
-ZNTL,Zentalis Pharmaceuticals Inc. Common Stock,2.64,249925020.0,612376,Health Care
-QTTB,Q32 Bio Inc. Common Stock,8.34,248277346.0,854952,Health Care
-LFCR,Lifecore Biomedical Inc. Common Stock,6.45,244152237.0,387105,Health Care
-GLSI,Greenwich LifeSciences Inc. Common Stock,16.53,242630778.0,119881,Health Care
-PYXS,Pyxis Oncology Inc. Common Stock,2.03,241738506.0,950424,Health Care
-MGNX,MacroGenics Inc. Common Stock,3.74,238238699.0,418455,Health Care
-UTMD,Utah Medical Products Inc. Common Stock,74.54,237321794.0,45321,Health Care
-KROS,Keros Therapeutics Inc. Common Stock,11.95,236934897.0,194403,Health Care
-STRO,Sutro Biopharma Inc. Common Stock,14.27,236613310.0,256303,Health Care
-CAMP,CAMP4 Therapeutics Corporation Common Stock,3.77,236579564.0,72147,Health Care
-SIGA,SIGA Technologies Inc. Common Stock,3.28,235667068.0,464988,Health Care
-ALEC,Alector Inc. Common Stock,2.08,232246392.0,3118520,Health Care
-NUS,Nu Skin Enterprises Inc. Common Stock,4.74,230727245.0,327312,Health Care
-ELMD,Electromed Inc. Common Stock,27.69,229469384.0,51030,Health Care
-EVMN,Evommune Inc. Common Stock,6.25,226825706.0,557956,Health Care
-NATR,Nature's Sunshine Products Inc. Common Stock,12.64,222407373.0,75895,Health Care
-AKBA,Akebia Therapeutics Inc. Common Stock,0.8011,221989813.0,6091382,Health Care
-SION,Sionna Therapeutics Inc. Common Stock,4.9,221540755.0,633582,Health Care
-TRDA,Entrada Therapeutics Inc. Common Stock,5.67,220770913.0,209367,Health Care
-RNAC,Cartesian Therapeutics Inc. Common Stock,7.055,213451508.0,114552,Health Care
-LYEL,Lyell Immunopharma Inc. Common Stock,8.71,213439778.0,106813,Health Care
-NAGE,Niagen Bioscience Inc. Common Stock,2.69,212848945.0,268132,Health Care
-IVVD,Invivyd Inc. Common Stock,0.7212,212580008.0,2767124,Health Care
-XGN,Exagen Inc. Common Stock,8.42,203977354.0,251164,Health Care
-PDEX,Pro-Dex Inc. Common Stock,62.49,202044793.0,31881,Health Care
-ELDN,Eledon Pharmaceuticals Inc. Common Stock,2.48,201527657.0,818777,Health Care
-CUE,Cue Biopharma Inc. Common Stock,27.66,200933691.0,394852,Health Care
-WHWK,Whitehawk Therapeutics Inc. Common Stock,3.52,200671715.0,320259,Health Care
-RXST,RxSight Inc. Common Stock,4.81,200063561.0,522343,Health Care
-DTIL,Precision BioSciences Inc. Common Stock,6.72,185482443.0,263703,Health Care
-YARW,Yarrow Bioscience Inc. Common Stock,19.71,183388955.0,162213,Health Care
-PEPG,PepGen Inc. Common Stock,2.62,181459935.0,603882,Health Care
-CMPX,Compass Therapeutics Inc. Common Stock,0.993,178827300.0,3670908,Health Care
-DERM,Journey Medical Corporation Common Stock,6.31,178095932.0,156944,Health Care
-ALXO,ALX Oncology Holdings Inc. Common Stock,1.25,172846246.0,1224928,Health Care
-CNTN,Canton Strategic Holdings Inc. Common Stock,2.11,168127672.0,726161,Health Care
-ANTX,AN2 Therapeutics Inc. Common Stock,4.4,166039443.0,442136,Health Care
-ORGO,Organogenesis Holdings Inc. Class A Common Stock,1.29,165990167.0,402076,Health Care
-CHRS,Coherus Oncology Inc. Common Stock,1.07,165316034.0,1697107,Health Care
-INGN,Inogen Inc Common Stock,6.18,164006923.0,243913,Health Care
-TARA,Protara Therapeutics Inc.  Common Stock,2.755,162808069.0,1037311,Health Care
-STIM,Neuronetics Inc. Common Stock,2.13,162300083.0,581294,Health Care
-NKTX,Nkarta Inc. Common Stock,2.25,161155780.0,904877,Health Care
-HSDT,Solana Company Class A Common Stock (DE),2.39,154939061.0,597123,Health Care
-ABOS,Acumen Pharmaceuticals Inc. Common Stock,2.14,154758990.0,357550,Health Care
-NAKA,Nakamoto Inc. Common Stock,8.54,152822813.0,200093,Health Care
-NERV,Minerva Neurosciences Inc Common Stock,3.18,151837238.0,192502,Health Care
-VYGR,Voyager Therapeutics Inc. Common Stock,2.45,150963973.0,694402,Health Care
-KRRO,Korro Bio Inc. Common Stock,10.16,149612563.0,133519,Health Care
-OTLK,Outlook Therapeutics Inc. Common Stock,0.5989,145800740.0,3685046,Health Care
-RNA,Atrium Therapeutics Inc. Common Stock,8.4,143687401.0,208360,Health Care
-AVXL,Anavex Life Sciences Corp. Common Stock,1.49,138118295.0,1286349,Health Care
-KRMD,KORU Medical Systems Inc. Common Stock (DE),2.96,136668830.0,202654,Health Care
-AGPU,Axe Compute Inc. Common Stock,11.68,135384328.0,143383,Health Care
-ARMP,Armata Pharmaceuticals Inc. Common Stock,3.63,134970584.0,100589,Health Care
-TNYA,Tenaya Therapeutics Inc. Common Stock,0.5803,130120676.0,4304201,Health Care
-LUCD,Lucid Diagnostics Inc. Common Stock,0.638,129669653.0,1947151,Health Care
-LFMD,LifeMD Inc. Common Stock,2.63,126768201.0,620373,Health Care
-SPRB,Spruce Biosciences Inc. Common Stock,44.05,126600273.0,83773,Health Care
-TNXP,Tonix Pharmaceuticals Holding Corp. Common Stock,7.3,125202475.0,963612,Health Care
-HURA,TuHURA Biosciences Inc. Common Stock,1.96,124904169.0,148984,Health Care
-NRXP,NRX Pharmaceuticals Inc. Common Stock,2.85,123392936.0,289415,Health Care
-VTVT,vTv Therapeutics Inc. Class A Common Stock,31.18,123283475.0,12837,Health Care
-INO,Inovio Pharmaceuticals Inc. Common Stock,1.15,118907146.0,2892893,Health Care
-FHTX,Foghorn Therapeutics Inc. Common Stock,2.0,118770630.0,646960,Health Care
-AIRS,AirSculpt Technologies Inc. Common Stock,1.62,116794239.0,1016182,Health Care
-COYA,Coya Therapeutics Inc. Common Stock,4.95,116116353.0,151835,Health Care
-GNLX,Genelux Corporation Common Stock,2.56,115828058.0,154655,Health Care
-PMVP,PMV Pharmaceuticals Inc. Common Stock,1.52,114783457.0,891744,Health Care
-LENZ,LENZ Therapeutics Inc. Common Stock,3.645,114527150.0,625772,Health Care
-UNCY,Unicycive Therapeutics Inc. Common Stock,4.11,114485106.0,551396,Health Care
-VANI,Vivani Medical Inc. Common Stock (DE),1.25,112754195.0,101933,Health Care
-HUMA,Humacyte Inc. Common Stock,0.4053,112591572.0,8597717,Health Care
-IMUX,Immunic Inc. Common Stock,8.19,111748185.0,512201,Health Care
-RANI,Rani Therapeutics Holdings Inc. Class A Common Stock,0.799,111376860.0,235942,Health Care
-STXS,Stereotaxis Inc. Common Stock,1.11,111224418.0,419477,Health Care
-IMDX,Insight Molecular Diagnostics Inc. Common Stock,3.37,110280837.0,156363,Health Care
-CNXU,Conexeu Sciences Inc. Common Stock,3.89,109724055.0,428032,Health Care
-APYX,Apyx Medical Corporation Common Stock,2.59,109101220.0,107414,Health Care
-CPIX,Cumberland Pharmaceuticals Inc. Common Stock,7.03,105331242.0,30403,Health Care
-BDTX,Black Diamond Therapeutics Inc. Common Stock,1.83,105140357.0,448976,Health Care
-MXCT,MaxCyte Inc. Common Stock,1.01,104238268.0,240007,Health Care
-AARD,Aardvark Therapeutics Inc. Common Stock,4.76,104171867.0,140873,Health Care
-CRBP,Corbus Pharmaceuticals Holdings Inc. Common Stock,5.38,104056156.0,872830,Health Care
-BMEA,Biomea Fusion Inc. Common Stock,1.42,102927070.0,1170646,Health Care
-ANIX,Anixa Biosciences Inc. Common Stock,2.9,100815026.0,217886,Health Care
-PDSB,PDS Biotechnology Corporation Common Stock,1.38,100014407.0,16062068,Health Care
-PLYX,Polaryx Therapeutics Inc. Common Stock,2.0,99691986.0,10957,Health Care
-LAKE,Lakeland Industries Inc. Common Stock,9.955,98866549.0,63001,Health Care
-HYPR,Hyperfine Inc. Class A Common Stock,0.9307,98699496.0,1981666,Health Care
-OKUR,OnKure Therapeutics Inc. Class A Common Stock,2.41,97596105.0,609367,Health Care
-PARK,Park Dental Partners Inc. Common Stock,20.25,96294461.0,4597,Health Care
-ATRA,Atara Biotherapeutics Inc. Common Stock,9.48,95157491.0,22155,Health Care
-RLYB,Rallybio Corporation Common Stock,17.02,90384693.0,6947,Health Care
-EQ,Equillium Inc. Common Stock,1.41,89405396.0,522001,Health Care
-NMRA,Neumora Therapeutics Inc. Common Stock,0.4757,89382085.0,789442,Health Care
-ICCC,ImmuCell Corporation Common Stock,9.8,89005531.0,1864,Health Care
-ISPR,Ispire Technology Inc. Common Stock,1.52,87786796.0,21589,Health Care
-ECOR,electroCore Inc. Common Stock,9.66,87093449.0,44573,Health Care
-NRXS,Neuraxis Inc. Common Stock,6.93,87025311.0,56743,Health Care
-FTLF,FitLife Brands Inc. Common Stock,9.21,86491773.0,14555,Health Care
-CRDF,Cardiff Oncology Inc. Common Stock,1.08,84018869.0,298122,Health Care
-CGTX,Cognition Therapeutics Inc. Common Stock,0.8769,83387706.0,316956,Health Care
-RFL,Rafael Holdings Inc. Class B Common Stock,1.6,83199994.0,93929,Health Care
-RTSN,Retension Pharmaceuticals Inc. Common Stock,10.53,82993237.0,789212,Health Care
-NTHI,NeOnc Technologies Holdings Inc. Common Stock,2.78,82749744.0,165864,Health Care
-TELO,Telomir Pharmaceuticals Inc. Common Stock,1.12,82452447.0,64654,Health Care
-ACRV,Acrivon Therapeutics Inc. Common Stock,1.91,81849921.0,192048,Health Care
-NTRB,Nutriband Inc. Common Stock,6.65,80835292.0,45152,Health Care
-SERA,Sera Prognostics Inc. Class A Common Stock,2.04,80476911.0,6298,Health Care
-SDEV,Stablecoin Development Corporation Common Stock,1.54,79697093.0,15792549,Health Care
-LUNG,Pulmonx Corporation Common Stock,1.84,79024815.0,204439,Health Care
-SKYA,SkyAI Inc. Common Stock,1.82,78710461.0,268427,Health Care
-LNSR,LENSAR Inc. Common Stock,6.37,78260960.0,15334,Health Care
-CTOR,Citius Oncology Inc. Common Stock,0.8398,78085615.0,71049,Health Care
-HRTX,Heron Therapeutics Inc. Common Stock,0.4061,77099022.0,3496952,Health Care
-OM,Outset Medical Inc. Common Stock,4.05,76128514.0,73225,Health Care
-LFVN,Lifevantage Corporation Common Stock (Delaware),6.0,75536664.0,23165,Health Care
-MNOV,Medicinova Inc Common Stock,1.52,74816294.0,69905,Health Care
-NMAD,Nomad Power Solutions Inc. Common Stock,4.53,72937838.0,165496,Health Care
-SKIN,SkinHealth Systems Inc. Class A Common Stock,0.55,71577420.0,509039,Health Care
-GANX,Gain Therapeutics Inc. Common Stock,1.64,71575535.0,328695,Health Care
-FBIO,Fortress Biotech Inc. Common Stock,2.135,71204370.0,186216,Health Care
-CING,Cingulate Inc. Common Stock,4.89,71109529.0,27848,Health Care
-VRCA,Verrica Pharmaceuticals Inc. Common Stock,4.11,70604810.0,46559,Health Care
-TENX,Tenax Therapeutics Inc. Common Stock,1.87,69982725.0,2345216,Health Care
-SPRO,Spero Therapeutics Inc. Common Stock,1.2,69881792.0,439179,Health Care
-XBIT,XBiotech Inc. Common Stock,2.29,69816904.0,88036,Health Care
-GRML,Greenland Mines Ltd. Common Stock,5.17,69004672.0,3682047,Health Care
-RNTX,Rein Therapeutics Inc. Common Stock,0.794,68496023.0,307536,Health Care
-CSBR,Champions Oncology Inc. Common Stock,4.84,67365874.0,1868,Health Care
-ESYN,EnerSyn Global Inc. Common Stock,2.16,64209024.0,20785,Health Care
-PLRX,Pliant Therapeutics Inc. Common Stock,1.02,63160335.0,288531,Health Care
-APLM,Apollomics Inc. Class A Ordinary Shares,21.5,62265140.0,8798,Health Care
-DXR,Daxor Corporation Common Stock,10.41,60775912.0,7461,Health Care
-XLO,Xilio Therapeutics Inc. Common Stock,9.05,59550348.0,5532,Health Care
-GUTS,Fractyl Health Inc. Common Stock,4.42,58631243.0,198321,Health Care
-BOLD,Boundless Bio Inc. Common Stock,2.53,58465606.0,166795,Health Care
-RNXT,RenovoRx Inc. Common Stock,1.28,57765770.0,798792,Health Care
-GOSS,Gossamer Bio Inc. Common Stock,9.31,56943600.0,291042,Health Care
-OABIW,OmniAb Inc. Warrant,0.39,56702255.0,2,Health Care
-MYO,Myomo Inc. Common Stock,1.43,56639231.0,101620,Health Care
-KLRS,Kalaris Therapeutics Inc. Common Stock,2.36,56179755.0,104428,Health Care
-TLPH,Talphera Inc. Common Stock,1.08,56058260.0,64656,Health Care
-IBIO,iBio Inc. Common Stock,0.871,56011620.0,1646580,Health Care
-ELOX,Eloxx Pharmaceuticals Inc. Common Stock,13.74,55460947.0,31318,Health Care
-ALDX,Aldeyra Therapeutics Inc. Common Stock,0.9163,55277100.0,699280,Health Care
-CLNN,Clene Inc. Common Stock,3.86,54865967.0,48136,Health Care
-INKT,MiNK Therapeutics Inc. Common Stock,10.72,54704181.0,17069,Health Care
-LONA,LeonaBio Inc. Common Stock,5.75,54174562.0,66691,Health Care
-MDAI,Spectral AI Inc. Class A Common Stock,1.65,53105131.0,154083,Health Care
-ACET,Adicet Bio Inc. Common Stock,5.61,52517959.0,189841,Health Care
-HYPD,Hyperion DeFi Inc. Common Stock,3.4,52504439.0,217189,Health Care
-INMB,INmune Bio Inc. Common stock,1.89,52454661.0,91634,Health Care
-ANVS,Annovis Bio Inc. Common Stock,1.21,51641661.0,521909,Health Care
-SER,Serina Therapeutics Inc. Common Stock,2.0,50800946.0,22354,Health Care
-COCH,Envoy Medical Inc. Class A Common Stock,0.6578,50778605.0,34806,Health Care
-CELU,Celularity Inc. Class A Common Stock,1.56,50621637.0,53200,Health Care
-POCI,Precision Optics Corporation Inc. Common stock,4.58,50255387.0,14982,Health Care
-TELA,TELA Bio Inc. Common Stock,1.11,50109185.0,108701,Health Care
-ELTX,Elicio Therapeutics Inc. Common Stock,1.89,49672757.0,306197,Health Care
-CRBU,Caribou Biosciences Inc. Common Stock,0.4602,49336897.0,9738242,Health Care
-EXOZ,eXoZymes Inc. Common Stock,5.25,48849680.0,1026,Health Care
-CRVO,CervoMed Inc. Common Stock,3.22,48683489.0,237342,Health Care
-SRTS,Sensus Healthcare Inc. Common Stock,2.95,48563074.0,13230,Health Care
-SNWV,SANUWAVE Health Inc. Common Stock,5.62,48344977.0,23442,Health Care
-IMA,ImageneBio Inc. Common Stock,4.24,48130173.0,8122,Health Care
-HOWL,Werewolf Therapeutics Inc. Common Stock,0.9796,47607645.0,704631,Health Care
-DWTX,Dogwood Therapeutics Inc. Common Stock,1.4,47589574.0,66323,Health Care
-EDSA,Edesa Biotech Inc. Common Shares,3.51,47398068.0,36479,Health Care
-BSEM,BioStem Technologies Inc. Common Stock,2.47,46120149.0,66220,Health Care
-XTNT,Xtant Medical Holdings Inc. Common Stock,0.326,45733875.0,79472,Health Care
-TIL,Instil Bio Inc. Common Stock,6.74,45710518.0,37627,Health Care
-TVGN,Tevogen Inc. Common Stock,6.78,44148241.0,2752,Health Care
-YDESW,YD Bio Limited Warrants,0.5999,42491724.0,5418,Health Care
-CVRX,CVRx Inc. Common Stock,1.58,42093723.0,398668,Health Care
-VERU,Veru Inc. Common Stock,2.46,41943787.0,128923,Health Care
-BTMD,Biote Corp. Class A Common Stock,1.15,41316588.0,45580,Health Care
-SCYX,SCYNEXIS Inc. Common Stock,4.08,40594405.0,120102,Health Care
-FLNA,Filana Therapeutics Inc. Common Stock,0.8168,39457889.0,408514,Health Care
-QTI,QT Imaging Holdings Inc. Common Stock,2.68,39225884.0,178959,Health Care
-SBCWW,SBC Medical Group Holdings Incorporated Warrants,0.38,39081838.0,200,Health Care
-LITS,Lite Strategy Inc. Common Stock,1.27,38617230.0,539931,Health Care
-NEPH,Nephros Inc. Common Stock,3.53,38336224.0,35806,Health Care
-MGX,Metagenomi Therapeutics Inc. Common Stock,1.0,37777105.0,147178,Health Care
-JAGX,Jaguar Health Inc. Common Stock,4.79,37372069.0,1091050,Health Care
-ELUT,Elutia Inc. Class A Common Stock,0.8231,36454465.0,19976,Health Care
-PIII,P3 Health Partners Inc. Class A Common Stock,4.95,35941861.0,10074,Health Care
-GRDX,GridAI Technologies Corp. Common Stock,4.97,35441681.0,100692,Health Care
-CCEL,Cryo-Cell International Inc. Common Stock,4.36,35153154.0,5473,Health Care
-ATNM,Actinium Pharmaceuticals Inc. (Delaware) Common Stock,1.1,34585580.0,105768,Health Care
-CVM,Cel-Sci Corporation Common Stock,1.94,34122635.0,255471,Health Care
-COSM,Cosmos Health Inc. Common Stock,0.3359,33802884.0,2177151,Health Care
-DCGO,DocGo Inc. Common Stock,0.3382,33457574.0,196977,Health Care
-ALGS,Aligos Therapeutics Inc. Common Stock,5.34,33345940.0,9063,Health Care
-NNVC,NanoViricides Inc. Common Stock,1.3,33182500.0,169633,Health Care
-ACH,Accendra Health Inc. Common Stock,0.428,32915213.0,681122,Health Care
-NXTC,NextCure Inc. Common Stock,7.18,32865438.0,85751,Health Care
-RMTI,Rockwell Medical Inc. Common Stock,7.89,31800369.0,8002,Health Care
-MLSS,Milestone Scientific Inc. Common Stock,0.35,31725541.0,57694,Health Care
-RNAZ,TransCode Therapeutics Inc. Common Stock,1.86,31491175.0,84082,Health Care
-MIRA,MIRA Pharmaceuticals Inc. Common Stock,0.7455,31327466.0,52432,Health Care
-IGC,IGC Pharma Inc. Common Stock,0.2799,28937184.0,232253,Health Care
-CNTX,Context Therapeutics Inc. Common Stock,0.3042,27949646.0,588719,Health Care
-ARAY,Accuray Incorporated Common Stock,0.2297,27435209.0,1729174,Health Care
-MCRB,Seres Therapeutics Inc. Common Stock,2.71,27221357.0,79415,Health Care
-BEAT,Heartbeam Inc. Common Stock,0.4802,27058872.0,1513179,Health Care
-ABVC,ABVC BioPharma Inc. Common Stock,1.0,26694476.0,41466,Health Care
-MODD,Modular Medical Inc. Common Stock,2.72,25828639.0,43356,Health Care
-SHPH,Shuttle Pharmaceuticals Holdings Inc. Common Stock,5.33,25395830.0,29455,Health Care
-BYSI,BeyondSpring Inc. Ordinary Shares,0.6056,24902163.0,58926,Health Care
-SCLX,Scilex Holding Company Common Stock,2.92,24799560.0,49728,Health Care
-KYNB,Kyntra Bio Inc. Common Stock,6.11,24740148.0,6571,Health Care
-ATOS,Atossa Therapeutics Inc. Common Stock,2.44,24349487.0,265616,Health Care
-ATYR,aTyr Pharma Inc. Common Stock,0.2462,24149124.0,1000622,Health Care
-TXMD,TherapeuticsMD Inc. Common Stock,2.06,23843186.0,10059,Health Care
-PAVM,PAVmed Inc. Common Stock,2.79,22308611.0,12151,Health Care
-AYTU,Aytu BioPharma Inc.  Common Stock,2.025,22005084.0,10530,Health Care
-BBLGW,Bone Biologics Corp Warrants,7.7,21221639.0,13394,Health Care
-COCP,Cocrystal Pharma Inc. Common Stock,1.07,20611624.0,4039,Health Care
-RVP,Retractable Technologies Inc. Common Stock,0.6632,19854324.0,14576,Health Care
-ICU,SeaStar Medical Holding Corporation Common Stock,3.61,18991643.0,105245,Health Care
-JSPR,Jasper Therapeutics Inc. Common Stock,0.5702,18973155.0,261898,Health Care
-NEUP,Neuphoria Therapeutics Inc. Common Stock,3.36,18182082.0,2516,Health Care
-ESLA,Estrella Immunopharma Inc. Common Stock,0.41,17834124.0,19847380,Health Care
-DYAI,Dyadic International Inc. Common Stock,0.4441,17792291.0,12974,Health Care
-FEMY,Femasys Inc. Common Stock,2.0,16750054.0,128506,Health Care
-MRKR,Marker Therapeutics Inc. Common Stock,0.9716,16199610.0,91224,Health Care
-RKTO,Rocket One Inc. Common Stock,0.6493,16165999.0,111261,Health Care
-MDAIW,Spectral AI Inc. Warrants,0.49,15770615.0,7421,Health Care
-ALLR,Allarity Therapeutics Inc. Common Stock,0.99,15751617.0,97229,Health Care
-BCDA,BioCardia Inc. Common Stock,1.04,15744333.0,101926,Health Care
-IRIX,IRIDEX Corporation Common Stock,0.89,15632772.0,203195,Health Care
-KTTA,Pasithea Therapeutics Corp. Common Stock,0.4675,15621254.0,60594,Health Care
-HSCS,HeartSciences Inc. Common Stock,3.18,15403634.0,109302,Health Care
-PTN,Palatin Technologies Inc. Common Stock,8.6,15316075.0,31446,Health Care
-DARE,Dare Bioscience Inc. Common Stock,0.7734,15212069.0,70040,Health Care
-MTEX,Mannatech Incorporated Common Stock,7.86,15167206.0,59561,Health Care
-TCRX,TScan Therapeutics Inc. Common Stock,0.238,15113635.0,873348,Health Care
-HIND,Vyome Holdings Inc. Common Stock,2.09,14668724.0,7590,Health Care
-ACTU,Actuate Therapeutics Inc. Common stock,0.6102,14653466.0,301208,Health Care
-CNSY,Cerenome Inc. Common Stock ,1.93,14647976.0,152170,Health Care
-BFRI,Biofrontera Inc. Common Stock,0.97,14406788.0,275252,Health Care
-LPCN,Lipocine Inc. Common Stock,1.72,14180115.0,1056711,Health Care
-SINT,SiNtx Technologies Inc. Common Stock,2.11,14062167.0,140603,Health Care
-GTBP,GT Biopharma Inc. Common Stock,6.68,13767827.0,43392,Health Care
-AEON,AEON Biopharma Inc. Class A Common Stock,0.276,13767650.0,1627975,Health Care
-TVRD,Tvardi Therapeutics Inc. Common Stock,1.03,13739111.0,130299,Health Care
-KPTI,Karyopharm Therapeutics Inc. Common Stock,0.605,13722283.0,963124,Health Care
-CTXR,Citius Pharmaceuticals Inc. Common Stock,0.4994,13709813.0,144278,Health Care
-CLRB,Cellectar Biosciences Inc.  Common Stock,1.45,13705557.0,91485,Health Care
-INAB,IN8bio Inc. Common Stock,1.34,13210233.0,13055,Health Care
-TPST,Tempest Therapeutics Inc. Common Stock,0.7601,12571877.0,182668,Health Care
-LTRN,Lantern Pharma Inc. Common Stock,0.8127,12138143.0,274886,Health Care
-BIVI,BioVie Inc. Class A Common Stock,1.39,12068967.0,204864,Health Care
-BFRG,Bullfrog AI Holdings Inc. Common Stock,0.646,11977907.0,584368,Health Care
-CTSO,Cytosorbents Corporation Common Stock,3.79,11942673.0,6244,Health Care
-PASG,Passage Bio Inc. Common Stock,3.69,11873719.0,12111,Health Care
-INTS,Intensity Therapeutics Inc. Common stock,3.63,11851511.0,16728,Health Care
-ASBP,Aspire-Lakewood Holdings Inc. Common Stock,8.3,11641223.0,34182,Health Care
-LSTA,Lisata Therapeutics Inc. Common Stock,1.06,11452310.0,280234,Health Care
-PHIO,Phio Pharmaceuticals Corp. Common Stock,0.9788,11370964.0,43356,Health Care
-KPRX,Kiora Pharmaceuticals Inc.  Common Stock,2.54,11237943.0,4488,Health Care
-VTGN,Vistagen Therapeutics Inc. Common Stock,0.2361,10477389.0,404870,Health Care
-ENSC,Ensysce Biosciences Inc. Common Stock,0.527,10253730.0,2677179,Health Care
-ADIL,Adial Pharmaceuticals Inc Common Stock,3.9,10240971.0,3049,Health Care
-NMTC,NeuroOne Medical Technologies Corporation Common Stock,1.12,10198455.0,80153,Health Care
-TOVX,Theriva Biologics Inc. Common Stock,0.217,9958709.0,488341,Health Care
-SNTI,Senti Biosciences Holdings Inc. Common Stock,0.3144,9791911.0,114029,Health Care
-AEMD,Aethlon Medical Inc. Common Stock,6.05,9704775.0,15191,Health Care
-MTVA,MetaVia Inc. Common Stock,1.41,9289222.0,51052,Health Care
-TNON,Tenon Medical Inc. Common Stock,3.41,9168586.0,133900,Health Care
-MGRX,Mangoceuticals Inc. Common Stock,0.422,9101452.0,434057,Health Care
-MBRX,Moleculin Biotech Inc. Common Stock,0.442,9010515.0,342543,Health Care
-AMS,American Shared Hospital Services Common Stock,1.32,8778000.0,21045,Health Care
-CALC,CalciMedica Inc. Common Stock,1.27,8671931.0,82152,Health Care
-BMRA,Biomerica Inc. Common Stock,1.8352,8440026.0,10303,Health Care
-MEDS,DataMeds AI Inc. Common Stock,2.96,8387261.0,482227,Health Care
-CURX,Curanex Pharmaceuticals Inc Common Stock,5.31,8327360.0,17099,Health Care
-NDRA,ENDRA Life Sciences Inc. Common Stock,5.46,8189520.0,23069,Health Care
-BOLT,Bolt Biotherapeutics Inc. Common Stock,4.11,7917278.0,87222,Health Care
-SNGX,Soligenix Inc. Common Stock,0.3636,7913928.0,114527,Health Care
-LGVN,Longeveron Inc. Class A Common Stock,2.48,7906734.0,58461,Health Care
-LUCY,Innovative Eyewear Inc. Common Stock,0.9031,7868045.0,74052,Health Care
-CODX,Co-Diagnostics Inc. Common Stock,1.12,7851534.0,111454,Health Care
-CNSP,CNS Pharmaceuticals Inc. Common Stock,5.35,7818752.0,1166,Health Care
-FBLG,FibroBiologics Inc. Common Stock,1.13,7665008.0,182314,Health Care
-APRE,Aprea Therapeutics Inc. Common stock,0.6044,7610083.0,70588,Health Care
-SKYE,Skye Bioscience Inc. Common Stock,1.69,7482774.0,18674,Health Care
-NAII,Natural Alternatives International Inc. Common Stock,1.14,7141926.0,94387,Health Care
-ACXP,Acurx Pharmaceuticals Inc. Common Stock,1.27,7060444.0,41149,Health Care
-XCUR,Exicure Inc. Common Stock,1.05,6873295.0,316534,Health Care
-TRAW,Traws Pharma Inc. Common Stock,0.4452,6841957.0,689939,Health Care
-ACON,Aclarion Inc. Common Stock,2.34,6744748.0,7303,Health Care
-ENVB,Enveric Biosciences Inc. Common Stock,1.45,6490032.0,50248,Health Care
-ALZN,Alzamend Neuro Inc. Common Stock,1.34,6466469.0,13307,Health Care
-CELZ,Creative Medical Technology Holdings Inc. Common Stock,0.8385,6366359.0,149371,Health Care
-SCNX,Scienture Holdings Inc. Common Stock,3.76,6176048.0,32881,Health Care
-AMIX,Autonomix Medical Inc. Common Stock,3.11,6095407.0,34192,Health Care
-NVNO,enVVeno Medical Corporation Common Stock,8.75,6079728.0,36542,Health Care
-IMNN,Imunon Inc. Common Stock,1.08,6060315.0,238865,Health Care
-GRMLW,Greenland Mines Ltd Warrant,0.45,6006209.0,283142,Health Care
-SNOA,Sonoma Pharmaceuticals Inc. Common Stock,1.23,5889763.0,49452,Health Care
-KALA,KALA BIO Inc. Common Stock,0.2939,5683963.0,285512,Health Care
-BGMS,Bio Green Med Solution Inc. Common Stock,0.849,5622752.0,23853,Health Care
-LNAI,Lunai Bioworks Inc. Common Stock,1.23,5576685.0,858891,Health Care
-CDIO,Cardio Diagnostics Holdings Inc. Common stock,1.87,5534207.0,16467,Health Care
-BIAF,bioAffinity Technologies Inc. Common Stock,4.725,5512303.0,657451,Health Care
-PULM,Pulmatrix Inc. Common Stock,1.46,5332336.0,4403,Health Care
-QCLS,Q/C Technologies Inc. Common Stock,0.63,5159598.0,134203,Health Care
-INBS,Intelligent Bio Solutions Inc. Common Stock,1.53,5074709.0,15092,Health Care
-DRMA,Dermata Therapeutics Inc. Common Stock,1.02,5054311.0,22518,Health Care
-LIMN,Liminatus Pharma Inc. Class A Common Stock,3.76,5050462.0,16868,Health Care
-VVOS,Vivos Therapeutics Inc. Common Stock,0.1489,5004439.0,8832207,Health Care
-XBIO,Xenetic Biosciences Inc. Common Stock,2.13,4990976.0,10233,Health Care
-AIDX,20/20 Biolabs Inc. Common Stock,0.375,4788864.0,65826,Health Care
-PMCB,PharmaCyte  Biotech Inc. Common Stock,0.4044,4341496.0,93500,Health Care
-PCSA,Processa Pharmaceuticals Inc. Common Stock,1.52,4245947.0,2972246,Health Care
-VBIO,Valion Bio Inc. Common Stock,2.14,4168256.0,140578,Health Care
-ERNA,Ernexa Therapeutics Inc. Common Stock,2.4,3917786.0,46605,Health Care
-NXL,Nexalin Technology Inc. Common Stock,3.63,3806153.0,68296,Health Care
-GRI,GRI Bio Inc. Common Stock,1.74,3803840.0,21340,Health Care
-JUNS,Jupiter Neurosciences Inc. Common Stock,2.85,3757785.0,7047,Health Care
-BJDX,Bluejay Diagnostics Inc. Common Stock,0.8239,3681227.0,95433,Health Care
-HCWB,HCW Biologics Inc. Common Stock,1.6,3578118.0,79980,Health Care
-ADGM,Adagio Medical Holdings Inc Common Stock,0.13,3534613.0,690433,Health Care
-DCOY,Decoy Therapeutics Inc. Common Stock,1.47,3506365.0,43781,Health Care
-SXTP,60 Degrees Pharmaceuticals Inc. Common Stock,0.9654,3395300.0,42062,Health Care
-IVF,INVO Fertility Inc. Common Stock,0.7275,3347492.0,89620,Health Care
-ONCO,Onconetix Inc. Common Stock,0.62,3249721.0,1069089,Health Care
-CVKD,Cadrenal Therapeutics Inc. Common Stock,0.9101,3246865.0,83753,Health Care
-APVO,Aptevo Therapeutics Inc. Common Stock,1.79,3225526.0,6824,Health Care
-MBIO,Mustang Bio Inc. Common Stock,0.4001,3031760.0,99186,Health Care
-REVB,Revelation Biosciences Inc. Common Stock,0.7599,3026998.0,24800,Health Care
-STLNW,Starling Oncology Inc. Warrant,0.0297,3026909.0,22484,Health Care
-VIVS,VivoSim Labs Inc. Common Stock,0.1801,2987228.0,334517,Health Care
-ISPC,iSpecimen Inc. Common Stock,1.13,2846007.0,72022,Health Care
-GOVX,GeoVax Labs Inc. Common Stock,0.281,2838907.0,235098,Health Care
-MTNB,Matinas Biopharma Holdings Inc. Common Stock,2.87,2811222.0,40303,Health Care
-BRTX,BioRestorative Therapies Inc. Common Stock (NV),1.91,2637954.0,18447,Health Care
-BFRGW,Bullfrog AI Holdings Inc. Warrants,0.1399,2593977.0,17229,Health Care
-SILO,Silo Pharma Inc. Common Stock,1.47,2577278.0,16981,Health Care
-BIVIW,BioVie Inc. Warrant,0.2899,2517118.0,2363,Health Care
-NUWE,Nuwellis Inc. Common Stock,0.689,2512965.0,153919,Health Care
-ELAB,PMGC Holdings Inc. Common Stock,3.08,2493503.0,4069,Health Care
-ESLAW,Estrella Immunopharma Inc. Warrant,0.0526,2287988.0,83,Health Care
-GNPX,Genprex Inc. Common Stock,2.72,2229608.0,202276,Health Care
-XAIR,Beyond Air Inc. Common Stock,2.25,2154670.0,65396,Health Care
-OGEN,Oragenics Inc. Common Stock,0.456,2057452.0,28219,Health Care
-TCRT,Alaunos Therapeutics Inc. Common Stock,0.7858,2001170.0,53813,Health Care
-NXGL,NexGel Inc Common Stock,0.2003,1952457.0,10495552,Health Care
-LABT,Lakewood-Amedex Biotherapeutics Inc. Common Stock,0.7822,1853570.0,118136,Health Care
-ARTL,Artelo Biosciences Inc. Common Stock,3.26,1785743.0,45741,Health Care
-CRIS,Curis Inc. Common Stock,0.6712,1402860.0,95927,Health Care
-BBLG,Bone Biologics Corp Common Stock,0.4671,1287354.0,36817,Health Care
-GCTK,GlucoTrack Inc. Common Stock,1.03,874088.0,236603,Health Care
-PFSA,Profusa Inc. Common Stock,1.42,860019.0,235571,Health Care
-SABSW,SAB Biotherapeutics Inc. Warrant,0.0092,837075.0,22654,Health Care
-CDT,CDT Equity Inc. Common Stock,0.718,807402.0,471686,Health Care
-BEATW,Heartbeam Inc. Warrant,0.0133,749444.0,24152,Health Care
-BIAFW,bioAffinity Technologies Inc. Warrant,0.5671,661593.0,270,Health Care
-SCLXW,Scilex Holding Company Warrant,0.0725,615743.0,5273,Health Care
-XXII,22nd Century Group Inc. Common Stock,0.8116,579478.0,61760,Health Care
-TVGNW,Tevogen Inc. Warrant,0.0697,453854.0,316963,Health Care
-HSCSW,HeartSciences Inc. Warrant,0.0681,329870.0,906,Health Care
-NXGLW,NexGel Inc Warrant,0.009,87729.0,6,Health Care
-SXTPW,60 Degrees Pharmaceuticals Inc. Warrant,0.0246,86518.0,3,Health Care
-BFRIW,Biofrontera Inc. Warrants,0.0056,83173.0,5290,Health Care
-ICUCW,SeaStar Medical Holding Corporation Warrant,0.0152,79965.0,11047,Health Care
-ACONW,Aclarion Inc. Warrant,0.0211,60818.0,12,Health Care
-PIIIW,P3 Health Partners Inc. Warrant,0.007,50827.0,71841,Health Care
-ERNAW,Ernexa Therapeutics Inc. Warrants,0.0252,41137.0,51938,Health Care
-CDIOW,Cardio Diagnostics Holdings Inc Warrant,0.01,29595.0,101301,Health Care
-TNONW,Tenon Medical Inc. Warrant,0.006,16132.0,1263,Health Care
-CDTTW,CDT Equity Inc. Warrant,0.0116,13044.0,2430,Health Care
-BLUWU,Blue Water Acquisition Corp. III Unit.,10.5,0.0,1,Health Care
-EMIS,Emmis Acquisition Corp. Class A Ordinary Shares,10.27,0.0,6,Health Care
-BKHA,Black Hawk Acquisition Corporation Class A Ordinary Shares,11.53,0.0,1974,Health Care
-BKHAR,Black Hawk Acquisition Corporation Rights,1.56,0.0,6693,Health Care
-MMEDV,MiniMed Group Inc. Common Stock When Issued,19.5,0.0,262,Health Care
+LLY,Eli Lilly and Company Common Stock,1182.62,1113267692210.0,1252705,Health Care
+JNJ,Johnson & Johnson Common Stock,263.73,635562556987.0,5905037,Health Care
+ABBV,AbbVie Inc. Common Stock,281.12,496772011159.0,5594350,Health Care
+MRK,Merck & Company Inc. Common Stock (new),145.45,358850114747.0,8019261,Health Care
+UNH,UnitedHealth Group Incorporated Common Stock (DE),378.52,339757601486.0,5910804,Health Care
+PM,Philip Morris International Inc Common Stock,202.0,314839914678.0,3531060,Health Care
+AMGN,Amgen Inc. Common Stock,417.57,225751706328.0,1720684,Health Care
+GILD,Gilead Sciences Inc. Common Stock,150.43,186526453967.0,5792192,Health Care
+ABT,Abbott Laboratories Common Stock,101.82,176187627199.0,7147046,Health Care
+PFE,Pfizer Inc. Common Stock,28.4,161870729928.0,18555643,Health Care
+ISRG,Intuitive Surgical Inc. Common Stock,427.64,151075820170.0,1619158,Health Care
+VRTX,Vertex Pharmaceuticals Incorporated Common Stock,507.0,128504688468.0,952752,Health Care
+MO,Altria Group Inc.,71.66,119653849737.0,5983140,Health Care
+BMY,Bristol-Myers Squibb Company Common Stock,57.58,117619509892.0,22566697,Health Care
+MDT,Medtronic plc. Ordinary Shares,91.93,117591146228.0,36563738,Health Care
+MCK,McKesson Corporation Common Stock,955.76,111432405341.0,646982,Health Care
+SYK,Stryker Corporation Common Stock,282.6,108397742800.0,1813188,Health Care
+HCA,HCA Healthcare Inc. Common Stock,458.6,99287587900.0,1152039,Health Care
+ELV,Elevance Health Inc. Common Stock,422.09,91538358616.0,869497,Health Care
+MRNA,Moderna Inc. Common Stock,213.74,85332678915.0,12873893,Health Care
+MMM,3M Company Common Stock,160.89,82974579671.0,2416012,Health Care
+REGN,Regeneron Pharmaceuticals Inc. Common Stock,762.81,78535094396.0,618298,Health Care
+CI,The Cigna Group Common Stock,283.34,74869899303.0,970682,Health Care
+BSX,Boston Scientific Corporation Common Stock,43.84,63534222420.0,13599022,Health Care
+COR,Cencora Inc. Common Stock,325.06,62030278255.0,959160,Health Care
+NTRA,Natera Inc. Common Stock,397.77,57336226501.0,935141,Health Care
+CAH,Cardinal Health Inc. Common Stock,238.08,55129648858.0,1234658,Health Care
+HUM,Humana Inc. Common Stock,433.5,52054813518.0,1704356,Health Care
+BDX,Becton Dickinson and Company Common Stock,188.89,51451142652.0,1184424,Health Care
+EW,Edwards Lifesciences Corporation Common Stock,86.39,49795196000.0,3324586,Health Care
+MDLN,Medline Inc. Class A Common Stock,35.76,47013939914.0,4037934,Health Care
+IQV,IQVIA Holdings Inc. Common Stock,262.21,43159766000.0,1085911,Health Care
+ILMN,Illumina Inc. Common Stock,276.67,41777170000.0,1643001,Health Care
+RVMD,Revolution Medicines Inc. Common Stock,193.95,41570548271.0,1667711,Health Care
+IDXX,IDEXX Laboratories Inc. Common Stock,523.94,41276577917.0,552788,Health Care
+BTSGU,BrightSpring Health Services Inc. Tangible Equity Unit,206.66,40890624045.0,713,Health Care
+BIIB,Biogen Inc. Common Stock,229.41,33896244681.0,1462075,Health Care
+RPRX,Royalty Pharma plc Class A Ordinary Shares ,57.78,33223569567.0,2465440,Health Care
+CNC,Centene Corporation Common Stock,67.02,33107544900.0,3508688,Health Care
+RMD,ResMed Inc. Common Stock,234.6,32993966408.0,1051205,Health Care
+DXCM,DexCom Inc. Common Stock,85.92,32422836929.0,2992136,Health Care
+ZTS,Zoetis Inc. Class A Common Stock,75.65,31260365491.0,4089753,Health Care
+GEHC,GE HealthCare Technologies Inc. Common Stock ,67.74,30597226710.0,3752368,Health Care
+ALNY,Alnylam Pharmaceuticals Inc. Common Stock,227.02,30377345968.0,916923,Health Care
+WST,West Pharmaceutical Services Inc. Common Stock,367.6,25870130111.0,357336,Health Care
+DGX,Quest Diagnostics Incorporated Common Stock,232.63,25676154737.0,865526,Health Care
+LH,Labcorp Holdings Inc. Common Stock,315.52,25588672000.0,405581,Health Care
+UTHR,United Therapeutics Corporation Common Stock,550.1,23594169669.0,840974,Health Care
+INCY,Incyte Corp. Common Stock,111.36,22572420995.0,1478833,Health Care
+GH,Guardant Health Inc. Common Stock,162.79,21845794514.0,1556808,Health Care
+THC,Tenet Healthcare Corporation Common Stock,268.76,21640286440.0,510125,Health Care
+INSM,Insmed Incorporated Common Stock,98.56,21523680936.0,1696059,Health Care
+STE,STERIS plc (Ireland) Ordinary Shares,218.98,21350574088.0,726099,Health Care
+VTRS,Viatris Inc. Common Stock,17.54,20146283755.0,7550945,Health Care
+ZBH,Zimmer Biomet Holdings Inc. Common Stock,92.17,17580292795.0,1799268,Health Care
+MEDP,Medpace Holdings Inc. Common Stock,620.05,17306621683.0,176260,Health Care
+EXEL,Exelixis Inc. Common Stock,59.82,14822300815.0,3129193,Health Care
+SOLV,Solventum Corporation Common Stock,85.31,14521786321.0,1454939,Health Care
+CRL,Charles River Laboratories International Inc. Common Stock,301.86,14410455902.0,543908,Health Care
+ULS,UL Solutions Inc. Class A Common Stock,71.18,14371111954.0,708632,Health Care
+NBIX,Neurocrine Biosciences Inc. Common Stock,141.37,14370144718.0,1092724,Health Care
+SMMT,Summit Therapeutics Inc. Common Stock ,17.13,13699313540.0,4376013,Health Care
+CORT,Corcept Therapeutics Incorporated Common Stock,121.19,13100444732.0,497948,Health Care
+BBIO,BridgeBio Pharma Inc. Common Stock,65.75,12853301416.0,1778999,Health Care
+BAX,Baxter International Inc. Common Stock,24.78,12811160855.0,5234580,Health Care
+PEN,Penumbra Inc. Common Stock,320.96,12642428885.0,277243,Health Care
+HALO,Halozyme Therapeutics Inc. Common Stock,111.08,12607357840.0,1660475,Health Care
+BTSG,BrightSpring Health Services Inc. Common Stock,63.01,12467425825.0,1518664,Health Care
+EHC,Encompass Health Corporation Common Stock,124.42,12274454037.0,1061386,Health Care
+DVA,DaVita Inc. Common Stock,181.78,11597564000.0,586377,Health Care
+TECH,Bio-Techne Corp Common Stock,72.56,11378731349.0,2419717,Health Care
+ELAN,Elanco Animal Health Incorporated Common Stock,22.56,11271468485.0,4653004,Health Care
+PCVX,Vaxcyte Inc. Common Stock,70.65,11119578984.0,2427843,Health Care
+MDGL,Madrigal Pharmaceuticals Inc. Common Stock,467.16,10793323502.0,469347,Health Care
+IBRX,ImmunityBio Inc. Common Stock,10.12,10725543083.0,11057252,Health Care
+BMRN,BioMarin Pharmaceutical Inc. Common Stock,55.39,10722050511.0,2365409,Health Care
+MOH,Molina Healthcare Inc Common Stock,204.36,10667592000.0,697570,Health Care
+COO,The Cooper Companies Inc. Common Stock,55.545,10562175805.0,3394045,Health Care
+UHS,Universal Health Services Inc. Common Stock,178.83,10539616977.0,558442,Health Care
+OSCR,Oscar Health Inc. Class A Common Stock,34.01,10497016450.0,5784037,Health Care
+GMED,Globus Medical Inc. Class A Common Stock,76.24,10236128323.0,1096282,Health Care
+ENSG,The Ensign Group Inc. Common Stock,173.92,10136480921.0,231844,Health Care
+TWST,Twist Bioscience Corporation Common Stock,151.86,10068496284.0,2653065,Health Care
+ALGN,Align Technology Inc. Common Stock,140.42,9975416018.0,850075,Health Care
+GKOS,Glaukos Corporation Common Stock,168.02,9910481095.0,881957,Health Care
+KRYS,Krystal Biotech Inc. Common Stock,332.07,9828885471.0,168174,Health Care
+PODD,Insulet Corporation Common Stock,139.81,9696410562.0,1330367,Health Care
+HSIC,Henry Schein Inc. Common Stock,84.23,9387142233.0,955397,Health Care
+PTGX,Protagonist Therapeutics Inc. Common Stock,144.88,9374936331.0,898697,Health Care
+KYMR,Kymera Therapeutics Inc. Common Stock,112.08,9319521265.0,537562,Health Care
+CYTK,Cytokinetics Incorporated Common Stock,62.79,8729280416.0,1254118,Health Care
+AXSM,Axsome Therapeutics Inc. Common Stock,166.0,8695215788.0,663003,Health Care
+ARWR,Arrowhead Pharmaceuticals Inc. Common Stock,60.73,8578383781.0,1196307,Health Care
+TGTX,TG Therapeutics Inc. Common Stock,55.27,8460126559.0,758231,Health Care
+RGEN,Repligen Corporation Common Stock,172.51,8439764176.0,899678,Health Care
+CAI,Caris Life Sciences Inc. Common Stock,29.69,8390251072.0,4997673,Health Care
+SYRE,Spyre Therapeutics Inc. Common Stock,85.9,7574126156.0,873954,Health Care
+IONS,Ionis Pharmaceuticals Inc. Common Stock,43.67,7257269342.0,1950361,Health Care
+HIMS,Hims & Hers Health Inc. Class A Common Stock,30.64,7148722974.0,8935818,Health Care
+MSA,MSA Safety Incorporated Common Stock,181.99,7020862815.0,261413,Health Care
+PRAX,Praxis Precision Medicines Inc. Common Stock,251.38,7018526583.0,301431,Health Care
+PACS,PACS Group Inc. Common Stock,44.3,7014267612.0,539079,Health Care
+AMRX,Amneal Pharmaceuticals Inc. Class A Common Stock,20.03,6976369221.0,4588306,Health Care
+IOVA,Iovance Biotherapeutics Inc. Common Stock,14.56,6595264050.0,9113415,Health Care
+CHE,Chemed Corp,500.64,6543345275.0,119741,Health Care
+LNTH,Lantheus Holdings Inc. Common Stock,100.11,6534416861.0,951717,Health Care
+BLTE,Belite Bio Inc American Depositary Shares,158.59,6386759317.0,259206,Health Care
+KOD,Kodiak Sciences Inc Common Stock,99.26,6238437102.0,1326150,Health Care
+LGND,Ligand Pharmaceuticals Incorporated Common Stock,311.13,6202566028.0,173239,Health Care
+RYTM,Rhythm Pharmaceuticals Inc. Common Stock,89.82,6184294005.0,543838,Health Care
+KNSA,Kiniksa Pharmaceuticals International plc Class A Ordinary Shares,79.24,6182622790.0,341006,Health Care
+GRAL,GRAIL Inc. Common Stock ,137.37,6135800565.0,651108,Health Care
+IMVT,Immunovant Inc. Common Stock,29.48,6089173065.0,2241919,Health Care
+RDNT,RadNet Inc. Common Stock,71.49,5626066903.0,383406,Health Care
+CGON,CG Oncology Inc. Common stock,63.13,5595866874.0,660649,Health Care
+MIRM,Mirum Pharmaceuticals Inc. Common Stock,86.06,5588065390.0,1211753,Health Care
+HAE,Haemonetics Corporation Common Stock,122.06,5553370045.0,895255,Health Care
+ERAS,Erasca Inc. Common Stock,15.46,5407321061.0,4280405,Health Care
+MMSI,Merit Medical Systems Inc. Common Stock,89.75,5359010195.0,859848,Health Care
+TFX,Teleflex Incorporated Common Stock,125.7,5326210303.0,621437,Health Care
+ORKA,Oruka Therapeutics Inc. Common Stock,80.35,5319949315.0,547959,Health Care
+MMED,MiniMed Group Inc. Common Stock,18.8,5289378703.0,38551616,Health Care
+PTCT,PTC Therapeutics Inc. Common Stock,62.92,5251353662.0,745229,Health Care
+SHC,Sotera Health Company Common Stock,18.15,5179552529.0,1560517,Health Care
+COGT,Cogent Biosciences Inc. Common Stock,29.78,5167573964.0,1855313,Health Care
+MANE,Veradermics Incorporated Common Stock,122.4,5113888646.0,991596,Health Care
+SRRK,Scholar Rock Holding Corporation Common Stock,41.94,5107674727.0,1626764,Health Care
+TVTX,Travere Therapeutics Inc. Common Stock,52.02,4903461486.0,1424423,Health Care
+CON,Concentra Group Holdings Parent Inc. Common Stock,37.54,4787015809.0,1003190,Health Care
+LFST,LifeStance Health Group Inc. Common Stock,12.48,4769283755.0,2192968,Health Care
+DFTX,Definium Therapeutics Inc. Common Shares,35.2,4729716640.0,1909233,Health Care
+OPCH,Option Care Health Inc. Common Stock,31.1,4658321057.0,4835846,Health Care
+DNTH,Dianthus Therapeutics Inc. Common Stock,81.57,4562567213.0,853967,Health Care
+HTFL,Heartflow Inc. Common Stock,50.56,4396375381.0,1415758,Health Care
+BLLN,BillionToOne Inc. Class A Common Stock,93.07,4391697627.0,491674,Health Care
+ITGR,Integer Holdings Corporation Common Stock,126.52,4300673913.0,2043008,Health Care
+EWTX,Edgewise Therapeutics Inc. Common Stock,38.45,4175828760.0,1536736,Health Care
+ICUI,ICU Medical Inc. Common Stock,163.91,4098903599.0,201378,Health Care
+ADPT,Adaptive Biotechnologies Corporation Common Stock,25.57,4080865680.0,3122055,Health Care
+TNGX,Tango Therapeutics Inc.,24.17,4075312570.0,2868055,Health Care
+RLAY,Relay Therapeutics Inc. Common Stock,17.98,3940166525.0,2091034,Health Care
+PLSE,Pulse Biosciences Inc Common Stock (DE),52.45,3740870737.0,434454,Health Care
+NVST,Envista Holdings Corporation Common Stock,22.72,3649234348.0,2392923,Health Care
+OGN,Organon & Co. Common Stock ,13.77,3616131892.0,932463,Health Care
+NHC,National HealthCare Corporation Common Stock,229.88,3600241483.0,65330,Health Care
+VKTX,Viking Therapeutics Inc. Common Stock,28.34,3562016369.0,2861993,Health Care
+VCYT,Veracyte Inc. Common Stock,44.02,3538799979.0,1151815,Health Care
+PBLS,Parabilis Medicines Inc. Common Stock,28.95,3530511269.0,1203578,Health Care
+IRTC,iRhythm Holdings Inc. Common Stock,106.68,3516493160.0,384487,Health Care
+TARS,Tarsus Pharmaceuticals Inc. Common Stock,74.4,3481301587.0,1463078,Health Care
+IDYA,IDEAYA Biosciences Inc. Common Stock,36.06,3479410793.0,441492,Health Care
+LEGN,Legend Biotech Corporation American Depositary Shares,17.8,3461893751.0,2630805,Health Care
+AMLX,Amylyx Pharmaceuticals Inc. Common Stock,27.48,3447593617.0,1106143,Health Care
+ACAD,ACADIA Pharmaceuticals Inc. Common Stock,19.41,3344450104.0,1184763,Health Care
+ARQT,Arcutis Biotherapeutics Inc. Common Stock,26.22,3295643217.0,1556778,Health Care
+CDNA,CareDx Inc. Common Stock,63.12,3265464156.0,900344,Health Care
+CELC,Celcuity Inc. Common Stock,65.85,3222166142.0,1050267,Health Care
+WRBY,Warby Parker Inc. Class A Common Stock,25.99,3212573323.0,2161328,Health Care
+RCUS,Arcus Biosciences Inc. Common Stock,24.34,3099294372.0,1338008,Health Care
+DNLI,Denali Therapeutics Inc. Common Stock,18.95,3029108287.0,1231480,Health Care
+ELVN,Enliven Therapeutics Inc. Common Stock,40.84,2992377879.0,579844,Health Care
+DYN,Dyne Therapeutics Inc. Common Stock,15.96,2980473039.0,2915157,Health Care
+ATRC,AtriCure Inc. Common Stock,57.28,2913621320.0,645646,Health Care
+ACHC,Acadia Healthcare Company Inc. Common Stock,30.08,2800456272.0,1205315,Health Care
+PGEN,Precigen Inc. Common Stock,7.66,2742549992.0,2163304,Health Care
+PRVA,Privia Health Group Inc. Common Stock,21.45,2739898740.0,1413779,Health Care
+TMDX,TransMedics Group Inc. Common Stock,78.17,2710556085.0,491979,Health Care
+AVAH,Aveanna Healthcare Holdings Inc. Common Stock,12.21,2664462488.0,1756369,Health Care
+NEOG,Neogen Corporation Common Stock,12.0,2619672408.0,2570534,Health Care
+BEAM,Beam Therapeutics Inc. Common Stock,25.13,2595619021.0,1413872,Health Care
+CLOV,Clover Health Investments Corp. Class A Common Stock,4.78,2538926937.0,3899285,Health Care
+MBX,MBX Biosciences Inc. Common Stock,52.02,2505288194.0,991596,Health Care
+SUPN,Supernus Pharmaceuticals Inc. Common Stock,42.81,2488417427.0,914575,Health Care
+LQDA,Liquidia Corporation Common Stock,27.67,2476711014.0,4414491,Health Care
+BKD,Brookdale Senior Living Inc. Common Stock,10.24,2445488660.0,5032565,Health Care
+SLS,SELLAS Life Sciences Group Inc. Common Stock,11.93,2409212308.0,4035248,Health Care
+IRON,Disc Medicine Inc. Common Stock,60.48,2321999205.0,657243,Health Care
+PBH,Prestige Consumer Healthcare Inc. Common Stock,49.0,2321351578.0,416386,Health Care
+CLDX,Celldex Therapeutics Inc.,29.43,2311124127.0,596443,Health Care
+NRIX,Nurix Therapeutics Inc. Common stock,22.16,2299802095.0,2852584,Health Care
+UFPT,UFP Technologies Inc. Common Stock,295.82,2291359598.0,99565,Health Care
+ADMA,ADMA Biologics Inc Common Stock,10.18,2280164042.0,1627480,Health Care
+BFLY,Butterfly Network Inc. Class A Common Stock,8.55,2276738315.0,3857013,Health Care
+IMNM,Immunome Inc. Common Stock,19.15,2259759671.0,835831,Health Care
+HRMY,Harmony Biosciences Holdings Inc. Common Stock,38.23,2226377304.0,1148425,Health Care
+MD,Pediatrix Medical Group Inc. Common Stock,26.92,2187338055.0,487333,Health Care
+AXGN,Axogen Inc. Common Stock,37.11,2177299847.0,1606591,Health Care
+RVMDW,Revolution Medicines Inc. Warrant,10.08,2160511093.0,8013,Health Care
+ADUS,Addus HomeCare Corporation Common Stock,115.475,2156414793.0,197920,Health Care
+PGNY,Progyny Inc. Common Stock,28.03,2150652148.0,826018,Health Care
+RXRX,Recursion Pharmaceuticals Inc. Class A Common Stock,4.01,2146722102.0,23785496,Health Care
+PRGO,Perrigo Company plc Ordinary Shares,15.45,2143984835.0,1840268,Health Care
+BCRX,BioCryst Pharmaceuticals Inc. Common Stock,8.36,2136273478.0,3466971,Health Care
+NVAX,Novavax Inc. Common Stock,12.66,2088212891.0,8505454,Health Care
+NEO,NeoGenomics Inc. Common Stock,16.2,2081302128.0,1183700,Health Care
+VCEL,Vericel Corporation Common Stock,40.62,2080012661.0,432898,Health Care
+VRDN,Viridian Therapeutics Inc. Common Stock,18.3,2073248523.0,1946537,Health Care
+INSP,Inspire Medical Systems Inc. Common Stock,71.49,2066802709.0,1011962,Health Care
+TRLV,Trulieve Cannabis Corp. Subordinate Voting Shares,10.39,2000753488.0,1008679,Health Care
+VERA,Vera Therapeutics Inc. Class A Common Stock,27.72,1997595646.0,1405663,Health Care
+FTRE,Fortrea Holdings Inc. Common Stock,21.0,1997100000.0,1237368,Health Care
+MLYS,Mineralys Therapeutics Inc. Common Stock,22.23,1965285054.0,1003436,Health Care
+SDGR,Schrodinger Inc. Common Stock,25.91,1938213821.0,2151724,Health Care
+PVLA,Palvella Therapeutics Inc. Common Stock,134.38,1936201733.0,213813,Health Care
+ADRX,ADARx Pharmaceuticals Inc. Common Stock,17.97,1919219810.0,350793,Health Care
+VIR,Vir Biotechnology Inc. Common Stock,11.3,1912140325.0,1086250,Health Care
+XERS,Xeris Biopharma Holdings Inc. Common Stock,10.46,1907070401.0,1328523,Health Care
+WGS,GeneDx Holdings Corp. Class A Common Stock,63.82,1903274567.0,491269,Health Care
+LMAT,LeMaitre Vascular Inc. Common Stock,82.91,1896090098.0,257906,Health Care
+SGRY,Surgery Partners Inc. Common Stock,14.24,1864276022.0,1212445,Health Care
+XNCR,Xencor Inc. Common Stock,25.04,1861809061.0,753088,Health Care
+TRVI,Trevi Therapeutics Inc. Common Stock,12.93,1842212624.0,4770802,Health Care
+SRPT,Sarepta Therapeutics Inc. Common Stock (DE),17.44,1842135246.0,3282871,Health Care
+AGIO,Agios Pharmaceuticals Inc. Common Stock,30.82,1840012003.0,647847,Health Care
+MRVI,Maravai LifeSciences Holdings Inc. Class A Common Stock,7.06,1833295793.0,1253223,Health Care
+BRVE,Braveheart Bio Inc. Common Stock,20.36,1833193409.0,155081,Health Care
+ZYME,Zymeworks Inc. Common Stock,25.33,1797397575.0,2775799,Health Care
+BHVN,Biohaven Ltd. Common Shares ,11.81,1783827054.0,1623277,Health Care
+GENB,Generate Biomedicines Inc. Common Stock,13.84,1776397714.0,676147,Health Care
+NTLA,Intellia Therapeutics Inc. Common Stock,12.58,1762793798.0,4380576,Health Care
+SEPN,Septerna Inc. Common Stock,37.56,1753186129.0,207577,Health Care
+ATEC,Alphatec Holdings Inc. Common Stock,11.25,1737574605.0,2950066,Health Care
+SNDA,Sonida Senior Living Inc. Common Stock,36.15,1736934839.0,527897,Health Care
+ZBIO,Zenas BioPharma Inc. Common Stock,26.4,1720665487.0,602503,Health Care
+NUVB,Nuvation Bio Inc. Class A Common Stock,4.9,1720503842.0,3183090,Health Care
+GPCR,Structure Therapeutics Inc. American Depositary Shares,23.91,1705018681.0,1662624,Health Care
+XRAY,DENTSPLY SIRONA Inc. Common Stock,8.53,1700488562.0,4689904,Health Care
+ANIP,ANI Pharmaceuticals Inc.,73.59,1689588722.0,318500,Health Care
+PSNL,Personalis Inc. Common Stock,15.8,1687437978.0,2254384,Health Care
+ALHC,Alignment Healthcare Inc. Common Stock,8.09,1678150355.0,9893096,Health Care
+OCUL,Ocular Therapeutix Inc. Common Stock,7.56,1660295962.0,3670452,Health Care
+ABSI,Absci Corporation Common Stock,9.67,1659507477.0,2861786,Health Care
+ARDT,Ardent Health Inc. Common Stock,11.53,1626259308.0,574211,Health Care
+KMTS,Kestra Medical Technologies Ltd. Common Stock,26.91,1602807903.0,131031,Health Care
+ETON,Eton Pharmaceuticals Inc. Common Stock,55.25,1579218209.0,436918,Health Care
+STOK,Stoke Therapeutics Inc. Common Stock,24.15,1558308744.0,373030,Health Care
+KRSA,Korsana Biosciences Inc. Common Stock,34.04,1550230107.0,59208,Health Care
+INVA,Innoviva Inc. Common Stock,21.45,1549665653.0,521204,Health Care
+MAZE,Maze Therapeutics Inc. Common Stock,27.7,1538711954.0,1437967,Health Care
+PAHC,Phibro Animal Health Corporation Class A Common Stock,37.43,1519718000.0,205869,Health Care
+RARE,Ultragenyx Pharmaceutical Inc. Common Stock,15.3,1508409757.0,2898698,Health Care
+SNDX,Syndax Pharmaceuticals Inc. Common Stock,16.55,1477866773.0,2030120,Health Care
+KLRA,Kailera Therapeutics Inc. Common Stock,11.33,1468862849.0,1221076,Health Care
+PCRX,Pacira BioSciences Inc. Common Stock,36.35,1448979556.0,2007538,Health Care
+RAPP,Rapport Therapeutics Inc. Common Stock,30.15,1446545323.0,127156,Health Care
+AGL,agilon health inc. Common Stock,85.49,1435480543.0,158706,Health Care
+OMER,Omeros Corporation Common Stock,19.63,1420982643.0,1065331,Health Care
+FRNM,Freenome Inc. Common stock,13.22,1420446881.0,1625395,Health Care
+COAG,Hemab Therapeutics Holdings Inc. Common Stock,30.39,1419581236.0,235043,Health Care
+HCSG,Healthcare Services Group Inc. Common Stock,20.63,1415882327.0,595150,Health Care
+PNTG,The Pennant Group Inc. Common Stock ,40.52,1415326078.0,208983,Health Care
+ANAB,AnaptysBio Inc. Common Stock,46.04,1363174465.0,371672,Health Care
+NKTR,Nektar Therapeutics  Common Stock,39.84,1360256881.0,1048309,Health Care
+CNMD,CONMED Corporation Common Stock,45.36,1358588609.0,515243,Health Care
+EYE,National Vision Holdings Inc. Common Stock,17.07,1349713173.0,1367858,Health Care
+TSHA,Taysha Gene Therapies Inc. Common Stock,4.14,1348950876.0,4214252,Health Care
+TYRA,Tyra Biosciences Inc. Common Stock,19.6,1347616404.0,334430,Health Care
+KARD,Kardigan Inc. Common Stock,14.35,1341778081.0,256815,Health Care
+OMDA,Omada Health Inc. Common Stock,21.87,1338809295.0,594918,Health Care
+INBX,Inhibrx Biosciences Inc. Common Stock,90.53,1332389760.0,216103,Health Care
+USPH,U.S. Physical Therapy Inc. Common Stock,85.93,1282307439.0,104461,Health Care
+INNV,InnovAge Holding Corp. Common Stock,9.15,1248530539.0,315399,Health Care
+REPL,Replimune Group Inc. Common Stock,13.07,1231450616.0,1161565,Health Care
+ORIC,Oric Pharmaceuticals Inc. Common Stock,11.81,1224137867.0,878309,Health Care
+TRAX,First Tracks Biotherapeutics Inc. Ordinary Shares ,34.05,1216635204.0,7312204,Health Care
+VOR,Vor Biopharma Inc. Common Stock,19.8,1171413421.0,867450,Health Care
+LBRX,LB Pharmaceuticals Inc Common Stock,35.93,1159072158.0,491518,Health Care
+TRUP,Trupanion Inc. Common Stock,26.29,1153410943.0,333326,Health Care
+BCAX,Bicara Therapeutics Inc. Common Stock,17.33,1146776946.0,659126,Health Care
+TNDM,Tandem Diabetes Care Inc. Common Stock,16.45,1144569730.0,1579785,Health Care
+IRMD,iRadimed Corporation Common Stock,89.47,1144052085.0,111513,Health Care
+AMPH,Amphastar Pharmaceuticals Inc. Common Stock,26.76,1138315381.0,362842,Health Care
+BVS,Bioventus Inc. Class A Common Stock,13.53,1137763136.0,444588,Health Care
+PRCT,PROCEPT BioRobotics Corporation Common Stock,19.57,1120845507.0,2045489,Health Care
+JANX,Janux Therapeutics Inc. Common Stock,18.15,1109632430.0,803008,Health Care
+CDRE,Cadre Holdings Inc. Common Stock,25.84,1106487767.0,837635,Health Care
+STAA,STAAR Surgical Company Common Stock,22.01,1103669088.0,596040,Health Care
+AVLN,Avalyn Pharma Inc. Common Stock,24.8,1099460756.0,133322,Health Care
+HROW,Harrow Inc. Common Stock,29.11,1091271314.0,577070,Health Care
+IART,Integra LifeSciences Holdings Corporation Common Stock,13.98,1087259634.0,893734,Health Care
+LFMDP,LifeMD Inc. 8.875% Series A Cumulative Perpetual Preferred Stock,22.37,1078252724.0,708,Health Care
+TDOC,Teladoc Health Inc. Common Stock,5.92,1075569404.0,3252986,Health Care
+AORT,Artivion Inc. Common Stock,21.79,1062398056.0,436646,Health Care
+LTGO,Latigo Biotherapeutics Inc. Common Stock,16.02,1062115539.0,133007,Health Care
+ENOV,Enovis Corporation Common Stock,18.25,1052468266.0,910954,Health Care
+OPK,OPKO Health Inc. Common Stock,1.38,1029932951.0,1011542,Health Care
+LMRI,Lumexa Imaging Holdings Inc. Common Stock,10.68,1026080744.0,185451,Health Care
+MNKD,MannKind Corporation Common Stock,3.13,1006434235.0,3958116,Health Care
+CSTL,Castle Biosciences Inc. Common Stock,32.76,1000801849.0,239064,Health Care
+MGTX,MeiraGTx Holdings plc Ordinary Shares,10.38,996926298.0,506528,Health Care
+SVRA,Savara Inc. Common Stock,4.84,994426473.0,1306789,Health Care
+CBLL,CeriBell Inc. Common Stock,25.26,969430831.0,697069,Health Care
+AKTS,Aktis Oncology Inc. Common stock,17.34,964442113.0,274080,Health Care
+CGEM,Cullinan Therapeutics Inc. Common Stock,14.95,962102675.0,372457,Health Care
+ANRO,Alto Neuroscience Inc. Common Stock,24.15,947696812.0,390288,Health Care
+BBNX,Beta Bionics Inc. Common Stock,17.86,940183673.0,820834,Health Care
+KURA,Kura Oncology Inc. Common Stock,10.395,924745635.0,1212919,Health Care
+SPTX,Seaport Therapeutics Inc. Common Stock,17.15,918048933.0,126011,Health Care
+ALMS,Alumis Inc. Common Stock,7.06,913812787.0,1601418,Health Care
+RIGL,Rigel Pharmaceuticals Inc. Common Stock,48.81,911764162.0,162545,Health Care
+MLTX,MoonLake Immunotherapeutics Class A Ordinary Shares,10.68,908939396.0,1212931,Health Care
+QDEL,QuidelOrtho Corporation Common Stock,13.25,908624408.0,2615567,Health Care
+SIBN,SI-BONE Inc. Common Stock,20.1,900853358.0,553709,Health Care
+GLUE,Monte Rosa Therapeutics Inc. Common Stock,10.52,897496979.0,2094599,Health Care
+JBIO,Jade Biosciences Inc. Common Stock,14.0,890363418.0,1355596,Health Care
+ODTX,Odyssey Therapeutics Inc. Common Stock,18.26,877548703.0,282701,Health Care
+CYRX,CryoPort Inc. Common Stock,16.84,852930844.0,602248,Health Care
+CRVS,Corvus Pharmaceuticals Inc. Common Stock,10.05,845415487.0,719745,Health Care
+AHCO,AdaptHealth Corp. Common Stock,6.14,837153363.0,1533518,Health Care
+SGP,SpyGlass Pharma Inc. Common Stock,24.86,831516758.0,59476,Health Care
+AVBP,ArriVent BioPharma Inc. Common Stock,16.46,811605219.0,1335463,Health Care
+ARDX,Ardelyx Inc. Common Stock,3.23,804875858.0,3537493,Health Care
+OBX,Obsidian Therapeutics Inc. Common Stock,12.79,790075084.0,420013,Health Care
+SANA,Sana Biotechnology Inc. Common Stock,2.62,784324869.0,2673635,Health Care
+GERN,Geron Corporation Common Stock,1.22,783817559.0,3980603,Health Care
+APMD,Apnimed Inc. Common Stock,18.63,775581413.0,301077,Health Care
+IMMX,Immix Biopharma Inc. Common Stock,9.25,766852297.0,936257,Health Care
+GYRE,Gyre Therapeutics Inc. Common Stock,6.865,765515113.0,81957,Health Care
+DNA,Ginkgo Bioworks Holdings Inc. Class A Common Stock,11.79,758571866.0,2602552,Health Care
+ANNX,Annexon Inc. Common Stock,3.96,750733371.0,1927504,Health Care
+CADL,Candel Therapeutics Inc. Common Stock,9.78,748351566.0,744653,Health Care
+VSTM,Verastem Inc. Common Stock,8.25,747148388.0,3582540,Health Care
+LXRX,Lexicon Pharmaceuticals Inc. Common Stock,1.65,734177291.0,2028931,Health Care
+ACHV,Achieve Life Sciences Inc. Common Shares,7.06,726491579.0,948712,Health Care
+SLDB,Solid Biosciences Inc. Common Stock,6.71,719481347.0,601320,Health Care
+FDMT,4D Molecular Therapeutics Inc. Common Stock,13.0,718174743.0,835856,Health Care
+COLL,Collegium Pharmaceutical Inc. Common Stock,22.05,717851267.0,528718,Health Care
+AVTX,Avalo Therapeutics Inc. Common Stock,13.24,710061054.0,502788,Health Care
+STLN,Starling Oncology Inc. Common Stock,6.92,705259516.0,965462,Health Care
+MDXG,MiMedx Group Inc Common Stock,4.83,704023060.0,625575,Health Care
+OABI,OmniAb Inc. Common Stock,4.77,693512198.0,988652,Health Care
+DSGN,Design Therapeutics Inc. Common Stock,10.91,682765812.0,304316,Health Care
+AURA,Aura Biosciences Inc. Common Stock,6.54,678229451.0,613147,Health Care
+ZVRA,Zevra Therapeutics Inc. Common Stock,11.32,672224401.0,509058,Health Care
+ATTO,Attovia Therapeutics Inc. Common Stock,14.59,666051913.0,262320,Health Care
+PRME,Prime Medicine Inc. Common Stock,3.61,654770450.0,3138167,Health Care
+AVR,Anteris Technologies Global Corp. Common Stock,6.65,648098852.0,972561,Health Care
+OLMA,Olema Pharmaceuticals Inc. Common Stock,7.36,643982388.0,1018771,Health Care
+NVCT,Nuvectis Pharma Inc. Common Stock,19.69,642170960.0,145843,Health Care
+CLYM,Climb Bio Inc. Common Stock,10.83,622034642.0,911869,Health Care
+IRWD,Ironwood Pharmaceuticals Inc. Class A Common Stock,3.76,621302201.0,1035834,Health Care
+SGMT,Sagimet Biosciences Inc. Series A Common Stock,8.8,620689907.0,1157423,Health Care
+STTK,Shattuck Labs Inc. Common Stock,6.09,611212211.0,1024559,Health Care
+AQST,Aquestive Therapeutics Inc. Common Stock,4.81,603711027.0,957553,Health Care
+FTH,Faeth Therapeutics Inc. Common Stock,23.25,600789881.0,309837,Health Care
+FLGT,Fulgent Genetics Inc. Common Stock,21.47,590753341.0,227982,Health Care
+FBIOP,Fortress Biotech Inc. 9.375% Series A Cumulative Redeemable Perpetual Preferred Stock,17.65,588645026.0,4932,Health Care
+ETRA,Electra Therapeutics Inc. Common stock,9.32,584988021.0,346743,Health Care
+CRMD,CorMedix Inc. Common Stock,7.46,581464657.0,1592062,Health Care
+PHAT,Phathom Pharmaceuticals Inc. Common Stock,7.13,576823659.0,1013694,Health Care
+KIDS,OrthoPediatrics Corp. Common Stock,22.08,576504119.0,178451,Health Care
+MPLT,MapLight Therapeutics Inc. Common Stock,8.6,557053012.0,485263,Health Care
+SBC,SBC Medical Group Holdings Incorporated Common Stock,5.39,554345023.0,133577,Health Care
+BLSM,BlossomHill Therapeutics Inc. Common Stock,17.27,548925378.0,91066,Health Care
+DCTH,Delcath Systems Inc. Common Stock,15.67,543730118.0,207469,Health Care
+CBIO,Crescent Biopharma Inc. Common Stock,14.46,537101372.0,153903,Health Care
+PBYI,Puma Biotechnology Inc Common Stock,10.29,531170479.0,284819,Health Care
+ACRS,Aclaris Therapeutics Inc. Common Stock,3.6,529916015.0,3429038,Health Care
+CTMX,CytomX Therapeutics Inc. Common Stock,2.42,527316267.0,4001215,Health Care
+MNPR,Monopar Therapeutics Inc. Common Stock,77.05,517172853.0,133197,Health Care
+RGNX,REGENXBIO Inc. Common Stock,7.77,512922502.0,2033584,Health Care
+TCMD,Tactile Systems Technology Inc. Common Stock,22.62,512394709.0,178243,Health Care
+EOLS,Evolus Inc. Common Stock,7.75,511890910.0,1002239,Health Care
+PROK,ProKidney Corp. Class A Ordinary Shares,1.67,504878834.0,607847,Health Care
+ALT,Altimmune Inc. Common Stock,2.56,497965315.0,2159755,Health Care
+TLRY,Tilray Brands Inc. Common Stock ,3.36,496566077.0,3887514,Health Care
+SGHT,Sight Sciences Inc. Common Stock,8.965,493863830.0,348562,Health Care
+SENS,Senseonics Holdings Inc. Common Stock,9.24,488556250.0,452267,Health Care
+ARVN,Arvinas Inc. Common Stock,7.45,487127123.0,502694,Health Care
+ALLO,Allogene Therapeutics Inc. Common Stock,1.4,483687233.0,4316519,Health Care
+ANGO,AngioDynamics Inc. Common Stock,11.4,479420730.0,1083199,Health Care
+RZLT,Rezolute Inc. Common Stock (NV),4.87,471069806.0,1009677,Health Care
+OVID,Ovid Therapeutics Inc. Common Stock,2.41,470667835.0,876054,Health Care
+TKNO,Alpha Teknova Inc. Common Stock,8.7,467087740.0,159196,Health Care
+ASMB,Assembly Biosciences Inc. Common Stock,22.77,463610771.0,207834,Health Care
+CERS,Cerus Corporation Common Stock,2.26,455446269.0,1179816,Health Care
+NRC,NRC Health Common Stock,20.41,451460342.0,48676,Health Care
+YDES,YD Bio Limited Ordinary Shares,6.33,448362420.0,138159,Health Care
+NPCE,Neuropace Inc. Common Stock,13.0,446215562.0,63310,Health Care
+DMAC,DiaMedica Therapeutics Inc. Common Stock,8.2,442190715.0,185598,Health Care
+TECX,Tectonic Therapeutic Inc. Common Stock,22.35,436928330.0,103937,Health Care
+CAPR,Capricor Therapeutics Inc. Common Stock,7.47,434298248.0,1460390,Health Care
+PRTA,Prothena Corporation plc Ordinary Shares,8.43,432770691.0,489795,Health Care
+EDIT,Editas Medicine Inc. Common Stock,2.75,422345096.0,1297500,Health Care
+SPRY,ARS Pharmaceuticals Inc. Common Stock,4.18,415689894.0,1274284,Health Care
+RCEL,Avita Medical Inc. Common Stock,13.37,413491944.0,319844,Health Care
+CYH,Community Health Systems Inc. Common Stock,2.92,411747322.0,1074779,Health Care
+CARL,Carlsmed Inc. Common Stock,14.78,403534542.0,36930,Health Care
+AVIR,Atea Pharmaceuticals Inc. Common Stock,5.03,403429636.0,190706,Health Care
+MYGN,Myriad Genetics Inc. Common Stock,4.2,401728509.0,1381164,Health Care
+SRTA,Strata Critical Medical Inc. Class A Common Stock,4.54,401639299.0,776131,Health Care
+EIKN,Eikon Therapeutics Inc. Common Stock,7.26,393238118.0,236188,Health Care
+SCTX,Scribe Therapeutics Inc. Common Stock,20.67,391317826.0,512707,Health Care
+GALT,Galectin Therapeutics Inc. Common Stock,3.87,391052447.0,99700,Health Care
+IRD,Opus Genetics Inc. Common Stock,4.64,386028619.0,1624112,Health Care
+TRXB,TRex Bio Inc. Common stock,14.03,385062918.0,189226,Health Care
+KYTX,Kyverna Therapeutics Inc. Common Stock,6.21,384047787.0,417120,Health Care
+SI,Shoulder Innovations Inc. Common Stock,18.23,379529586.0,69168,Health Care
+CCCC,C4 Therapeutics Inc. Common Stock,3.06,376456916.0,1500494,Health Care
+FENC,Fennec Pharmaceuticals Inc. Common Stock,10.72,375564480.0,90136,Health Care
+RLMD,Relmada Therapeutics Inc. Common Stock,3.51,374411159.0,1423675,Health Care
+VMD,Viemed Healthcare Inc. Common Shares,9.6,365646989.0,151091,Health Care
+CV,CapsoVision Inc. Common Stock,6.76,359602202.0,107247,Health Care
+ENTA,Enanta Pharmaceuticals Inc. Common Stock,12.3,358242445.0,122902,Health Care
+EBS,Emergent BioSolutions Inc. Common Stock,6.98,357887885.0,951265,Health Care
+OBIO,Orchestra BioMed Holdings Inc. Ordinary Shares,5.91,355220840.0,237991,Health Care
+EMBC,Embecta Corp. Common Stock,5.99,339390998.0,1053620,Health Care
+AGEN,Agenus Inc. Common Stock,7.43,335553036.0,572607,Health Care
+ARTV,Artiva Biotherapeutics Inc. Common Stock,6.77,330986119.0,248594,Health Care
+TTRX,Turn Therapeutics Inc. Common Stock,11.11,330945124.0,45987,Health Care
+INDP,Indaptus Therapeutics Inc. Common Stock,2.44,325111271.0,363325,Health Care
+SMTI,Sanara MedTech Inc. Common Stock,35.15,322959430.0,156540,Health Care
+CTNM,Contineum Therapeutics Inc. Class A Common Stock,8.565,322224996.0,8468068,Health Care
+OCGN,Ocugen Inc. Common Stock,0.9472,321205372.0,3271374,Health Care
+BNTC,Benitec Biopharma Inc. Common Stock,9.07,316386325.0,200907,Health Care
+CYPH,Cypherpunk Technologies Inc. Common Stock,2.9,312516708.0,9391523,Health Care
+CLPT,ClearPoint Neuro Inc. Common Stock,10.2,311143115.0,397811,Health Care
+CABA,Cabaletta Bio Inc. Common Stock,1.79,303486347.0,4830235,Health Care
+PRLD,Prelude Therapeutics Incorporated Common Stock,3.74,298465034.0,196555,Health Care
+SRZN,Surrozen Inc. Common Stock,24.76,291018096.0,1528768,Health Care
+CATX,Perspective Therapeutics Inc. Common Stock,2.52,287662191.0,640607,Health Care
+FULC,Fulcrum Therapeutics Inc. Common Stock,3.75,286432305.0,1614085,Health Care
+MOBI,Mobia Medical Inc. Common Stock,8.6,286303426.0,71801,Health Care
+ABEO,Abeona Therapeutics Inc. Common Stock,4.9,280201683.0,758411,Health Care
+XFOR,X4 Pharmaceuticals Inc. Common Stock,2.82,279593815.0,404700,Health Care
+PALI,Palisade Bio Inc. Common Stock,1.59,277090187.0,1571693,Health Care
+USNA,USANA Health Sciences Inc. Common Stock,14.95,276224183.0,209682,Health Care
+VNDA,Vanda Pharmaceuticals Inc. Common Stock,4.54,274500599.0,519689,Health Care
+ANIK,Anika Therapeutics Inc. Common Stock,20.47,273949314.0,152646,Health Care
+BIOA,BioAge Labs Inc. Common Stock,5.94,272627639.0,482177,Health Care
+RCKT,Rocket Pharmaceuticals Inc. Common Stock,2.48,272241001.0,2303469,Health Care
+BDSX,Biodesix Inc. Common Stock,25.7,271163733.0,40979,Health Care
+INFU,InfuSystems Holdings Inc. Common Stock,13.6,270873662.0,116357,Health Care
+OSUR,OraSure Technologies Inc. Common Stock,3.92,270357018.0,462237,Health Care
+TMCI,Treace Medical Concepts Inc. Common Stock,4.1,266641663.0,124313,Health Care
+LRMR,Larimar Therapeutics Inc. Common Stock,2.53,262823831.0,952189,Health Care
+BBOT,BridgeBio Oncology Therapeutics Inc. Common Stock  ,3.26,261368110.0,233983,Health Care
+GLSI,Greenwich LifeSciences Inc. Common Stock,17.77,260831756.0,163245,Health Care
+IPSC,Century Therapeutics Inc. Common Stock,1.44,260748462.0,390879,Health Care
+QTTB,Q32 Bio Inc. Common Stock,8.74,260185133.0,684627,Health Care
+SABS,SAB Biotherapeutics Inc. Common Stock,2.83,257491421.0,359067,Health Care
+IKT,Inhibikase Therapeutics Inc. Common Stock,1.845,257443736.0,741444,Health Care
+FATE,Fate Therapeutics Inc. Common Stock,2.13,255217695.0,616856,Health Care
+TLSI,TriSalus Life Sciences Inc. Common Stock,4.14,254918844.0,78530,Health Care
+VOGX,Vogenx Inc Common Stock,17.14,254616191.0,87759,Health Care
+IMRX,Immuneering Corporation Class A Common Stock,3.86,249731972.0,529829,Health Care
+LXEO,Lexeo Therapeutics Inc. Common Stock,3.04,249420615.0,1048367,Health Care
+LFCR,Lifecore Biomedical Inc. Common Stock,6.44,243773706.0,312010,Health Care
+LCTX,Lineage Cell Therapeutics Inc. Common Stock,0.9541,241299011.0,1686977,Health Care
+PYXS,Pyxis Oncology Inc. Common Stock,2.01,240363110.0,505676,Health Care
+ZNTL,Zentalis Pharmaceuticals Inc. Common Stock,2.52,238564791.0,546559,Health Care
+NUS,Nu Skin Enterprises Inc. Common Stock,4.87,237055208.0,590922,Health Care
+MGNX,MacroGenics Inc. Common Stock,3.72,236964696.0,284724,Health Care
+UTMD,Utah Medical Products Inc. Common Stock,74.41,236907897.0,61159,Health Care
+ELMD,Electromed Inc. Common Stock,28.11,232949959.0,94016,Health Care
+ALEC,Alector Inc. Common Stock,2.08,232246392.0,1630371,Health Care
+KROS,Keros Therapeutics Inc. Common Stock,11.61,230193653.0,223686,Health Care
+CAMP,CAMP4 Therapeutics Corporation Common Stock,3.66,229676712.0,36064,Health Care
+UPB,Upstream Bio Inc. Common Stock,4.17,228395241.0,848419,Health Care
+SIGA,SIGA Technologies Inc. Common Stock,3.16,227045103.0,322527,Health Care
+NATR,Nature's Sunshine Products Inc. Common Stock,12.71,223639059.0,99528,Health Care
+STRO,Sutro Biopharma Inc. Common Stock,13.28,220197951.0,298796,Health Care
+EVMN,Evommune Inc. Common Stock,6.05,219567284.0,384161,Health Care
+AKBA,Akebia Therapeutics Inc. Common Stock,0.7902,218969355.0,8872536,Health Care
+TRDA,Entrada Therapeutics Inc. Common Stock,5.5,214151680.0,198620,Health Care
+SION,Sionna Therapeutics Inc. Common Stock,4.69,212046151.0,692631,Health Care
+RNAC,Cartesian Therapeutics Inc. Common Stock,6.99,211484910.0,107805,Health Care
+NAGE,Niagen Bioscience Inc. Common Stock,2.63,208101385.0,410109,Health Care
+PDEX,Pro-Dex Inc. Common Stock,63.09,203984733.0,66552,Health Care
+LYEL,Lyell Immunopharma Inc. Common Stock,8.27,202657516.0,100401,Health Care
+XGN,Exagen Inc. Common Stock,8.25,199859047.0,201407,Health Care
+IVVD,Invivyd Inc. Common Stock,0.6733,198461064.0,2825219,Health Care
+ELDN,Eledon Pharmaceuticals Inc. Common Stock,2.44,198277211.0,440615,Health Care
+RXST,RxSight Inc. Common Stock,4.66,193824573.0,834565,Health Care
+WHWK,Whitehawk Therapeutics Inc. Common Stock,3.38,192690454.0,222071,Health Care
+YARW,Yarrow Bioscience Inc. Common Stock,19.82,184412435.0,88647,Health Care
+DTIL,Precision BioSciences Inc. Common Stock,6.53,180238148.0,228792,Health Care
+CUE,Cue Biopharma Inc. Common Stock,24.61,178777229.0,179525,Health Care
+ALXO,ALX Oncology Holdings Inc. Common Stock,1.26,174229016.0,894811,Health Care
+PEPG,PepGen Inc. Common Stock,2.49,172456197.0,315773,Health Care
+INGN,Inogen Inc Common Stock,6.42,170376124.0,236936,Health Care
+CMPX,Compass Therapeutics Inc. Common Stock,0.9375,168832420.0,4436748,Health Care
+CNTN,Canton Strategic Holdings Inc. Common Stock,2.11,168127672.0,492216,Health Care
+DERM,Journey Medical Corporation Common Stock,5.91,166806174.0,266086,Health Care
+TARA,Protara Therapeutics Inc.  Common Stock,2.77,163694502.0,1080603,Health Care
+STIM,Neuronetics Inc. Common Stock,2.13,162300083.0,329679,Health Care
+ANTX,AN2 Therapeutics Inc. Common Stock,4.3,162265819.0,298466,Health Care
+CHRS,Coherus Oncology Inc. Common Stock,1.03,159135995.0,1036722,Health Care
+ORGO,Organogenesis Holdings Inc. Class A Common Stock,1.23,158269694.0,506693,Health Care
+NKTX,Nkarta Inc. Common Stock,2.17,155425796.0,598878,Health Care
+HSDT,Solana Company Class A Common Stock (DE),2.39,154939061.0,543777,Health Care
+NAKA,Nakamoto Inc. Common Stock,8.26,147812229.0,150287,Health Care
+ABOS,Acumen Pharmaceuticals Inc. Common Stock,2.02,146080916.0,291658,Health Care
+OTLK,Outlook Therapeutics Inc. Common Stock,0.5851,142441164.0,2310266,Health Care
+RNA,Atrium Therapeutics Inc. Common Stock,8.21,140437329.0,87404,Health Care
+AVXL,Anavex Life Sciences Corp. Common Stock,1.51,139972231.0,1192719,Health Care
+VYGR,Voyager Therapeutics Inc. Common Stock,2.27,139872742.0,967402,Health Care
+NERV,Minerva Neurosciences Inc Common Stock,2.89,137990446.0,84919,Health Care
+KRRO,Korro Bio Inc. Common Stock,9.37,137979303.0,140412,Health Care
+KRMD,KORU Medical Systems Inc. Common Stock (DE),2.97,137130549.0,162866,Health Care
+ARMP,Armata Pharmaceuticals Inc. Common Stock,3.63,134970584.0,47208,Health Care
+TNYA,Tenaya Therapeutics Inc. Common Stock,0.5655,126802072.0,2514689,Health Care
+AGPU,Axe Compute Inc. Common Stock,10.75,124604583.0,272036,Health Care
+NRXP,NRX Pharmaceuticals Inc. Common Stock,2.85,123392936.0,481050,Health Care
+SPRB,Spruce Biosciences Inc. Common Stock,42.87,123208937.0,74884,Health Care
+LFMD,LifeMD Inc. Common Stock,2.55,122912134.0,626433,Health Care
+LUCD,Lucid Diagnostics Inc. Common Stock,0.5974,121417948.0,1635466,Health Care
+HURA,TuHURA Biosciences Inc. Common Stock,1.9,121080572.0,170607,Health Care
+VTVT,vTv Therapeutics Inc. Class A Common Stock,30.46,120436647.0,17124,Health Care
+AIRS,AirSculpt Technologies Inc. Common Stock,1.63,117515191.0,735837,Health Care
+FHTX,Foghorn Therapeutics Inc. Common Stock,1.95,115801364.0,586310,Health Care
+GNLX,Genelux Corporation Common Stock,2.545,115149378.0,72626,Health Care
+INO,Inovio Pharmaceuticals Inc. Common Stock,1.105,114254257.0,2330512,Health Care
+STXS,Stereotaxis Inc. Common Stock,1.14,114230483.0,461401,Health Care
+TNXP,Tonix Pharmaceuticals Holding Corp. Common Stock,6.64,113882799.0,960598,Health Care
+LENZ,LENZ Therapeutics Inc. Common Stock,3.61,113427438.0,603484,Health Care
+COYA,Coya Therapeutics Inc. Common Stock,4.81,112832254.0,102056,Health Care
+UNCY,Unicycive Therapeutics Inc. Common Stock,4.05,112813791.0,912921,Health Care
+SKYA,SkyAI Inc. Common Stock,2.6,112443516.0,42106383,Health Care
+APYX,Apyx Medical Corporation Common Stock,2.65,111628661.0,79997,Health Care
+PDSB,PDS Biotechnology Corporation Common Stock,1.52,110160796.0,15076461,Health Care
+IMUX,Immunic Inc. Common Stock,7.95,108473513.0,152269,Health Care
+HUMA,Humacyte Inc. Common Stock,0.3896,108230142.0,16347136,Health Care
+VANI,Vivani Medical Inc. Common Stock (DE),1.19,107341994.0,146666,Health Care
+PMVP,PMV Pharmaceuticals Inc. Common Stock,1.41,106476759.0,398624,Health Care
+CNXU,Conexeu Sciences Inc. Common Stock,3.77,106339251.0,363141,Health Care
+CPIX,Cumberland Pharmaceuticals Inc. Common Stock,7.0,104881749.0,11552,Health Care
+RANI,Rani Therapeutics Holdings Inc. Class A Common Stock,0.7509,104671945.0,431086,Health Care
+IMDX,Insight Molecular Diagnostics Inc. Common Stock,3.17,103735980.0,219523,Health Care
+MXCT,MaxCyte Inc. Common Stock,0.995,102690175.0,150125,Health Care
+CRBP,Corbus Pharmaceuticals Holdings Inc. Common Stock,5.27,101928614.0,1010792,Health Care
+BDTX,Black Diamond Therapeutics Inc. Common Stock,1.77,101693132.0,377709,Health Care
+PLYX,Polaryx Therapeutics Inc. Common Stock,2.01,100190446.0,16416,Health Care
+ANIX,Anixa Biosciences Inc. Common Stock,2.84,98729198.0,97751,Health Care
+BMEA,Biomea Fusion Inc. Common Stock,1.36,98578039.0,5368989,Health Care
+OKUR,OnKure Therapeutics Inc. Class A Common Stock,2.42,98001068.0,146435,Health Care
+AARD,Aardvark Therapeutics Inc. Common Stock,4.45,97387565.0,99885,Health Care
+LAKE,Lakeland Industries Inc. Common Stock,9.76,96929937.0,85678,Health Care
+PARK,Park Dental Partners Inc. Common Stock,20.26,96342013.0,8174,Health Care
+HYPR,Hyperfine Inc. Class A Common Stock,0.9064,96122514.0,990982,Health Care
+EQ,Equillium Inc. Common Stock,1.5,95112123.0,383754,Health Care
+ATRA,Atara Biotherapeutics Inc. Common Stock,9.38,94153720.0,26845,Health Care
+RTSN,Retension Pharmaceuticals Inc. Common Stock,11.32,89219701.0,177633,Health Care
+RLYB,Rallybio Corporation Common Stock,16.79,89163278.0,5979,Health Care
+ICCC,ImmuCell Corporation Common Stock,9.6,87189091.0,11162,Health Care
+FTLF,FitLife Brands Inc. Common Stock,9.23,86679595.0,22499,Health Care
+ISPR,Ispire Technology Inc. Common Stock,1.47,84899072.0,5242,Health Care
+NRXS,Neuraxis Inc. Common Stock,6.72,84388181.0,74650,Health Care
+ECOR,electroCore Inc. Common Stock,9.28,83667413.0,55297,Health Care
+NMRA,Neumora Therapeutics Inc. Common Stock,0.4373,82166882.0,1210973,Health Care
+SERA,Sera Prognostics Inc. Class A Common Stock,2.07,81660395.0,13801,Health Care
+CGTX,Cognition Therapeutics Inc. Common Stock,0.8569,81485831.0,414373,Health Care
+ACRV,Acrivon Therapeutics Inc. Common Stock,1.9,81421388.0,140662,Health Care
+NTHI,NeOnc Technologies Holdings Inc. Common Stock,2.73,81261439.0,98202,Health Care
+TELO,Telomir Pharmaceuticals Inc. Common Stock,1.1,80980082.0,70867,Health Care
+CRDF,Cardiff Oncology Inc. Common Stock,1.04,80907059.0,378947,Health Care
+GRML,Greenland Mines Ltd. Common Stock,6.02,80349735.0,11858915,Health Care
+RFL,Rafael Holdings Inc. Class B Common Stock,1.52,79039994.0,39225,Health Care
+HRTX,Heron Therapeutics Inc. Common Stock,0.4156,78902619.0,1961117,Health Care
+LUNG,Pulmonx Corporation Common Stock,1.8,77306884.0,428721,Health Care
+LNSR,LENSAR Inc. Common Stock,6.22,76418080.0,43757,Health Care
+MNOV,Medicinova Inc Common Stock,1.54,75800719.0,127797,Health Care
+CTOR,Citius Oncology Inc. Common Stock,0.8126,75556526.0,67960,Health Care
+OM,Outset Medical Inc. Common Stock,4.01,75376628.0,66304,Health Care
+LFVN,Lifevantage Corporation Common Stock (Delaware),5.98,75284875.0,22315,Health Care
+SDEV,Stablecoin Development Corporation Common Stock,1.41,72969416.0,10048789,Health Care
+NTRB,Nutriband Inc. Common Stock,5.85,71110746.0,15568,Health Care
+CING,Cingulate Inc. Common Stock,4.84,70382438.0,30160,Health Care
+FBIO,Fortress Biotech Inc. Common Stock,2.11,70370595.0,114127,Health Care
+XBIT,XBiotech Inc. Common Stock,2.29,69816904.0,41962,Health Care
+CSBR,Champions Oncology Inc. Common Stock,4.9533,68942848.0,11406,Health Care
+VRCA,Verrica Pharmaceuticals Inc. Common Stock,4.01,68886932.0,48712,Health Care
+SPRO,Spero Therapeutics Inc. Common Stock,1.18,68717096.0,414265,Health Care
+GANX,Gain Therapeutics Inc. Common Stock,1.57,68520482.0,319809,Health Care
+TENX,Tenax Therapeutics Inc. Common Stock,1.83,68485768.0,790581,Health Care
+SKIN,SkinHealth Systems Inc. Class A Common Stock,0.525,68323901.0,531305,Health Care
+RNTX,Rein Therapeutics Inc. Common Stock,0.7849,67710993.0,108134,Health Care
+NMAD,Nomad Power Solutions Inc. Common Stock,4.17,67141454.0,143706,Health Care
+APLM,Apollomics Inc. Class A Ordinary Shares,21.32,61743850.0,1750,Health Care
+PLRX,Pliant Therapeutics Inc. Common Stock,0.986,61054990.0,272199,Health Care
+DXR,Daxor Corporation Common Stock,10.304,60157060.0,4770,Health Care
+XLO,Xilio Therapeutics Inc. Common Stock,9.075,59714852.0,8387,Health Care
+BOLD,Boundless Bio Inc. Common Stock,2.55,58927784.0,60475,Health Care
+GUTS,Fractyl Health Inc. Common Stock,4.41,58498593.0,134644,Health Care
+ESYN,EnerSyn Global Inc. Common Stock,1.96,58263744.0,14540,Health Care
+LONA,LeonaBio Inc. Common Stock,6.165,58084552.0,386352,Health Care
+IBIO,iBio Inc. Common Stock,0.9032,58082314.0,452174,Health Care
+GOSS,Gossamer Bio Inc. Common Stock,9.28,56760108.0,155672,Health Care
+RNXT,RenovoRx Inc. Common Stock,1.25,56411885.0,256062,Health Care
+OABIW,OmniAb Inc. Warrant,0.3875,56338779.0,1433,Health Care
+ELOX,Eloxx Pharmaceuticals Inc. Common Stock,13.89,56066416.0,26092,Health Care
+TLPH,Talphera Inc. Common Stock,1.08,56058260.0,26545,Health Care
+ALDX,Aldeyra Therapeutics Inc. Common Stock,0.9058,54643672.0,1340841,Health Care
+MYO,Myomo Inc. Common Stock,1.36,53866681.0,160829,Health Care
+KLRS,Kalaris Therapeutics Inc. Common Stock,2.26,53799257.0,122094,Health Care
+INKT,MiNK Therapeutics Inc. Common Stock,10.53,53734611.0,18856,Health Care
+HYPD,Hyperion DeFi Inc. Common Stock,3.47,53585413.0,421438,Health Care
+CRBU,Caribou Biosciences Inc. Common Stock,0.4969,53271413.0,5264163,Health Care
+CLNN,Clene Inc. Common Stock,3.68,52307450.0,74000,Health Care
+ACET,Adicet Bio Inc. Common Stock,5.53,51769040.0,145889,Health Care
+MDAI,Spectral AI Inc. Class A Common Stock,1.6,51495885.0,75173,Health Care
+ELTX,Elicio Therapeutics Inc. Common Stock,1.88,50931432.0,164366,Health Care
+POCI,Precision Optics Corporation Inc. Common stock,4.605,50529707.0,10032,Health Care
+COCH,Envoy Medical Inc. Class A Common Stock,0.6515,50292279.0,139178,Health Care
+SNWV,SANUWAVE Health Inc. Common Stock,5.84,50237485.0,85773,Health Care
+INMB,INmune Bio Inc. Common stock,1.78,49401744.0,72749,Health Care
+SER,Serina Therapeutics Inc. Common Stock,1.94,49276918.0,132244,Health Care
+ANVS,Annovis Bio Inc. Common Stock,1.15,49080918.0,460241,Health Care
+TELA,TELA Bio Inc. Common Stock,1.08,48754883.0,94720,Health Care
+IMA,ImageneBio Inc. Common Stock,4.25,48243688.0,28055,Health Care
+SRTS,Sensus Healthcare Inc. Common Stock,2.93,48233833.0,7632,Health Care
+HOWL,Werewolf Therapeutics Inc. Common Stock,0.9818,47714563.0,811411,Health Care
+CELU,Celularity Inc. Class A Common Stock,1.47,47701157.0,43738,Health Care
+EXOZ,eXoZymes Inc. Common Stock,5.05,46988740.0,9393,Health Care
+DWTX,Dogwood Therapeutics Inc. Common Stock,1.37,46569798.0,44087,Health Care
+YDESW,YD Bio Limited Warrants,0.6567,46514945.0,207,Health Care
+XTNT,Xtant Medical Holdings Inc. Common Stock,0.329,46154739.0,50966,Health Care
+BSEM,BioStem Technologies Inc. Common Stock,2.44,45559985.0,36803,Health Care
+TIL,Instil Bio Inc. Common Stock,6.58,44625402.0,11336,Health Care
+TVGN,Tevogen Inc. Common Stock,6.6785,43487320.0,3355,Health Care
+SBCWW,SBC Medical Group Holdings Incorporated Warrants,0.42,43195716.0,1850,Health Care
+VERU,Veru Inc. Common Stock,2.405,41006020.0,85540,Health Care
+BTMD,Biote Corp. Class A Common Stock,1.14,40957314.0,63341,Health Care
+SCYX,SCYNEXIS Inc. Common Stock,4.03,40096924.0,68024,Health Care
+EDSA,Edesa Biotech Inc. Common Shares,2.94,39700946.0,81667,Health Care
+CVRX,CVRx Inc. Common Stock,1.48,39429564.0,470179,Health Care
+NEPH,Nephros Inc. Common Stock,3.57,38770628.0,67005,Health Care
+MGX,Metagenomi Therapeutics Inc. Common Stock,1.02,38532647.0,150977,Health Care
+QTI,QT Imaging Holdings Inc. Common Stock,2.6,38054962.0,26047,Health Care
+CRVO,CervoMed Inc. Common Stock,2.51,37948931.0,892115,Health Care
+FLNA,Filana Therapeutics Inc. Common Stock,0.7695,37172926.0,360700,Health Care
+LITS,Lite Strategy Inc. Common Stock,1.22,37096867.0,271273,Health Care
+CCEL,Cryo-Cell International Inc. Common Stock,4.5,36281925.0,43772,Health Care
+JAGX,Jaguar Health Inc. Common Stock,4.64,36201753.0,491076,Health Care
+COSM,Cosmos Health Inc. Common Stock,0.3496,35181567.0,1852315,Health Care
+ELUT,Elutia Inc. Class A Common Stock,0.787,34855624.0,69836,Health Care
+ALGS,Aligos Therapeutics Inc. Common Stock,5.53,34532406.0,57279,Health Care
+ATNM,Actinium Pharmaceuticals Inc. (Delaware) Common Stock,1.06,33327922.0,98467,Health Care
+GRDX,GridAI Technologies Corp. Common Stock,4.66,33231033.0,31328,Health Care
+DCGO,DocGo Inc. Common Stock,0.3339,33032182.0,231276,Health Care
+NNVC,NanoViricides Inc. Common Stock,1.28,32672000.0,133014,Health Care
+PIII,P3 Health Partners Inc. Class A Common Stock,4.44,32238760.0,6839,Health Care
+CVM,Cel-Sci Corporation Common Stock,1.83,32187846.0,357220,Health Care
+MLSS,Milestone Scientific Inc. Common Stock,0.348,31544252.0,138586,Health Care
+RMTI,Rockwell Medical Inc. Common Stock,7.57,30510620.0,54254,Health Care
+NXTC,NextCure Inc. Common Stock,6.64,30393664.0,130479,Health Care
+ACH,Accendra Health Inc. Common Stock,0.3905,30031287.0,1194881,Health Care
+MIRA,MIRA Pharmaceuticals Inc. Common Stock,0.7054,29642380.0,90007,Health Care
+IGC,IGC Pharma Inc. Common Stock,0.276,28533986.0,573534,Health Care
+CNTX,Context Therapeutics Inc. Common Stock,0.305,28023149.0,503394,Health Care
+RNAZ,TransCode Therapeutics Inc. Common Stock,1.63,27597105.0,31944,Health Care
+MCRB,Seres Therapeutics Inc. Common Stock,2.68,26920013.0,54284,Health Care
+ABVC,ABVC BioPharma Inc. Common Stock,0.9798,26155248.0,95940,Health Care
+ARAY,Accuray Incorporated Common Stock,0.2183,26073601.0,851105,Health Care
+SHPH,Shuttle Pharmaceuticals Holdings Inc. Common Stock,5.45,25967593.0,21400,Health Care
+MODD,Modular Medical Inc. Common Stock,2.68,25448806.0,17517,Health Care
+BYSI,BeyondSpring Inc. Ordinary Shares,0.6155,25309249.0,38273,Health Care
+KYNB,Kyntra Bio Inc. Common Stock,6.12,24780639.0,23569,Health Care
+BEAT,Heartbeam Inc. Common Stock,0.425,23948398.0,1401163,Health Care
+ATOS,Atossa Therapeutics Inc. Common Stock,2.3887,23837549.0,81425,Health Care
+SCLX,Scilex Holding Company Common Stock,2.8,23780400.0,33857,Health Care
+TXMD,TherapeuticsMD Inc. Common Stock,2.02,23380211.0,14044,Health Care
+PAVM,PAVmed Inc. Common Stock,2.69,21509019.0,8626,Health Care
+AYTU,Aytu BioPharma Inc.  Common Stock,1.97,21407415.0,23252,Health Care
+ATYR,aTyr Pharma Inc. Common Stock,0.2148,21069179.0,2025489,Health Care
+COCP,Cocrystal Pharma Inc. Common Stock,1.06,20418992.0,8967,Health Care
+ICU,SeaStar Medical Holding Corporation Common Stock,3.85,20254246.0,116298,Health Care
+RVP,Retractable Technologies Inc. Common Stock,0.65,19459153.0,63916,Health Care
+JSPR,Jasper Therapeutics Inc. Common Stock,0.555,18467381.0,335802,Health Care
+NEUP,Neuphoria Therapeutics Inc. Common Stock,3.32,17965629.0,10038,Health Care
+DYAI,Dyadic International Inc. Common Stock,0.4211,16870825.0,33871,Health Care
+MRKR,Marker Therapeutics Inc. Common Stock,1.01,16839858.0,107782,Health Care
+IRIX,IRIDEX Corporation Common Stock,0.929,16317803.0,292522,Health Care
+SINT,SiNtx Technologies Inc. Common Stock,2.13,16098695.0,47192,Health Care
+HSCS,HeartSciences Inc. Common Stock,3.3,15984903.0,58043,Health Care
+ACTU,Actuate Therapeutics Inc. Common stock,0.6437,15457942.0,285908,Health Care
+BCDA,BioCardia Inc. Common Stock,1.02,15441558.0,80816,Health Care
+PTN,Palatin Technologies Inc. Common Stock,8.55,15227028.0,16994,Health Care
+TCRX,TScan Therapeutics Inc. Common Stock,0.2379,15107284.0,483539,Health Care
+MTEX,Mannatech Incorporated Common Stock,7.79,15032129.0,32887,Health Care
+KTTA,Pasithea Therapeutics Corp. Common Stock,0.4475,14952965.0,80705,Health Care
+RKTO,Rocket One Inc. Common Stock,0.5999,14936059.0,309358,Health Care
+DARE,Dare Bioscience Inc. Common Stock,0.7501,14753779.0,81976,Health Care
+FEMY,Femasys Inc. Common Stock,1.75,14656297.0,66536,Health Care
+PASG,Passage Bio Inc. Common Stock,4.55,14641036.0,76402,Health Care
+ESLA,Estrella Immunopharma Inc. Common Stock,0.3286,14293398.0,905176,Health Care
+TVRD,Tvardi Therapeutics Inc. Common Stock,1.06,14139280.0,248220,Health Care
+HIND,Vyome Holdings Inc. Common Stock,2.01,14107241.0,7056,Health Care
+GTBP,GT Biopharma Inc. Common Stock,6.8,14015154.0,37968,Health Care
+MEDS,DataMeds AI Inc. Common Stock,3.07,13863696.0,21213939,Health Care
+BFRI,Biofrontera Inc. Common Stock,0.9251,13739917.0,140171,Health Care
+CNSY,Cerenome Inc. Common Stock ,1.81,13737221.0,52367,Health Care
+LPCN,Lipocine Inc. Common Stock,1.66,13685460.0,884413,Health Care
+ALLR,Allarity Therapeutics Inc. Common Stock,0.8601,13684814.0,416392,Health Care
+CTXR,Citius Pharmaceuticals Inc. Common Stock,0.4928,13528626.0,119670,Health Care
+CLRB,Cellectar Biosciences Inc.  Common Stock,1.43,13516514.0,186150,Health Care
+TPST,Tempest Therapeutics Inc. Common Stock,0.7427,12284085.0,163617,Health Care
+AEON,AEON Biopharma Inc. Class A Common Stock,0.2456,12251213.0,1082077,Health Care
+INAB,IN8bio Inc. Common Stock,1.23,12125811.0,39322,Health Care
+BIVI,BioVie Inc. Class A Common Stock,1.32,11461177.0,67351,Health Care
+KPTI,Karyopharm Therapeutics Inc. Common Stock,0.5051,11456405.0,898620,Health Care
+LSTA,Lisata Therapeutics Inc. Common Stock,1.05,11344269.0,166670,Health Care
+KPRX,Kiora Pharmaceuticals Inc.  Common Stock,2.56,11326431.0,12770,Health Care
+CTSO,Cytosorbents Corporation Common Stock,3.5898,11311822.0,8382,Health Care
+LTRN,Lantern Pharma Inc. Common Stock,0.737,11007520.0,184059,Health Care
+ASBP,Aspire-Lakewood Holdings Inc. Common Stock,7.78,10911893.0,22403,Health Care
+BFRG,Bullfrog AI Holdings Inc. Common Stock,0.5838,10824616.0,403995,Health Care
+ENSC,Ensysce Biosciences Inc. Common Stock,0.5559,10816032.0,1316174,Health Care
+INTS,Intensity Therapeutics Inc. Common stock,3.31,10806749.0,42001,Health Care
+PHIO,Phio Pharmaceuticals Corp. Common Stock,0.922,10711105.0,46282,Health Care
+TOVX,Theriva Biologics Inc. Common Stock,0.2194,10068851.0,1621077,Health Care
+VTGN,Vistagen Therapeutics Inc. Common Stock,0.2266,10055808.0,739906,Health Care
+SNTI,Senti Biosciences Holdings Inc. Common Stock,0.3186,9922719.0,142796,Health Care
+NMTC,NeuroOne Medical Technologies Corporation Common Stock,1.075,9788695.0,39710,Health Care
+MTVA,MetaVia Inc. Common Stock,1.45,9552746.0,137245,Health Care
+AEMD,Aethlon Medical Inc. Common Stock,5.86,9399997.0,45138,Health Care
+ADIL,Adial Pharmaceuticals Inc Common Stock,3.5,9190615.0,167097,Health Care
+CODX,Co-Diagnostics Inc. Common Stock,1.25,8762873.0,652989,Health Care
+MGRX,Mangoceuticals Inc. Common Stock,0.3834,8520843.0,454989,Health Care
+AMS,American Shared Hospital Services Common Stock,1.27,8445500.0,9102,Health Care
+BMRA,Biomerica Inc. Common Stock,1.835,8439106.0,5255,Health Care
+MBRX,Moleculin Biotech Inc. Common Stock,0.4139,8437674.0,173923,Health Care
+CALC,CalciMedica Inc. Common Stock,1.205,8228092.0,74898,Health Care
+BOLT,Bolt Biotherapeutics Inc. Common Stock,4.24,8167703.0,28732,Health Care
+TNON,Tenon Medical Inc. Common Stock,2.98,8012430.0,264360,Health Care
+GRMLW,Greenland Mines Ltd Warrant,0.6,8008279.0,166071,Health Care
+LGVN,Longeveron Inc. Class A Common Stock,2.45,7811088.0,34957,Health Care
+NDRA,ENDRA Life Sciences Inc. Common Stock,5.135,7702048.0,15816,Health Care
+LUCY,Innovative Eyewear Inc. Common Stock,0.8827,7690315.0,307107,Health Care
+SNGX,Soligenix Inc. Common Stock,0.3517,7654919.0,62104,Health Care
+CURX,Curanex Pharmaceuticals Inc Common Stock,4.88,7653016.0,7951,Health Care
+NAII,Natural Alternatives International Inc. Common Stock,1.22,7643113.0,63724,Health Care
+CNSP,CNS Pharmaceuticals Inc. Common Stock,5.19,7584920.0,6204,Health Care
+APRE,Aprea Therapeutics Inc. Common stock,0.5931,7467803.0,117526,Health Care
+XCUR,Exicure Inc. Common Stock,1.09,7135135.0,15304,Health Care
+ACXP,Acurx Pharmaceuticals Inc. Common Stock,1.28,7116038.0,80824,Health Care
+SKYE,Skye Bioscience Inc. Common Stock,1.58,6995730.0,42408,Health Care
+FBLG,FibroBiologics Inc. Common Stock,1.0,6783193.0,152061,Health Care
+ENVB,Enveric Biosciences Inc. Common Stock,1.47,6579549.0,114678,Health Care
+BGMS,Bio Green Med Solution Inc. Common Stock,0.99,6556566.0,277407,Health Care
+ACON,Aclarion Inc. Common Stock,2.245,6470923.0,26987,Health Care
+SCNX,Scienture Holdings Inc. Common Stock,3.91,6422433.0,37724,Health Care
+TRAW,Traws Pharma Inc. Common Stock,0.416,6393203.0,178379,Health Care
+CELZ,Creative Medical Technology Holdings Inc. Common Stock,0.841,6385340.0,90209,Health Care
+ALZN,Alzamend Neuro Inc. Common Stock,1.31,6321697.0,17034,Health Care
+AMIX,Autonomix Medical Inc. Common Stock,3.1,6075808.0,42415,Health Care
+IMNN,Imunon Inc. Common Stock,1.07,6004201.0,42491,Health Care
+SNOA,Sonoma Pharmaceuticals Inc. Common Stock,1.23,5889763.0,14885,Health Care
+NVNO,enVVeno Medical Corporation Common Stock,8.15,5662832.0,122879,Health Care
+KALA,KALA BIO Inc. Common Stock,0.28,5415140.0,380977,Health Care
+PCSA,Processa Pharmaceuticals Inc. Common Stock,1.9,5316607.0,441069,Health Care
+CDIO,Cardio Diagnostics Holdings Inc. Common stock,1.78,5267855.0,61625,Health Care
+PULM,Pulmatrix Inc. Common Stock,1.43,5222768.0,8602,Health Care
+LNAI,Lunai Bioworks Inc. Common Stock,1.11,5032618.0,97238,Health Care
+INBS,Intelligent Bio Solutions Inc. Common Stock,1.51,5008373.0,20138,Health Care
+BIAF,bioAffinity Technologies Inc. Common Stock,3.9,5004363.0,285021,Health Care
+XBIO,Xenetic Biosciences Inc. Common Stock,2.12,4967544.0,8506,Health Care
+VVOS,Vivos Therapeutics Inc. Common Stock,0.1442,4846474.0,491553,Health Care
+QCLS,Q/C Technologies Inc. Common Stock,0.5801,4750925.0,234707,Health Care
+AIDX,20/20 Biolabs Inc. Common Stock,0.366,4673931.0,181977,Health Care
+LIMN,Liminatus Pharma Inc. Class A Common Stock,3.45,4634068.0,28978,Health Care
+DRMA,Dermata Therapeutics Inc. Common Stock,0.8896,4408152.0,44908,Health Care
+JUNS,Jupiter Neurosciences Inc. Common Stock,3.04,4008304.0,37243,Health Care
+PMCB,PharmaCyte  Biotech Inc. Common Stock,0.3651,3919585.0,121360,Health Care
+ERNA,Ernexa Therapeutics Inc. Common Stock,2.21,3607628.0,30715,Health Care
+ADGM,Adagio Medical Holdings Inc Common Stock,0.132,3588991.0,1271073,Health Care
+BJDX,Bluejay Diagnostics Inc. Common Stock,0.7922,3539590.0,141208,Health Care
+NXL,Nexalin Technology Inc. Common Stock,3.36,3523051.0,75179,Health Care
+GRI,GRI Bio Inc. Common Stock,1.57,3432201.0,64741,Health Care
+DCOY,Decoy Therapeutics Inc. Common Stock,1.43,3410953.0,59048,Health Care
+IVF,INVO Fertility Inc. Common Stock,0.726,3340590.0,93286,Health Care
+HCWB,HCW Biologics Inc. Common Stock,1.48,3309760.0,42981,Health Care
+APVO,Aptevo Therapeutics Inc. Common Stock,1.8363,3308958.0,286376,Health Care
+VBIO,Valion Bio Inc. Common Stock,1.68,3272275.0,250233,Health Care
+SXTP,60 Degrees Pharmaceuticals Inc. Common Stock,0.9156,3220154.0,38242,Health Care
+MBIO,Mustang Bio Inc. Common Stock,0.4124,3124963.0,55428,Health Care
+CVKD,Cadrenal Therapeutics Inc. Common Stock,0.8724,3112367.0,111640,Health Care
+ONCO,Onconetix Inc. Common Stock,0.5904,3094573.0,789459,Health Care
+COCHW,Envoy Medical Inc Warrant,0.04,3087784.0,1,Health Care
+REVB,Revelation Biosciences Inc. Common Stock,0.7747,3085952.0,12592,Health Care
+STLNW,Starling Oncology Inc. Warrant,0.0297,3026909.0,6,Health Care
+VIVS,VivoSim Labs Inc. Common Stock,0.174,2886050.0,1102975,Health Care
+GOVX,GeoVax Labs Inc. Common Stock,0.2823,2852040.0,204859,Health Care
+ISPC,iSpecimen Inc. Common Stock,1.08,2720077.0,45101,Health Care
+MTNB,Matinas Biopharma Holdings Inc. Common Stock,2.74,2683885.0,21511,Health Care
+TCRT,Alaunos Therapeutics Inc. Common Stock,1.05,2673999.0,3422611,Health Care
+SILO,Silo Pharma Inc. Common Stock,1.49,2612343.0,22237,Health Care
+BFRGW,Bullfrog AI Holdings Inc. Warrants,0.139,2577289.0,2268,Health Care
+ELAB,PMGC Holdings Inc. Common Stock,3.05,2469216.0,8656,Health Care
+NUWE,Nuwellis Inc. Common Stock,0.6703,2444761.0,109693,Health Care
+BRTX,BioRestorative Therapies Inc. Common Stock (NV),1.75,2416974.0,11362,Health Care
+XAIR,Beyond Air Inc. Common Stock,2.31,2212128.0,30221,Health Care
+GNPX,Genprex Inc. Common Stock,2.69,2205017.0,283464,Health Care
+OGEN,Oragenics Inc. Common Stock,0.4476,2019552.0,17195,Health Care
+NXGL,NexGel Inc Common Stock,3.81,1856929.0,197424,Health Care
+LABT,Lakewood-Amedex Biotherapeutics Inc. Common Stock,0.731,1732242.0,160678,Health Care
+ARTL,Artelo Biosciences Inc. Common Stock,3.11,1703577.0,23605,Health Care
+CRIS,Curis Inc. Common Stock,0.6433,1344547.0,128051,Health Care
+BBLG,Bone Biologics Corp Common Stock,0.4551,1254282.0,33851,Health Care
+GCTK,GlucoTrack Inc. Common Stock,1.16,984410.0,320988,Health Care
+SABSW,SAB Biotherapeutics Inc. Warrant,0.0105,955357.0,6022,Health Care
+PFSA,Profusa Inc. Common Stock,1.3,787341.0,265969,Health Care
+CDT,CDT Equity Inc. Common Stock,0.66,742180.0,373040,Health Care
+BIAFW,bioAffinity Technologies Inc. Warrant,0.5671,727686.0,21,Health Care
+XXII,22nd Century Group Inc. Common Stock,0.7244,517217.0,104825,Health Care
+TVGNW,Tevogen Inc. Warrant,0.0699,455157.0,210812,Health Care
+BEATW,Heartbeam Inc. Warrant,0.0077,433889.0,2753,Health Care
+HSCSW,HeartSciences Inc. Warrant,0.068,329386.0,1668,Health Care
+LUCYW,Innovative Eyewear Inc. Series A Warrants 8/16/27,0.0319,277921.0,1643,Health Care
+ICUCW,SeaStar Medical Holding Corporation Warrant,0.0173,91013.0,18157,Health Care
+SXTPW,60 Degrees Pharmaceuticals Inc. Warrant,0.0246,86518.0,1,Health Care
+BFRIW,Biofrontera Inc. Warrants,0.0056,83173.0,6,Health Care
+PIIIW,P3 Health Partners Inc. Warrant,0.0082,59540.0,98717,Health Care
+LIMNW,Liminatus Pharma Inc. Warrants,0.0434,58295.0,100,Health Care
+ERNAW,Ernexa Therapeutics Inc. Warrants,0.03,48972.0,38465,Health Care
+CINGW,Cingulate Inc. Warrants,0.003,43625.0,100,Health Care
+REVBW,Revelation Biosciences Inc. Warrant,0.0077,30672.0,6156,Health Care
+CDIOW,Cardio Diagnostics Holdings Inc Warrant,0.0075,22196.0,23697,Health Care
+TNONW,Tenon Medical Inc. Warrant,0.0055,14788.0,1800,Health Care
+NXGLW,NexGel Inc Warrant,0.009,4386.0,8,Health Care
+CDTTW,CDT Equity Inc. Warrant,0.0027,3036.0,275043,Health Care
+MMEDV,MiniMed Group Inc. Common Stock When Issued,19.1,0.0,63713,Health Care
+EMIS,Emmis Acquisition Corp. Class A Ordinary Shares,10.275,0.0,506,Health Care
+BKHAR,Black Hawk Acquisition Corporation Rights,1.47,0.0,30655,Health Care
+BKHA,Black Hawk Acquisition Corporation Class A Ordinary Shares,13.0,0.0,45051,Health Care
