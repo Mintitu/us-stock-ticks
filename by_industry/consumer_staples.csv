@@ -1,101 +1,103 @@
 symbol,name,price,marketCap,volume,industry
-KO,Coca-Cola Company (The) Common Stock,89.79,386325896529.0,14347855,Consumer Staples
-PEP,PepsiCo Inc. Common Stock,126.68,172632041535.0,7903979,Consumer Staples
-MNST,Monster Beverage Corporation,43.76,128592286400.0,9140360,Consumer Staples
-CVS,CVS Health Corporation Common Stock,87.74,112216860176.0,11574536,Consumer Staples
-MDLZ,Mondelez International Inc. Class A Common Stock,61.79,78863074842.0,5662803,Consumer Staples
-VYLR,Vylor Inc. Common Stock,75.89,50641619358.0,3582294,Consumer Staples
-KDP,Keurig Dr Pepper Inc. Common Stock,32.75,44567052745.0,12438187,Consumer Staples
-ADM,Archer-Daniels-Midland Company Common Stock,80.42,38759189665.0,4295837,Consumer Staples
-KR,Kroger Company (The) Common Stock,62.56,36947229072.0,4713451,Consumer Staples
-HSY,The Hershey Company Common Stock,163.84,32919659643.0,1228524,Consumer Staples
-KHC,The Kraft Heinz Company Common Stock,22.45,26621743367.0,11248500,Consumer Staples
-STZ,Constellation Brands Inc. Common Stock,126.4,21386688757.0,2393446,Consumer Staples
-BG,Bunge Limited Common Shares,104.22,20022654999.0,1514022,Consumer Staples
-TSN,Tyson Foods Inc. Common Stock,53.57,18846006998.0,3015339,Consumer Staples
-GIS,General Mills Inc. Common Stock,32.7,17484269609.0,7838602,Consumer Staples
-COKE,Coca-Cola Consolidated Inc. Common Stock,197.22,13127810063.0,410204,Consumer Staples
-SJM,The J.M. Smucker Company Common Stock,120.02,12820918424.0,1012175,Consumer Staples
-MKC,McCormick & Company Incorporated Common Stock,45.58,12263958953.0,4132825,Consumer Staples
-HRL,Hormel Foods Corporation Common Stock,19.3,10621770440.0,6620943,Consumer Staples
-DAR,Darling Ingredients Inc. Common Stock,61.06,9635446051.0,1580858,Consumer Staples
-CTVA,Corteva Inc. Common Stock ,13.3,8873706800.0,24764005,Consumer Staples
-SFD,Smithfield Foods Inc. Common Stock,18.48,7276822125.0,1484598,Consumer Staples
-CELH,Celsius Holdings Inc. Common Stock,28.39,7183664984.0,3388156,Consumer Staples
-PRMB,Primo Brands Corporation Class A Common Stock,19.18,6949950583.0,4324341,Consumer Staples
-LW,Lamb Weston Holdings Inc. Common Stock ,50.18,6913822830.0,3261519,Consumer Staples
-PPC,Pilgrim's Pride Corporation Common Stock,28.78,6852763321.0,802838,Consumer Staples
-CAG,ConAgra Brands Inc. Common Stock,13.68,6530989553.0,8959665,Consumer Staples
-ACI,Albertsons Companies Inc. Class A Common Stock,12.54,6085984065.0,11675428,Consumer Staples
-INGR,Ingredion Incorporated Common Stock,96.22,6068016059.0,504487,Consumer Staples
-SFM,Sprouts Farmers Market Inc. Common Stock,64.33,5998619716.0,2070647,Consumer Staples
-CPB,The Campbell's Company Common Stock,19.08,5690317942.0,9342795,Consumer Staples
-COCO,The Vita Coco Company Inc. Common Stock,57.72,3387829109.0,840852,Consumer Staples
-POST,Post Holdings Inc. Common Stock,76.83,3377201328.0,667584,Consumer Staples
-FRPT,Freshpet Inc. Common Stock,65.26,3136269909.0,1293781,Consumer Staples
-KN,Knowles Corporation Common Stock,36.52,3119185106.0,489407,Consumer Staples
-FIZZ,National Beverage Corp. Common Stock,32.15,3009731959.0,676521,Consumer Staples
-CALM,Cal-Maine Foods Inc. Common Stock,63.44,2963321289.0,933240,Consumer Staples
-TR,Tootsie Roll Industries Inc. Common Stock,37.71,2830951846.0,133577,Consumer Staples
-MZTI,The Marzetti Company Common Stock,101.22,2762395020.0,448234,Consumer Staples
-GRDN,Guardian Pharmacy Services Inc. Class A Common Stock,40.47,2563463043.0,733249,Consumer Staples
-UTZ,Utz Brands Inc Class A Common Stock ,14.3,2058659646.0,779680,Consumer Staples
-SONO,Sonos Inc. Common Stock,17.34,2051217596.0,1596131,Consumer Staples
-WMK,Weis Markets Inc. Common Stock,73.11,1809077487.0,81444,Consumer Staples
-SAM,Boston Beer Company Inc. (The) Common Stock,175.09,1801970426.0,182878,Consumer Staples
-IMKTA,Ingles Markets Incorporated Class A Common Stock,85.49,1623829204.0,94823,Consumer Staples
-JJSF,J & J Snack Foods Corp. Common Stock,80.29,1499946306.0,193416,Consumer Staples
-YSWY,Yesway Inc. Class A Common Stock,21.14,1335936930.0,168678,Consumer Staples
-FLO,Flowers Foods Inc. Common Stock,6.04,1280826805.0,6114695,Consumer Staples
-SENEA,Seneca Foods Corp. Class A Common Stock,183.41,1241633795.0,97444,Consumer Staples
-SENEB,Seneca Foods Corp. Class B Common Stock,182.14,1233036254.0,574,Consumer Staples
-GO,Grocery Outlet Holding Corp. Common Stock,11.92,1181087145.0,1390158,Consumer Staples
-AVO,Mission Produce Inc. Common Stock,11.56,1013562350.0,1220868,Consumer Staples
-BRBR,BellRing Brands Inc. Common Stock ,8.59,998829686.0,4114285,Consumer Staples
-BV,BrightView Holdings Inc. Common Stock,10.78,998228000.0,1058708,Consumer Staples
-SMPL,The Simply Good Foods Company Common Stock,10.43,922643484.0,1758716,Consumer Staples
-WEST,Westrock Coffee Company Common Stock,8.07,787853013.0,155244,Consumer Staples
-JBSS,John B. Sanfilippo & Son Inc. Common Stock,67.36,787672880.0,184080,Consumer Staples
-OFRM,Once Upon a Farm PBC Common Stock,16.56,695365214.0,354287,Consumer Staples
-NGVC,Natural Grocers by Vitamin Cottage Inc. Common Stock,30.01,691613911.0,92226,Consumer Staples
-VLGEA,Village Super Market Inc. Class A Common Stock,43.95,650738116.0,81106,Consumer Staples
-MAMA,Mama's Creations Inc. Common Stock,13.24,624232490.0,471076,Consumer Staples
-DNUT,Krispy Kreme Inc. Common Stock,3.03,525705000.0,2195341,Consumer Staples
-WEYS,Weyco Group Inc. Common Stock,52.43,500758039.0,21417,Consumer Staples
-ARKO,ARKO Corp. Common Stock,4.16,466692599.0,466301,Consumer Staples
-SUJA,Suja Life Inc. Class A Common Stock,10.73,414446379.0,179480,Consumer Staples
-VITL,Vital Farms Inc. Common Stock,9.47,406561513.0,1277531,Consumer Staples
-LWAY,Lifeway Foods Inc. Common Stock,22.58,341110347.0,98891,Consumer Staples
-MGPI,MGP Ingredients Inc.,14.36,307506131.0,237284,Consumer Staples
-ALCO,Alico Inc. Common Stock,38.59,286282269.0,13265,Consumer Staples
-BRCC,BRC Inc. Class A Common Stock,9.93,248535448.0,68637,Consumer Staples
-LMNR,Limoneira Co Common Stock,12.17,220666525.0,84462,Consumer Staples
-BNC,BNB Standard Corporation Common Stock,5.2,214104020.0,742154,Consumer Staples
-BGS,B&G Foods Inc. Common Stock,2.44,198312637.0,1913860,Consumer Staples
-MED,MEDIFAST INC Common Stock,11.62,129919769.0,91754,Consumer Staples
-BYND,Beyond Meat Inc. Common Stock,7.31,125687891.0,1077310,Consumer Staples
-ZVIA,Zevia PBC Class A Common Stock,1.17,90494119.0,160738,Consumer Staples
-UEIC,Universal Electronics Inc. Common Stock,5.5,70867841.0,67240,Consumer Staples
-GNSS,Genasys Inc. Common Stock,1.34,61026292.0,63304,Consumer Staples
-HAIN,Hain Celestial Group Inc. (The) Common Stock,0.6189,56321304.0,2686503,Consumer Staples
-BOF,BranchOut Food Inc. Common Stock,3.1,50405089.0,128710,Consumer Staples
-BRID,Bridgford Foods Corporation Common Stock,5.45,49468734.0,5681,Consumer Staples
-SOWG,Sow Good Inc. Common Stock,2.12,42611773.0,2055,Consumer Staples
-RYM,RYTHM Inc. Common Stock,19.21,42262000.0,17645,Consumer Staples
-KOSS,Koss Corporation Common Stock,3.84,36351122.0,18270,Consumer Staples
-PETS,PetMed Express Inc. Common Stock,1.26,27315432.0,82540,Consumer Staples
-JVA,Coffee Holding Co. Inc. Common Stock,4.63,26430813.0,52627,Consumer Staples
-LOCL,Local Bounti Corporation Common Stock,1.03,24081523.0,11840,Consumer Staples
-WVVIP,Willamette Valley Vineyards Inc. Series A Redeemable Preferred Stock,2.68,13345138.0,16291,Consumer Staples
-TULP,Bloomia Holdings Inc. Common Stock,2.5715,12422826.0,796,Consumer Staples
-BRFH,Barfresh Food Group Inc. Common Stock,0.75,12231129.0,36952,Consumer Staples
-WVVI,Willamette Valley Vineyards Inc. Common Stock,1.95,9710082.0,15060,Consumer Staples
-RMCF,Rocky Mountain Chocolate Factory Inc. Common Stock,0.97,9156399.0,29379,Consumer Staples
-MSN,Emerson Radio Corporation Common Stock,0.387,8143506.0,106781,Consumer Staples
-AQB,AquaBounty Technologies Inc. Common Stock,1.01,5198676.0,58934,Consumer Staples
-AMSS,AMASS Brands Inc. Common Stock,0.3462,4017679.0,105892,Consumer Staples
-IPST,IP Strategy Holdings Inc. Common Stock,2.85,2056497.0,18665,Consumer Staples
-EDBL,Edible Garden AG Incorporated Common Stock,1.04,2029569.0,92031,Consumer Staples
-YHC,LQR House Inc. Common Stock,1.55,2020978.0,508131,Consumer Staples
-MSS,Maison Solutions Inc. Class A Common Stock,1.56,1334329.0,30390,Consumer Staples
+KO,Coca-Cola Company (The) Common Stock,90.11,387702712287.0,15315878,Consumer Staples
+PEP,PepsiCo Inc. Common Stock,127.3,173476941012.0,11778726,Consumer Staples
+MNST,Monster Beverage Corporation,43.31,127269925136.0,7848462,Consumer Staples
+CVS,CVS Health Corporation Common Stock,87.55,111973855806.0,10479223,Consumer Staples
+MDLZ,Mondelez International Inc. Class A Common Stock,61.5,78492945506.0,7193769,Consumer Staples
+VYLR,Vylor Inc. Common Stock,76.94,51342287434.0,4591649,Consumer Staples
+KDP,Keurig Dr Pepper Inc. Common Stock,32.66,44444578401.0,11656979,Consumer Staples
+ADM,Archer-Daniels-Midland Company Common Stock,83.2,40099037306.0,3097123,Consumer Staples
+KR,Kroger Company (The) Common Stock,60.74,35872357638.0,8902904,Consumer Staples
+HSY,The Hershey Company Common Stock,163.05,32760928374.0,1118674,Consumer Staples
+KHC,The Kraft Heinz Company Common Stock,22.43,26598026892.0,11136641,Consumer Staples
+STZ,Constellation Brands Inc. Common Stock,127.06,21498359758.0,2105195,Consumer Staples
+BG,Bunge Limited Common Shares,107.56,20664332870.0,1341403,Consumer Staples
+TSN,Tyson Foods Inc. Common Stock,53.79,18923403330.0,2968618,Consumer Staples
+GIS,General Mills Inc. Common Stock,31.83,17019091794.0,7988176,Consumer Staples
+SJM,The J.M. Smucker Company Common Stock,121.33,12960856793.0,1039472,Consumer Staples
+COKE,Coca-Cola Consolidated Inc. Common Stock,194.16,12924123323.0,323343,Consumer Staples
+MKC,McCormick & Company Incorporated Common Stock,44.64,12011038343.0,3822017,Consumer Staples
+HRL,Hormel Foods Corporation Common Stock,19.21,10572238868.0,4381831,Consumer Staples
+DAR,Darling Ingredients Inc. Common Stock,63.1,9957364000.0,2018921,Consumer Staples
+CTVA,Corteva Inc. Common Stock ,13.36,8913738560.0,17317408,Consumer Staples
+SFD,Smithfield Foods Inc. Common Stock,18.22,7174442593.0,1782184,Consumer Staples
+LW,Lamb Weston Holdings Inc. Common Stock ,51.96,7159072026.0,2766378,Consumer Staples
+CELH,Celsius Holdings Inc. Common Stock,27.93,7067268863.0,4080002,Consumer Staples
+PPC,Pilgrim's Pride Corporation Common Stock,28.79,6855144406.0,976937,Consumer Staples
+PRMB,Primo Brands Corporation Class A Common Stock,18.9,6848491451.0,2864651,Consumer Staples
+CAG,ConAgra Brands Inc. Common Stock,13.7,6540537783.0,8062238,Consumer Staples
+ACI,Albertsons Companies Inc. Class A Common Stock,12.72,6173342688.0,16910859,Consumer Staples
+INGR,Ingredion Incorporated Common Stock,97.26,6133602598.0,536135,Consumer Staples
+SFM,Sprouts Farmers Market Inc. Common Stock,63.6,5930548950.0,2020555,Consumer Staples
+CPB,The Campbell's Company Common Stock,18.95,5651547432.0,6889280,Consumer Staples
+POST,Post Holdings Inc. Common Stock,76.94,3382036577.0,544545,Consumer Staples
+COCO,The Vita Coco Company Inc. Common Stock,57.61,3381372747.0,958286,Consumer Staples
+FRPT,Freshpet Inc. Common Stock,66.16,3179522176.0,1127235,Consumer Staples
+KN,Knowles Corporation Common Stock,36.58,3124309725.0,469882,Consumer Staples
+FIZZ,National Beverage Corp. Common Stock,32.99,3088368813.0,604133,Consumer Staples
+CALM,Cal-Maine Foods Inc. Common Stock,62.71,2929222541.0,1265007,Consumer Staples
+TR,Tootsie Roll Industries Inc. Common Stock,37.65,2826447547.0,106088,Consumer Staples
+MZTI,The Marzetti Company Common Stock,100.95,2755026450.0,302999,Consumer Staples
+GRDN,Guardian Pharmacy Services Inc. Class A Common Stock,39.81,2521657122.0,300490,Consumer Staples
+SONO,Sonos Inc. Common Stock,17.72,2096169308.0,2394446,Consumer Staples
+UTZ,Utz Brands Inc Class A Common Stock ,14.3,2058659646.0,884750,Consumer Staples
+WMK,Weis Markets Inc. Common Stock,74.09,1833327192.0,113628,Consumer Staples
+SAM,Boston Beer Company Inc. (The) Common Stock,177.23,1823994624.0,203051,Consumer Staples
+IMKTA,Ingles Markets Incorporated Class A Common Stock,85.33,1620790104.0,84561,Consumer Staples
+JJSF,J & J Snack Foods Corp. Common Stock,80.75,1508539846.0,227042,Consumer Staples
+YSWY,Yesway Inc. Class A Common Stock,21.64,1367534303.0,177643,Consumer Staples
+FLO,Flowers Foods Inc. Common Stock,5.97,1265982785.0,6378113,Consumer Staples
+SENEA,Seneca Foods Corp. Class A Common Stock,183.07,1239332091.0,48470,Consumer Staples
+SENEB,Seneca Foods Corp. Class B Common Stock,182.14,1233036254.0,63,Consumer Staples
+GO,Grocery Outlet Holding Corp. Common Stock,12.34,1222702631.0,2573786,Consumer Staples
+AVO,Mission Produce Inc. Common Stock,11.81,1035481951.0,835645,Consumer Staples
+BV,BrightView Holdings Inc. Common Stock,10.8,1000080000.0,1033239,Consumer Staples
+BRBR,BellRing Brands Inc. Common Stock ,8.51,989527431.0,2726171,Consumer Staples
+SMPL,The Simply Good Foods Company Common Stock,10.545,932816447.0,1964977,Consumer Staples
+WEST,Westrock Coffee Company Common Stock,8.07,787853013.0,226261,Consumer Staples
+JBSS,John B. Sanfilippo & Son Inc. Common Stock,66.51,777733421.0,181624,Consumer Staples
+NGVC,Natural Grocers by Vitamin Cottage Inc. Common Stock,30.26,697375440.0,86760,Consumer Staples
+OFRM,Once Upon a Farm PBC Common Stock,16.38,687806896.0,115089,Consumer Staples
+VLGEA,Village Super Market Inc. Class A Common Stock,43.94,650590052.0,47124,Consumer Staples
+MAMA,Mama's Creations Inc. Common Stock,13.21,622818065.0,769418,Consumer Staples
+DNUT,Krispy Kreme Inc. Common Stock,3.07,532645000.0,2489866,Consumer Staples
+WEYS,Weyco Group Inc. Common Stock,52.73,503623334.0,19060,Consumer Staples
+ARKO,ARKO Corp. Common Stock,4.1,459961456.0,425388,Consumer Staples
+SUJA,Suja Life Inc. Class A Common Stock,11.49,443801388.0,320725,Consumer Staples
+VITL,Vital Farms Inc. Common Stock,9.34,400980415.0,1181720,Consumer Staples
+LWAY,Lifeway Foods Inc. Common Stock,22.6,341412482.0,148220,Consumer Staples
+MGPI,MGP Ingredients Inc.,14.61,312859650.0,277502,Consumer Staples
+ALCO,Alico Inc. Common Stock,38.25,283759958.0,19185,Consumer Staples
+BRCC,BRC Inc. Class A Common Stock,10.06,251789185.0,167173,Consumer Staples
+LMNR,Limoneira Co Common Stock,12.06,218672004.0,121405,Consumer Staples
+BNC,BNB Standard Corporation Common Stock,5.09,209574897.0,963258,Consumer Staples
+BGS,B&G Foods Inc. Common Stock,2.43,197499881.0,1197282,Consumer Staples
+MED,MEDIFAST INC Common Stock,11.67,130478804.0,103118,Consumer Staples
+BYND,Beyond Meat Inc. Common Stock,7.21,123968495.0,791428,Consumer Staples
+ZVIA,Zevia PBC Class A Common Stock,1.18,91267573.0,141080,Consumer Staples
+UEIC,Universal Electronics Inc. Common Stock,5.12,65971517.0,53526,Consumer Staples
+GNSS,Genasys Inc. Common Stock,1.34,61026292.0,855204,Consumer Staples
+HAIN,Hain Celestial Group Inc. (The) Common Stock,0.571,51962296.0,550792,Consumer Staples
+BRID,Bridgford Foods Corporation Common Stock,5.49,49831808.0,5817,Consumer Staples
+RYM,RYTHM Inc. Common Stock,18.73,41206000.0,11244,Consumer Staples
+BOF,BranchOut Food Inc. Common Stock,2.455,39917578.0,277507,Consumer Staples
+SOWG,Sow Good Inc. Common Stock,1.83,36782804.0,28521,Consumer Staples
+KOSS,Koss Corporation Common Stock,3.83,36256458.0,22064,Consumer Staples
+PETS,PetMed Express Inc. Common Stock,1.27,27532221.0,89004,Consumer Staples
+JVA,Coffee Holding Co. Inc. Common Stock,4.56,26031211.0,102827,Consumer Staples
+LOCL,Local Bounti Corporation Common Stock,1.03,24081523.0,4306,Consumer Staples
+WVVIP,Willamette Valley Vineyards Inc. Series A Redeemable Preferred Stock,2.72,13544319.0,24063,Consumer Staples
+TULP,Bloomia Holdings Inc. Common Stock,2.6,12560509.0,226,Consumer Staples
+BRFH,Barfresh Food Group Inc. Common Stock,0.6923,11290147.0,22504,Consumer Staples
+WVVI,Willamette Valley Vineyards Inc. Common Stock,2.14,10656192.0,11999,Consumer Staples
+RMCF,Rocky Mountain Chocolate Factory Inc. Common Stock,0.9488,8956280.0,60685,Consumer Staples
+MSN,Emerson Radio Corporation Common Stock,0.388,8164549.0,133518,Consumer Staples
+BNCWZ,BNB Standard Corporation Warrant,0.1516,6241956.0,11633,Consumer Staples
+AQB,AquaBounty Technologies Inc. Common Stock,1.035,5327356.0,83976,Consumer Staples
+AMSS,AMASS Brands Inc. Common Stock,0.3719,4315930.0,177007,Consumer Staples
+YHC,LQR House Inc. Common Stock,1.9,2477328.0,677171,Consumer Staples
+IPST,IP Strategy Holdings Inc. Common Stock,2.82,2034850.0,21147,Consumer Staples
+EDBL,Edible Garden AG Incorporated Common Stock,0.9083,1772556.0,90991,Consumer Staples
+MSS,Maison Solutions Inc. Class A Common Stock,1.55,1325775.0,31119,Consumer Staples
 BNCWW,BNB Standard Corporation Warrant,0.015,617608.0,6,Consumer Staples
+EDBLW,Edible Garden AG Incorporated Warrant,0.0307,59911.0,1933,Consumer Staples
