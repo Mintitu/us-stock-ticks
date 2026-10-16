@@ -1,47 +1,47 @@
 symbol,name,price,marketCap,volume,industry
-LIN,Linde plc Ordinary Shares,492.11,226852948014.0,1394217,Basic Materials
-SCCO,Southern Copper Corporation Common Stock,207.42,173057082459.0,611505,Basic Materials
-NEM,Newmont Corporation,115.59,121796289605.0,4386859,Basic Materials
-FCX,Freeport-McMoRan Inc. Common Stock,72.42,103996389016.0,7317682,Basic Materials
-APD,Air Products and Chemicals Inc. Common Stock,288.96,64347210749.0,891385,Basic Materials
-IP,International Paper Company Common Stock,31.81,16845618360.0,3482758,Basic Materials
-CDE,Coeur Mining Inc. Common Stock,16.26,16714223067.0,31841557,Basic Materials
-MP,MP Materials Corp. Common Stock,42.43,7556850379.0,5067117,Basic Materials
-AUGO,Aura Minerals Inc. Common Shares,87.94,7368424271.0,1116751,Basic Materials
-CLF,Cleveland-Cliffs Inc. Common Stock,12.86,7337145004.0,14554205,Basic Materials
-LPX,Louisiana-Pacific Corporation Common Stock,66.81,4671583022.0,1157980,Basic Materials
-FBIN,Fortune Brands Innovations Inc. Common Stock,39.05,4661456177.0,1500045,Basic Materials
-TREX,Trex Company Inc. Common Stock,45.05,4589026810.0,1008323,Basic Materials
-USAR,USA Rare Earth Inc. Class A Common Stock,11.28,4230863676.0,13782928,Basic Materials
-UFPI,UFP Industries Inc. Common Stock,75.85,4183999092.0,535080,Basic Materials
-MTX,Minerals Technologies Inc. Common Stock,63.83,1986948878.0,174959,Basic Materials
-HYMC,Hycroft Mining Holding Corporation Class A Common Stock,17.57,1637202135.0,1764480,Basic Materials
-SLVM,Sylvamo Corporation Common Stock,32.17,1279087017.0,244854,Basic Materials
-KRO,Kronos Worldwide Inc Common Stock,7.46,858627469.0,596717,Basic Materials
-KOP,Koppers Holdings Inc. Common Stock,44.41,839862735.0,144428,Basic Materials
-DC,Dakota Gold Corp. Common Stock,5.7,764786049.0,991786,Basic Materials
-LXU,LSB Industries Inc. Common Stock,10.23,736534466.0,608181,Basic Materials
-MATV,Mativ Holdings Inc. Common Stock,11.64,642412741.0,469809,Basic Materials
-TROX,Tronox Holdings plc Ordinary Shares (UK),3.5,558950102.0,1840357,Basic Materials
-CTGO,Contango Silver & Gold Inc. Common Stock,15.81,528697325.0,284359,Basic Materials
-IPX,IperionX Limited American Depositary Share,14.68,498215815.0,319013,Basic Materials
-RYAM,Rayonier Advanced Materials Inc. Common Stock,7.32,495155603.0,636076,Basic Materials
-NB,NioCorp Developments Ltd. Common Stock,3.34,487137764.0,4829325,Basic Materials
-ALOY,REalloys Inc. Common Stock,6.72,466495216.0,1417203,Basic Materials
-VHI,Valhi Inc. Common Stock,14.36,406692331.0,7135,Basic Materials
-MAGN,Magnera Corporation Common Stock,11.09,397022000.0,467705,Basic Materials
-VGZ,Vista Gold Corp Common Stock,2.59,378065786.0,2542179,Basic Materials
-IDR,Idaho Strategic Resources Inc. Common Stock,21.71,343586151.0,628865,Basic Materials
-NL,NLI Holdings Inc. Common Stock,6.63,324198606.0,20307,Basic Materials
-CLW,Clearwater Paper Corporation Common Stock,19.59,315942897.0,152119,Basic Materials
-USAU,U.S. Gold Corp. Common Stock,13.32,220161791.0,187787,Basic Materials
-LTBR,Lightbridge Corporation Common Stock,5.64,211263633.0,668549,Basic Materials
-EU,enCore Energy Corp. Common Shares,0.9126,177300814.0,2188689,Basic Materials
-NUCL,Eagle Nuclear Energy Corp. Common stock,5.47,161801495.0,140497,Basic Materials
-JELD,JELD-WEN Holding Inc. Common Stock,1.38,119733467.0,1891372,Basic Materials
-PZG,Paramount Gold Nevada Corp. Common Stock,1.14,98285534.0,302763,Basic Materials
-USGO,U.S. GoldMining Inc. Common stock,6.07,85196918.0,115971,Basic Materials
-NIOBW,NioCorp Developments Ltd. Warrant,0.52,75841808.0,33431,Basic Materials
-WWR,Westwater Resources Inc. Common Stock,0.4389,56427105.0,647097,Basic Materials
-XPL,Solitario Resources Corp. Common Stock,0.565,53496722.0,68300,Basic Materials
-NUCLW,Eagle Nuclear Energy Corp. Warrants,0.55,16268889.0,5230,Basic Materials
+LIN,Linde plc Ordinary Shares,492.7,227124926310.0,2485356,Basic Materials
+SCCO,Southern Copper Corporation Common Stock,200.68,167433686760.0,888857,Basic Materials
+NEM,Newmont Corporation,111.56,117549909753.0,6653933,Basic Materials
+FCX,Freeport-McMoRan Inc. Common Stock,69.62,99975539951.0,12441850,Basic Materials
+APD,Air Products and Chemicals Inc. Common Stock,292.53,65142198091.0,1047091,Basic Materials
+IP,International Paper Company Common Stock,31.9,16893279651.0,5421742,Basic Materials
+CDE,Coeur Mining Inc. Common Stock,14.98,15398466270.0,41826860,Basic Materials
+CLF,Cleveland-Cliffs Inc. Common Stock,12.58,7177393791.0,23955289,Basic Materials
+MP,MP Materials Corp. Common Stock,39.95,7115158441.0,10079169,Basic Materials
+AUGO,Aura Minerals Inc. Common Shares,82.32,6897528837.0,1173970,Basic Materials
+LPX,Louisiana-Pacific Corporation Common Stock,66.51,4650605999.0,1018297,Basic Materials
+FBIN,Fortune Brands Innovations Inc. Common Stock,38.82,4634000737.0,1633164,Basic Materials
+TREX,Trex Company Inc. Common Stock,44.37,4519758480.0,1123542,Basic Materials
+UFPI,UFP Industries Inc. Common Stock,75.75,4178482943.0,490600,Basic Materials
+USAR,USA Rare Earth Inc. Class A Common Stock,10.32,3870790171.0,21103548,Basic Materials
+MTX,Minerals Technologies Inc. Common Stock,63.11,1964536170.0,178348,Basic Materials
+HYMC,Hycroft Mining Holding Corporation Class A Common Stock,16.345,1523054576.0,3046812,Basic Materials
+SLVM,Sylvamo Corporation Common Stock,32.11,1276701403.0,323187,Basic Materials
+KRO,Kronos Worldwide Inc Common Stock,7.32,842513817.0,318599,Basic Materials
+KOP,Koppers Holdings Inc. Common Stock,43.67,825868175.0,116641,Basic Materials
+LXU,LSB Industries Inc. Common Stock,10.1,727174790.0,957055,Basic Materials
+DC,Dakota Gold Corp. Common Stock,5.24,703066473.0,1724418,Basic Materials
+MATV,Mativ Holdings Inc. Common Stock,11.59,639653236.0,353021,Basic Materials
+TROX,Tronox Holdings plc Ordinary Shares (UK),3.45,550965100.0,2407702,Basic Materials
+CTGO,Contango Silver & Gold Inc. Common Stock,14.55,486562054.0,676139,Basic Materials
+RYAM,Rayonier Advanced Materials Inc. Common Stock,7.05,476891666.0,806164,Basic Materials
+IPX,IperionX Limited American Depositary Share,13.98,474458930.0,294975,Basic Materials
+NB,NioCorp Developments Ltd. Common Stock,3.14,457967838.0,4827092,Basic Materials
+ALOY,REalloys Inc. Common Stock,6.17,428314804.0,2271131,Basic Materials
+VHI,Valhi Inc. Common Stock,14.33,405842696.0,8792,Basic Materials
+MAGN,Magnera Corporation Common Stock,10.59,379122000.0,403327,Basic Materials
+VGZ,Vista Gold Corp Common Stock,2.55,372226932.0,2749640,Basic Materials
+NL,NLI Holdings Inc. Common Stock,6.8,332511391.0,38366,Basic Materials
+IDR,Idaho Strategic Resources Inc. Common Stock,20.58,325702579.0,615143,Basic Materials
+CLW,Clearwater Paper Corporation Common Stock,18.46,297718523.0,147836,Basic Materials
+USAU,U.S. Gold Corp. Common Stock,11.94,197352236.0,347437,Basic Materials
+LTBR,Lightbridge Corporation Common Stock,5.07,189912521.0,929726,Basic Materials
+EU,enCore Energy Corp. Common Shares,0.848,164750263.0,3807713,Basic Materials
+NUCL,Eagle Nuclear Energy Corp. Common stock,5.27,156434501.0,221122,Basic Materials
+JELD,JELD-WEN Holding Inc. Common Stock,1.31,113660030.0,2134001,Basic Materials
+PZG,Paramount Gold Nevada Corp. Common Stock,1.04,89663996.0,507982,Basic Materials
+USGO,U.S. GoldMining Inc. Common stock,5.66,79442266.0,100039,Basic Materials
+NIOBW,NioCorp Developments Ltd. Warrant,0.475,69278574.0,6666,Basic Materials
+WWR,Westwater Resources Inc. Common Stock,0.421,54125795.0,913943,Basic Materials
+XPL,Solitario Resources Corp. Common Stock,0.5349,50646719.0,116747,Basic Materials
+NUCLW,Eagle Nuclear Energy Corp. Warrants,0.4839,14364071.0,33215,Basic Materials
