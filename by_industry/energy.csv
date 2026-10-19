@@ -1,140 +1,140 @@
 symbol,name,price,marketCap,volume,industry
-XOM,ExxonMobil Holdings Corporation Common Stock,177.01,727849536040.0,13578920,Energy
-CVX,Chevron Corporation Common Stock,222.04,438700253679.0,9505142,Energy
-COP,ConocoPhillips Common Stock,142.34,170998376761.0,5672272,Energy
-MPC,Marathon Petroleum Corporation Common Stock,484.92,136177544074.0,1635304,Energy
-VLO,Valero Energy Corporation Common Stock,459.78,132383288019.0,2124859,Energy
-PSX,Phillips 66 Common Stock,297.29,118624928118.0,2767105,Energy
-EOG,EOG Resources Inc. Common Stock,154.19,80877153647.0,2509002,Energy
-BE,Bloom Energy Corporation Class A Common Stock,239.34,70492174992.0,18437965,Energy
-OXY,Occidental Petroleum Corporation Common Stock,61.41,61387730953.0,8717684,Energy
-MPLX,MPLX LP Common Units Representing Limited Partner Interests,57.46,58256295102.0,2090846,Energy
-FANG,Diamondback Energy Inc. Common Stock,197.51,55307609961.0,2809067,Energy
-DVN,Devon Energy Corporation Common Stock,49.92,54912000000.0,8932096,Energy
-EQT,EQT Corporation Common Stock,52.75,32995969000.0,5234294,Energy
-HAL,Halliburton Company Common Stock,32.83,27351669949.0,8942122,Energy
-TPL,Texas Pacific Land Corporation Common Stock,354.57,24456353351.0,327684,Energy
-DINO,HF Sinclair Corporation Common Stock,127.69,22701219679.0,2242619,Energy
-EXE,Expand Energy Corporation Common Stock,91.11,21092310216.0,5299695,Energy
-PR,Permian Resources Corporation Class A Common Stock,24.06,20151622118.0,10821004,Energy
-WWD,Woodward Inc. Common Stock,328.53,19398323245.0,415434,Energy
-PAA,Plains All American Pipeline L.P. Common Units representing Limited Partner Interests,24.98,17625050171.0,2009713,Energy
-APA,APA Corporation Common Stock,47.37,16596151029.0,5262476,Energy
-VNOM,Viper Energy Inc. Class A Common Stock,44.13,15851270628.0,2553687,Energy
-AR,Antero Resources Corporation Common Stock,36.63,11261490570.0,3358049,Energy
-PBF,PBF Energy Inc. Class A Common Stock,89.51,10610232369.0,2979537,Energy
-LFUS,Littelfuse Inc. Common Stock,401.16,10188961347.0,197113,Energy
-FPS,Forgent Power Solutions Inc. Class A Common Stock,32.7,9954824670.0,7425542,Energy
-RRC,Range Resources Corporation Common Stock,41.84,9777150908.0,2354316,Energy
-SM,SM Energy Company Common Stock,38.22,9090782479.0,2056020,Energy
-CHRD,Chord Energy Corporation Common Stock,146.18,7995734929.0,495319,Energy
-NE,Noble Corporation plc A Ordinary Shares,42.9,6848651152.0,984500,Energy
-MTDR,Matador Resources Company Common Stock,55.19,6829995181.0,1353660,Energy
-MGY,Magnolia Oil & Gas Corporation Class A Common Stock,24.84,6657277038.0,2677263,Energy
-CVI,CVR Energy Inc. Common Stock,61.96,6228875914.0,522459,Energy
-POWL,Powell Industries Inc. Common Stock,169.53,6176412575.0,1084665,Energy
-VAL,Valaris Limited Common Shares,84.73,5883295927.0,1858083,Energy
-MUR,Murphy Oil Corporation Common Stock,39.31,5636312024.0,2976292,Energy
-PAGP,Plains GP Holdings L.P. Class A Units representing Limited Partner Interests,27.11,5365180802.0,2727186,Energy
-CNX,CNX Resources Corporation Common Stock,34.82,5151397440.0,1404845,Energy
-CLMT,Calumet Inc. Common Stock,57.53,5056785402.0,1823149,Energy
-DK,Delek US Holdings Inc. Common Stock,78.97,4835504781.0,1459900,Energy
-CRC,California Resources Corporation Common Stock,54.03,4798938819.0,1086728,Energy
-HCC,Warrior Met Coal Inc. Common Stock,89.98,4751131788.0,847683,Energy
-IEP,Icahn Enterprises L.P. Common Stock,6.64,4720476218.0,937774,Energy
-CNR,Core Natural Resources Inc. Common Stock,89.6,4447408627.0,463453,Energy
-PARR,Par Pacific Holdings Inc.  Common Stock,88.67,4442333926.0,724505,Energy
-PTEN,Patterson-UTI Energy Inc. Common Stock,11.54,4401181446.0,9246277,Energy
-OII,Oceaneering International Inc. Common Stock,43.53,4332525447.0,872423,Energy
-CRGY,Crescent Energy Company Class A Common Stock,12.85,4246368698.0,10683660,Energy
-CRK,Comstock Resources Inc. Common Stock,13.7,4022601508.0,2507667,Energy
-HESM,Hess Midstream LP Class A Representing Limited Partner Interests,30.65,3933954503.0,2760938,Energy
-HP,Helmerich & Payne Inc. Common Stock,38.59,3856643888.0,870412,Energy
-ACCV,Accelevation Holdings Corp. Class A Ordinary Shares,14.1,3333575002.0,1017408,Energy
-DKL,Delek Logistics Partners L.P. Common Units representing Limited Partner Interests,56.41,3260345749.0,99067,Energy
-ARLP,Alliance Resource Partners L.P. Common Units representing Limited Partners Interests,24.87,3199744381.0,263906,Energy
-BSM,Black Stone Minerals L.P. Common units representing limited partner interests,14.79,3145989345.0,476265,Energy
-LBRT,Liberty Energy Inc. Class A common stock,18.02,2940709316.0,3508558,Energy
-GPOR,Gulfport Energy Corporation Common Shares,165.59,2928271371.0,172924,Energy
-BTU,Peabody Energy Corporation Common Stock ,23.46,2859774000.0,3090302,Energy
-TALO,Talos Energy Inc. Common Stock,17.03,2843421920.0,3691364,Energy
-NOG,Northern Oil and Gas Inc. Common Stock,26.3,2802242066.0,2321421,Energy
-MGEE,MGE Energy Inc,71.32,2694755736.0,155771,Energy
-WTTR,Select Water Solutions Inc. Class A common stock,18.83,2607594085.0,1409240,Energy
-BKV,BKV Corporation Common Stock,23.1,2528013873.0,2402497,Energy
-AMR,Alpha Metallurgical Resources Inc. Common Stock,174.51,2212620143.0,320049,Energy
-PLUG,Plug Power Inc. Common Stock,1.45,2025933153.0,82854247,Energy
-NESR,National Energy Services Reunited Corp Ordinary Shares,19.58,1974677343.0,4630711,Energy
-WKC,World Kinect Corporation Common Stock,36.72,1878287486.0,947791,Energy
-MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,10.88,1816395263.0,356369,Energy
-KRP,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,15.78,1810022650.0,696422,Energy
-GEL,Genesis Energy L.P. Common Units,14.23,1738540588.0,278538,Energy
-GLP,Global Partners LP Common Units representing Limited Partner Interests,48.15,1636886358.0,57749,Energy
-PBT,Permian Basin Royalty Trust Common Stock,34.6,1612664342.0,105264,Energy
-HOS,Hornbeck Offshore Services Inc. Common Stock,6.87,1526284453.0,3186511,Energy
-NRP,Natural Resource Partners LP Limited Partnership,111.22,1473710823.0,21818,Energy
-DMLP,Dorchester Minerals L.P. Common Units Representing Limited Partnership Interests,30.0,1472742240.0,53137,Energy
-RES,RPC Inc. Common Stock,5.97,1323292362.0,2568556,Energy
-HPK,HighPeak Energy Inc. Common Stock,9.91,1253147288.0,714541,Energy
-FCEL,FuelCell Energy Inc. Common Stock,14.16,1132151415.0,7853583,Energy
-SBR,Sabine Royalty Trust Common Stock,72.43,1055981958.0,22171,Energy
-REPX,Riley Exploration Permian Inc. Common Stock,46.43,1028600238.0,173062,Energy
-PUMP,ProPetro Holding Corp. Common Stock,8.22,1009612598.0,6255208,Energy
-INR,Infinity Natural Resources Inc. Class A Common Stock,13.29,842881809.0,344972,Energy
-CAPL,CrossAmerica Partners LP Common Units representing limited partner interests,21.42,817671122.0,10677,Energy
-TXO,TXO Partners L.P. Common Units Representing Limited Partner Interests,14.25,790111300.0,95073,Energy
-TTI,Tetra Technologies Inc. Common Stock,5.33,789227912.0,3110764,Energy
-ACDC,ProFrac Holding Corp. Class A Common Stock,4.21,766736828.0,1226377,Energy
-VTS,Vitesse Energy Inc. Common Stock,17.44,734299288.0,373205,Energy
-GRNT,Granite Ridge Resources Inc. Common Stock,4.94,651587195.0,1128004,Energy
-SOC,Sable Offshore Corp. Common Stock,3.36,644681762.0,5624002,Energy
-EGY,VAALCO Energy Inc.  Common Stock,6.06,637462175.0,1104281,Energy
-WTI,W&T Offshore Inc. Common Stock,3.65,550941775.0,4261536,Energy
-METC,Ramaco Resources Inc. Class A Common Stock,8.35,531755338.0,3003262,Energy
-SD,SandRidge Energy Inc. Common Stock,14.04,520537156.0,319948,Energy
-NUAI,New Era Energy & Digital Inc. Common Stock,3.41,411918039.0,17813227,Energy
-NGS,Natural Gas Services Group Inc. Common Stock,31.26,403200389.0,135089,Energy
-RNGR,Ranger Energy Services Inc. Class A Common Stock,14.79,350663890.0,160368,Energy
-REI,Ring Energy Inc. Common Stock,1.32,343912281.0,2722676,Energy
-PNRG,PrimeEnergy Resources Corporation Common Stock,212.55,336381630.0,50618,Energy
-FTW,Presidio Production Company Class A Common Stock,9.89,311527454.0,41568,Energy
-METCB,Ramaco Resources Inc. Class B Common Stock,4.04,257280427.0,152390,Energy
-NC,NACCO Industries Inc. Common Stock,34.02,256738564.0,23063,Energy
-NPWR,NET Power Inc. Class A Common Stock,1.09,245095831.0,1235991,Energy
-NUAIW,New Era Energy & Digital Inc. Warrants,2.02,244010100.0,22084,Energy
-KGEI,Kolibri Global Energy Inc. Common stock,6.39,229730053.0,152779,Energy
-SJT,San Juan Basin Royalty Trust Common Stock,4.58,213468286.0,677647,Energy
-EAF,GrafTech International Ltd. Common Stock,7.73,201692428.0,577229,Energy
-APC,ARKO Petroleum Corp. Class A Common Stock,15.85,199238035.0,92453,Energy
-AMPY,Amplify Energy Corp. Common Stock,4.34,179920993.0,460886,Energy
-EPSN,Epsilon Energy Ltd. Common Share,5.94,179885647.0,58159,Energy
-ANNA,AleAnna Inc. Class A Common Stock,2.65,177376160.0,98123,Energy
-GLND,Greenland Energy Company Common Stock,3.9,170547757.0,175017978,Energy
-PED,Pedevco Corp. Common Stock,12.81,170270687.0,14830,Energy
-EPM,Evolution Petroleum Corporation Inc. Common Stock,3.71,149038958.0,291074,Energy
-KLXE,KLX Energy Services Holdings Inc. Common Stock,1.31,138437090.0,185672,Energy
-EP,Empire Petroleum Corporation Common Stock,3.2,133127491.0,121533,Energy
-AREC,American Resources Corporation Class A Common Stock,1.22,130504952.0,3888838,Energy
-TUSK,Mammoth Energy Services Inc. Common Stock,2.71,130425755.0,51491,Energy
-MMLP,Martin Midstream Partners L.P. Limited Partnership,2.0,78249372.0,20426,Energy
-NRT,North European Oil Royality Trust Common Stock,8.38,77017144.0,15923,Energy
-CRT,Cross Timbers Royalty Trust Common Stock,12.49,74940000.0,13667,Energy
-BSIN,Big Sky Industrial Inc. Common Stock,1.41,74015733.0,453221,Energy
-DWSN,Dawson Geophysical Company Common Stock,2.36,73291258.0,176414,Energy
-BATL,Battalion Oil Corporation Common Stock,1.03,59000620.0,2831960,Energy
-PVL,Permianville Royalty Trust Units of Beneficial Interest,1.78,58740000.0,202142,Energy
-VOC,VOC Energy Trust Units of Beneficial Interest,3.4,57800000.0,34850,Energy
-GLNDW,Greenland Energy Company Warrant,1.01,44167496.0,1291016,Energy
-PROP,Prairie Operating Co. Common Stock,0.3676,41464548.0,1445164,Energy
-AGIG,Abundia Global Impact Group Inc. Common stock,0.851,37571923.0,109315,Energy
-CKX,CKX Lands Inc. Common Stock,10.91,22399637.0,984,Energy
-PRT,PermRock Royalty Trust Units of Beneficial Interest,1.72,20925059.0,36723,Energy
-MXC,Mexco Energy Corporation Common Stock,9.92,20296320.0,30721,Energy
-ANNAW,AleAnna Inc. Warrant,0.2411,16137884.0,1697,Energy
-BRN,Barnwell Industries Inc. Common Stock,0.9466,13663518.0,13662,Energy
-MARPS,Marine Petroleum Trust Units of Beneficial Interest,4.5,9000000.0,10035,Energy
-GBR,New Concept Energy Inc Common Stock,0.706,5035145.0,12680,Energy
-MTR,Mesa Royalty Trust Common Stock,2.07,3857631.0,15187,Energy
-RKDA,Arcadia Biosciences Inc. Common Stock,0.201,484251.0,33836904,Energy
-METCI,Ramaco Resources Inc. 8.250% Senior Notes due 2030,25.1427,0.0,1396,Energy
-METCZ,Ramaco Resources Inc. 8.375% Senior Notes due 2029,25.165,0.0,3611,Energy
+XOM,ExxonMobil Holdings Corporation Common Stock,174.68,718268781173.0,11232725,Energy
+CVX,Chevron Corporation Common Stock,219.32,433326155814.0,7103386,Energy
+COP,ConocoPhillips Common Stock,141.73,170265560899.0,8342136,Energy
+MPC,Marathon Petroleum Corporation Common Stock,476.92,133930945970.0,2082560,Energy
+VLO,Valero Energy Corporation Common Stock,444.06,127857068332.0,2516862,Energy
+PSX,Phillips 66 Common Stock,289.2,115396848907.0,2486531,Energy
+EOG,EOG Resources Inc. Common Stock,152.62,80053642841.0,2929108,Energy
+BE,Bloom Energy Corporation Class A Common Stock,236.3,69596811860.0,17671465,Energy
+OXY,Occidental Petroleum Corporation Common Stock,60.67,60647999299.0,8654405,Energy
+MPLX,MPLX LP Common Units Representing Limited Partner Interests,57.12,57911583297.0,1742939,Energy
+FANG,Diamondback Energy Inc. Common Stock,195.6,54772763447.0,2192986,Energy
+DVN,Devon Energy Corporation Common Stock,49.24,54164000000.0,8407347,Energy
+EQT,EQT Corporation Common Stock,52.45,32808314200.0,5475659,Energy
+HAL,Halliburton Company Common Stock,32.89,27401657771.0,9084724,Energy
+TPL,Texas Pacific Land Corporation Common Stock,346.52,23901107153.0,248780,Energy
+DINO,HF Sinclair Corporation Common Stock,124.7,22169645970.0,1933019,Energy
+EXE,Expand Energy Corporation Common Stock,90.8,21020544041.0,3033376,Energy
+PR,Permian Resources Corporation Class A Common Stock,23.61,19774721455.0,9657672,Energy
+WWD,Woodward Inc. Common Stock,333.27,19678200431.0,614501,Energy
+PAA,Plains All American Pipeline L.P. Common Units representing Limited Partner Interests,25.15,17744996469.0,2464549,Energy
+APA,APA Corporation Common Stock,47.23,16547101817.0,3301305,Energy
+VNOM,Viper Energy Inc. Class A Common Stock,43.73,15707592671.0,1926851,Energy
+AR,Antero Resources Corporation Common Stock,36.44,11203077160.0,2572278,Energy
+PBF,PBF Energy Inc. Class A Common Stock,86.99,10311519538.0,2747421,Energy
+LFUS,Littelfuse Inc. Common Stock,391.83,9951991037.0,336513,Energy
+FPS,Forgent Power Solutions Inc. Class A Common Stock,32.37,9854363137.0,8225194,Energy
+RRC,Range Resources Corporation Common Stock,41.42,9679005511.0,2075813,Energy
+SM,SM Energy Company Common Stock,37.52,8924284631.0,2302701,Energy
+CHRD,Chord Energy Corporation Common Stock,148.33,8113335354.0,807732,Energy
+NE,Noble Corporation plc A Ordinary Shares,42.91,6850247574.0,1547674,Energy
+MTDR,Matador Resources Company Common Stock,53.77,6654264194.0,1450136,Energy
+MGY,Magnolia Oil & Gas Corporation Class A Common Stock,24.52,6571515015.0,2262871,Energy
+POWL,Powell Industries Inc. Common Stock,170.82,6223410582.0,1270224,Energy
+CVI,CVR Energy Inc. Common Stock,61.68,6200727346.0,933025,Energy
+VAL,Valaris Limited Common Shares,83.75,5815248836.0,1039512,Energy
+MUR,Murphy Oil Corporation Common Stock,39.85,5713737831.0,2005730,Energy
+PAGP,Plains GP Holdings L.P. Class A Units representing Limited Partner Interests,27.17,5377055049.0,2578902,Energy
+CNX,CNX Resources Corporation Common Stock,34.62,5121808713.0,1520808,Energy
+CLMT,Calumet Inc. Common Stock,58.24,5119193148.0,1147779,Energy
+HCC,Warrior Met Coal Inc. Common Stock,89.46,4723674703.0,517638,Energy
+CRC,California Resources Corporation Common Stock,53.15,4720777313.0,863726,Energy
+IEP,Icahn Enterprises L.P. Common Stock,6.64,4720476218.0,815980,Energy
+DK,Delek US Holdings Inc. Common Stock,76.88,4707529537.0,1600881,Energy
+CNR,Core Natural Resources Inc. Common Stock,89.0,4417626873.0,361996,Energy
+PTEN,Patterson-UTI Energy Inc. Common Stock,11.31,4313462925.0,6474519,Energy
+OII,Oceaneering International Inc. Common Stock,43.05,4284751217.0,795696,Energy
+PARR,Par Pacific Holdings Inc.  Common Stock,83.74,4195342765.0,970391,Energy
+CRGY,Crescent Energy Company Class A Common Stock,12.51,4134013417.0,10970191,Energy
+CRK,Comstock Resources Inc. Common Stock,13.5,3963877398.0,2669534,Energy
+HESM,Hess Midstream LP Class A Representing Limited Partner Interests,30.62,3930103976.0,3306559,Energy
+HP,Helmerich & Payne Inc. Common Stock,37.68,3765699448.0,984079,Energy
+ACCV,Accelevation Holdings Corp. Class A Ordinary Shares,13.72,3243733973.0,1933375,Energy
+ARLP,Alliance Resource Partners L.P. Common Units representing Limited Partners Interests,25.19,3240915197.0,236141,Energy
+DKL,Delek Logistics Partners L.P. Common Units representing Limited Partner Interests,55.94,3233181018.0,102412,Energy
+BSM,Black Stone Minerals L.P. Common units representing limited partner interests,14.75,3137480922.0,306953,Energy
+BTU,Peabody Energy Corporation Common Stock ,24.02,2928038000.0,2345186,Energy
+GPOR,Gulfport Energy Corporation Common Shares,163.75,2895733058.0,210246,Energy
+TALO,Talos Energy Inc. Common Stock,16.98,2835073647.0,3104708,Energy
+NOG,Northern Oil and Gas Inc. Common Stock,25.75,2743640046.0,1699867,Energy
+LBRT,Liberty Energy Inc. Class A common stock,16.7,2725296647.0,6719363,Energy
+MGEE,MGE Energy Inc,71.28,2693244375.0,113137,Energy
+WTTR,Select Water Solutions Inc. Class A common stock,18.2,2520351161.0,2058921,Energy
+BKV,BKV Corporation Common Stock,22.3,2440463609.0,3623266,Energy
+AMR,Alpha Metallurgical Resources Inc. Common Stock,169.71,2151760727.0,434272,Energy
+PLUG,Plug Power Inc. Common Stock,1.485,2074834988.0,56930064,Energy
+NESR,National Energy Services Reunited Corp Ordinary Shares,19.11,1927277019.0,3758131,Energy
+WKC,World Kinect Corporation Common Stock,36.76,1880333551.0,514039,Energy
+KRP,Kimbell Royalty Partners Common Units Representing Limited Partner Interests,15.94,1828375225.0,1070195,Energy
+MNR,Mach Natural Resources LP Common Units representing Limited Partner Interests,10.84,1809717339.0,348611,Energy
+GEL,Genesis Energy L.P. Common Units,13.94,1703110035.0,452096,Energy
+GLP,Global Partners LP Common Units representing Limited Partner Interests,49.08,1668502232.0,57667,Energy
+PBT,Permian Basin Royalty Trust Common Stock,33.62,1566987722.0,94452,Energy
+HOS,Hornbeck Offshore Services Inc. Common Stock,6.72,1492959465.0,2348445,Energy
+NRP,Natural Resource Partners LP Limited Partnership,111.62,1479010987.0,24046,Energy
+DMLP,Dorchester Minerals L.P. Common Units Representing Limited Partnership Interests,29.87,1466360357.0,50973,Energy
+RES,RPC Inc. Common Stock,5.92,1312209511.0,2911455,Energy
+HPK,HighPeak Energy Inc. Common Stock,9.95,1258205400.0,546717,Energy
+FCEL,FuelCell Energy Inc. Common Stock,14.09,1126554622.0,6882158,Energy
+SBR,Sabine Royalty Trust Common Stock,71.94,1048838079.0,16394,Energy
+REPX,Riley Exploration Permian Inc. Common Stock,47.0,1041227895.0,283792,Energy
+PUMP,ProPetro Holding Corp. Common Stock,7.94,975221901.0,5775422,Energy
+INR,Infinity Natural Resources Inc. Class A Common Stock,13.0,824489354.0,166336,Energy
+CAPL,CrossAmerica Partners LP Common Units representing limited partner interests,21.4,816907657.0,26228,Energy
+TXO,TXO Partners L.P. Common Units Representing Limited Partner Interests,14.19,786784515.0,90865,Energy
+TTI,Tetra Technologies Inc. Common Stock,5.31,786266456.0,2857815,Energy
+ACDC,ProFrac Holding Corp. Class A Common Stock,4.12,750345779.0,1478404,Energy
+VTS,Vitesse Energy Inc. Common Stock,17.41,733036159.0,395057,Energy
+GRNT,Granite Ridge Resources Inc. Common Stock,5.09,671372232.0,1342846,Energy
+SOC,Sable Offshore Corp. Common Stock,3.32,637006979.0,3764064,Energy
+EGY,VAALCO Energy Inc.  Common Stock,6.01,632202586.0,1165422,Energy
+WTI,W&T Offshore Inc. Common Stock,3.66,552451204.0,4002424,Energy
+METC,Ramaco Resources Inc. Class A Common Stock,8.34,531118505.0,1921336,Energy
+SD,SandRidge Energy Inc. Common Stock,13.91,515717367.0,334615,Energy
+NUAI,New Era Energy & Digital Inc. Common Stock,3.33,402254273.0,14630909,Energy
+NGS,Natural Gas Services Group Inc. Common Stock,30.96,399330904.0,118186,Energy
+RNGR,Ranger Energy Services Inc. Class A Common Stock,14.44,342365555.0,139421,Energy
+REI,Ring Energy Inc. Common Stock,1.31,341306885.0,2942306,Energy
+PNRG,PrimeEnergy Resources Corporation Common Stock,203.91,322707966.0,46357,Energy
+FTW,Presidio Production Company Class A Common Stock,10.03,315937347.0,63266,Energy
+METCB,Ramaco Resources Inc. Class B Common Stock,4.15,264285587.0,76244,Energy
+NC,NACCO Industries Inc. Common Stock,33.62,253719886.0,31703,Energy
+NPWR,NET Power Inc. Class A Common Stock,1.1,247344417.0,783184,Energy
+KGEI,Kolibri Global Energy Inc. Common stock,6.62,237998897.0,201446,Energy
+APC,ARKO Petroleum Corp. Class A Common Stock,16.06,201877781.0,112499,Energy
+NUAIW,New Era Energy & Digital Inc. Warrants,1.66,200523151.0,33377,Energy
+SJT,San Juan Basin Royalty Trust Common Stock,4.29,199951735.0,517852,Energy
+EAF,GrafTech International Ltd. Common Stock,7.36,192038327.0,446534,Energy
+AMPY,Amplify Energy Corp. Common Stock,4.35,180335558.0,396913,Energy
+PED,Pedevco Corp. Common Stock,13.48,179176335.0,7632,Energy
+EPSN,Epsilon Energy Ltd. Common Share,5.88,178068621.0,61921,Energy
+ANNA,AleAnna Inc. Class A Common Stock,2.57,172021408.0,88962,Energy
+GLND,Greenland Energy Company Common Stock,3.45,150869169.0,16906367,Energy
+EPM,Evolution Petroleum Corporation Inc. Common Stock,3.67,147432069.0,227589,Energy
+KLXE,KLX Energy Services Holdings Inc. Common Stock,1.32,139493862.0,232522,Energy
+EP,Empire Petroleum Corporation Common Stock,3.27,136039655.0,45977,Energy
+TUSK,Mammoth Energy Services Inc. Common Stock,2.71,130425755.0,72149,Energy
+AREC,American Resources Corporation Class A Common Stock,1.2,128365526.0,2309750,Energy
+MMLP,Martin Midstream Partners L.P. Limited Partnership,2.02,79031866.0,24797,Energy
+NRT,North European Oil Royality Trust Common Stock,8.43,77476674.0,20952,Energy
+CRT,Cross Timbers Royalty Trust Common Stock,12.86,77160000.0,31888,Energy
+BSIN,Big Sky Industrial Inc. Common Stock,1.39,72965865.0,372562,Energy
+DWSN,Dawson Geophysical Company Common Stock,2.24,69564584.0,77557,Energy
+BATL,Battalion Oil Corporation Common Stock,1.03,59000620.0,2118004,Energy
+PVL,Permianville Royalty Trust Units of Beneficial Interest,1.78,58740000.0,24671,Energy
+VOC,VOC Energy Trust Units of Beneficial Interest,3.39,57630000.0,33166,Energy
+PROP,Prairie Operating Co. Common Stock,0.359,40494486.0,1240874,Energy
+GLNDW,Greenland Energy Company Warrant,0.8799,38478198.0,386123,Energy
+AGIG,Abundia Global Impact Group Inc. Common stock,0.85,37527773.0,113668,Energy
+CKX,CKX Lands Inc. Common Stock,11.0,22584419.0,1362,Energy
+PRT,PermRock Royalty Trust Units of Beneficial Interest,1.73,21046716.0,24366,Energy
+MXC,Mexco Energy Corporation Common Stock,9.7,19846200.0,9835,Energy
+ANNAW,AleAnna Inc. Warrant,0.2411,16137884.0,952,Energy
+BRN,Barnwell Industries Inc. Common Stock,0.9,12990879.0,161093,Energy
+MARPS,Marine Petroleum Trust Units of Beneficial Interest,4.43,8860000.0,2990,Energy
+GBR,New Concept Energy Inc Common Stock,0.6957,4961686.0,50485,Energy
+MTR,Mesa Royalty Trust Common Stock,2.04,3801724.0,1610,Energy
+RKDA,Arcadia Biosciences Inc. Common Stock,0.2035,490274.0,726138,Energy
+METCZ,Ramaco Resources Inc. 8.375% Senior Notes due 2029,24.78,0.0,2996,Energy
+METCI,Ramaco Resources Inc. 8.250% Senior Notes due 2030,24.69,0.0,4691,Energy
