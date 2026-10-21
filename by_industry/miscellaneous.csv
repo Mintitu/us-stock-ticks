@@ -1,58 +1,57 @@
 symbol,name,price,marketCap,volume,industry
-IDCC,InterDigital Inc. Common Stock,319.3,8239858035.0,162361,Miscellaneous
-ENS,EnerSys Common Stock,168.72,6084924593.0,662294,Miscellaneous
-DLB,Dolby Laboratories Common Stock,59.95,5615444260.0,512777,Miscellaneous
-NOVT,Novanta Inc. Common Stock,128.79,4870550598.0,240811,Miscellaneous
-NATL,NCR Atleos Corporation Common Stock,45.94,3394825148.0,1015008,Miscellaneous
-QS,QuantumScape Corporation Class A Common Stock,4.01,2482645163.0,15504259,Miscellaneous
-PBI,Pitney Bowes Inc. Common Stock,17.04,2336017212.0,1508905,Miscellaneous
-DBD,Diebold Nixdorf Incorporated Common stock,66.83,2268650476.0,211372,Miscellaneous
-NOVTU,Novanta Inc. Tangible Equity Units,55.91,2114391521.0,10783,Miscellaneous
-SPB,Spectrum Brands Holdings Inc. Common Stock,79.01,1816882040.0,399073,Miscellaneous
-RUN,Sunrun Inc. Common Stock,7.3,1758182969.0,8745639,Miscellaneous
-ENR,Energizer Holdings Inc. Common Stock,21.7,1486094923.0,680627,Miscellaneous
-APPS,Digital Turbine Inc. Common Stock,9.56,1163660934.0,2430777,Miscellaneous
-AMPX,Amprius Technologies Inc. Common Stock,7.71,1126281565.0,5310752,Miscellaneous
-FLNC,Fluence Energy Inc. Class A Common Stock,5.8,1070658940.0,4519077,Miscellaneous
-VYX,NCR Voyix Corporation Common Stock,7.58,1046569827.0,2467612,Miscellaneous
-EMAT,Evolution Metals & Technologies Corp. Common Stock,1.54,977438995.0,516209,Miscellaneous
-PAR,PAR Technology Corporation Common Stock,17.33,716815730.0,925235,Miscellaneous
-EOSE,Eos Energy Enterprises Inc. Class A Common Stock,1.82,662785294.0,31321183,Miscellaneous
-ENVX,Enovix Corporation Common Stock,2.49,546426852.0,8627902,Miscellaneous
-NRGV,Energy Vault Holdings Inc. Common Stock,2.84,516424379.0,3568092,Miscellaneous
-EOSEW,Eos Energy Enterprises Inc. Warrant,1.41,513476519.0,15928,Miscellaneous
-FAC,Factorial Energy Inc. Class A Common Stock,4.76,509430646.0,134350,Miscellaneous
-SLDP,Solid Power Inc. Class A Common Stock,2.01,458644236.0,2253551,Miscellaneous
-ACTG,Acacia Research Corporation (Acacia Tech) Common Stock,4.23,412792185.0,146799,Miscellaneous
-SES,SES AI Corporation Class A Common Stock,0.7135,264913560.0,25972330,Miscellaneous
-MVST,Microvast Holdings Inc. Common Stock,0.5182,199984683.0,2700029,Miscellaneous
-CHPT,ChargePoint Holdings Inc. Common Stock,6.91,185535739.0,613296,Miscellaneous
-NEOV,NeoVolta Inc. Common Stock,2.185,128943945.0,941814,Miscellaneous
-BYRN,Byrna Technologies Inc. Common Stock,4.84,113279009.0,1648779,Miscellaneous
-ULBI,Ultralife Corporation Common Stock,6.02,100312879.0,9348,Miscellaneous
-JYNT,The Joint Corp. Common Stock,7.03,99426373.0,48569,Miscellaneous
-AMOD,Alpha Modus Holdings Inc. Class A Common Stock,1.3,74770521.0,1337882,Miscellaneous
-FACWW,Factorial Energy Inc. Warrant,0.6599,70624639.0,25960,Miscellaneous
-BLNK,Blink Charging Co. Common Stock,0.4235,61381546.0,1630189,Miscellaneous
-NEOVW,NeoVolta Inc. Warrant,0.78,46030333.0,9617,Miscellaneous
-LASE,Laser Photonics Corporation Common Stock,0.7218,43797175.0,624727,Miscellaneous
-VHC,VirnetX Holding Corp Common Stock,10.14,42547531.0,40931,Miscellaneous
-STI,Solidion Technology Inc. Common Stock,4.39,39430510.0,65089,Miscellaneous
-NTIP,Network-1 Technologies Inc. Common Stock,1.55,35437931.0,4497,Miscellaneous
-RMCO,Royalty Management Holding Corporation Class A Common Stock,2.32,35200683.0,5984,Miscellaneous
-PPSI,Pioneer Power Solutions Inc. Common Stock,2.71,30079011.0,33886,Miscellaneous
-BEEM,Beam Global Common Stock,0.8928,20207024.0,924665,Miscellaneous
-REFR,Research Frontiers Incorporated Common Stock,0.5601,19529447.0,133233,Miscellaneous
-ZEO,Zeo Energy Corporation Class A Common Stock,0.255,17084067.0,305281,Miscellaneous
-FLUX,Flux Power Holdings Inc. Common Stock,0.4203,9087576.0,103520,Miscellaneous
-BURU,Nuburu Inc. Common Stock,0.59,5464784.0,4436360,Miscellaneous
-DFLI,Dragonfly Energy Holdings Corp. Common Stock (NV),2.77,5186410.0,35973,Miscellaneous
-XPON,Expion Energy Inc. Common Stock,3.85,3898117.0,8045,Miscellaneous
-SLDPW,Solid Power Inc. Warrant,0.017,3879081.0,3988,Miscellaneous
-POLA,Polar Power Inc. Common Stock,0.8358,3601729.0,51809,Miscellaneous
-XELB,Xcel Brands Inc. Common Stock,0.4301,2821574.0,17364547,Miscellaneous
-ZEOWW,Zeo Energy Corporation Warrants,0.0299,2003191.0,3310,Miscellaneous
-RMCOW,Royalty Management Holding Corporation Warrant,0.096,1456580.0,4389,Miscellaneous
-AMODW,Alpha Modus Holdings Inc. Warrant,0.0142,816724.0,39086,Miscellaneous
-DFLIW,Dragonfly Energy Holdings Corp. Warrant,0.0135,25277.0,17974,Miscellaneous
-SIMA,SIM Acquisition Corp. I Class A Ordinary Shares,10.92,0.0,5322,Miscellaneous
+IDCC,InterDigital Inc. Common Stock,322.4,8319856657.0,144804,Miscellaneous
+ENS,EnerSys Common Stock,169.05,6096826117.0,357923,Miscellaneous
+DLB,Dolby Laboratories Common Stock,61.06,5719416623.0,527500,Miscellaneous
+NOVT,Novanta Inc. Common Stock,131.52,4973793110.0,300963,Miscellaneous
+NATL,NCR Atleos Corporation Common Stock,45.81,3385218547.0,637090,Miscellaneous
+QS,QuantumScape Corporation Class A Common Stock,3.895,2411447110.0,11241863,Miscellaneous
+PBI,Pitney Bowes Inc. Common Stock,16.84,2308599170.0,1527528,Miscellaneous
+DBD,Diebold Nixdorf Incorporated Common stock,67.57,2293770951.0,221872,Miscellaneous
+NOVTU,Novanta Inc. Tangible Equity Units,56.93,2152965646.0,3913,Miscellaneous
+SPB,Spectrum Brands Holdings Inc. Common Stock,76.8,1766061773.0,338218,Miscellaneous
+RUN,Sunrun Inc. Common Stock,6.89,1659435706.0,8334973,Miscellaneous
+ENR,Energizer Holdings Inc. Common Stock,21.6,1479246559.0,1177691,Miscellaneous
+APPS,Digital Turbine Inc. Common Stock,9.57,1164878152.0,2652429,Miscellaneous
+AMPX,Amprius Technologies Inc. Common Stock,7.59,1108751891.0,4582848,Miscellaneous
+FLNC,Fluence Energy Inc. Class A Common Stock,5.86,1081734722.0,6747028,Miscellaneous
+VYX,NCR Voyix Corporation Common Stock,7.77,1072803107.0,1886882,Miscellaneous
+EMAT,Evolution Metals & Technologies Corp. Common Stock,1.54,977438995.0,640762,Miscellaneous
+PAR,PAR Technology Corporation Common Stock,17.35,717642984.0,528311,Miscellaneous
+EOSE,Eos Energy Enterprises Inc. Class A Common Stock,1.81,659143617.0,41584979,Miscellaneous
+FAC,Factorial Energy Inc. Class A Common Stock,4.83,516922273.0,197634,Miscellaneous
+ENVX,Enovix Corporation Common Stock,2.35,515704057.0,7427120,Miscellaneous
+EOSEW,Eos Energy Enterprises Inc. Warrant,1.41,513476519.0,6338,Miscellaneous
+NRGV,Energy Vault Holdings Inc. Common Stock,2.77,503695609.0,5021437,Miscellaneous
+SLDP,Solid Power Inc. Class A Common Stock,1.95,444953363.0,3911012,Miscellaneous
+ACTG,Acacia Research Corporation (Acacia Tech) Common Stock,4.17,406936977.0,90983,Miscellaneous
+SES,SES AI Corporation Class A Common Stock,0.7001,259938309.0,17347829,Miscellaneous
+MVST,Microvast Holdings Inc. Common Stock,0.5068,195585175.0,2437472,Miscellaneous
+CHPT,ChargePoint Holdings Inc. Common Stock,7.15,191979817.0,553087,Miscellaneous
+NEOV,NeoVolta Inc. Common Stock,2.155,127173547.0,710411,Miscellaneous
+BYRN,Byrna Technologies Inc. Common Stock,5.17,121002578.0,1188884,Miscellaneous
+JYNT,The Joint Corp. Common Stock,7.27,102820730.0,92383,Miscellaneous
+ULBI,Ultralife Corporation Common Stock,6.06,100979410.0,17798,Miscellaneous
+FACWW,Factorial Energy Inc. Warrant,0.6428,68794542.0,1163,Miscellaneous
+AMOD,Alpha Modus Holdings Inc. Class A Common Stock,1.19,68443784.0,770546,Miscellaneous
+BLNK,Blink Charging Co. Common Stock,0.4211,61033693.0,852773,Miscellaneous
+LASE,Laser Photonics Corporation Common Stock,0.6756,48087665.0,1391700,Miscellaneous
+NEOVW,NeoVolta Inc. Warrant,0.78,46030333.0,111,Miscellaneous
+VHC,VirnetX Holding Corp Common Stock,10.16,42631451.0,14000,Miscellaneous
+STI,Solidion Technology Inc. Common Stock,4.4,39520329.0,60220,Miscellaneous
+NTIP,Network-1 Technologies Inc. Common Stock,1.53,34980667.0,6155,Miscellaneous
+RMCO,Royalty Management Holding Corporation Class A Common Stock,2.23,33835139.0,12371,Miscellaneous
+PPSI,Pioneer Power Solutions Inc. Common Stock,2.7,29968018.0,16119,Miscellaneous
+BEEM,Beam Global Common Stock,0.8896,20134597.0,764372,Miscellaneous
+REFR,Research Frontiers Incorporated Common Stock,0.5205,18148683.0,149568,Miscellaneous
+ZEO,Zeo Energy Corporation Class A Common Stock,0.2555,17117565.0,383061,Miscellaneous
+FLUX,Flux Power Holdings Inc. Common Stock,0.401,8670278.0,207283,Miscellaneous
+DFLI,Dragonfly Energy Holdings Corp. Common Stock (NV),2.92,5467262.0,47297,Miscellaneous
+BURU,Nuburu Inc. Common Stock,0.5541,5132265.0,7678296,Miscellaneous
+SLDPW,Solid Power Inc. Warrant,0.017,3879081.0,5260,Miscellaneous
+POLA,Polar Power Inc. Common Stock,0.889,3830985.0,13584587,Miscellaneous
+XPON,Expion Energy Inc. Common Stock,3.76,3806992.0,11982,Miscellaneous
+XELB,Xcel Brands Inc. Common Stock,0.426,2943165.0,641282,Miscellaneous
+ZEOWW,Zeo Energy Corporation Warrants,0.0235,1574414.0,14122,Miscellaneous
+AMODW,Alpha Modus Holdings Inc. Warrant,0.0149,856985.0,38652,Miscellaneous
+DFLIW,Dragonfly Energy Holdings Corp. Warrant,0.0136,25464.0,2916,Miscellaneous
+SIMA,SIM Acquisition Corp. I Class A Ordinary Shares,10.92,0.0,9114,Miscellaneous
