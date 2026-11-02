@@ -3,15 +3,15 @@ NEE,NextEra Energy Inc. Common Stock,82.14,172272718865.0,10271716,Utilities
 SO,Southern Company (The) Common Stock,92.99,106972252208.0,4276526,Utilities
 DUK,Duke Energy Corporation (Holding Company) Common Stock,125.9,98164506099.0,3358811,Utilities
 CEG,Constellation Energy Corporation Common Stock ,264.58,93742646336.0,2723766,Utilities
-WM,Waste Management Inc. Common Stock,230.9,92294235986.0,2855571,Utilities
+WM,Waste Management Inc. Common Stock,230.9,91813902104.0,2855571,Utilities
 WMB,Williams Companies Inc. (The) Common Stock,74.88,91590780303.0,6920112,Utilities
 EPD,Enterprise Products Partners L.P. Common Stock,39.05,84327583449.0,6867769,Utilities
 KMI,Kinder Morgan Inc. Common Stock,33.97,75675486329.0,12326503,Utilities
 RSG,Republic Services Inc. Common Stock,236.28,72352002442.0,1506278,Utilities
-AEP,American Electric Power Company Inc. Common Stock,129.34,70412353508.0,4355178,Utilities
+AEP,American Electric Power Company Inc. Common Stock,129.34,70429035522.0,4355178,Utilities
 TRGP,Targa Resources Inc. Common Stock,312.37,66981818030.0,1128064,Utilities
 LNG,Cheniere Energy Inc. Common Stock,318.94,65872004353.0,4715982,Utilities
-OKE,ONEOK Inc. Common Stock,95.82,60402021492.0,3226257,Utilities
+OKE,ONEOK Inc. Common Stock,95.82,60409760873.0,3226257,Utilities
 D,Dominion Energy Inc. Common Stock,65.12,57274729799.0,6099364,Utilities
 SRE,DBA Sempra Common Stock,85.89,56163500890.0,2743649,Utilities
 SOMN,Southern Company (The) 2025 Series A Corporate Units,48.75,56080194593.0,56693,Utilities
@@ -30,15 +30,15 @@ CQP,Cheniere Energy Partners LP Common Units,66.83,32349576358.0,64977,Utilities
 AEE,Ameren Corporation Common Stock,110.21,30510894693.0,1082251,Utilities
 FTS,Fortis Inc. Common Shares,58.09,29678181000.0,917031,Utilities
 ATO,Atmos Energy Corporation Common Stock,171.07,28908871762.0,835049,Utilities
-AWK,American Water Works Company Inc. Common Stock,142.21,28261249526.0,2434164,Utilities
+AWK,American Water Works Company Inc. Common Stock,142.21,28314673841.0,2434164,Utilities
 DTE,DTE Energy Company Common Stock,134.52,27992007042.0,1003796,Utilities
 CNP,CenterPoint Energy Inc (Holding Co) Common Stock,42.21,27980148169.0,8606692,Utilities
-FE,FirstEnergy Corp. Common Stock,46.83,27097708016.0,5075048,Utilities
+FE,FirstEnergy Corp. Common Stock,46.83,27109574644.0,5075048,Utilities
 PPL,PPL Corporation Common Stock,35.63,26813172685.0,8392250,Utilities
 ES,Eversource Energy (D/B/A) Common Stock,67.9,25576215797.0,3680279,Utilities
 EIX,Edison International Common Stock,59.38,22850254073.0,2274148,Utilities
 CMS,CMS Energy Corporation Common Stock,69.52,21803252963.0,5654072,Utilities
-NI,NiSource Inc Common Stock,44.75,21460314475.0,7559236,Utilities
+NI,NiSource Inc Common Stock,44.75,21465171730.0,7559236,Utilities
 NRG,NRG Energy Inc. Common Stock,97.54,20503930512.0,2900606,Utilities
 SOJC,Southern Company (The) Series 2017B 5.25% Junior Subordinated Notes due December 1 2077,18.21,20031863281.0,38660,Utilities
 AQNB,Algonquin Power & Utilities Corp. 6.20% Fixed-to-Floating Subordinated Notes Series 2019-A due July 1 2079,25.6557,19704219018.0,10883,Utilities
@@ -54,8 +54,8 @@ PNW,Pinnacle West Capital Corporation Common Stock,106.64,12924473034.0,1942950,
 WTRG,Essential Utilities Inc. Common Stock,42.78,12140048722.0,2050592,Utilities
 SREA,DBA Sempra 5.750% Junior Subordinated Notes due 2079,18.45,11681541394.0,74574,Utilities
 BEPC,Brookfield Renewable Corporation Brookfield Renewable Corporation Class A Subordinate Voting Shares,29.59,10219424798.0,1670795,Utilities
-AM,Antero Midstream Corporation Common Stock,21.52,10214984480.0,6032666,Utilities
-OGE,OGE Energy Corp Common Stock,49.37,10198918139.0,2310384,Utilities
+OGE,OGE Energy Corp Common Stock,49.37,10206061386.0,2310384,Utilities
+AM,Antero Midstream Corporation Common Stock,21.52,10164885920.0,6032666,Utilities
 KNTK,Kinetik Holdings Inc. Class A Common Stock,58.09,9432603604.0,1254634,Utilities
 ENJ,Entergy New Orleans LLC First Mortgage Bonds 5.0% Series due December 1 2052,18.34,8558021673.0,1122,Utilities
 EAI,Entergy Arkansas LLC First Mortgage Bonds 4.875% Series Due September 1 2066,18.24,8511358524.0,22606,Utilities
@@ -140,11 +140,11 @@ OPTT,Ocean Power Technologies Inc. Common Stock,0.4189,5142730.0,3535566,Utiliti
 SONM,DNA X Inc. Common Stock,2.77,4122502.0,42919,Utilities
 RENX,RenX Enterprises Corp. Common Stock,1.08,3750309.0,75750,Utilities
 VIVK,Vivakor Inc. Common Stock,1.5,2409021.0,146126,Utilities
-MCGA,Yorkville Acquisition Corp. Class A Ordinary Share,10.4,0.0,185884,Utilities
 TVC,Tennessee Valley Authority Common Stock,23.7601,0.0,3307,Utilities
 TVE,Tennessee Valley Authority,23.2,0.0,14407,Utilities
+MCGA,Yorkville Acquisition Corp. Class A Ordinary Share,10.4,0.0,185884,Utilities
 XELLL,Xcel Energy Inc. 6.25% Junior Subordinated Notes Series due 2085,20.9,0.0,109663,Utilities
+DTK,DTE Energy Company 2025 Series H 6.25% Junior Subordinated Debentures due 2085,20.63,0.0,69540,Utilities
+DUKU,Duke Energy Corporation Corporate Units,50.68,0.0,1062969,Utilities
 SOJF,Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15 2085,22.77,0.0,82848,Utilities
 SRJN,Spire Inc. 6.375% Junior Subordinated Notes due 2086,20.5,0.0,12651,Utilities
-DUKU,Duke Energy Corporation Corporate Units,50.68,0.0,1062969,Utilities
-DTK,DTE Energy Company 2025 Series H 6.25% Junior Subordinated Debentures due 2085,20.63,0.0,69540,Utilities

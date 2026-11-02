@@ -1,5 +1,5 @@
 symbol,name,price,marketCap,volume,industry
-KO,Coca-Cola Company (The) Common Stock,92.82,399362620735.0,15872235,Consumer Staples
+KO,Coca-Cola Company (The) Common Stock,92.82,399302574735.0,15872235,Consumer Staples
 PEP,PepsiCo Inc. Common Stock,133.79,182321130699.0,6201409,Consumer Staples
 MNST,Monster Beverage Corporation,46.35,136203210115.0,10425245,Consumer Staples
 CVS,CVS Health Corporation Common Stock,90.33,115529393432.0,10231909,Consumer Staples
@@ -29,7 +29,7 @@ PPC,Pilgrim's Pride Corporation Common Stock,27.61,6574176348.0,1171745,Consumer
 CPB,The Campbell's Company Common Stock,21.0,6262928553.0,4980503,Consumer Staples
 INGR,Ingredion Incorporated Common Stock,95.59,6028285753.0,669716,Consumer Staples
 ACI,Albertsons Companies Inc. Class A Common Stock,12.79,6017470190.0,8423036,Consumer Staples
-SFM,Sprouts Farmers Market Inc. Common Stock,48.0,4475886000.0,19388865,Consumer Staples
+SFM,Sprouts Farmers Market Inc. Common Stock,48.0,4427166480.0,19388865,Consumer Staples
 POST,Post Holdings Inc. Common Stock,81.65,3589073128.0,636296,Consumer Staples
 FIZZ,National Beverage Corp. Common Stock,35.02,3278407876.0,307487,Consumer Staples
 COCO,The Vita Coco Company Inc. Common Stock,56.27,3210983458.0,920987,Consumer Staples
@@ -65,11 +65,11 @@ WEYS,Weyco Group Inc. Common Stock,52.49,501331098.0,15360,Consumer Staples
 ARKO,ARKO Corp. Common Stock,3.78,424062025.0,860405,Consumer Staples
 SUJA,Suja Life Inc. Class A Common Stock,10.75,415218879.0,104236,Consumer Staples
 VITL,Vital Farms Inc. Common Stock,9.29,398833839.0,967081,Consumer Staples
-MGPI,MGP Ingredients Inc.,17.21,368536248.0,392761,Consumer Staples
+MGPI,MGP Ingredients Inc.,17.21,368670348.0,392761,Consumer Staples
 LWAY,Lifeway Foods Inc. Common Stock,23.22,350778665.0,60039,Consumer Staples
 BRCC,BRC Inc. Class A Common Stock,12.99,325123411.0,189387,Consumer Staples
 ALCO,Alico Inc. Common Stock,37.57,278715337.0,18879,Consumer Staples
-BNC,BNB Standard Corporation Common Stock,5.41,222750529.0,988990,Consumer Staples
+BNC,BNB Standard Corporation Common Stock,5.41,263862547.0,988990,Consumer Staples
 LMNR,Limoneira Co Common Stock,11.06,200539997.0,108122,Consumer Staples
 BGS,B&G Foods Inc. Common Stock,2.26,183683016.0,2262175,Consumer Staples
 MED,MEDIFAST INC Common Stock,12.26,137098639.0,124467,Consumer Staples
@@ -98,5 +98,5 @@ YHC,LQR House Inc. Common Stock,2.45,3194450.0,55690,Consumer Staples
 IPST,IP Strategy Holdings Inc. Common Stock,2.63,2619304.0,79021,Consumer Staples
 EDBL,Edible Garden AG Incorporated Common Stock,0.7597,1482561.0,87367,Consumer Staples
 MSS,Maison Solutions Inc. Class A Common Stock,1.14,975086.0,33248,Consumer Staples
-BNCWW,BNB Standard Corporation Warrant,0.0102,419973.0,6,Consumer Staples
+BNCWW,BNB Standard Corporation Warrant,0.0102,497486.0,6,Consumer Staples
 EDBLW,Edible Garden AG Incorporated Warrant,0.0254,49568.0,14507,Consumer Staples

@@ -21,16 +21,16 @@ RCL,Royal Caribbean Cruises Ltd. Common Stock,310.54,83060421050.0,2705442,Consu
 SHW,Sherwin-Williams Company (The) Common Stock,330.1,79748222567.0,2371226,Consumer Discretionary
 HLT,Hilton Worldwide Holdings Inc. Common Stock ,356.93,79418479430.0,2000953,Consumer Discretionary
 DASH,DoorDash Inc. Class A Common Stock,179.0,77560330723.0,9847682,Consumer Discretionary
-CVNA,Carvana Co. Class A Common Stock,68.31,75172680129.0,23229817,Consumer Discretionary
+CVNA,Carvana Co. Class A Common Stock,68.31,75363765741.0,23229817,Consumer Discretionary
 CL,Colgate-Palmolive Company Common Stock,93.16,74264620750.0,4769223,Consumer Discretionary
 URI,United Rentals Inc. Common Stock,1198.68,74218175704.0,413798,Consumer Discretionary
 ROST,Ross Stores Inc. Common Stock,232.3,74208957453.0,1877797,Consumer Discretionary
-FDX,FedEx Corporation Common Stock,307.82,72851893302.0,1965570,Consumer Discretionary
+FDX,FedEx Corporation Common Stock,307.82,72091244840.0,1965570,Consumer Discretionary
 ORLY,O'Reilly Automotive Inc. Common Stock,88.07,71245176951.0,12004332,Consumer Discretionary
 TGT,Target Corporation Common Stock,151.82,68971330460.0,3285148,Consumer Discretionary
 FAST,Fastenal Company Common Stock,52.55,60290693194.0,6356637,Consumer Discretionary
 NKE,Nike Inc. Common Stock,38.42,57065565210.0,21699311,Consumer Discretionary
-BKR,Baker Hughes Company Class A Common Stock,54.51,54110663610.0,9232661,Consumer Discretionary
+BKR,Baker Hughes Company Class A Common Stock,54.51,54132707563.0,9232661,Consumer Discretionary
 EBAY,eBay Inc. Common Stock,121.19,53929550000.0,7411287,Consumer Discretionary
 DAL,Delta Air Lines Inc. Common Stock,81.64,53711966703.0,4563456,Consumer Discretionary
 AZO,AutoZone Inc. Common Stock,3137.04,50488591491.0,198146,Consumer Discretionary
@@ -57,7 +57,7 @@ DG,Dollar General Corporation Common Stock,130.09,28700038211.0,1958180,Consumer
 ECHO,EchoStar  Corporation Common Stock,97.66,28401075325.0,6009583,Consumer Discretionary
 ULTA,Ulta Beauty Inc. Common Stock,648.28,27718813300.0,601457,Consumer Discretionary
 CPRT,Copart Inc. (DE) Common Stock,29.55,27374470373.0,9814112,Consumer Discretionary
-PPG,PPG Industries Inc. Common Stock,120.0,26676000000.0,2173605,Consumer Discretionary
+PPG,PPG Industries Inc. Common Stock,120.0,26508000000.0,2173605,Consumer Discretionary
 CPNG,Coupang Inc. Class A Common Stock,14.57,26189745498.0,12169364,Consumer Discretionary
 CPAY,Corpay Inc. Common Stock,397.97,26130550614.0,732760,Consumer Discretionary
 FISV,Fiserv Inc. Common Stock,48.48,25780050634.0,6396004,Consumer Discretionary
@@ -140,7 +140,7 @@ TTEK,Tetra Tech Inc. Common Stock,38.09,9752732263.0,1983913,Consumer Discretion
 AYI,Acuity Inc. Common Stock,327.36,9721125755.0,267234,Consumer Discretionary
 SIRI,SiriusXM Holdings Inc. Common Stock,28.67,9663707765.0,6761400,Consumer Discretionary
 LLYVK,Liberty Live Holdings Inc. Series C Liberty Live Group Common Stock,103.4,9513355878.0,302348,Consumer Discretionary
-EAT,Brinker International Inc. Common Stock,219.9,9209689074.0,1752804,Consumer Discretionary
+EAT,Brinker International Inc. Common Stock,219.9,9135239950.0,1752804,Consumer Discretionary
 LLYVA,Liberty Live Holdings Inc. Series A Liberty Live Group Common Stock,99.08,9115892654.0,341665,Consumer Discretionary
 ALSN,Allison Transmission Holdings Inc. Common Stock,109.98,9081932619.0,664623,Consumer Discretionary
 MHK,Mohawk Industries Inc. Common Stock,129.99,8805281469.0,2689630,Consumer Discretionary
@@ -148,7 +148,6 @@ LEVI,Levi Strauss & Co Class A Common Stock,22.61,8670250799.0,2494889,Consumer 
 AOS,A.O. Smith Corporation Common Stock,63.49,8628835300.0,3163876,Consumer Discretionary
 AAL,American Airlines Group Inc. Common Stock,12.78,8468263587.0,63190847,Consumer Discretionary
 CNM,Core & Main Inc. Class A Common Stock,44.14,8408407367.0,1258553,Consumer Discretionary
-ETSY,Etsy Inc. Common Stock,91.59,8406290299.0,4222933,Consumer Discretionary
 HQY,HealthEquity Inc. Common Stock,101.36,8384022403.0,596663,Consumer Discretionary
 CHWY,Chewy Inc. Class A Common Stock,20.83,8372144597.0,7246219,Consumer Discretionary
 NCLH,Norwegian Cruise Line Holdings Ltd. Ordinary Shares,18.22,8366402554.0,68000222,Consumer Discretionary
@@ -159,14 +158,15 @@ SSD,Simpson Manufacturing Company Inc. Common Stock,195.47,8011275791.0,276736,C
 KMX,CarMax Inc,56.17,7972927469.0,2988803,Consumer Discretionary
 VSXY,Victorias Secret & Co. Common Stock ,99.14,7907806826.0,1569229,Consumer Discretionary
 URBN,Urban Outfitters Inc. Common Stock,92.19,7897012086.0,1153217,Consumer Discretionary
+ETSY,Etsy Inc. Common Stock,91.59,7895597099.0,4222933,Consumer Discretionary
 KEX,Kirby Corporation Common Stock,146.0,7708800000.0,1087503,Consumer Discretionary
 BROS,Dutch Bros Inc. Class A Common Stock,43.98,7682501870.0,3946724,Consumer Discretionary
 WYNN,Wynn Resorts Limited Common stock,74.21,7641692451.0,2093425,Consumer Discretionary
 MSGK,MSG Knickerbockers Corp. Class A Common Stock,310.18,7481237003.0,353606,Consumer Discretionary
-MGM,MGM Resorts International Common Stock,28.83,7447456213.0,11144109,Consumer Discretionary
-POOL,Pool Corporation Common Stock,204.12,7417873278.0,611173,Consumer Discretionary
 ANDG,Andersen Group Inc. Class A Common Stock,64.87,7392085052.0,427522,Consumer Discretionary
 MOD,Modine Manufacturing Company Common Stock,138.79,7383200249.0,1198976,Consumer Discretionary
+MGM,MGM Resorts International Common Stock,28.83,7294294070.0,11144109,Consumer Discretionary
+POOL,Pool Corporation Common Stock,204.12,7291595052.0,611173,Consumer Discretionary
 ZG,Zillow Group Inc. Class A Common Stock,32.1,7218486023.0,670338,Consumer Discretionary
 ADT,ADT Inc. Common Stock,9.87,7210619778.0,163862499,Consumer Discretionary
 CROX,Crocs Inc. Common Stock,150.26,7204226970.0,4899342,Consumer Discretionary
@@ -174,17 +174,17 @@ AXTA,Axalta Coating Systems Ltd. Common Shares,33.61,7193212099.0,2709660,Consum
 ANF,Abercrombie & Fitch Company Common Stock,165.77,7034346675.0,634781,Consumer Discretionary
 Z,Zillow Group Inc. Class C Capital Stock,30.99,6968874824.0,3871594,Consumer Discretionary
 CAVA,CAVA Group Inc. Common Stock,59.21,6916094984.0,3469087,Consumer Discretionary
-NOV,NOV Inc. Common Stock,19.36,6901416500.0,5139370,Consumer Discretionary
+NOV,NOV Inc. Common Stock,19.36,6902081826.0,5139370,Consumer Discretionary
 MATX,Matson Inc. Common Stock,226.99,6787785931.0,442798,Consumer Discretionary
 BLDR,Builders FirstSource Inc. Common Stock,63.06,6785032578.0,5715299,Consumer Discretionary
 ELF,e.l.f. Beauty Inc. Common Stock,112.95,6664953148.0,1088729,Consumer Discretionary
 RUSHB,Rush Enterprises Inc. Class B,56.76,6625615063.0,81452,Consumer Discretionary
-LAD,Lithia Motors Inc. Common Stock,297.06,6530304439.0,256727,Consumer Discretionary
 WFRD,Weatherford International plc Ordinary Shares,89.58,6491888041.0,805527,Consumer Discretionary
 M,Macy's Inc Common Stock,24.72,6456286689.0,5016670,Consumer Discretionary
+LAD,Lithia Motors Inc. Common Stock,297.06,6422525130.0,256727,Consumer Discretionary
 GATX,GATX Corporation Common Stock,180.47,6370591000.0,449841,Consumer Discretionary
-CHDN,Churchill Downs Incorporated Common Stock,91.16,6353874152.0,2162496,Consumer Discretionary
 WEX,WEX Inc. common stock,183.47,6252953170.0,1011818,Consumer Discretionary
+CHDN,Churchill Downs Incorporated Common Stock,91.16,6248866857.0,2162496,Consumer Discretionary
 LYFT,Lyft Inc. Class A Common Stock,16.41,6211845486.0,6325563,Consumer Discretionary
 EXLS,ExlService Holdings Inc. Common Stock,41.12,6200432619.0,3429334,Consumer Discretionary
 HRB,H&R Block Inc. Common Stock,49.68,6088634940.0,1733899,Consumer Discretionary
@@ -205,11 +205,11 @@ OLLI,Ollie's Bargain Outlet Holdings Inc. Common Stock,92.42,5489970085.0,202868
 AMTM,Amentum Holdings Inc. Common Stock,22.07,5396256535.0,2023158,Consumer Discretionary
 FND,Floor & Decor Holdings Inc. Common Stock,50.34,5360704838.0,4276508,Consumer Discretionary
 SEI,Solaris Energy Infrastructure Inc. Class A Common Stock,69.12,5292269015.0,1797593,Consumer Discretionary
-BYD,Boyd Gaming Corporation Common Stock,72.43,5262431636.0,964308,Consumer Discretionary
 WHD,Cactus Inc. Class A Common Stock,65.49,5250950019.0,1230777,Consumer Discretionary
 NSIT,Insight Enterprises Inc. Common Stock,178.57,5240824145.0,236624,Consumer Discretionary
 RELY,Remitly Global Inc. Common Stock,24.64,5215895091.0,1561329,Consumer Discretionary
 RRR,Red Rock Resorts Inc. Class A Common Stock,49.2,5166796499.0,586648,Consumer Discretionary
+BYD,Boyd Gaming Corporation Common Stock,72.43,5118368294.0,964308,Consumer Discretionary
 PSMT,PriceSmart Inc. Common Stock,165.14,5107487407.0,249563,Consumer Discretionary
 CHH,Choice Hotels International Inc. Common Stock,112.97,5103921337.0,563315,Consumer Discretionary
 RUSHA,Rush Enterprises Inc. Common Stock Cl A,43.54,5082439744.0,2127752,Consumer Discretionary
@@ -217,11 +217,11 @@ AGX,Argan Inc. Common Stock,356.85,5006549118.0,176212,Consumer Discretionary
 FCN,FTI Consulting Inc. Common Stock,181.24,5004321853.0,1264025,Consumer Discretionary
 GOLF,Acushnet Holdings Corp. Common Stock,85.67,5003560119.0,251796,Consumer Discretionary
 REYN,Reynolds Consumer Products Inc. Common Stock,23.6,4974667175.0,1124874,Consumer Discretionary
-SON,Sonoco Products Company Common Stock,49.89,4932873900.0,912343,Consumer Discretionary
+SON,Sonoco Products Company Common Stock,49.89,4932910519.0,912343,Consumer Discretionary
 IRDM,Iridium Communications Inc Common Stock,46.05,4888597958.0,461770,Consumer Discretionary
-SITE,SiteOne Landscape Supply Inc. Common Stock,110.72,4833524781.0,1780345,Consumer Discretionary
+SITE,SiteOne Landscape Supply Inc. Common Stock,110.72,4775567954.0,1780345,Consumer Discretionary
 OPLN,OPENLANE Inc. Common Stock,38.76,4731427967.0,977710,Consumer Discretionary
-UNF,Unifirst Corporation Common Stock,257.36,4654142763.0,273577,Consumer Discretionary
+UNF,Unifirst Corporation Common Stock,257.36,4655027824.0,273577,Consumer Discretionary
 CNK,Cinemark Holdings Inc Cinemark Holdings Inc. Common Stock,40.06,4643428911.0,1927167,Consumer Discretionary
 EQPT,EquipmentShare.com Inc Class A Common Stock,18.18,4606375007.0,2652455,Consumer Discretionary
 BBWI,Bath & Body Works Inc.,22.78,4593480230.0,5535790,Consumer Discretionary
@@ -229,13 +229,13 @@ LKQ,LKQ Corporation Common Stock,18.1,4579337757.0,8390505,Consumer Discretionar
 RXO,RXO Inc. Common Stock,27.65,4560207439.0,3220901,Consumer Discretionary
 LGN,Legence Corp. Class A Common stock,41.9,4528362612.0,993233,Consumer Discretionary
 MAT,Mattel Inc. Common Stock,15.48,4422636000.0,4431647,Consumer Discretionary
-CHEF,The Chefs' Warehouse Inc. Common Stock,101.56,4414522637.0,1107064,Consumer Discretionary
+CHEF,The Chefs' Warehouse Inc. Common Stock,101.56,4414091616.0,1107064,Consumer Discretionary
 SKY,Champion Homes Inc. Common Stock,81.05,4399404861.0,635271,Consumer Discretionary
 RHI,Robert Half Inc. Common Stock,42.8,4381086238.0,2260568,Consumer Discretionary
 VSEC,VSE Corporation Common Stock,155.02,4350631959.0,540731,Consumer Discretionary
 TPC,Tutor Perini Corporation Common Stock,82.55,4339580608.0,349040,Consumer Discretionary
 TNL,Travel   Leisure Co. Common  Stock,71.49,4307607431.0,1101031,Consumer Discretionary
-FELE,Franklin Electric Co. Inc. Common Stock,96.74,4277017027.0,548849,Consumer Discretionary
+FELE,Franklin Electric Co. Inc. Common Stock,96.74,4273049526.0,548849,Consumer Discretionary
 GNTX,Gentex Corporation Common Stock,20.26,4268444286.0,2463719,Consumer Discretionary
 TDW,Tidewater Inc. Common Stock,85.28,4243211380.0,391932,Consumer Discretionary
 CVCO,Cavco Industries Inc. Common Stock When Issued,547.25,4208025245.0,98762,Consumer Discretionary
@@ -246,9 +246,9 @@ SPHR,Sphere Entertainment Co. Class A Common Stock,113.1,4061828952.0,515412,Con
 PLNT,Planet Fitness Inc. Common Stock,53.72,4040655360.0,1043555,Consumer Discretionary
 ALK,Alaska Air Group Inc. Common Stock,36.15,4034452788.0,2062193,Consumer Discretionary
 BFH,Bread Financial Holdings Inc. Common Stock,105.66,4010984830.0,845870,Consumer Discretionary
-WING,Wingstop Inc. Common Stock,145.39,3960793763.0,1941477,Consumer Discretionary
-BOOT,Boot Barn Holdings Inc. Common Stock,130.48,3951566445.0,1911489,Consumer Discretionary
 DORM,Dorman Products Inc. Common Stock,133.67,3942467257.0,308754,Consumer Discretionary
+WING,Wingstop Inc. Common Stock,145.39,3933255007.0,1941477,Consumer Discretionary
+BOOT,Boot Barn Holdings Inc. Common Stock,130.48,3901936811.0,1911489,Consumer Discretionary
 BRC,Brady Corporation Common Stock,83.02,3893572746.0,259382,Consumer Discretionary
 MSGE,Madison Square Garden Entertainment Corp. Class A Common Stock,81.08,3845311593.0,322245,Consumer Discretionary
 CAR,Avis Budget Group Inc. Common Stock,108.16,3820833553.0,380894,Consumer Discretionary
@@ -286,7 +286,7 @@ PTRN,Pattern Group Inc. Series A Common Stock,16.89,2996270613.0,848152,Consumer
 CBZ,CBIZ Inc. Common Stock,54.98,2983428067.0,1243722,Consumer Discretionary
 COTY,Coty Inc. Class A Common Stock,3.35,2950299654.0,3525037,Consumer Discretionary
 TNET,TriNet Group Inc. Common Stock,63.7,2924131811.0,716936,Consumer Discretionary
-MGRC,McGrath RentCorp Common Stock,119.6,2921309295.0,310396,Consumer Discretionary
+MGRC,McGrath RentCorp Common Stock,119.6,2913975662.0,310396,Consumer Discretionary
 KBH,KB Home Common Stock,47.66,2895951998.0,1158536,Consumer Discretionary
 RH,RH Common Stock,150.79,2854931046.0,971650,Consumer Discretionary
 CENT,Central Garden & Pet Company Common Stock,45.1,2822926170.0,76865,Consumer Discretionary
@@ -298,8 +298,8 @@ WLYB,John Wiley & Sons Inc. Common Stock,54.23,2752909486.0,103,Consumer Discret
 AMC,AMC Entertainment Holdings Inc. Class A Common Stock,3.08,2749222285.0,19736386,Consumer Discretionary
 BCC,Boise Cascade L.L.C. Common Stock,77.85,2716291675.0,393518,Consumer Discretionary
 CALY,Callaway Golf Company Common Stock,15.19,2711574814.0,1369357,Consumer Discretionary
-GRBK,Green Brick Partners Inc. Common Stock,62.53,2689458821.0,378696,Consumer Discretionary
 DAN,Dana Incorporated Common Stock ,24.85,2673280473.0,2217784,Consumer Discretionary
+GRBK,Green Brick Partners Inc. Common Stock,62.53,2653324610.0,378696,Consumer Discretionary
 MSGR,MSG Rangers Corp. Class A Common Stock,217.0,2626855959.0,260507,Consumer Discretionary
 WLY,John Wiley & Sons Inc. Common Stock,51.44,2611279070.0,335668,Consumer Discretionary
 GPK,Graphic Packaging Holding Company,8.81,2608390558.0,7481889,Consumer Discretionary
@@ -319,7 +319,7 @@ TIC,TIC Solutions Inc. Common Stock,10.39,2267309499.0,1260112,Consumer Discreti
 PHIN,PHINIA Inc. Common Stock,61.06,2237121653.0,564764,Consumer Discretionary
 STUB,StubHub Holdings Inc. Class A Common Stock,5.82,2223763602.0,4162029,Consumer Discretionary
 GCT,GigaCloud Technology Inc Class A Ordinary Shares,60.62,2164754567.0,480371,Consumer Discretionary
-CNXN,PC Connection Inc. Common Stock,85.62,2160886036.0,330669,Consumer Discretionary
+CNXN,PC Connection Inc. Common Stock,85.62,2161726054.0,330669,Consumer Discretionary
 UAA,Under Armour Inc. Class A Common Stock,5.02,2156318616.0,7319351,Consumer Discretionary
 BOBS,Bob's Discount Furniture Inc. Common Stock,16.43,2147188659.0,691713,Consumer Discretionary
 TILE,Interface Inc. Common Stock,36.87,2131102960.0,271833,Consumer Discretionary
@@ -360,7 +360,7 @@ HLMN,Hillman Solutions Corp. Common Stock,7.8,1517450992.0,1478797,Consumer Disc
 EFOR,Everforth Inc. Common Stock,37.01,1517410000.0,1979020,Consumer Discretionary
 PRSU,Pursuit Attractions and Hospitality Inc. Common Stock,55.28,1507162488.0,193875,Consumer Discretionary
 DFIN,Donnelley Financial Solutions Inc. Common Stock ,61.07,1501429340.0,709866,Consumer Discretionary
-ULCC,Frontier Group Holdings Inc. Common Stock,6.48,1491798196.0,5217749,Consumer Discretionary
+ULCC,Frontier Group Holdings Inc. Common Stock,6.48,1493105730.0,5217749,Consumer Discretionary
 MLKN,MillerKnoll Inc. Common Stock,21.33,1467499627.0,435424,Consumer Discretionary
 SVV,Savers Value Village Inc. Common Stock,9.46,1459263037.0,2356324,Consumer Discretionary
 MBC,MasterBrand Inc. Common Stock,7.17,1459026813.0,2528148,Consumer Discretionary
@@ -376,8 +376,8 @@ AMSC,American Superconductor Corporation Common Stock,28.05,1358802111.0,622042,
 SG,Sweetgreen Inc. Class A Common Stock,11.41,1358261404.0,3888407,Consumer Discretionary
 BJRI,BJ's Restaurants Inc. Common Stock,63.28,1346203849.0,478011,Consumer Discretionary
 ADNT,Adient plc Ordinary Shares ,17.35,1337631770.0,1171113,Consumer Discretionary
-PRG,PROG Holdings Inc. Common Stock,33.48,1333563073.0,1036274,Consumer Discretionary
 EPC,Edgewell Personal Care Company Common Stock,28.57,1316760302.0,387778,Consumer Discretionary
+PRG,PROG Holdings Inc. Common Stock,33.48,1305608712.0,1036274,Consumer Discretionary
 GIII,G-III Apparel Group LTD. Common Stock,30.36,1301730783.0,449174,Consumer Discretionary
 WBTN,WEBTOON Entertainment Inc. Common stock,9.53,1293326497.0,652260,Consumer Discretionary
 GT,The Goodyear Tire & Rubber Company Common Stock,4.43,1275391405.0,6659582,Consumer Discretionary
@@ -397,7 +397,7 @@ AMRC,Ameresco Inc. Class A Common Stock,21.0,1114390431.0,382389,Consumer Discre
 KPLT,Katapult Holdings Inc. Common Stock,12.52,1062310169.0,1052876,Consumer Discretionary
 ODC,Oil-Dri Corporation Of America Common Stock,73.26,1060250442.0,97865,Consumer Discretionary
 DLX,Deluxe Corporation Common Stock,22.92,1051026167.0,910254,Consumer Discretionary
-KFRC,Kforce Inc. Common Stock,57.87,1036393830.0,301063,Consumer Discretionary
+KFRC,Kforce Inc. Common Stock,57.87,1036335960.0,301063,Consumer Discretionary
 YELP,Yelp Inc. Common Stock,18.96,1028838254.0,1149780,Consumer Discretionary
 WINA,Winmark Corporation Common Stock,286.88,1021061862.0,71512,Consumer Discretionary
 FET,Forum Energy Technologies Inc. Common Stock,88.76,1018316763.0,156615,Consumer Discretionary
@@ -418,17 +418,16 @@ TDAY,USA TODAY Co. Inc. Common Stock,6.19,908803055.0,4057645,Consumer Discretio
 BH,Biglari Holdings Inc. Class B Common Stock,390.32,908098996.0,47961,Consumer Discretionary
 FUBO,FuboTV Inc. Class A Common Stock,7.96,869206488.0,1127527,Consumer Discretionary
 DJCO,Daily Journal Corp. (S.C.) Common Stock,628.67,866277084.0,38446,Consumer Discretionary
-MAX,MediaAlpha Inc. Class A Common Stock,14.13,865660009.0,2964809,Consumer Discretionary
 MCS,Marcus Corporation (The) Common Stock,28.07,865458703.0,284552,Consumer Discretionary
 SMP,Standard Motor Products Inc. Common Stock,38.25,854516207.0,138808,Consumer Discretionary
 CODI,D/B/A Compass Diversified Holdings Shares of Beneficial Interest,11.28,848661696.0,943323,Consumer Discretionary
+MAX,MediaAlpha Inc. Class A Common Stock,14.13,836383977.0,2964809,Consumer Discretionary
 HMH,HMH Holding Inc. Class A Common Stock,18.67,823219167.0,61747,Consumer Discretionary
-OI,O-I Glass Inc. Common Stock,5.29,812860062.0,5406576,Consumer Discretionary
+OI,O-I Glass Inc. Common Stock,5.29,814357618.0,5406576,Consumer Discretionary
 FUN,Six Flags Entertainment Corporation Common Stock New,7.68,785789276.0,3848671,Consumer Discretionary
 BBSI,Barrett Business Services Inc. Common Stock,32.36,784250425.0,182706,Consumer Discretionary
 PHR,Phreesia Inc. Common Stock,12.53,777748928.0,612747,Consumer Discretionary
 FWRG,First Watch Restaurant Group Inc. Common Stock,12.51,772022562.0,2130535,Consumer Discretionary
-OMEX,Odyssey Marine Exploration Inc. Common Stock,13.14,771204851.0,54531,Consumer Discretionary
 LYTS,LSI Industries Inc. Common Stock,20.67,771088418.0,199854,Consumer Discretionary
 CNNE,Cannae Holdings Inc. Common Stock,17.15,743867993.0,466180,Consumer Discretionary
 BWMN,Bowman Consulting Group Ltd. Common Stock,42.86,743000044.0,198653,Consumer Discretionary
@@ -461,7 +460,7 @@ EBF,Ennis Inc. Common Stock,21.76,550915023.0,157442,Consumer Discretionary
 RMR,The RMR Group Inc. Class A Common Stock,17.1,548571865.0,121524,Consumer Discretionary
 OIS,Oil States International Inc. Common Stock,9.08,547729381.0,989325,Consumer Discretionary
 SDHC,Smith Douglas Homes Corp. Class A Common Stock,10.52,534714568.0,58168,Consumer Discretionary
-NORD,Nordicus Partners Corporation,5.091,530352914.0,41849,Consumer Discretionary
+NORD,Nordicus Partners Corporation Common Stock,5.091,530352914.0,41849,Consumer Discretionary
 BRCB,Black Rock Coffee Bar Inc. Class A Common Stock,10.59,530269671.0,488908,Consumer Discretionary
 PANL,Pangaea Logistics Solutions Ltd. Common Shares,8.03,525754389.0,300264,Consumer Discretionary
 XMAX,XMAX Inc. Common Stock,8.09,524843814.0,822151,Consumer Discretionary
@@ -514,7 +513,7 @@ DBI,Designer Brands Inc. Class A Common Stock,6.8,347639147.0,1034523,Consumer D
 GOGO,Gogo Inc. Common Stock,2.53,342834891.0,1310416,Consumer Discretionary
 BBW,Build-A-Bear Workshop Inc. Common Stock,27.48,338535326.0,955913,Consumer Discretionary
 HLLY,Holley Inc. Common Stock,2.66,322482820.0,568233,Consumer Discretionary
-FLXS,Flexsteel Industries Inc. Common Stock,75.57,314553550.0,117114,Consumer Discretionary
+FLXS,Flexsteel Industries Inc. Common Stock,75.57,314520300.0,117114,Consumer Discretionary
 HCKT,Hackett Group Inc (The). Common Stock,12.62,313958757.0,206684,Consumer Discretionary
 HTZWW,Hertz Global Holdings Inc Warrant,0.8587,306084811.0,43326,Consumer Discretionary
 PUSA,Powerus Corporation Common Stock,1.81,305598338.0,654484,Consumer Discretionary
@@ -530,7 +529,7 @@ PLAY,Dave & Buster's Entertainment Inc. Common Stock,8.13,283173136.0,1408841,Co
 EVI,EVI Industries Inc.  Common Stock,21.72,279721715.0,57981,Consumer Discretionary
 MTRX,Matrix Service Company Common Stock,9.87,279241260.0,422520,Consumer Discretionary
 ESCA,Escalade Incorporated Common Stock,20.14,277248730.0,56127,Consumer Discretionary
-SMHI,SEACOR Marine Holdings Inc. Common Stock ,9.83,266715680.0,225269,Consumer Discretionary
+SMHI,SEACOR Marine Holdings Inc. Common Stock ,9.83,266895529.0,225269,Consumer Discretionary
 ACU,Acme United Corporation. Common Stock,68.11,261121685.0,37938,Consumer Discretionary
 IMXI,International Money Express Inc. Common Stock,8.59,259517876.0,582122,Consumer Discretionary
 STRT,STRATTEC SECURITY CORPORATION Common Stock,64.38,256555137.0,57454,Consumer Discretionary
@@ -645,14 +644,14 @@ LVO,LiveOne Inc. Common Stock,3.16,43329253.0,186671,Consumer Discretionary
 ACFN,Acorn Energy Inc. Common Stock,17.17,43090141.0,81864,Consumer Discretionary
 SPWH,Sportsman's Warehouse Holdings Inc. Common Stock,1.07,41881368.0,388253,Consumer Discretionary
 VRM,Vroom Inc. Common Stock,7.89,41299045.0,4332,Consumer Discretionary
-IZEA,IZEA Worldwide Inc. Common Stock,2.37,41276598.0,23080,Consumer Discretionary
+IZEA,IZEA Worldwide Inc. Common Stock,2.37,41011336.0,23080,Consumer Discretionary
 MAMO,Massimo Group Common Stock,0.9792,40774818.0,11796,Consumer Discretionary
+CNVS,Cineverse Corp. Class A Common Stock,1.48,39411980.0,63190,Consumer Discretionary
 XOS,Xos Inc. Common Stock,2.65,37677308.0,282935,Consumer Discretionary
 RDI,Reading International Inc Class A Common Stock,1.63,37310907.0,32905,Consumer Discretionary
 GAIA,Gaia Inc. Class A Common Stock,1.44,36613142.0,95192,Consumer Discretionary
 STRR,Star Equity Holdings Inc. Common Stock,9.81,36193043.0,10734,Consumer Discretionary
 MWYN,Marwynn Holdings Inc. Common stock,1.76,35542855.0,307674,Consumer Discretionary
-CNVS,Cineverse Corp. Class A Common Stock,1.48,35181653.0,63190,Consumer Discretionary
 STKS,The ONE Group Hospitality Inc. Common Stock,1.1,34857926.0,16464,Consumer Discretionary
 STRRP,Star Equity Holdings Inc. 10% Series A Cumulative Perpetual Preferred Stock,8.93,32946369.0,686,Consumer Discretionary
 TOON,Kartoon Studios Inc. Common Stock,0.5224,32495424.0,163504,Consumer Discretionary
@@ -660,6 +659,7 @@ AERT,Aeries Technology Inc. Class A Ordinary Share,6.19,32484204.0,14481,Consume
 ELWT,Elauwit Connection Inc. Common Stock,4.775,31609526.0,33043,Consumer Discretionary
 RAVE,Rave Restaurant Group Inc. Common Stock,2.195,31285137.0,19367,Consumer Discretionary
 BODI,The Beachbody Company Inc. Class A Common Stock,4.29,31149613.0,13995,Consumer Discretionary
+OMEX,Odyssey Marine Exploration Inc. Common Stock,13.14,30848200.0,54531,Consumer Discretionary
 UG,United-Guardian Inc. Common Stock,6.66,30598165.0,11805,Consumer Discretionary
 VTSI,VirTra Inc. Common Stock,2.68,30336592.0,22837,Consumer Discretionary
 LVLU,Lulu's Fashion Lounge Holdings Inc. Common Stock,10.48,30094116.0,4978,Consumer Discretionary
@@ -707,7 +707,7 @@ OLB,The OLB Group Inc. Common Stock,0.2701,8426920.0,204764,Consumer Discretiona
 CISO,CISO Global Inc. Common Stock,0.179,8158593.0,101300,Consumer Discretionary
 INUV,Inuvo Inc.,0.4339,7152008.0,35086,Consumer Discretionary
 XWEL,XWELL Inc. Common Stock,0.6903,6882901.0,21568,Consumer Discretionary
-NHTC,Natural Health Trends Corp. Common Stock,0.7741,6640112.0,81522,Consumer Discretionary
+NHTC,Natural Health Trends Corp. Common Stock,0.7741,6574088.0,81522,Consumer Discretionary
 ARAI,Arrive AI Inc. Common Stock,0.1214,6344464.0,4922118,Consumer Discretionary
 NWTG,Newton Golf Company Inc. Common Stock,1.07,6050291.0,17959,Consumer Discretionary
 BTOC,Armlogi Holding Corp. Common Stock,2.13,6049681.0,2839,Consumer Discretionary

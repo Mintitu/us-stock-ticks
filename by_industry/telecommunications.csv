@@ -3,7 +3,7 @@ CSCO,Cisco Systems Inc. Common Stock (DE),108.59,428125508539.0,13562139,Telecom
 ANET,Arista Networks Inc. Common Stock,184.22,232342804655.0,5367114,Telecommunications
 CCZ,Comcast Holdings ZONES,64.5,229039908608.0,2120,Telecommunications
 VZ,Verizon Communications Inc. Common Stock,43.66,181397485319.0,22246757,Telecommunications
-TMUS,T-Mobile US Inc. Common Stock,147.29,157993801879.0,7229196,Telecommunications
+TMUS,T-Mobile US Inc. Common Stock,147.29,156020256983.0,7229196,Telecommunications
 T,AT&T Inc.,20.92,140927024218.0,45921279,Telecommunications
 TBB,AT&T Inc. 5.350% Global Notes due 2066,17.64,126132799867.0,154550,Telecommunications
 LITE,Lumentum Holdings Inc. Common Stock,919.53,83293653578.0,7504272,Telecommunications
@@ -33,7 +33,7 @@ UZE,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,15.02,1291720
 GLIBK,Liberty Capital Corporation Series C GCI Group Common Stock,21.61,862346920.0,288802,Telecommunications
 GLIBA,Liberty Capital Corporation Series A GCI Group Common Stock,21.51,858356421.0,27589,Telecommunications
 MATW,Matthews International Corporation Class A Common Stock,19.34,603662766.0,511647,Telecommunications
-SHEN,Shenandoah Telecommunications Co Common Stock,10.13,540584208.0,707529,Telecommunications
+SHEN,Shenandoah Telecommunications Co Common Stock,10.13,560854045.0,707529,Telecommunications
 ATNI,ATN International Inc. Common Stock,25.88,398638879.0,63699,Telecommunications
 AIOT,PowerFleet Inc. Common Stock,2.86,383886125.0,1720710,Telecommunications
 AMCX,AMC Global Media Inc. Class A Common Stock,7.97,328762269.0,821946,Telecommunications
@@ -57,8 +57,8 @@ IQST,iQSTEL Inc. Common Stock,0.888,9693283.0,37475,Telecommunications
 MYSE,Myseum.AI Inc. Common Stock,1.5,7794645.0,20581,Telecommunications
 AMPGZ,Amplitech Group Inc. Series B Right,0.049,1476243.0,9999,Telecommunications
 FOXXW,Foxx Development Holdings Inc. Warrant,0.0465,328983.0,2,Telecommunications
-CTGG,Qwest Corporation 6.500% Senior Notes due 2051,13.6,0.0,21688,Telecommunications
 CTHH,Qwest Corporation 6.750% Senior Notes due 2052,14.07,0.0,13020,Telecommunications
+CTGG,Qwest Corporation 6.500% Senior Notes due 2051,13.6,0.0,21688,Telecommunications
 TMUSI,T-Mobile US Inc. 5.500% Senior Notes due June 2070,17.91,0.0,20354,Telecommunications
 TMUSL,T-Mobile US Inc. 6.250% Senior Notes due 2069,20.1,0.0,21342,Telecommunications
 TMUSZ,T-Mobile US Inc. 5.500% Senior Notes due March 2070,17.76,0.0,22339,Telecommunications
