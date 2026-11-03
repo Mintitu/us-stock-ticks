@@ -1,460 +1,461 @@
 symbol,name,price,marketCap,volume,industry
-TSLA,Tesla Inc. Common Stock,403.3,1594147279622.0,22859701,Industrials
-CAT,Caterpillar Inc. Common Stock,647.39,297588926390.0,8167211,Industrials
-RTX,RTX Corporation Common Stock,199.4,269078445271.0,11714229,Industrials
-TMO,Thermo Fisher Scientific Inc Common Stock,709.18,262217380285.0,1473481,Industrials
-UNP,Union Pacific Corporation Common Stock,301.93,179422028103.0,1986425,Industrials
-DE,Deere & Company Common Stock,660.0,177952771920.0,1387796,Industrials
-DHR,Danaher Corporation Common Stock,236.98,166722732539.0,2702444,Industrials
-LMT,Lockheed Martin Corporation Common Stock,643.59,148672276258.0,2055557,Industrials
-BA,Boeing Company (The) Common Stock,172.65,136816482141.0,16756339,Industrials
-PH,Parker-Hannifin Corporation Common Stock,928.45,117089071707.0,554646,Industrials
-GLW,Corning Incorporated Common Stock,128.88,111015728099.0,8215804,Industrials
-GD,General Dynamics Corporation Common Stock,370.82,100328019050.0,1814584,Industrials
-CSX,CSX Corporation Common Stock,52.24,96299122490.0,13150141,Industrials
-PWR,Quanta Services Inc. Common Stock,635.18,93580929025.0,2011328,Industrials
-UPS,United Parcel Service Inc. Common Stock,107.33,91314387196.0,4415304,Industrials
-CTAS,Cintas Corporation Common Stock,218.07,86590165531.0,1692487,Industrials
-HWM,Howmet Aerospace Inc. Common Stock,205.94,82129160110.0,5829631,Industrials
-ITW,Illinois Tool Works Inc. Common Stock,281.4,79973880000.0,1063492,Industrials
-NOC,Northrop Grumman Corporation Common Stock,562.36,79891386034.0,1073134,Industrials
-NSC,Norfolk Southern Corporation Common Stock,342.19,76861583782.0,434028,Industrials
-GM,General Motors Company Common Stock,85.72,72309056540.0,9627017,Industrials
-CMI,Cummins Inc. Common Stock,518.03,71314334201.0,1305735,Industrials
-HON,Honeywell International Inc. Common Stock,222.14,70498021189.0,2753509,Industrials
-BRKRP,Bruker Corporation 6.375% Mandatory Convertible Preferred Stock Series A,454.2,69201601327.0,16162,Industrials
-TDG,Transdigm Group Incorporated Common Stock,1175.91,65000218513.0,331146,Industrials
-GWW,W.W. Grainger Inc. Common Stock,1371.86,64615898292.0,176173,Industrials
-NUE,Nucor Corporation Common Stock,275.29,62456604846.0,1486002,Industrials
-AME,AMETEK Inc.,251.78,57723396014.0,1842996,Industrials
-KEYS,Keysight Technologies Inc. Common Stock,329.84,56153526691.0,1386906,Industrials
-PCAR,PACCAR Inc. Common Stock,102.29,53856230103.0,3959854,Industrials
-LHX,L3Harris Technologies Inc. Common Stock,278.43,51847735533.0,3412198,Industrials
-A,Agilent Technologies Inc. Common Stock,181.15,51071411902.0,1824911,Industrials
-HONA,Honeywell Aerospace Inc. Common Stock ,160.04,50737775033.0,7436681,Industrials
-ROK,Rockwell Automation Inc. Common Stock,451.4,50229062384.0,596255,Industrials
-F,Ford Motor Company Common Stock,12.36,48410950785.0,70556134,Industrials
-WAB,Westinghouse Air Brake Technologies Corporation Common Stock,285.56,47917648775.0,905929,Industrials
-PYPL,PayPal Holdings Inc. Common Stock,56.95,47305990071.0,9843962,Industrials
-WAT,Waters Corporation Common Stock,480.07,47165970648.0,883306,Industrials
-FIX,Comfort Systems USA Inc. Common Stock,1326.23,46399355462.0,660601,Industrials
-TER,Teradyne Inc. Common Stock,296.23,46312820373.0,4226884,Industrials
-CARR,Carrier Global Corporation Common Stock ,55.54,45783013666.0,10949080,Industrials
-HEI,Heico Corporation Common Stock,326.35,45609829122.0,522289,Industrials
-ROP,Roper Technologies Inc. Common Stock,449.65,44470777994.0,1162258,Industrials
-SKYD,Skydance Corporation Class B Common Stock,7.9,39833206887.0,11883714,Industrials
-PAYX,Paychex Inc. Common Stock,109.37,38933584332.0,2121942,Industrials
-MLM,Martin Marietta Materials Inc. Common Stock,534.39,37952554683.0,1766615,Industrials
-RKLB,Rocket Lab Corporation Common Stock,59.1,37100600575.0,14625883,Industrials
-VMC,Vulcan Materials Company (Holding Company) Common Stock,280.31,36322216329.0,2832557,Industrials
-STLD,Steel Dynamics Inc.,253.53,36056399479.0,842026,Industrials
-ODFL,Old Dominion Freight Line Inc. Common Stock,172.35,35737913802.0,3453628,Industrials
-AXON,Axon Enterprise Inc. Common Stock,438.05,35586049641.0,712565,Industrials
-TDY,Teledyne Technologies Incorporated Common Stock,677.46,31187831061.0,364242,Industrials
-IR,Ingersoll Rand Inc. Common Stock,80.01,31043834314.0,8451830,Industrials
-EME,EMCOR Group Inc. Common Stock,689.32,30405836957.0,667536,Industrials
-DOV,Dover Corporation Common Stock,210.37,27980827114.0,1556869,Industrials
-FOXA,Fox Corporation Class A Common Stock,64.51,27202165355.0,5248437,Industrials
-EXPD,Expeditors International of Washington Inc. Common Stock,198.39,25788839499.0,1641318,Industrials
-VLTO,Veralto Corp Common Stock ,104.06,25369135377.0,1969793,Industrials
-ENTG,Entegris Inc. Common Stock,160.0,24448000000.0,4271139,Industrials
-DOW,Dow Inc. Common Stock ,33.62,24336909713.0,7363337,Industrials
-FOX,Fox Corporation Class B Common Stock,57.25,24140814860.0,669484,Industrials
-RL,Ralph Lauren Corporation Common Stock,400.52,23863878364.0,671966,Industrials
-ATI,ATI Inc. Common Stock,175.0,23829817025.0,3437847,Industrials
-ARXS,Arxis Inc. Class A Common Stock,54.93,23659552978.0,2070932,Industrials
-FWONK,Liberty Media Corporation Series C Common Stock,92.61,23218112796.0,2342480,Industrials
-IFF,International Flavors & Fragrances Inc. Common Stock,90.81,23170168140.0,2995587,Industrials
-SYM,Symbotic Inc. Class A Common Stock,37.4,22619583879.0,1917380,Industrials
-RS,Reliance Inc. Common Stock,439.71,22399667246.0,228499,Industrials
-FWONA,Liberty Media Corporation Series A Common Stock,85.62,21465660486.0,194218,Industrials
-XYL,Xylem Inc. Common Stock New,90.76,20814407570.0,4923347,Industrials
-JBHT,J.B. Hunt Transport Services Inc. Common Stock,222.06,20700149407.0,1015936,Industrials
-FTAI,FTAI Aviation Ltd. Common Stock,196.01,20131616907.0,3441149,Industrials
-RGLD,Royal Gold Inc. Common Stock,236.83,20066098373.0,414427,Industrials
-FTV,Fortive Corporation Common Stock ,65.84,19596910983.0,3766461,Industrials
-DD,DuPont de Nemours Inc. Common Stock,140.58,18984341426.0,683129,Industrials
-RVTY,Revvity Inc. Common Stock,165.78,18498793558.0,1530048,Industrials
-NDSN,Nordson Corporation Common Stock,329.1,18330661351.0,334307,Industrials
-ITT,ITT Inc. Common Stock ,202.56,18108864000.0,554637,Industrials
-J,Jacobs Solutions Inc. Common Stock,152.76,17878818216.0,1024406,Industrials
-CF,CF Industries Holdings Inc. Common Stock,118.09,17871519772.0,1508811,Industrials
-ZBRA,Zebra Technologies Corporation Class A Common Stock,377.38,17854096871.0,527848,Industrials
-IEX,IDEX Corporation Common Stock,239.33,17579458863.0,1368919,Industrials
-BALL,Ball Corporation Common Stock,64.5,17073366527.0,1501371,Industrials
-RIVN,Rivian Automotive Inc. Class A Common Stock,11.45,16578004214.0,43236489,Industrials
-CLH,Clean Harbors Inc. Common Stock,309.33,16310921717.0,691826,Industrials
-RBC,RBC Bearings Incorporated Common Stock,495.74,15694754116.0,290003,Industrials
-MAS,Masco Corporation Common Stock,80.18,15456226679.0,2960301,Industrials
-LECO,Lincoln Electric Holdings Inc. Common Shares,284.36,15400075136.0,391315,Industrials
-TRMB,Trimble Inc. Common Stock,65.34,15235971268.0,1541624,Industrials
-TXT,Textron Inc. Common Stock,87.46,15041975761.0,4285337,Industrials
-CHRW,C.H. Robinson Worldwide Inc. Common Stock,127.43,14890355807.0,2772275,Industrials
-CRS,Carpenter Technology Corporation Common Stock,298.72,14798807762.0,1892185,Industrials
-CSL,Carlisle Companies Incorporated Common Stock,371.36,14748240431.0,690630,Industrials
-MKSI,MKS Inc. Common Stock,216.17,14616887513.0,769999,Industrials
-MTZ,MasTec Inc. Common Stock,177.82,14279825853.0,2542619,Industrials
-CCK,Crown Holdings Inc.,118.2,12771684109.0,598431,Industrials
-BWXT,BWX Technologies Inc. Common Stock,137.93,12637419701.0,853582,Industrials
-HII,Huntington Ingalls Industries Inc. Common Stock,316.21,12460127934.0,1707877,Industrials
-MAIR,Madison Air Solutions Corporation Class A Common Stock,24.56,12322307351.0,1453126,Industrials
-MLI,Mueller Industries Inc. Common Stock,55.78,12158610972.0,1509022,Industrials
-LII,Lennox International Inc. Common Stock,348.12,11908639000.0,983325,Industrials
-CR,Crane Company Common Stock,205.81,11895891268.0,515448,Industrials
-WTS,Watts Water Technologies Inc. Class A Common Stock,350.89,11713778415.0,278984,Industrials
-STRL,Sterling Infrastructure Inc. Common Stock,373.66,11429705636.0,1827385,Industrials
-AVTR,Avantor Inc. Common Stock,16.68,11302631027.0,11218173,Industrials
-GGG,Graco Inc. Common Stock,68.75,11025790325.0,2321891,Industrials
-ALB,Albemarle Corporation Common Stock,93.27,11006331666.0,2460711,Industrials
-RRX,Regal Rexnord Corporation Common Stock,163.62,10895761279.0,922019,Industrials
-ONTO,Onto Innovation Inc. Common Stock,221.89,10889084667.0,824472,Industrials
-AES,The AES Corporation Common Stock,15.05,10737251382.0,8969613,Industrials
-TXG,10x Genomics Inc. Class A Common Stock,81.55,10625244750.0,1860476,Industrials
-AA,Alcoa Corporation Common Stock ,39.89,10527347761.0,4271005,Industrials
-BIO,Bio-Rad Laboratories Inc. Class A Common Stock,384.4,10278154470.0,332430,Industrials
-FLS,Flowserve Corporation Common Stock,80.35,10188869171.0,3722457,Industrials
-KNX,Knight-Swift Transportation Holdings Inc.,61.15,9953813550.0,2915583,Industrials
-SOLS,Solstice Advanced Materials Inc. Common Stock ,62.56,9937491405.0,1543875,Industrials
-CGNX,Cognex Corporation Common Stock,58.97,9920159963.0,1537138,Industrials
-DCI,Donaldson Company Inc. Common Stock,85.29,9885974902.0,579221,Industrials
-HL,Hecla Mining Company Common Stock,14.45,9707053828.0,38363447,Industrials
-OC,Owens Corning Inc Common Stock New,121.6,9612319853.0,831316,Industrials
-BRKR,Bruker Corporation Common Stock,62.0,9446277592.0,1502842,Industrials
-SAIA,Saia Inc. Common Stock,343.07,9151272176.0,780681,Industrials
-IESC,IES Holdings Inc. Common Stock,223.79,9110638601.0,554701,Industrials
-ESI,Element Solutions Inc. Common Stock,35.4,8588146129.0,2617782,Industrials
-WLK,Westlake Corporation Common Stock,66.01,8435850133.0,915970,Industrials
-SPXC,SPX Technologies Inc. Common Stock,167.26,8377360944.0,785877,Industrials
-OSK,Oshkosh Corporation (Holding Company)Common Stock,135.27,8351535847.0,1672226,Industrials
-NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,3.32,8318814513.0,25069790,Industrials
-ATR,AptarGroup Inc. Common Stock,130.64,8306238693.0,649777,Industrials
-VMI,Valmont Industries Inc. Common Stock,432.76,8282992212.0,203973,Industrials
-KTOS,Kratos Defense & Security Solutions Inc. Common Stock,43.59,8182901016.0,6251696,Industrials
-TKR,Timken Company (The) Common Stock,114.83,7957356022.0,819954,Industrials
-SARO,StandardAero Inc. Common Stock,23.79,7872573263.0,4463444,Industrials
-RAL,Ralliant Corporation Common Stock,70.53,7803439764.0,1230358,Industrials
-EMN,Eastman Chemical Company Common Stock,67.93,7769658209.0,1727205,Industrials
-AGCO,AGCO Corporation Common Stock,107.84,7552221655.0,1955990,Industrials
-NEU,NewMarket Corp Common Stock,803.07,7385357766.0,227131,Industrials
-ZWS,Zurn Elkay Water Solutions Corporation Common Stock,44.73,7384608906.0,2393520,Industrials
-DY,Dycom Industries Inc. Common Stock,239.66,7228374955.0,591496,Industrials
-CMC,Commercial Metals Company Common Stock,65.7,7225547570.0,1051087,Industrials
-VFC,V.F. Corporation Common Stock,18.33,7215404006.0,11998325,Industrials
-FSS,Federal Signal Corporation Common Stock,115.21,7032604003.0,1067937,Industrials
-AWI,Armstrong World Industries Inc Common Stock,165.95,6942335539.0,858142,Industrials
-MSM,MSC Industrial Direct Company Inc. Common Stock,122.92,6866096705.0,793610,Industrials
-AVAV,AeroVironment Inc. Common Stock,134.88,6854696286.0,1733615,Industrials
-TEX,Terex Corporation Common Stock,56.55,6463665000.0,2959773,Industrials
-FLR,Fluor Corporation Common Stock,47.56,6360725147.0,1529627,Industrials
-AAON,AAON Inc. Common Stock,75.3,6208759017.0,648165,Industrials
-LOAR,Loar Holdings Inc. Common Stock,64.81,6071949806.0,977559,Industrials
-HXL,Hexcel Corporation Common Stock,79.55,6022087577.0,1745576,Industrials
-NPO,Enpro Inc. Common Stock,284.44,6020935184.0,139485,Industrials
-HRI,Herc Holdings Inc. Common Stock ,173.95,5820957734.0,947310,Industrials
-MOS,Mosaic Company (The) Common Stock,18.23,5795237627.0,6936303,Industrials
-JBTM,JBT Marel Corporation Common Stock,110.44,5729275669.0,431296,Industrials
-SXT,Sensient Technologies Corporation Common Stock,131.53,5598286531.0,434757,Industrials
-EXP,Eagle Materials Inc Common Stock,181.84,5578001098.0,500910,Industrials
-KRMN,Karman Holdings Inc. Common Stock,41.69,5525330287.0,3308894,Industrials
-BCPC,Balchem Corporation Common Stock,170.4,5414856010.0,196229,Industrials
-GVA,Granite Construction Incorporated Common Stock,121.69,5325703222.0,1645360,Industrials
-MIDD,Middleby Corporation (The) Common Stock,117.59,5317696019.0,375408,Industrials
-CE,Celanese Corporation Common Stock,48.32,5303068104.0,1297659,Industrials
-ROAD,Construction Partners Inc. Class A Common Stock,91.71,5261820439.0,895901,Industrials
-NXST,Nexstar Media Group Inc. Common Stock,170.1,5240492000.0,281730,Industrials
-SNDR,Schneider National Inc. Common Stock,29.45,5162611476.0,1460293,Industrials
-JOBY,Joby Aviation Inc. Common Stock,5.08,5048882181.0,16749405,Industrials
-MTRN,Materion Corporation,239.81,4996135592.0,103542,Industrials
-MWH,SOLV Energy Inc. Class A Common Stock,24.27,4911925743.0,1123137,Industrials
-VNT,Vontier Corporation Common Stock ,35.89,4852328000.0,1324879,Industrials
-KBR,KBR Inc. Common Stock,38.32,4830916372.0,3821435,Industrials
-BC,Brunswick Corporation Common Stock,74.36,4818336746.0,1729783,Industrials
-BETA,Beta Technologies Inc. Class A Common Stock,20.57,4812167604.0,1722794,Industrials
-LSTR,Landstar System Inc. Common Stock,141.37,4765433272.0,1181394,Industrials
-XE,X-Energy Inc. Class A Common Stock,11.7,4754483464.0,4109057,Industrials
-CSW,CSW Industrials Inc. Common Stock,291.42,4748247982.0,224573,Industrials
-GFF,Griffon Corporation Common Stock,102.92,4661732171.0,313800,Industrials
-ESAB,ESAB Corporation Common Stock,74.13,4608499755.0,1088121,Industrials
-MIR,Mirion Technologies Inc. Class A Common Stock,18.67,4583338011.0,8723916,Industrials
-ALH,Alliance Laundry Holdings Inc. Common Stock,22.36,4444924187.0,842210,Industrials
-MYRG,MYR Group Inc. Common Stock,283.0,4406312264.0,465569,Industrials
-VSNT,Versant Media Group Inc. Class A Common Stock ,31.005,4303255355.0,1425180,Industrials
-BMI,Badger Meter Inc. Common Stock,149.68,4275407431.0,476330,Industrials
-BCO,Brinks Company (The) Common Stock,102.19,4209168698.0,499903,Industrials
-AIR,AAR Corp. Common Stock,104.52,4201098934.0,436120,Industrials
-BDC,Belden Inc Common Stock,107.48,4200123969.0,626121,Industrials
-SLGN,Silgan Holdings Inc. Common Stock,39.49,4173382970.0,1337372,Industrials
-ITRI,Itron Inc. Common Stock,94.69,4153144022.0,859102,Industrials
-MDU,MDU Resources Group Inc. Common Stock (Holding Company),19.71,4145987778.0,1475831,Industrials
-KTB,Kontoor Brands Inc. Common Stock ,75.83,4144384005.0,629812,Industrials
-VVV,Valvoline Inc. Common Stock,32.38,4131248215.0,1996538,Industrials
-AZZ,AZZ Inc.,138.02,4129941958.0,186242,Industrials
-PVH,PVH Corp. Common Stock,88.27,4072586519.0,718079,Industrials
-PRIM,Primoris Services Corporation Common Stock,75.61,4070262244.0,1269045,Industrials
-AVNT,Avient Corporation Common Stock,42.88,3932934304.0,540229,Industrials
-CBT,Cabot Corporation Common Stock,73.85,3812949867.0,392283,Industrials
-THO,Thor Industries Inc. Common Stock,73.62,3799849257.0,724289,Industrials
-SEB,Seaboard Corporation Common Stock,3876.29,3712687304.0,11208,Industrials
-SMG,Scotts Miracle-Gro Company (The) Common Stock,61.87,3602088352.0,1181340,Industrials
-MWA,MUELLER WATER PRODUCTS Common Stock,22.78,3556542968.0,1821012,Industrials
-CXT,Crane NXT Co. Common Stock,60.22,3466341727.0,633713,Industrials
-CENX,Century Aluminum Company Common Stock,34.65,3430117672.0,1718051,Industrials
-ACHR,Archer Aviation Inc. Class A Common Stock,4.38,3408888620.0,16247090,Industrials
-WSC,WillScot Holdings Corporation Class A Common Stock,18.57,3364716090.0,3189491,Industrials
-FLY,Firefly Aerospace Inc. Common Stock,19.87,3326330296.0,2001758,Industrials
-KNF,Knife Riv Holding Co. Common Stock,57.6,3269572992.0,575529,Industrials
-USLM,United States Lime & Minerals Inc. Common Stock,113.89,3267317662.0,124651,Industrials
-HAYW,Hayward Holdings Inc. Common Stock,15.57,3244634340.0,6672842,Industrials
-KAI,Kadant Inc Common Stock,271.33,3204167716.0,133838,Industrials
-WOR,Worthington Enterprises Inc. Common Shares,64.23,3163951173.0,162841,Industrials
-SXI,Standex International Corporation Common Stock,248.19,3048136798.0,142851,Industrials
-WDFC,WD-40 Company Common Stock,219.41,2938444695.0,112477,Industrials
-REZI,Resideo Technologies Inc. Common Stock ,18.8,2854730706.0,1282187,Industrials
-ARCB,ArcBest Corporation Common Stock,126.41,2825434659.0,233844,Industrials
-POWWP,Outdoor Holding Company 8.75% Series A Cumulative Redeemable Perpetual Preferred Stock,23.8,2762250158.0,34,Industrials
-DXPE,DXP Enterprises Inc. Common Stock,176.29,2735518021.0,169695,Industrials
-FTAIM,FTAI Aviation Ltd. 9.500% Fixed-Rate Reset Series D Cumulative Perpetual Redeemable Preferred Shares,26.55,2726873266.0,12540,Industrials
-KWR,Quaker Houghton Common Stock,157.87,2716579915.0,164167,Industrials
-ATRO,Astronics Corporation Common Stock,62.88,2704409944.0,364166,Industrials
-FUL,H. B. Fuller Company Common Stock,49.69,2674768923.0,703881,Industrials
-LUNR,Intuitive Machines Inc. Class A Common Stock,11.68,2673833114.0,6980365,Industrials
-NGVT,Ingevity Corporation Common Stock ,75.37,2591063981.0,342479,Industrials
-TTAM,Titan America SA Common Shares,14.03,2586605384.0,330110,Industrials
-SMR,NuScale Power Corporation Class A Common Stock,5.92,2543961770.0,35933417,Industrials
-DCO,Ducommun Incorporated Common Stock,168.06,2537668859.0,138618,Industrials
-COHU,Cohu Inc. Common Stock,53.4,2528279070.0,1717551,Industrials
-IOSP,Innospec Inc. Common Stock,101.41,2497834476.0,205113,Industrials
-ROG,Rogers Corporation Common Stock,140.33,2497234095.0,203834,Industrials
-ALMR,Alamar Biosciences Inc. Common Stock,34.04,2362129755.0,496166,Industrials
-OUST,Ouster Inc. Common Stock,32.14,2317690383.0,1536320,Industrials
-KMT,Kennametal Inc. Common Stock,30.18,2305451136.0,1547379,Industrials
-RDW,Redwire Corporation Common Stock,9.16,2289932298.0,9522325,Industrials
-CHRN,ChronoScale Holdings Corporation Common Stock,15.615,2274128813.0,180491,Industrials
-TRN,Trinity Industries Inc. Common Stock,28.32,2256239844.0,1601114,Industrials
-HLIO,Helios Technologies Inc. Common Stock,68.26,2252580000.0,245330,Industrials
-LEU,Centrus Energy Corp. Class A Common Stock,110.55,2181583529.0,624522,Industrials
-NWL,Newell Brands Inc. Common Stock,5.08,2163572000.0,12531232,Industrials
-WS,Worthington Steel Inc. Common Shares,42.09,2155733379.0,498054,Industrials
-ANDE,Andersons Inc. (The) Common Stock,62.47,2122453858.0,756621,Industrials
-NN,NextNav Inc. Common Stock,12.08,2039223713.0,2600982,Industrials
-AEHR,Aehr Test Systems Common Stock,61.21,1999090811.0,1579079,Industrials
-CC,Chemours Company (The) Common Stock,13.19,1985081744.0,1465352,Industrials
-GRC,Gorman-Rupp Company (The) Common Stock,74.39,1964657977.0,143656,Industrials
-KALU,Kaiser Aluminum Corporation Common Stock,119.83,1959206839.0,495391,Industrials
-MFP,Midera Food Processing Inc. Common Stock,41.57,1880230014.0,357418,Industrials
-PRLB,Proto Labs Inc. Common stock,77.64,1857296083.0,624204,Industrials
-OLN,Olin Corporation Common Stock,16.05,1829418965.0,4835603,Industrials
-ALG,Alamo Group Inc. Common Stock,146.74,1785967404.0,144446,Industrials
-VOYG,Voyager Technologies Inc. Class A Common Stock,27.8,1722703672.0,1422940,Industrials
-AVEX,AEVEX Corp. Class A Common Stock,13.43,1702507307.0,2162740,Industrials
-GIC,Global Industrial Company Common Stock,44.27,1687056256.0,114983,Industrials
-WERN,Werner Enterprises Inc. Common Stock,27.63,1657168820.0,1439412,Industrials
-HUBG,Hub Group Inc. Class A Common Stock,26.68,1631575647.0,700053,Industrials
-RYZ,Ryerson Holding Corporation Common Stock,31.0,1603000390.0,675443,Industrials
-HUN,Huntsman Corporation Common Stock,8.97,1573146186.0,2317855,Industrials
-PLPC,Preformed Line Products Company Common Stock,320.01,1564433207.0,159863,Industrials
-ALNT,Allient Inc. Common Stock,91.76,1560150409.0,199076,Industrials
-TRS,TriMas Corporation Common Stock,38.68,1387601408.0,803198,Industrials
-ADIG,ADI Global Distribution Inc. Common Stock,17.69,1343081373.0,367164,Industrials
-UAN,CVR Partners LP Common Units representing Limited Partner Interests,126.13,1333148315.0,14438,Industrials
-REX,REX American Resources Corporation,38.86,1289205370.0,235284,Industrials
-XPEL,XPEL Inc. Common Stock,45.78,1262188843.0,249847,Industrials
-LCID,Lucid Group Inc. Common Stock,3.2,1261024563.0,9552824,Industrials
-ROCK,Gibraltar Industries Inc. Common Stock,40.33,1197151243.0,234201,Industrials
-GBX,Greenbrier Companies Inc. (The) Common Stock,38.53,1194376019.0,628597,Industrials
-AESI,Atlas Energy Solutions Inc. Common Stock,9.26,1157531956.0,2982813,Industrials
-MYE,Myers Industries Inc. Common Stock,30.39,1143213147.0,943391,Industrials
-TNC,Tennant Company Common Stock,66.64,1136165552.0,113971,Industrials
-GOLD,Gold.com Inc. Common Stock,38.55,1121668186.0,552921,Industrials
-ECVT,Ecovyst Inc. Common Stock,10.24,1120956396.0,1315835,Industrials
-PSIX,Power Solutions International Inc. Common Stock,48.38,1115906471.0,293944,Industrials
-KRT,Karat Packaging Inc. Common Stock,54.39,1084086305.0,144804,Industrials
-NPK,National Presto Industries Inc. Common Stock,151.77,1083040889.0,101165,Industrials
-LNN,Lindsay Corporation Common Stock,106.38,1081877153.0,178342,Industrials
-NMAX,Newsmax Inc. Class B Common Stock,8.1,1046201225.0,546728,Industrials
-UVV,Universal Corporation Common Stock,41.01,1021118530.0,305532,Industrials
-CMP,Compass Minerals Intl Inc Common Stock,22.93,962621441.0,393502,Industrials
-MRTN,Marten Transport Ltd. Common Stock,11.76,960341227.0,893539,Industrials
-YSS,York Space Systems Inc. Common Stock,6.99,960129659.0,1432848,Industrials
-GPRE,Green Plains Inc. Common Stock,13.62,954698367.0,959097,Industrials
-NX,Quanex Building Products Corporation Common Stock,20.76,951352078.0,393762,Industrials
-NPKI,NPK International Inc. Common Stock,11.2,950990813.0,812203,Industrials
-NWPX,NWPX Infrastructure Inc. Common Stock,98.0,944445796.0,556738,Industrials
-SXC,SunCoke Energy Inc. Common Stock,11.03,936169596.0,1372938,Industrials
-FTK,Flotek Industries Inc. Common Stock,25.68,930140617.0,225138,Industrials
-ASA,ASA  Gold and Precious Metals Limited,51.04,923127406.0,27480,Industrials
-PLOW,Douglas Dynamics Inc. Common Stock,39.83,919158742.0,156359,Industrials
-ASTE,Astec Industries Inc. Common Stock,39.91,918942397.0,197009,Industrials
-SBGI,Sinclair Inc. Class A Common Stock,12.7,918439362.0,561605,Industrials
-PACB,Pacific Biosciences of California Inc. Common Stock,2.9,901409201.0,11974007,Industrials
-MTUS,Metallus Inc. Common Shares,21.42,887843663.0,222604,Industrials
-WGO,Winnebago Industries Inc. Common Stock,30.23,860837400.0,809240,Industrials
-MTW,Manitowoc Company Inc. (The) Common Stock,23.8,858274862.0,443910,Industrials
-SWIM,Latham Group Inc. Common Stock,7.26,854110584.0,1107249,Industrials
-TRNS,Transcat Inc. Common Stock,90.0,844946460.0,174822,Industrials
-GHM,Graham Corporation Common Stock,71.69,841427896.0,126956,Industrials
-CTKB,Cytek Biosciences Inc. Common Stock,6.3,818894494.0,1914850,Industrials
-FEIM,Frequency Electronics Inc. Common Stock,71.78,809196541.0,150040,Industrials
-HTLD,Heartland Express Inc. Common Stock,10.38,802712502.0,788964,Industrials
-PCTTU,PureCycle Technologies Inc. Unit,3.87,777501615.0,4748,Industrials
-CDNL,Cardinal Infrastructure Group Inc. Class A Common Stock,15.79,765496910.0,708722,Industrials
-RMIX,Suncrete Inc. Class A Common Stock,10.375,762415528.0,396678,Industrials
-WLKP,Westlake Chemical Partners LP Common Units representing limited partner interests,21.13,744745423.0,17819,Industrials
-MLAB,Mesa Laboratories Inc. Common Stock,133.03,744418453.0,60937,Industrials
-FMC,FMC Corporation Common Stock,4.75,738873739.0,10602040,Industrials
-SWBI,Smith & Wesson Brands Inc. Common Stock,13.66,735367632.0,458292,Industrials
-ELMT,The Elmet Group Co. Common Stock,24.08,733464712.0,420759,Industrials
-RGR,Sturm Ruger & Company Inc. Common Stock,45.78,731484560.0,300929,Industrials
-CVLG,Covenant Logistics Group Inc. Class A Common Stock,28.82,731387562.0,217000,Industrials
-LWLG,Lightwave Logic Inc. Common Stock,4.58,706086028.0,1776294,Industrials
-ITG,ITG Inc. Class A Common Stock,5.68,705213004.0,1234466,Industrials
-BW,Babcock & Wilcox Enterprises Inc. Common Stock,4.56,679280701.0,3257667,Industrials
-PCT,PureCycle Technologies Inc. Common stock,3.33,669013017.0,8264474,Industrials
-PKOH,Park-Ohio Holdings Corp. Common Stock,45.0,652050450.0,74963,Industrials
-JBI,Janus International Group Inc. Common Stock,4.56,622147202.0,3076080,Industrials
-FWRD,Forward Air Corporation Common Stock,17.87,603664004.0,599819,Industrials
-PKE,Park Aerospace Corp. Common Stock,26.55,584929289.0,180556,Industrials
-EVC,Entravision Communications Corporation Common Stock,6.27,578647672.0,966085,Industrials
-EVEX,Eve Holding Inc. Common Stock,1.62,564547859.0,903884,Industrials
-IIIN,Insteel Industries Inc. Common Stock,28.96,560614833.0,166138,Industrials
-WNC,Wabash National Corporation Common Stock,13.26,540174914.0,2178267,Industrials
-MASS,908 Devices Inc. Common Stock,12.85,531138109.0,223037,Industrials
-HY,Hyster-Yale Inc. Class A common stock,29.34,526077555.0,111909,Industrials
-MCFT,MasterCraft Boat Holdings Inc. Common Stock,21.235,514395217.0,111518,Industrials
-UAMY,United States Antimony Corporation Common Stock,3.16,472955253.0,3391679,Industrials
-MBUU,Malibu Boats Inc. Class A Common Stock,23.5,462415986.0,250737,Industrials
-GTN,Gray Media Inc. Common Stock,4.47,460340192.0,814538,Industrials
-ULH,Universal Logistics Holdings Inc. Common Stock,17.42,459327163.0,81469,Industrials
-CMCO,Columbus McKinnon Corporation Common Stock,15.25,440179721.0,384391,Industrials
-OXM,Oxford Industries Inc. Common Stock,28.63,428827985.0,343686,Industrials
-RLGT,Radiant Logistics Inc. Common Stock,9.08,426574986.0,78421,Industrials
-IPI,Intrepid Potash Inc Common Stock,31.04,417695161.0,169372,Industrials
-ASIX,AdvanSix Inc. Common Stock ,15.03,405827826.0,293213,Industrials
-NAUT,Nautilus Biotechnology Inc. Common Stock,3.14,399949415.0,7509013,Industrials
-MEC,Mayville Engineering Company Inc. Common Stock,15.11,385310001.0,398706,Industrials
-QSI,Quantum-Si Incorporated Class A Common Stock,1.75,383046846.0,8843463,Industrials
-FSTR,L.B. Foster Company Common Stock,36.39,382814176.0,30782,Industrials
-NNBR,NN Inc. Common Stock,3.96,371227206.0,3989088,Industrials
-ORN,Orion Group Holdings Inc. Common,9.11,370405768.0,1141991,Industrials
-TWIN,Twin Disc Incorporated Common Stock,25.29,367689186.0,55614,Industrials
-IMSR,Terrestrial Energy Inc. Common Stock  ,3.455,366006303.0,2037624,Industrials
-CUB,Lionheart Holdings Class A Ordinary Shares,10.94,347548221.0,273,Industrials
-FIP,FTAI Infrastructure Inc. Common Stock ,2.87,339181585.0,1498123,Industrials
-ASPI,ASP Isotopes Inc. Common Stock,2.13,326548979.0,3806839,Industrials
-TWI,Titan International Inc. (DE) Common Stock,4.91,316902948.0,3252948,Industrials
-CHSCP,CHS Inc. 8%  Cumulative Redeemable Preferred Stock,25.65,314776877.0,22632,Industrials
-FRD,Friedman Industries Inc. Common Stock,43.17,311376187.0,42984,Industrials
-CHSCO,CHS Inc. Class B Cumulative Redeemable Preferred Stock,25.34,310972556.0,10934,Industrials
-CHSCL,CHS Inc Class B Cumulative Redeemable Preferred Stock Series 4,24.58,301645834.0,33094,Industrials
-GEVO,Gevo Inc. Common Stock,1.21,299156896.0,1863237,Industrials
-CHSCN,CHS Inc Preferred Class B Series 2 Reset Rate,23.35,286551270.0,21927,Industrials
-ALTO,Alto Ingredients Inc. Common Stock,3.65,283121609.0,668864,Industrials
-PESI,Perma-Fix Environmental Services Inc. Common Stock,13.32,282628435.0,218547,Industrials
-POWW,Outdoor Holding Company Common Stock,2.38,276225016.0,301110,Industrials
-CHSCM,CHS Inc Class B Reset Rate Cumulative Redeemable Preferred Stock Series 3,22.3,273665667.0,48035,Industrials
-OFLX,Omega Flex Inc. Common Stock,26.44,266893874.0,37983,Industrials
-TG,Tredegar Corporation Common Stock,7.51,262430672.0,208234,Industrials
-GENC,Gencor Industries Inc. Common Stock,17.36,254457707.0,38241,Industrials
-FF,FutureFuel Corp.  Common shares,5.69,249582279.0,478513,Industrials
-ALTG,Alta Equipment Group Inc. Class A Common Stock,7.6,248268227.0,235816,Industrials
-SERV,Serve Robotics Inc. Common Stock,2.84,246249320.0,3712997,Industrials
-PPIH,Perma-Pipe International Holdings Inc. Common Stock,29.97,245609515.0,69290,Industrials
-LAB,Standard BioTools Inc. Common Stock,0.62,244684380.0,445806,Industrials
-PAMT,PAMT CORP Common Stock,11.37,238113462.0,27841,Industrials
-MSB,Mesabi Trust Common Stock,18.12,237734581.0,36616,Industrials
-RR,Richtech Robotics Inc. Class B Common Stock,1.05,236357040.0,6626015,Industrials
-SSP,E.W. Scripps Company (The) Class A Common Stock,2.52,233525857.0,892641,Industrials
-FORR,Forrester Research Inc. Common Stock,12.18,231895020.0,169043,Industrials
-ABAT,American Battery Technology Company Common Stock,1.56,222421302.0,2443480,Industrials
-SND,Smart Sand Inc. Common Stock,4.89,207331408.0,125816,Industrials
-AIRJ,AirJoule Technologies Corporation Class A Common Stock,2.74,206066901.0,1017522,Industrials
-INTT,inTest Corporation Common Stock,15.79,202519161.0,143294,Industrials
-CMT,Core Molding Technologies Inc Common Stock,22.52,199280246.0,29154,Industrials
-TAYD,Taylor Devices Inc. Common Stock,56.87,183682423.0,11071,Industrials
-ESOA,Energy Services of America Corporation Common Stock,9.78,182486790.0,66541,Industrials
-AP,Ampco-Pittsburgh Corporation Common Stock,8.44,174358761.0,67885,Industrials
-BOOM,DMC Global Inc. Common Stock,8.48,174187248.0,2128733,Industrials
-AIRO,AIRO Group Holdings Inc. Common Stock,5.44,171664188.0,315555,Industrials
-QTRX,Quanterix Corporation Common Stock,3.145,148736689.0,334197,Industrials
-HURC,Hurco Companies Inc. Common Stock,22.25,144098165.0,22744,Industrials
-AMRO,Amaero Inc. Common Stock,5.78,137755780.0,96120,Industrials
-RAIL,FreightCar America Inc. Common Stock,4.18,137067550.0,250331,Industrials
-CDXS,Codexis Inc. Common Stock,1.22,133597033.0,917307,Industrials
-SIF,SIFCO Industries Inc. Common Stock,21.19,132524972.0,41517,Industrials
-FEAM,5E Advanced Materials Inc. Common Stock,2.56,127065270.0,391979,Industrials
-ACNT,Ascent Industries Co. Common Stock,13.8,124330451.0,23417,Industrials
-OWLT,Owlet Inc. Class A Common Stock,4.19,122438827.0,54346,Industrials
-LODE,Comstock Inc. Common Stock,1.61,122348806.0,2160771,Industrials
-SMID,Smith-Midland Corporation Common Stock,22.34,118504898.0,10477,Industrials
-OCC,Optical Cable Corporation Common Stock,12.57,111144242.0,68245,Industrials
-CODA,Coda Octopus Group Inc. Common stock,9.57,107979277.0,57484,Industrials
-SEER,Seer Inc. Class A Common Stock,1.94,107421709.0,177567,Industrials
-SHIM,Shimmick Corporation Common Stock,2.57,106233065.0,69547,Industrials
-CBUS,Cibus Inc. Class A Common Stock,1.35,103179101.0,52162,Industrials
-KEQU,Kewaunee Scientific Corporation Common Stock,33.51,97023078.0,1890,Industrials
-AMTX,Aemetis Inc. (DE) Common Stock,1.29,93098776.0,578992,Industrials
-CEPL,Capstone Energy Plus Inc. Common Stock,2.77,90334102.0,199898,Industrials
-PCTTW,PureCycle Technologies Inc. Warrant,0.44,88398116.0,35254,Industrials
-HOVR,New Horizon Aircraft Ltd. Class A Ordinary Share,1.27,85247405.0,483776,Industrials
-EMPD,Empery Digital Inc. Common stock,2.87,85224521.0,68565,Industrials
-ETS,Elite Express Holding Inc. Class A Common Stock,1.73,84279843.0,27942,Industrials
-IMSRW,Terrestrial Energy Inc. Warrant,0.79,83688851.0,3378,Industrials
-VATE,INNOVATE Corp. Common Stock,5.8,79122823.0,73133,Industrials
-ARQ,Arq Inc. Common Stock,1.77,77293215.0,221278,Industrials
-WRAP,Wrap Technologies Inc. Common Stock,1.23,76256782.0,145765,Industrials
-SAFX,XCF Global Inc. Class A Common Stock,0.1258,75567527.0,5197692,Industrials
-LNZA,LanzaTech Global Inc. Common Stock,5.58,73037530.0,104908,Industrials
-NTIC,Northern Technologies International Corporation Common Stock,7.49,71128328.0,1369,Industrials
-TGEN,Tecogen Inc. Common Stock,2.33,70337625.0,174068,Industrials
-SEV,Aptera Motors Corp. Class B Common Stock,1.67,68357272.0,219263,Industrials
-CVU,CPI Aerostructures Inc. Common Stock,4.96,65718681.0,35328,Industrials
-GEOS,Geospace Technologies Corporation Common Stock (Texas),4.6,59503774.0,56773,Industrials
-TPCS,TechPrecision Corporation Common stock,5.53,56036933.0,4180,Industrials
-ATLX,Atlas Lithium Corporation Common Stock,1.82,54781645.0,205401,Industrials
-FBDT,First Breach Inc. Common Stock,0.9504,53009701.0,161757,Industrials
-AIRJW,AirJoule Technologies Corporation Warrant,0.63,47380346.0,33249,Industrials
-MNTS,Momentus Inc. Class A Common Stock,2.13,46782044.0,452456,Industrials
-FTEK,Fuel Tech Inc. Common Stock,1.48,46200848.0,93549,Industrials
-VGAS,Verde Clean Fuels Inc. Class A Common Stock,1.01,44995117.0,10585,Industrials
-SLND,Southland Holdings Inc. Common Stock,0.8092,44049010.0,53100,Industrials
-HBIO,Harvard Bioscience Inc. Common Stock,8.8,40060284.0,50009,Industrials
-RPID,Rapid Micro Biosystems Inc. Class A Common Stock,0.789,39575890.0,192150,Industrials
-MIND,MIND Technology Inc. Common Stock (DE),4.19,38083140.0,40681,Industrials
-PRPO,Precipio Inc.  Common Stock,19.35,34640138.0,10967,Industrials
-UAVS,AgEagle Aerial Systems Inc. Common Stock,0.5426,34132636.0,577768,Industrials
-EYPT,EyePoint Inc. Common Stock,0.38,32760612.0,6601742,Industrials
-AVD,American Vanguard Corporation Common Stock ($0.10 Par Value),1.1,32450695.0,206646,Industrials
-SYPR,Sypris Solutions Inc. Common Stock,1.37,31546213.0,28674,Industrials
-CIRC,Circle8 Group Inc. Common Stock,0.2386,28034208.0,524525,Industrials
-WKHS,Workhorse Group Inc. Common Stock,2.55,27867892.0,5278573,Industrials
-DAIO,Data I/O Corporation Common Stock,2.42,25157417.0,22516,Industrials
-BAER,Bridger Aerospace Group Holdings Inc. Common Stock,0.405,23824587.0,782690,Industrials
-SKYQ,Sky Quarry Inc. Common Stock,2.19,19289557.0,381654,Industrials
-HOVRW,New Horizon Aircraft Ltd. Warrant,0.2625,17620035.0,34900,Industrials
-BNGO,Bionano Genomics Inc. Common Stock,1.2,16772348.0,67214,Industrials
-CLIR,ClearSign Technologies Corporation Common Stock (DE),2.46,16746339.0,9189,Industrials
-TOMZ,TOMI Environmental Solutions Inc. Common Stock,1.7,16647362.0,11338,Industrials
-FGI,FGI Industries Ltd. Ordinary Shares,8.39,16203364.0,31664,Industrials
-ARTW,Art's-Way Manufacturing Co. Inc. Common Stock,3.019,15718079.0,2904,Industrials
-QNME,Quanome Technologies Inc. Common Stock,0.4141,14256452.0,16830595,Industrials
-AIRI,Air Industries Group Common Stock,2.585,12553228.0,28856,Industrials
-ASTC,Astrotech Corporation (DE) Common Stock,5.25,11070019.0,13924,Industrials
-CVR,Chicago Rivet & Machine Co. Common Stock,10.9,10530839.0,3678,Industrials
-DETX,Liberty Defense Holdings Ltd. Common Shares,1.7316,9838922.0,20645,Industrials
-INHD,Inno Holdings Inc. Common Stock,3.84,9679031.0,10671,Industrials
-YHGJ,Yunhong Green CTI Ltd. Common Stock,2.954,7707707.0,83558,Industrials
-GWAV,Greenwave Technology Solutions Inc. Common Stock,2.04,6084267.0,5968,Industrials
-FFAI,Faraday Future Intelligent Electric Inc. Class A Common Stock,0.49,5822051.0,2269029,Industrials
-GDC,GD Culture Group Limited Common Stock,1.35,5619375.0,154625,Industrials
-VEEE,Twin Vee PowerCats Co. Common Stock,9.46,5527677.0,10686,Industrials
-SNES,SenesTech Inc. Common Stock,1.01,5477777.0,123110,Industrials
-AQMS,Aqua Metals Inc. Common Stock,1.43,5095849.0,24301,Industrials
-BAERW,Bridger Aerospace Group Holdings Inc. Warrant,0.0616,3623690.0,12084,Industrials
-FCUV,Focus Universal Inc. Common Stock,3.405,3343751.0,3853,Industrials
-FLYE,Fly-E Group Inc. Common Stock,1.83,2987266.0,14890,Industrials
-SGLY,Singularity Future Technology Ltd. Common Stock,0.5049,2728373.0,33623032,Industrials
-KITT,Nauticus Robotics Inc. Common stock,1.49,1855537.0,29049,Industrials
-FRGT,Freight Technologies Inc. Ordinary Shares,0.9417,1583393.0,424169,Industrials
-LNZAW,LanzaTech Global Inc. Warrant,0.011,143981.0,15000,Industrials
-KITTW,Nauticus Robotics Inc. Warrant,0.0116,14446.0,18677,Industrials
-PARA,Parabolic Technologies Inc. Class A Common Stock,4.28,,892887,Industrials
+TSLA,Tesla Inc. Common Stock,399.81,1580352154390.0,41737973,Industrials
+CAT,Caterpillar Inc. Common Stock,622.75,286262537125.0,5304441,Industrials
+RTX,RTX Corporation Common Stock,199.8,269618221490.0,6412765,Industrials
+TMO,Thermo Fisher Scientific Inc Common Stock,697.0,257713858342.0,2091841,Industrials
+DE,Deere & Company Common Stock,675.48,182126573298.0,1254354,Industrials
+UNP,Union Pacific Corporation Common Stock,304.0,180652126464.0,2774145,Industrials
+DHR,Danaher Corporation Common Stock,232.23,163380961167.0,3755006,Industrials
+LMT,Lockheed Martin Corporation Common Stock,636.95,147138405448.0,1874608,Industrials
+BA,Boeing Company (The) Common Stock,171.55,135944787207.0,8752074,Industrials
+PH,Parker-Hannifin Corporation Common Stock,899.82,113478473265.0,1272894,Industrials
+GLW,Corning Incorporated Common Stock,123.31,106219370381.0,13143963,Industrials
+GD,General Dynamics Corporation Common Stock,372.59,100806905285.0,2504509,Industrials
+CSX,CSX Corporation Common Stock,51.99,95838272938.0,17936778,Industrials
+PWR,Quanta Services Inc. Common Stock,620.73,93529824216.0,1477014,Industrials
+UPS,United Parcel Service Inc. Common Stock,108.25,92097106252.0,5445791,Industrials
+CTAS,Cintas Corporation Common Stock,219.82,87285046943.0,2240967,Industrials
+HWM,Howmet Aerospace Inc. Common Stock,199.22,79221922818.0,3739967,Industrials
+NOC,Northrop Grumman Corporation Common Stock,557.54,79206635197.0,987650,Industrials
+ITW,Illinois Tool Works Inc. Common Stock,278.55,79163910000.0,1715909,Industrials
+NSC,Norfolk Southern Corporation Common Stock,342.64,76962661291.0,641907,Industrials
+GM,General Motors Company Common Stock,87.4,73726219570.0,11695584,Industrials
+HON,Honeywell International Inc. Common Stock,218.33,69288885235.0,3106531,Industrials
+CMI,Cummins Inc. Common Stock,500.09,68844633304.0,1431873,Industrials
+BRKRP,Bruker Corporation 6.375% Mandatory Convertible Preferred Stock Series A,422.39,64355051485.0,14021,Industrials
+GWW,W.W. Grainger Inc. Common Stock,1359.17,64018187338.0,237702,Industrials
+TDG,Transdigm Group Incorporated Common Stock,1146.81,63391671635.0,395436,Industrials
+NUE,Nucor Corporation Common Stock,273.87,62134441386.0,1468725,Industrials
+AME,AMETEK Inc.,241.12,55279471153.0,2418755,Industrials
+PCAR,PACCAR Inc. Common Stock,101.91,53656158078.0,4500920,Industrials
+KEYS,Keysight Technologies Inc. Common Stock,307.2,52299185664.0,1905390,Industrials
+LHX,L3Harris Technologies Inc. Common Stock,277.61,51691185488.0,2551776,Industrials
+A,Agilent Technologies Inc. Common Stock,174.87,49300898699.0,2756523,Industrials
+F,Ford Motor Company Common Stock,12.25,48916913959.0,45056369,Industrials
+HONA,Honeywell Aerospace Inc. Common Stock ,154.15,48870457519.0,5241741,Industrials
+ROK,Rockwell Automation Inc. Common Stock,436.2,48537698299.0,614066,Industrials
+PYPL,PayPal Holdings Inc. Common Stock,57.01,47355829569.0,15364961,Industrials
+WAB,Westinghouse Air Brake Technologies Corporation Common Stock,279.6,46917546566.0,808339,Industrials
+ROP,Roper Technologies Inc. Common Stock,466.6,46147147808.0,1950428,Industrials
+WAT,Waters Corporation Common Stock,462.72,45461365922.0,1342328,Industrials
+HEI,Heico Corporation Common Stock,321.36,44912439671.0,367861,Industrials
+CARR,Carrier Global Corporation Common Stock ,53.63,43877931848.0,9822309,Industrials
+FIX,Comfort Systems USA Inc. Common Stock,1232.66,43125724425.0,765686,Industrials
+TER,Teradyne Inc. Common Stock,274.37,42895211578.0,8625044,Industrials
+SKYD,Skydance Corporation Class B Common Stock,7.95,40085315792.0,14157701,Industrials
+PAYX,Paychex Inc. Common Stock,112.12,39912530633.0,3538336,Industrials
+MLM,Martin Marietta Materials Inc. Common Stock,540.41,38380097076.0,934819,Industrials
+VMC,Vulcan Materials Company (Holding Company) Common Stock,281.25,36096868688.0,1509011,Industrials
+ODFL,Old Dominion Freight Line Inc. Common Stock,172.56,35781458692.0,2607213,Industrials
+STLD,Steel Dynamics Inc.,250.8,35668145740.0,807232,Industrials
+AXON,Axon Enterprise Inc. Common Stock,427.77,34750929015.0,939347,Industrials
+RKLB,Rocket Lab Corporation Common Stock,54.73,34357290515.0,16609488,Industrials
+IR,Ingersoll Rand Inc. Common Stock,80.05,31059354291.0,6306469,Industrials
+TDY,Teledyne Technologies Incorporated Common Stock,658.23,30302550762.0,480732,Industrials
+EME,EMCOR Group Inc. Common Stock,679.55,29752060818.0,554101,Industrials
+DOV,Dover Corporation Common Stock,207.74,27631016897.0,2739205,Industrials
+VLTO,Veralto Corp Common Stock ,111.1,27085440518.0,4402424,Industrials
+FOXA,Fox Corporation Class A Common Stock,63.24,26666639855.0,8533478,Industrials
+EXPD,Expeditors International of Washington Inc. Common Stock,198.85,25848635185.0,1557941,Industrials
+DOW,Dow Inc. Common Stock ,34.7,25118702173.0,11052827,Industrials
+IFF,International Flavors & Fragrances Inc. Common Stock,93.02,23734049558.0,2717520,Industrials
+FOX,Fox Corporation Class B Common Stock,56.2,23698057556.0,944183,Industrials
+ENTG,Entegris Inc. Common Stock,154.39,23590792000.0,6406356,Industrials
+RL,Ralph Lauren Corporation Common Stock,392.87,23408074236.0,526415,Industrials
+FWONK,Liberty Media Corporation Series C Common Stock,92.47,23183013608.0,1472284,Industrials
+SYM,Symbotic Inc. Class A Common Stock,37.93,22940128784.0,2761927,Industrials
+ATI,ATI Inc. Common Stock,165.59,22490880396.0,1813040,Industrials
+RS,Reliance Inc. Common Stock,436.91,22257029898.0,253864,Industrials
+ARXS,Arxis Inc. Class A Common Stock,50.82,21889286094.0,1114460,Industrials
+FWONA,Liberty Media Corporation Series A Common Stock,85.13,21342813328.0,329818,Industrials
+XYL,Xylem Inc. Common Stock New,92.4,21190516301.0,3253198,Industrials
+JBHT,J.B. Hunt Transport Services Inc. Common Stock,221.08,20608795060.0,1297357,Industrials
+FTV,Fortive Corporation Common Stock ,65.23,19415347865.0,4904069,Industrials
+RGLD,Royal Gold Inc. Common Stock,228.77,19383191846.0,934512,Industrials
+FTAI,FTAI Aviation Ltd. Common Stock,187.27,19233956932.0,2317906,Industrials
+DD,DuPont de Nemours Inc. Common Stock,140.05,18912768649.0,1057085,Industrials
+CF,CF Industries Holdings Inc. Common Stock,123.3,18659991429.0,1659970,Industrials
+J,Jacobs Solutions Inc. Common Stock,154.62,18096510033.0,646773,Industrials
+NDSN,Nordson Corporation Common Stock,322.67,17972514427.0,562018,Industrials
+RIVN,Rivian Automotive Inc. Class A Common Stock,12.16,17748841038.0,62702248,Industrials
+ITT,ITT Inc. Common Stock ,198.5,17745900000.0,838162,Industrials
+BALL,Ball Corporation Common Stock,66.47,17594832140.0,4257671,Industrials
+RVTY,Revvity Inc. Common Stock,157.0,17519064957.0,3180178,Industrials
+IEX,IDEX Corporation Common Stock,233.84,17176202986.0,632774,Industrials
+ZBRA,Zebra Technologies Corporation Class A Common Stock,361.26,17091449032.0,1197256,Industrials
+CLH,Clean Harbors Inc. Common Stock,302.12,15930739563.0,637899,Industrials
+MAS,Masco Corporation Common Stock,80.64,15544900466.0,1859599,Industrials
+TRMB,Trimble Inc. Common Stock,64.94,15142699329.0,1980310,Industrials
+LECO,Lincoln Electric Holdings Inc. Common Shares,276.92,14997147302.0,419983,Industrials
+MTZ,MasTec Inc. Common Stock,186.06,14940772988.0,3678069,Industrials
+RBC,RBC Bearings Incorporated Common Stock,462.21,14633219631.0,559026,Industrials
+CHRW,C.H. Robinson Worldwide Inc. Common Stock,124.61,14560835259.0,4344336,Industrials
+CSL,Carlisle Companies Incorporated Common Stock,376.31,14543500182.0,455525,Industrials
+TXT,Textron Inc. Common Stock,85.7,14517578200.0,2714368,Industrials
+CRS,Carpenter Technology Corporation Common Stock,283.08,14023990698.0,1263164,Industrials
+MKSI,MKS Inc. Common Stock,202.04,13661451418.0,1384856,Industrials
+CCK,Crown Holdings Inc.,119.24,12884057641.0,719217,Industrials
+HII,Huntington Ingalls Industries Inc. Common Stock,316.88,12486992293.0,753950,Industrials
+BWXT,BWX Technologies Inc. Common Stock,130.7,11974992786.0,1336097,Industrials
+MLI,Mueller Industries Inc. Common Stock,54.56,11892682227.0,1911444,Industrials
+LII,Lennox International Inc. Common Stock,344.08,11770436938.0,825334,Industrials
+MAIR,Madison Air Solutions Corporation Class A Common Stock,23.16,11619895694.0,1827110,Industrials
+WTS,Watts Water Technologies Inc. Class A Common Stock,347.6,11603948180.0,199594,Industrials
+CR,Crane Company Common Stock,198.02,11452121947.0,458863,Industrials
+AVTR,Avantor Inc. Common Stock,16.05,10875733092.0,9733870,Industrials
+GGG,Graco Inc. Common Stock,67.44,10815698902.0,2093349,Industrials
+ALB,Albemarle Corporation Common Stock,91.0,10738460187.0,3610535,Industrials
+AES,The AES Corporation Common Stock,14.83,10580294883.0,9138086,Industrials
+STRL,Sterling Infrastructure Inc. Common Stock,345.91,10551132574.0,969167,Industrials
+RRX,Regal Rexnord Corporation Common Stock,157.24,10470905167.0,1313262,Industrials
+AA,Alcoa Corporation Common Stock ,39.19,10344979362.0,3568025,Industrials
+FLS,Flowserve Corporation Common Stock,79.01,10018949013.0,2529057,Industrials
+BIO,Bio-Rad Laboratories Inc. Class A Common Stock,372.18,9951413972.0,183136,Industrials
+KNX,Knight-Swift Transportation Holdings Inc.,60.77,9891958290.0,3028242,Industrials
+ONTO,Onto Innovation Inc. Common Stock,201.57,9891895968.0,1085275,Industrials
+SOLS,Solstice Advanced Materials Inc. Common Stock ,60.55,9618208193.0,1531767,Industrials
+DCI,Donaldson Company Inc. Common Stock,82.96,9615904302.0,763974,Industrials
+OC,Owens Corning Inc Common Stock New,121.15,9576747945.0,867855,Industrials
+CGNX,Cognex Corporation Common Stock,56.15,9445768728.0,1523569,Industrials
+SAIA,Saia Inc. Common Stock,344.61,9194321272.0,560627,Industrials
+TXG,10x Genomics Inc. Class A Common Stock,70.11,9134713788.0,5219416,Industrials
+HL,Hecla Mining Company Common Stock,13.53,9089026871.0,29894476,Industrials
+WLK,Westlake Corporation Common Stock,68.28,8725948297.0,1182106,Industrials
+ATR,AptarGroup Inc. Common Stock,137.2,8723330899.0,1007468,Industrials
+BRKR,Bruker Corporation Common Stock,57.07,8695146164.0,1921498,Industrials
+OSK,Oshkosh Corporation (Holding Company)Common Stock,139.94,8532424059.0,1326434,Industrials
+IESC,IES Holdings Inc. Common Stock,205.96,8384767534.0,475697,Industrials
+ESI,Element Solutions Inc. Common Stock,34.27,8314004741.0,5082606,Industrials
+VMI,Valmont Industries Inc. Common Stock,422.1,8078960654.0,165906,Industrials
+NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,3.21,8043191141.0,34911936,Industrials
+SPXC,SPX Technologies Inc. Common Stock,159.95,8011233307.0,1972380,Industrials
+SARO,StandardAero Inc. Common Stock,23.38,7736896297.0,4805571,Industrials
+KTOS,Kratos Defense & Security Solutions Inc. Common Stock,41.09,7713590336.0,3418270,Industrials
+TKR,Timken Company (The) Common Stock,110.9,7685019445.0,875424,Industrials
+AGCO,AGCO Corporation Common Stock,110.91,7647337110.0,848776,Industrials
+EMN,Eastman Chemical Company Common Stock,66.53,7609529819.0,1800834,Industrials
+RAL,Ralliant Corporation Common Stock,67.21,7436114938.0,1234592,Industrials
+ZWS,Zurn Elkay Water Solutions Corporation Common Stock,44.8,7396165414.0,1443202,Industrials
+NEU,NewMarket Corp Common Stock,783.66,7207250491.0,198117,Industrials
+VFC,V.F. Corporation Common Stock,18.3,7203594835.0,8494760,Industrials
+CMC,Commercial Metals Company Common Stock,63.98,7036385594.0,834182,Industrials
+AWI,Armstrong World Industries Inc Common Stock,166.34,6958650760.0,616151,Industrials
+FSS,Federal Signal Corporation Common Stock,112.67,6874724436.0,539265,Industrials
+DY,Dycom Industries Inc. Common Stock,227.7,6867649909.0,636905,Industrials
+MSM,MSC Industrial Direct Company Inc. Common Stock,121.02,6759966020.0,742010,Industrials
+AVAV,AeroVironment Inc. Common Stock,126.11,6408998729.0,1040942,Industrials
+TEX,Terex Corporation Common Stock,56.15,6311260000.0,1751331,Industrials
+FLR,Fluor Corporation Common Stock,46.86,6267106400.0,1875001,Industrials
+HXL,Hexcel Corporation Common Stock,77.84,5892637297.0,1512457,Industrials
+MOS,Mosaic Company (The) Common Stock,18.39,5846100930.0,8878785,Industrials
+LOAR,Loar Holdings Inc. Common Stock,62.11,5818990934.0,757356,Industrials
+NPO,Enpro Inc. Common Stock,271.53,5747660422.0,150791,Industrials
+JBTM,JBT Marel Corporation Common Stock,109.17,5663392112.0,427712,Industrials
+EXP,Eagle Materials Inc Common Stock,183.64,5633216683.0,353115,Industrials
+AAON,AAON Inc. Common Stock,67.4,5557375269.0,1829398,Industrials
+HRI,Herc Holdings Inc. Common Stock ,165.76,5546892521.0,690364,Industrials
+GVA,Granite Construction Incorporated Common Stock,123.62,5455386821.0,1072255,Industrials
+CE,Celanese Corporation Common Stock,49.3,5410622052.0,1500832,Industrials
+BCPC,Balchem Corporation Common Stock,169.98,5401509534.0,249328,Industrials
+MIDD,Middleby Corporation (The) Common Stock,118.95,5379198414.0,444764,Industrials
+KRMN,Karman Holdings Inc. Common Stock,39.95,5294721635.0,2292963,Industrials
+NXST,Nexstar Media Group Inc. Common Stock,171.44,5281775123.0,278633,Industrials
+ROAD,Construction Partners Inc. Class A Common Stock,89.8,5152235039.0,515856,Industrials
+SNDR,Schneider National Inc. Common Stock,29.23,5124045278.0,1218864,Industrials
+SXT,Sensient Technologies Corporation Common Stock,117.63,5006663458.0,1733450,Industrials
+BC,Brunswick Corporation Common Stock,75.34,4881838226.0,1592015,Industrials
+KBR,KBR Inc. Common Stock,38.7,4880417797.0,2225803,Industrials
+JOBY,Joby Aviation Inc. Common Stock,4.9,4869984781.0,16258667,Industrials
+VNT,Vontier Corporation Common Stock ,35.62,4815824000.0,1332279,Industrials
+LSTR,Landstar System Inc. Common Stock,142.7,4810266166.0,654639,Industrials
+MWH,SOLV Energy Inc. Class A Common Stock,23.27,4709539021.0,826745,Industrials
+BETA,Beta Technologies Inc. Class A Common Stock,20.05,4690518253.0,1305992,Industrials
+CSW,CSW Industrials Inc. Common Stock,286.16,4662159927.0,153805,Industrials
+MTRN,Materion Corporation,221.94,4623836927.0,198239,Industrials
+GFF,Griffon Corporation Common Stock,101.09,4578842840.0,323363,Industrials
+MIR,Mirion Technologies Inc. Class A Common Stock,18.37,4509690373.0,6627922,Industrials
+XE,X-Energy Inc. Class A Common Stock,10.93,4441581560.0,6199623,Industrials
+MYRG,MYR Group Inc. Common Stock,282.62,4400395661.0,344087,Industrials
+ALH,Alliance Laundry Holdings Inc. Common Stock,21.98,4369384330.0,550646,Industrials
+VSNT,Versant Media Group Inc. Class A Common Stock ,31.42,4360854160.0,1790735,Industrials
+ESAB,ESAB Corporation Common Stock,69.76,4336826426.0,1524537,Industrials
+SLGN,Silgan Holdings Inc. Common Stock,40.51,4281178630.0,1048337,Industrials
+BMI,Badger Meter Inc. Common Stock,148.38,4238274684.0,466208,Industrials
+BCO,Brinks Company (The) Common Stock,102.71,4230587308.0,395182,Industrials
+ITRI,Itron Inc. Common Stock,95.82,4202706307.0,713608,Industrials
+PVH,PVH Corp. Common Stock,90.19,4161171158.0,921145,Industrials
+MDU,MDU Resources Group Inc. Common Stock (Holding Company),19.72,4148091272.0,1693013,Industrials
+BDC,Belden Inc Common Stock,105.7,4132872431.0,637800,Industrials
+VVV,Valvoline Inc. Common Stock,32.29,4119765437.0,2170116,Industrials
+KTB,Kontoor Brands Inc. Common Stock ,74.25,4058031285.0,798218,Industrials
+AIR,AAR Corp. Common Stock,100.26,4029871595.0,363115,Industrials
+AZZ,AZZ Inc.,134.44,4022818409.0,181458,Industrials
+AVNT,Avient Corporation Common Stock,42.84,3929265522.0,1126010,Industrials
+PRIM,Primoris Services Corporation Common Stock,72.77,3917378436.0,1146000,Industrials
+CBT,Cabot Corporation Common Stock,74.43,3842895851.0,664030,Industrials
+THO,Thor Industries Inc. Common Stock,73.9,3814301278.0,758378,Industrials
+SEB,Seaboard Corporation Common Stock,3889.25,3725100315.0,12704,Industrials
+SMG,Scotts Miracle-Gro Company (The) Common Stock,62.24,3623629854.0,1462400,Industrials
+MWA,MUELLER WATER PRODUCTS Common Stock,22.79,3558104224.0,1144532,Industrials
+CXT,Crane NXT Co. Common Stock,58.6,3373092414.0,745119,Industrials
+HAYW,Hayward Holdings Inc. Common Stock,16.12,3359248912.0,5842195,Industrials
+CENX,Century Aluminum Company Common Stock,33.7,3336074042.0,1104305,Industrials
+WSC,WillScot Holdings Corporation Class A Common Stock,18.34,3323042170.0,1725123,Industrials
+ACHR,Archer Aviation Inc. Class A Common Stock,4.2,3268797307.0,18997813,Industrials
+KNF,Knife Riv Holding Co. Common Stock,57.5,3263896650.0,497064,Industrials
+USLM,United States Lime & Minerals Inc. Common Stock,111.61,3201908194.0,112042,Industrials
+KAI,Kadant Inc Common Stock,265.28,3132722558.0,148272,Industrials
+WOR,Worthington Enterprises Inc. Common Shares,62.75,3091046803.0,247785,Industrials
+FLY,Firefly Aerospace Inc. Common Stock,17.935,3002402308.0,2959014,Industrials
+SXI,Standex International Corporation Common Stock,243.55,2991150801.0,223151,Industrials
+WDFC,WD-40 Company Common Stock,220.61,2954515675.0,191524,Industrials
+REZI,Resideo Technologies Inc. Common Stock ,18.73,2844101390.0,1181601,Industrials
+ARCB,ArcBest Corporation Common Stock,125.44,2803753846.0,186272,Industrials
+POWWP,Outdoor Holding Company 8.75% Series A Cumulative Redeemable Perpetual Preferred Stock,23.99,2784301735.0,1419,Industrials
+FTAIM,FTAI Aviation Ltd. 9.500% Fixed-Rate Reset Series D Cumulative Perpetual Redeemable Preferred Shares,26.58,2729954479.0,1069,Industrials
+DXPE,DXP Enterprises Inc. Common Stock,174.46,2707121640.0,130290,Industrials
+FUL,H. B. Fuller Company Common Stock,49.7,2675307214.0,584622,Industrials
+KWR,Quaker Houghton Common Stock,150.95,2595126513.0,251032,Industrials
+TTAM,Titan America SA Common Shares,13.87,2557107390.0,270732,Industrials
+NGVT,Ingevity Corporation Common Stock ,74.32,2554967163.0,279150,Industrials
+ATRO,Astronics Corporation Common Stock,59.39,2554308311.0,520334,Industrials
+IOSP,Innospec Inc. Common Stock,99.89,2460395285.0,216494,Industrials
+LUNR,Intuitive Machines Inc. Class A Common Stock,10.67,2442619806.0,5337516,Industrials
+DCO,Ducommun Incorporated Common Stock,160.28,2420192578.0,194053,Industrials
+SMR,NuScale Power Corporation Class A Common Stock,5.62,2415044789.0,38254416,Industrials
+COHU,Cohu Inc. Common Stock,50.79,2404705880.0,1530802,Industrials
+ROG,Rogers Corporation Common Stock,133.06,2367861246.0,175415,Industrials
+TRN,Trinity Industries Inc. Common Stock,29.46,2303361976.0,1541358,Industrials
+KMT,Kennametal Inc. Common Stock,29.1,2222949902.0,907450,Industrials
+NWL,Newell Brands Inc. Common Stock,5.18,2206162000.0,13407104,Industrials
+ANDE,Andersons Inc. (The) Common Stock,64.29,2184289395.0,323623,Industrials
+HLIO,Helios Technologies Inc. Common Stock,66.15,2182950000.0,308617,Industrials
+OUST,Ouster Inc. Common Stock,29.74,2144620783.0,3537919,Industrials
+ALMR,Alamar Biosciences Inc. Common Stock,30.6,2123418640.0,740095,Industrials
+RDW,Redwire Corporation Common Stock,8.39,2097437990.0,11932720,Industrials
+CHRN,ChronoScale Holdings Corporation Common Stock,14.38,2094266560.0,116656,Industrials
+WS,Worthington Steel Inc. Common Shares,40.66,2082492734.0,375357,Industrials
+LEU,Centrus Energy Corp. Class A Common Stock,103.29,2038315357.0,677491,Industrials
+CC,Chemours Company (The) Common Stock,13.53,2036251402.0,2159852,Industrials
+OLN,Olin Corporation Common Stock,17.6,2006091824.0,6672980,Industrials
+NN,NextNav Inc. Common Stock,11.52,1944690163.0,2635512,Industrials
+KALU,Kaiser Aluminum Corporation Common Stock,116.28,1901164744.0,459265,Industrials
+GRC,Gorman-Rupp Company (The) Common Stock,71.93,1899688779.0,127805,Industrials
+MFP,Midera Food Processing Inc. Common Stock,40.12,1814645855.0,622142,Industrials
+ALG,Alamo Group Inc. Common Stock,147.76,1798381788.0,149315,Industrials
+AEHR,Aehr Test Systems Common Stock,54.89,1792682480.0,2674295,Industrials
+HUN,Huntsman Corporation Common Stock,9.64,1690649858.0,3710973,Industrials
+WERN,Werner Enterprises Inc. Common Stock,27.71,1661966993.0,1255367,Industrials
+GIC,Global Industrial Company Common Stock,43.37,1652758749.0,112548,Industrials
+PRLB,Proto Labs Inc. Common stock,68.89,1644533469.0,571127,Industrials
+VOYG,Voyager Technologies Inc. Class A Common Stock,26.43,1637807844.0,1221550,Industrials
+HUBG,Hub Group Inc. Class A Common Stock,26.71,1633410252.0,718432,Industrials
+RYZ,Ryerson Holding Corporation Common Stock,31.15,1610756844.0,662123,Industrials
+AVEX,AEVEX Corp. Class A Common Stock,12.22,1549116850.0,1592337,Industrials
+ALNT,Allient Inc. Common Stock,85.59,1455244916.0,202232,Industrials
+PLPC,Preformed Line Products Company Common Stock,291.15,1421013185.0,113813,Industrials
+TRS,TriMas Corporation Common Stock,38.14,1368229516.0,644892,Industrials
+UAN,CVR Partners LP Common Units representing Limited Partner Interests,126.76,1339807186.0,20076,Industrials
+ADIG,ADI Global Distribution Inc. Common Stock,17.48,1327137501.0,531918,Industrials
+REX,REX American Resources Corporation,39.24,1301812114.0,162041,Industrials
+XPEL,XPEL Inc. Common Stock,45.65,1258604646.0,155300,Industrials
+GBX,Greenbrier Companies Inc. (The) Common Stock,39.01,1209255347.0,464652,Industrials
+ROCK,Gibraltar Industries Inc. Common Stock,40.1,1190323949.0,307217,Industrials
+LCID,Lucid Group Inc. Common Stock,3.02,1190091932.0,14360988,Industrials
+AESI,Atlas Energy Solutions Inc. Common Stock,9.22,1152531818.0,2867404,Industrials
+TNC,Tennant Company Common Stock,66.44,1132755691.0,205799,Industrials
+MYE,Myers Industries Inc. Common Stock,29.57,1112899595.0,603796,Industrials
+ECVT,Ecovyst Inc. Common Stock,10.12,1107820188.0,1337438,Industrials
+GOLD,Gold.com Inc. Common Stock,38.03,1106538032.0,547186,Industrials
+LNN,Lindsay Corporation Common Stock,107.63,1094589566.0,176764,Industrials
+KRT,Karat Packaging Inc. Common Stock,53.97,1075714982.0,106597,Industrials
+NPK,National Presto Industries Inc. Common Stock,147.82,1054853424.0,82159,Industrials
+PSIX,Power Solutions International Inc. Common Stock,45.73,1054783029.0,467435,Industrials
+NMAX,Newsmax Inc. Class B Common Stock,8.07,1042326405.0,1100722,Industrials
+UVV,Universal Corporation Common Stock,41.44,1031825210.0,514436,Industrials
+GPRE,Green Plains Inc. Common Stock,14.1,988344125.0,1050262,Industrials
+CMP,Compass Minerals Intl Inc Common Stock,23.31,978574173.0,572742,Industrials
+FMC,FMC Corporation Common Stock,6.2,964424669.0,17650713,Industrials
+SXC,SunCoke Energy Inc. Common Stock,11.33,961632051.0,1318911,Industrials
+MRTN,Marten Transport Ltd. Common Stock,11.72,957074761.0,546330,Industrials
+NX,Quanex Building Products Corporation Common Stock,20.67,947227719.0,329036,Industrials
+NWPX,NWPX Infrastructure Inc. Common Stock,97.81,941910496.0,164375,Industrials
+SBGI,Sinclair Inc. Class A Common Stock,12.8,925671168.0,503287,Industrials
+FTK,Flotek Industries Inc. Common Stock,25.35,918187875.0,199516,Industrials
+PLOW,Douglas Dynamics Inc. Common Stock,39.49,911312547.0,193538,Industrials
+ASTE,Astec Industries Inc. Common Stock,39.27,904206162.0,136957,Industrials
+ASA,ASA  Gold and Precious Metals Limited,49.11,888220747.0,47853,Industrials
+MTUS,Metallus Inc. Common Shares,21.12,875408878.0,262648,Industrials
+WGO,Winnebago Industries Inc. Common Stock,30.61,871658380.0,697201,Industrials
+YSS,York Space Systems Inc. Common Stock,6.32,868100064.0,1471645,Industrials
+SWIM,Latham Group Inc. Common Stock,7.31,859992889.0,928069,Industrials
+MTW,Manitowoc Company Inc. (The) Common Stock,23.03,830507146.0,351576,Industrials
+GHM,Graham Corporation Common Stock,69.95,821005458.0,136888,Industrials
+TRNS,Transcat Inc. Common Stock,86.31,810303655.0,164847,Industrials
+PACB,Pacific Biosciences of California Inc. Common Stock,2.605,809714127.0,13737065,Industrials
+CTKB,Cytek Biosciences Inc. Common Stock,6.13,796797341.0,1866615,Industrials
+NPKI,NPK International Inc. Common Stock,9.35,793907509.0,4273583,Industrials
+HTLD,Heartland Express Inc. Common Stock,10.22,790339284.0,626514,Industrials
+CVLG,Covenant Logistics Group Inc. Class A Common Stock,30.92,784680896.0,353771,Industrials
+PCTTU,PureCycle Technologies Inc. Unit,3.87,777501615.0,9,Industrials
+RMIX,Suncrete Inc. Class A Common Stock,10.51,772336115.0,357089,Industrials
+FEIM,Frequency Electronics Inc. Common Stock,67.65,762637866.0,177990,Industrials
+WLKP,Westlake Chemical Partners LP Common Units representing limited partner interests,21.26,749327388.0,42790,Industrials
+ITG,ITG Inc. Class A Common Stock,5.97,741218597.0,760670,Industrials
+CDNL,Cardinal Infrastructure Group Inc. Class A Common Stock,15.25,739317789.0,747946,Industrials
+LWLG,Lightwave Logic Inc. Common Stock,4.75,732294461.0,5493620,Industrials
+MLAB,Mesa Laboratories Inc. Common Stock,127.81,715208017.0,73190,Industrials
+SWBI,Smith & Wesson Brands Inc. Common Stock,13.18,709527481.0,569822,Industrials
+ELMT,The Elmet Group Co. Common Stock,23.19,706355759.0,326538,Industrials
+RGR,Sturm Ruger & Company Inc. Common Stock,44.2,706238915.0,336673,Industrials
+PCT,PureCycle Technologies Inc. Common stock,3.36,675040162.0,6788708,Industrials
+BW,Babcock & Wilcox Enterprises Inc. Common Stock,4.27,636080832.0,3323479,Industrials
+JBI,Janus International Group Inc. Common Stock,4.64,633062066.0,2177468,Industrials
+PKOH,Park-Ohio Holdings Corp. Common Stock,43.14,625099031.0,39878,Industrials
+ULH,Universal Logistics Holdings Inc. Common Stock,22.59,595648715.0,183006,Industrials
+FWRD,Forward Air Corporation Common Stock,17.62,595218788.0,441765,Industrials
+PKE,Park Aerospace Corp. Common Stock,25.76,567524614.0,185458,Industrials
+EVC,Entravision Communications Corporation Common Stock,6.09,562035777.0,930998,Industrials
+IIIN,Insteel Industries Inc. Common Stock,28.45,550611001.0,135568,Industrials
+MCFT,MasterCraft Boat Holdings Inc. Common Stock,21.49,520572320.0,110073,Industrials
+EVEX,Eve Holding Inc. Common Stock,1.49,519244636.0,1803181,Industrials
+HY,Hyster-Yale Inc. Class A common stock,28.49,510836726.0,150190,Industrials
+WNC,Wabash National Corporation Common Stock,11.74,478272268.0,1894234,Industrials
+MBUU,Malibu Boats Inc. Class A Common Stock,23.81,468515942.0,332923,Industrials
+MASS,908 Devices Inc. Common Stock,11.25,465004181.0,551106,Industrials
+GTN,Gray Media Inc. Common Stock,4.49,462399880.0,844986,Industrials
+UAMY,United States Antimony Corporation Common Stock,2.98,446014764.0,4986576,Industrials
+CMCO,Columbus McKinnon Corporation Common Stock,14.97,432097733.0,430675,Industrials
+RLGT,Radiant Logistics Inc. Common Stock,9.08,426574986.0,119585,Industrials
+IPI,Intrepid Potash Inc Common Stock,31.58,424961765.0,155542,Industrials
+OXM,Oxford Industries Inc. Common Stock,28.2,422387327.0,962210,Industrials
+ASIX,AdvanSix Inc. Common Stock ,15.36,414738217.0,377161,Industrials
+MEC,Mayville Engineering Company Inc. Common Stock,15.02,383014972.0,468173,Industrials
+FSTR,L.B. Foster Company Common Stock,35.85,377133504.0,36794,Industrials
+NNBR,NN Inc. Common Stock,3.93,368414879.0,1837426,Industrials
+TWIN,Twin Disc Incorporated Common Stock,23.98,348643206.0,52496,Industrials
+NAUT,Nautilus Biotechnology Inc. Common Stock,2.73,347726720.0,8069149,Industrials
+CUB,Lionheart Holdings Class A Ordinary Shares,10.94,347548221.0,6306,Industrials
+ORN,Orion Group Holdings Inc. Common,8.42,342350885.0,691888,Industrials
+IMSR,Terrestrial Energy Inc. Common Stock  ,3.22,341111518.0,1966397,Industrials
+FIP,FTAI Infrastructure Inc. Common Stock ,2.86,337999768.0,1577909,Industrials
+QSI,Quantum-Si Incorporated Class A Common Stock,1.46,319570512.0,9906454,Industrials
+CHSCP,CHS Inc. 8%  Cumulative Redeemable Preferred Stock,25.74,315881357.0,28559,Industrials
+CHSCO,CHS Inc. Class B Cumulative Redeemable Preferred Stock,25.25,309868076.0,91588,Industrials
+ASPI,ASP Isotopes Inc. Common Stock,2.02,309684948.0,3437769,Industrials
+GEVO,Gevo Inc. Common Stock,1.25,309046380.0,2969356,Industrials
+FRD,Friedman Industries Inc. Common Stock,42.16,304091269.0,45869,Industrials
+TWI,Titan International Inc. (DE) Common Stock,4.65,300420546.0,1942773,Industrials
+CHSCL,CHS Inc Class B Cumulative Redeemable Preferred Stock Series 4,24.25,297596073.0,91021,Industrials
+ALTO,Alto Ingredients Inc. Common Stock,3.65,283121609.0,625915,Industrials
+CHSCN,CHS Inc Preferred Class B Series 2 Reset Rate,23.04,282746949.0,44467,Industrials
+POWW,Outdoor Holding Company Common Stock,2.37,275064406.0,385868,Industrials
+CHSCM,CHS Inc Class B Reset Rate Cumulative Redeemable Preferred Stock Series 3,22.2,272438467.0,60860,Industrials
+OFLX,Omega Flex Inc. Common Stock,26.34,265884441.0,49514,Industrials
+PESI,Perma-Fix Environmental Services Inc. Common Stock,12.45,264168470.0,241700,Industrials
+TG,Tredegar Corporation Common Stock,7.5,262081230.0,302180,Industrials
+GENC,Gencor Industries Inc. Common Stock,17.1,250646704.0,24132,Industrials
+FF,FutureFuel Corp.  Common shares,5.67,248705013.0,212952,Industrials
+PAMT,PAMT CORP Common Stock,11.61,243139604.0,17824,Industrials
+SSP,E.W. Scripps Company (The) Class A Common Stock,2.62,242792756.0,740533,Industrials
+ALTG,Alta Equipment Group Inc. Class A Common Stock,7.38,241081515.0,149801,Industrials
+LAB,Standard BioTools Inc. Common Stock,0.61,240737857.0,1002545,Industrials
+PPIH,Perma-Pipe International Holdings Inc. Common Stock,29.3,240118745.0,85135,Industrials
+MSB,Mesabi Trust Common Stock,17.71,232355377.0,50032,Industrials
+SERV,Serve Robotics Inc. Common Stock,2.6,225439518.0,3607184,Industrials
+RR,Richtech Robotics Inc. Class B Common Stock,0.9453,212788867.0,10390559,Industrials
+FORR,Forrester Research Inc. Common Stock,11.01,209619390.0,177173,Industrials
+SND,Smart Sand Inc. Common Stock,4.84,205211455.0,195881,Industrials
+ABAT,American Battery Technology Company Common Stock,1.415,201747528.0,2036164,Industrials
+CMT,Core Molding Technologies Inc Common Stock,22.4,198218362.0,26100,Industrials
+BOOM,DMC Global Inc. Common Stock,9.35,192057873.0,1330161,Industrials
+AIRJ,AirJoule Technologies Corporation Class A Common Stock,2.54,191025521.0,1418818,Industrials
+INTT,inTest Corporation Common Stock,14.29,183280482.0,185999,Industrials
+TAYD,Taylor Devices Inc. Common Stock,55.89,180517155.0,16706,Industrials
+ESOA,Energy Services of America Corporation Common Stock,9.4,175396301.0,75319,Industrials
+AIRO,AIRO Group Holdings Inc. Common Stock,5.16,162828532.0,373756,Industrials
+AP,Ampco-Pittsburgh Corporation Common Stock,7.7,159071382.0,76665,Industrials
+HURC,Hurco Companies Inc. Common Stock,22.05,142802900.0,21540,Industrials
+QTRX,Quanterix Corporation Common Stock,2.905,137386354.0,361309,Industrials
+RAIL,FreightCar America Inc. Common Stock,4.17,136739638.0,215549,Industrials
+AMRO,Amaero Inc. Common Stock,5.56,132512481.0,253939,Industrials
+CDXS,Codexis Inc. Common Stock,1.19,130311860.0,789474,Industrials
+SIF,SIFCO Industries Inc. Common Stock,20.1,125707973.0,72704,Industrials
+ACNT,Ascent Industries Co. Common Stock,13.75,123879979.0,14420,Industrials
+SMID,Smith-Midland Corporation Common Stock,22.51,119406681.0,5920,Industrials
+OWLT,Owlet Inc. Class A Common Stock,4.05,118347792.0,101893,Industrials
+FEAM,5E Advanced Materials Inc. Common Stock,2.33,115649249.0,354132,Industrials
+LODE,Comstock Inc. Common Stock,1.41,107150196.0,2281748,Industrials
+SHIM,Shimmick Corporation Common Stock,2.51,103752916.0,37274,Industrials
+CODA,Coda Octopus Group Inc. Common stock,9.045,102055649.0,64722,Industrials
+OCC,Optical Cable Corporation Common Stock,11.53,101948537.0,78403,Industrials
+CBUS,Cibus Inc. Class A Common Stock,1.29,98593364.0,52985,Industrials
+KEQU,Kewaunee Scientific Corporation Common Stock,33.44,96820404.0,10126,Industrials
+SEER,Seer Inc. Class A Common Stock,1.68,93024985.0,516545,Industrials
+AMTX,Aemetis Inc. (DE) Common Stock,1.25,90211993.0,634861,Industrials
+PCTTW,PureCycle Technologies Inc. Warrant,0.44,88398116.0,51,Industrials
+CEPL,Capstone Energy Plus Inc. Common Stock,2.63,85768479.0,493545,Industrials
+ETS,Elite Express Holding Inc. Class A Common Stock,1.71,83305509.0,13025,Industrials
+HOVR,New Horizon Aircraft Ltd. Class A Ordinary Share,1.195,80213109.0,754205,Industrials
+EMPD,Empery Digital Inc. Common stock,2.69,79879429.0,103272,Industrials
+ARQ,Arq Inc. Common Stock,1.77,77293215.0,281253,Industrials
+WRAP,Wrap Technologies Inc. Common Stock,1.22,75636808.0,310008,Industrials
+VATE,INNOVATE Corp. Common Stock,5.51,75166682.0,132474,Industrials
+SAFX,XCF Global Inc. Class A Common Stock,0.1225,73585231.0,3875006,Industrials
+NTIC,Northern Technologies International Corporation Common Stock,7.53,71508186.0,549,Industrials
+SEV,Aptera Motors Corp. Class B Common Stock,1.65,67538622.0,160698,Industrials
+LNZA,LanzaTech Global Inc. Common Stock,5.13,67147406.0,171921,Industrials
+IMSRW,Terrestrial Energy Inc. Warrant,0.63,66739210.0,38483,Industrials
+CVU,CPI Aerostructures Inc. Common Stock,4.81,63731221.0,100405,Industrials
+TGEN,Tecogen Inc. Common Stock,1.99,60073766.0,203434,Industrials
+GEOS,Geospace Technologies Corporation Common Stock (Texas),4.41,57046009.0,57100,Industrials
+TPCS,TechPrecision Corporation Common stock,5.35,54212946.0,29507,Industrials
+FBDT,First Breach Inc. Common Stock,0.9418,52530026.0,108433,Industrials
+ATLX,Atlas Lithium Corporation Common Stock,1.7,51169669.0,350088,Industrials
+FTEK,Fuel Tech Inc. Common Stock,1.45,45264344.0,72397,Industrials
+VGAS,Verde Clean Fuels Inc. Class A Common Stock,1.015,45217865.0,5065,Industrials
+MNTS,Momentus Inc. Class A Common Stock,1.94,42608998.0,818732,Industrials
+AIRJW,AirJoule Technologies Corporation Warrant,0.5525,41551811.0,62123,Industrials
+HBIO,Harvard Bioscience Inc. Common Stock,8.9,40515515.0,23178,Industrials
+SLND,Southland Holdings Inc. Common Stock,0.74,40282090.0,64073,Industrials
+RPID,Rapid Micro Biosystems Inc. Class A Common Stock,0.7359,36912417.0,201563,Industrials
+MIND,MIND Technology Inc. Common Stock (DE),4.05,36810673.0,66759,Industrials
+CIRC,Circle8 Group Inc. Common Stock,0.291,34190924.0,869399,Industrials
+AVD,American Vanguard Corporation Common Stock ($0.10 Par Value),1.1,32450695.0,105310,Industrials
+PRPO,Precipio Inc.  Common Stock,18.1,32402403.0,25903,Industrials
+WKHS,Workhorse Group Inc. Common Stock,2.95,32239326.0,5121241,Industrials
+SYPR,Sypris Solutions Inc. Common Stock,1.32,30394892.0,43537,Industrials
+EYPT,EyePoint Inc. Common Stock,0.3484,30036309.0,6119175,Industrials
+UAVS,AgEagle Aerial Systems Inc. Common Stock,0.4626,29100180.0,1785348,Industrials
+BAER,Bridger Aerospace Group Holdings Inc. Common Stock,0.422,24824631.0,412427,Industrials
+DAIO,Data I/O Corporation Common Stock,2.36,24533680.0,12952,Industrials
+SKYQ,Sky Quarry Inc. Common Stock,2.23,19641878.0,715127,Industrials
+TOMZ,TOMI Environmental Solutions Inc. Common Stock,1.93,18899652.0,95654,Industrials
+HOVRW,New Horizon Aircraft Ltd. Warrant,0.2401,16116458.0,2908,Industrials
+BNGO,Bionano Genomics Inc. Common Stock,1.15,16073501.0,196455,Industrials
+CLIR,ClearSign Technologies Corporation Common Stock (DE),2.31,15725221.0,25339,Industrials
+FGI,FGI Industries Ltd. Ordinary Shares,7.91,15276354.0,11908,Industrials
+QNME,Quanome Technologies Inc. Common Stock,0.4187,14414819.0,875584,Industrials
+ARTW,Art's-Way Manufacturing Co. Inc. Common Stock,2.71,14109306.0,20120,Industrials
+AIRI,Air Industries Group Common Stock,2.63,12771756.0,12074,Industrials
+CVR,Chicago Rivet & Machine Co. Common Stock,11.3,10917292.0,1943,Industrials
+ASTC,Astrotech Corporation (DE) Common Stock,4.84,10205503.0,17874,Industrials
+INHD,Inno Holdings Inc. Common Stock,3.67,9250532.0,13381,Industrials
+YHGJ,Yunhong Green CTI Ltd. Common Stock,3.365,8780106.0,62743,Industrials
+DETX,Liberty Defense Holdings Ltd. Common Shares,1.525,8665024.0,10504,Industrials
+SNES,SenesTech Inc. Common Stock,1.08,5857425.0,95532,Industrials
+GWAV,Greenwave Technology Solutions Inc. Common Stock,1.91,5696544.0,18744,Industrials
+VEEE,Twin Vee PowerCats Co. Common Stock,9.27,5416656.0,8580,Industrials
+GDC,GD Culture Group Limited Common Stock,1.27,5286375.0,85272,Industrials
+FFAI,Faraday Future Intelligent Electric Inc. Class A Common Stock,0.4193,4982012.0,1340538,Industrials
+AQMS,Aqua Metals Inc. Common Stock,1.36,4846402.0,48739,Industrials
+BAERW,Bridger Aerospace Group Holdings Inc. Warrant,0.0616,3623690.0,50,Industrials
+FCUV,Focus Universal Inc. Common Stock,3.27,3211179.0,15925,Industrials
+FLYE,Fly-E Group Inc. Common Stock,1.73,2824028.0,22882,Industrials
+SGLY,Singularity Future Technology Ltd. Common Stock,0.51,2755932.0,1736664,Industrials
+FRGT,Freight Technologies Inc. Ordinary Shares,1.07,1799119.0,5249793,Industrials
+KITT,Nauticus Robotics Inc. Common stock,1.43,1780818.0,69556,Industrials
+VGASW,Verde Clean Fuels Inc. Warrant,0.0136,605875.0,13,Industrials
+LNZAW,LanzaTech Global Inc. Warrant,0.0083,108640.0,1100,Industrials
+KITTW,Nauticus Robotics Inc. Warrant,0.01,12453.0,11870,Industrials
+PARA,Parabolic Technologies Inc. Class A Common Stock,3.17,,105988,Industrials
