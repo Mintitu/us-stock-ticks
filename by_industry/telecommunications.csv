@@ -1,63 +1,63 @@
 symbol,name,price,marketCap,volume,industry
-CSCO,Cisco Systems Inc. Common Stock (DE),95.64,377069008534.0,28656483,Telecommunications
-ANET,Arista Networks Inc. Common Stock,197.39,249382986906.0,8614504,Telecommunications
+CSCO,Cisco Systems Inc. Common Stock (DE),95.11,374966246780.0,19507881,Telecommunications
+ANET,Arista Networks Inc. Common Stock,186.57,235712973641.0,6453482,Telecommunications
 CCZ,Comcast Holdings ZONES,62.15,220695043720.0,262,Telecommunications
-VZ,Verizon Communications Inc. Common Stock,46.37,192185024840.0,19866952,Telecommunications
-TMUS,T-Mobile US Inc. Common Stock,169.95,180023373441.0,3169678,Telecommunications
-T,AT&T Inc.,22.185,149448663111.0,50508319,Telecommunications
-TBB,AT&T Inc. 5.350% Global Notes due 2066,17.66,126275807577.0,101939,Telecommunications
-CMCSA,Comcast Corporation Class A Common Stock,25.16,89343319389.0,18357447,Telecommunications
-LITE,Lumentum Holdings Inc. Common Stock,596.62,54113434000.0,3662905,Telecommunications
-FFIV,F5 Inc. Common Stock,309.14,17505727043.0,1225223,Telecommunications
-CHTR,Charter Communications Inc. Class A Common Stock New,138.39,15839319783.0,2969780,Telecommunications
-ESE,ESCO Technologies Inc. Common Stock,231.41,7175461079.0,200651,Telecommunications
-LUMN,Lumen Technologies Inc. Common Stock,4.09,4216964549.0,19078619,Telecommunications
-LILAP,Liberty Latin America Ltd. 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares,19.95,3716685000.0,27918,Telecommunications
-EXTR,Extreme Networks Inc. Common Stock,26.75,3509356468.0,2465659,Telecommunications
-TDS,Telephone and Data Systems Inc. Common Shares,31.41,3429972000.0,963384,Telecommunications
-CHTRP,Charter Communications Inc. Series A Cumulative Redeemable Preferred Stock,21.22,2428718591.0,18852,Telecommunications
-AD,Array Digital Infrastructure Inc. Common Shares,27.76,2401240000.0,1211039,Telecommunications
-DGII,Digi International Inc. Common Stock,55.43,2103464458.0,821765,Telecommunications
-ATEN,A10 Networks Inc. Common Stock,28.665,2065357251.0,1865099,Telecommunications
-IDT,IDT Corporation Class B Common Stock,83.03,2063575975.0,124297,Telecommunications
-LILAK,Liberty Latin America Ltd. Class C Common Stock,9.86,1836918000.0,3422822,Telecommunications
-LILA,Liberty Latin America Ltd. Class A Common Stock,9.84,1833192000.0,396998,Telecommunications
-ADEA,Adeia Inc. Common Stock,16.22,1790161839.0,858963,Telecommunications
-ZD,Ziff Davis Inc. Common Stock,51.49,1704436397.0,371712,Telecommunications
-ATEX,Anterix Inc. Common Stock,80.14,1576493244.0,199417,Telecommunications
-UZD,Array Digital Infrastructure Inc. 6.250% Senior Notes due 2069,16.67,1433620000.0,12880,Telecommunications
-UZF,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,14.83,1275380000.0,9411,Telecommunications
-UZE,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,14.79,1271940000.0,19450,Telecommunications
-GLIBK,Liberty Capital Corporation Series C GCI Group Common Stock,27.39,1092997786.0,371109,Telecommunications
-GLIBA,Liberty Capital Corporation Series A GCI Group Common Stock,27.16,1083819637.0,51518,Telecommunications
-NSSC,NAPCO Security Technologies Inc. Common Stock,30.22,1080922166.0,253400,Telecommunications
-MATW,Matthews International Corporation Class A Common Stock,18.8,586807652.0,651434,Telecommunications
-SHEN,Shenandoah Telecommunications Co Common Stock,10.17,563068671.0,310968,Telecommunications
-ATNI,ATN International Inc. Common Stock,28.4,437455339.0,152181,Telecommunications
-AMCX,AMC Global Media Inc. Class A Common Stock,9.5,391013873.0,443980,Telecommunications
-AIOT,PowerFleet Inc. Common Stock,2.43,327944805.0,3237243,Telecommunications
-TBCH,Turtle Beach Corporation Common Stock,16.29,292247015.0,240608,Telecommunications
-SPOK,Spok Holdings Inc. Common Stock,11.67,244253707.0,167679,Telecommunications
-OPTU,Optimum Communications Inc. Class A common stock,0.5234,238983031.0,6130444,Telecommunications
-TTGT,TechTarget Inc. Common Stock,2.81,204547223.0,502174,Telecommunications
-LTRX,Lantronix Inc. Common Stock,4.33,203268425.0,550643,Telecommunications
-CXDO,Crexendo Inc. Common Stock,4.92,164207883.0,149462,Telecommunications
-SIDU,Sidus Space Inc. Class A Common Stock,0.94,95151806.0,4960629,Telecommunications
-INSG,Inseego Corp. Common Stock,4.03,74502167.0,207914,Telecommunications
-AMPG,Amplitech Group Inc. Common Stock,2.25,68136685.0,1500377,Telecommunications
-BWEN,Broadwind Inc. Common Stock,2.37,56149360.0,420723,Telecommunications
-REKR,Rekor Systems Inc. Common Stock,0.2547,35076085.0,4934776,Telecommunications
-NXPL,NextPlat Corp Common Stock,7.02,19046818.0,28744,Telecommunications
-CABO,Cable One Inc. Common Stock,2.98,16927711.0,470399,Telecommunications
-KSCP,Knightscope Inc. Class A Common Stock,0.4195,13384262.0,1168599,Telecommunications
-INTZ,Intrusion Inc. Common Stock,0.4141,10148329.0,180247,Telecommunications
-FOXX,Foxx Development Holdings Inc. Common Stock,1.31,9300938.0,5490,Telecommunications
-IQST,iQSTEL Inc. Common Stock,0.7282,7948929.0,145741,Telecommunications
-MYSE,Myseum.AI Inc. Common Stock,1.03,5352323.0,37374,Telecommunications
-AMPGZ,Amplitech Group Inc. Series B Right,0.0149,451216.0,216742,Telecommunications
-FOXXW,Foxx Development Holdings Inc. Warrant,0.0302,214419.0,534,Telecommunications
-CTHH,Qwest Corporation 6.750% Senior Notes due 2052,12.44,0.0,53498,Telecommunications
-CTGG,Qwest Corporation 6.500% Senior Notes due 2051,11.81,0.0,88579,Telecommunications
-TMUSZ,T-Mobile US Inc. 5.500% Senior Notes due March 2070,18.05,0.0,31586,Telecommunications
-TMUSL,T-Mobile US Inc. 6.250% Senior Notes due 2069,20.27,0.0,27207,Telecommunications
-TMUSI,T-Mobile US Inc. 5.500% Senior Notes due June 2070,17.89,0.0,31208,Telecommunications
+VZ,Verizon Communications Inc. Common Stock,45.94,190402847556.0,21170054,Telecommunications
+TMUS,T-Mobile US Inc. Common Stock,167.9,177851864671.0,4228524,Telecommunications
+T,AT&T Inc.,22.31,150290722290.0,42373110,Telecommunications
+TBB,AT&T Inc. 5.350% Global Notes due 2066,17.62,125989792158.0,153057,Telecommunications
+CMCSA,Comcast Corporation Class A Common Stock,25.31,89875970339.0,30971989,Telecommunications
+LITE,Lumentum Holdings Inc. Common Stock,559.97,50789279000.0,4820797,Telecommunications
+FFIV,F5 Inc. Common Stock,305.15,17374047864.0,679949,Telecommunications
+CHTR,Charter Communications Inc. Class A Common Stock New,138.5,15851909747.0,2747920,Telecommunications
+ESE,ESCO Technologies Inc. Common Stock,229.38,7112515718.0,276395,Telecommunications
+LUMN,Lumen Technologies Inc. Common Stock,4.3,4433483511.0,25332201,Telecommunications
+LILAP,Liberty Latin America Ltd. 9.0% Fixed Rate Cumulative Perpetual Redeemable Series A Preference Shares,19.57,3645891000.0,21118,Telecommunications
+EXTR,Extreme Networks Inc. Common Stock,26.19,3435889566.0,1185637,Telecommunications
+TDS,Telephone and Data Systems Inc. Common Shares,30.87,3371004000.0,1309966,Telecommunications
+CHTRP,Charter Communications Inc. Series A Cumulative Redeemable Preferred Stock,21.02,2405827746.0,3315,Telecommunications
+AD,Array Digital Infrastructure Inc. Common Shares,27.235,2355827500.0,582052,Telecommunications
+ATEN,A10 Networks Inc. Common Stock,29.295,2110749718.0,737891,Telecommunications
+DGII,Digi International Inc. Common Stock,53.13,2016183775.0,448109,Telecommunications
+IDT,IDT Corporation Class B Common Stock,77.85,1934835477.0,161484,Telecommunications
+LILAK,Liberty Latin America Ltd. Class C Common Stock,9.9,1844370000.0,1173735,Telecommunications
+LILA,Liberty Latin America Ltd. Class A Common Stock,9.9,1844370000.0,287746,Telecommunications
+ZD,Ziff Davis Inc. Common Stock,50.2,1661734456.0,292247,Telecommunications
+ADEA,Adeia Inc. Common Stock,14.74,1626817849.0,957824,Telecommunications
+ATEX,Anterix Inc. Common Stock,78.86,1551313416.0,198498,Telecommunications
+UZD,Array Digital Infrastructure Inc. 6.250% Senior Notes due 2069,16.7,1436200000.0,5594,Telecommunications
+UZF,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,14.77,1270220000.0,7929,Telecommunications
+UZE,Array Digital Infrastructure Inc. 5.500% Senior Notes due 2070,14.77,1270220000.0,7487,Telecommunications
+GLIBK,Liberty Capital Corporation Series C GCI Group Common Stock,27.29,1089007286.0,353257,Telecommunications
+GLIBA,Liberty Capital Corporation Series A GCI Group Common Stock,27.09,1081026287.0,31340,Telecommunications
+NSSC,NAPCO Security Technologies Inc. Common Stock,29.43,1052665101.0,329566,Telecommunications
+MATW,Matthews International Corporation Class A Common Stock,18.555,579160425.0,527838,Telecommunications
+SHEN,Shenandoah Telecommunications Co Common Stock,9.96,551441884.0,323894,Telecommunications
+ATNI,ATN International Inc. Common Stock,28.98,446389286.0,143280,Telecommunications
+AMCX,AMC Global Media Inc. Class A Common Stock,8.84,363848698.0,541040,Telecommunications
+OPTU,Optimum Communications Inc. Class A common stock,0.6467,295281479.0,4048306,Telecommunications
+TBCH,Turtle Beach Corporation Common Stock,16.1,288838363.0,406819,Telecommunications
+AIOT,PowerFleet Inc. Common Stock,2.055,277336039.0,3022839,Telecommunications
+SPOK,Spok Holdings Inc. Common Stock,11.58,242370002.0,199280,Telecommunications
+LTRX,Lantronix Inc. Common Stock,3.93,184490741.0,1764934,Telecommunications
+TTGT,TechTarget Inc. Common Stock,2.44,177613959.0,370737,Telecommunications
+CXDO,Crexendo Inc. Common Stock,4.59,153193940.0,234710,Telecommunications
+SIDU,Sidus Space Inc. Class A Common Stock,0.8373,84755965.0,4495850,Telecommunications
+INSG,Inseego Corp. Common Stock,3.4,62855426.0,326201,Telecommunications
+AMPG,Amplitech Group Inc. Common Stock,1.95,59051793.0,523061,Telecommunications
+BWEN,Broadwind Inc. Common Stock,2.25,53306354.0,257614,Telecommunications
+REKR,Rekor Systems Inc. Common Stock,0.2218,30545252.0,2419779,Telecommunications
+NXPL,NextPlat Corp Common Stock,7.67,21054771.0,26244,Telecommunications
+CABO,Cable One Inc. Common Stock,3.01,17098124.0,285303,Telecommunications
+KSCP,Knightscope Inc. Class A Common Stock,0.426,13591646.0,695758,Telecommunications
+INTZ,Intrusion Inc. Common Stock,0.4019,11092209.0,148360,Telecommunications
+FOXX,Foxx Development Holdings Inc. Common Stock,1.21,8590943.0,240306,Telecommunications
+IQST,iQSTEL Inc. Common Stock,0.6902,7720049.0,124253,Telecommunications
+MYSE,Myseum.AI Inc. Common Stock,1.0,5196430.0,54268,Telecommunications
+AMPGZ,Amplitech Group Inc. Series B Right,0.013,393679.0,103968,Telecommunications
+FOXXW,Foxx Development Holdings Inc. Warrant,0.0301,213709.0,12478,Telecommunications
+CTGG,Qwest Corporation 6.500% Senior Notes due 2051,11.87,0.0,66278,Telecommunications
+CTHH,Qwest Corporation 6.750% Senior Notes due 2052,12.45,0.0,32559,Telecommunications
+TMUSI,T-Mobile US Inc. 5.500% Senior Notes due June 2070,17.89,0.0,58111,Telecommunications
+TMUSL,T-Mobile US Inc. 6.250% Senior Notes due 2069,20.3,0.0,18926,Telecommunications
+TMUSZ,T-Mobile US Inc. 5.500% Senior Notes due March 2070,17.925,0.0,51304,Telecommunications
