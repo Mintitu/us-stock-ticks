@@ -12,7 +12,7 @@ AVGO,Broadcom Inc. Common Stock,300.86,1436194281184.0,34349549,Technology
 LLY,Eli Lilly and Company Common Stock,1392.27,1309771084310.0,2928819,Health Care
 BRK/A,Berkshire Hathaway Inc.,869830.1051,1279410486009.0,160,Uncategorized
 BRK/B,Berkshire Hathaway Inc.,579.28,1278072050993.0,4320606,Uncategorized
-ANT,Anthropic PBC Class A Common Stock,82.79,1083445623974.0,293740431,Technology
+ANT,Anthropic PBC Class A Common Stock,82.79,1094454184030.0,293740431,Technology
 WMT,Walmart Inc. Common Stock,131.94,1046778479038.0,23619941,Consumer Discretionary
 JPM,JP Morgan Chase & Co. Common Stock,316.85,841429872927.0,7639012,Finance
 V,Visa Inc.,424.5,765387560714.0,6593575,Consumer Discretionary
@@ -77,8 +77,8 @@ DE,Deere & Company Common Stock,641.61,172994360593.0,2353951,Industrials
 WMB,Williams Companies Inc. (The) Common Stock,66.46,168791986174.0,7674243,Utilities
 CRM,Salesforce Inc. Common Stock,197.175,162275025000.0,6736401,Technology
 PFE,Pfizer Inc. Common Stock,28.46,162217837241.0,27143420,Health Care
-ADI,Analog Devices Inc. Common Stock,333.105,161411179219.0,9205503,Technology
 SCHW,Charles Schwab Corporation (The) Common Stock,93.46,161312680109.0,10793268,Finance
+ADI,Analog Devices Inc. Common Stock,333.105,160781926552.0,9205503,Technology
 TJX,TJX Companies Inc. (The) Common Stock,146.11,160717210053.0,9309103,Consumer Discretionary
 DHR,Danaher Corporation Common Stock,227.4,159982907331.0,2503376,Industrials
 COP,ConocoPhillips Common Stock,135.05,159674349448.0,5853057,Energy
@@ -89,7 +89,7 @@ LMT,Lockheed Martin Corporation Common Stock,599.18,138413360195.0,1545116,Indus
 PGR,Progressive Corporation (The) Common Stock,238.74,138316925660.0,1946229,Finance
 UBER,Uber Technologies Inc. Common Stock,66.35,135479936945.0,19842511,Consumer Discretionary
 SPGI,S&P Global Inc. Common Stock,460.94,133626506000.0,1539869,Finance
-LOW,Lowe's Companies Inc. Common Stock,235.62,132195547957.0,3099377,Consumer Discretionary
+LOW,Lowe's Companies Inc. Common Stock,235.62,132194109968.0,3099377,Consumer Discretionary
 BA,Boeing Company (The) Common Stock,164.54,130389713128.0,6094442,Industrials
 TBB,AT&T Inc. 5.350% Global Notes due 2066,18.04,128992954059.0,265230,Telecommunications
 MO,Altria Group Inc.,76.25,126837064769.0,7112519,Health Care
@@ -162,7 +162,7 @@ ITW,Illinois Tool Works Inc. Common Stock,285.22,81059524000.0,965328,Industrial
 CDNS,Cadence Design Systems Inc. Common Stock,294.89,80911623310.0,2153705,Technology
 CL,Colgate-Palmolive Company Common Stock,99.68,79237676736.0,5121874,Consumer Discretionary
 NOC,Northrop Grumman Corporation Common Stock,556.08,78999221043.0,583235,Industrials
-TGT,Target Corporation Common Stock,172.17,78216269037.0,5082631,Consumer Discretionary
+TGT,Target Corporation Common Stock,172.17,77948614072.0,5082631,Consumer Discretionary
 EPD,Enterprise Products Partners L.P. Common Stock,36.065,77777954204.0,2111817,Utilities
 SNPS,Synopsys Inc. Common Stock,405.09,77630088928.0,1796583,Technology
 ORLY,O'Reilly Automotive Inc. Common Stock,96.69,77550091994.0,6992269,Consumer Discretionary
@@ -227,7 +227,7 @@ MDLN,Medline Inc. Class A Common Stock,40.57,53362590577.0,11450549,Health Care
 AME,AMETEK Inc.,227.45,52158378645.0,1974822,Industrials
 XEL,Xcel Energy Inc. Common Stock,81.11,52062436477.0,6270639,Utilities
 SRE,DBA Sempra Common Stock,79.09,51734318452.0,3256689,Utilities
-ADSK,Autodesk Inc. Common Stock,246.785,51578065000.0,3320956,Technology
+ADSK,Autodesk Inc. Common Stock,246.785,51331280000.0,3320956,Technology
 ETR,Entergy Corporation Common Stock,107.325,51282795761.0,4544522,Utilities
 KDP,Keurig Dr Pepper Inc. Common Stock,35.63,50865923056.0,12647580,Consumer Staples
 EBAY,eBay Inc. Common Stock,115.54,50722060000.0,4545213,Consumer Discretionary
@@ -379,7 +379,7 @@ HPQ,HP Inc. Common Stock,31.12,28063734955.0,39105251,Technology
 TWLO,Twilio Inc. Class A Common Stock,180.7,27960439582.0,1883202,Technology
 AXON,Axon Enterprise Inc. Common Stock,343.05,27935491852.0,2023563,Industrials
 VICI,VICI Properties Inc. Common Stock,25.11,27648259014.0,8126073,Real Estate
-FE,FirstEnergy Corp. Common Stock,47.655,27587161641.0,4215649,Utilities
+FE,FirstEnergy Corp. Common Stock,47.655,27592723599.0,4215649,Utilities
 PPG,PPG Industries Inc. Common Stock,124.66,27537394000.0,1477982,Consumer Discretionary
 EME,EMCOR Group Inc. Common Stock,628.91,27534940136.0,370516,Industrials
 ULTA,Ulta Beauty Inc. Common Stock,642.64,27477661163.0,477852,Consumer Discretionary
@@ -542,7 +542,7 @@ CRL,Charles River Laboratories International Inc. Common Stock,332.11,1591386996
 FSLR,First Solar Inc. Common Stock,147.88,15894312610.0,2887834,Technology
 LAMR,Lamar Advertising Company Class A Common Stock,156.39,15886165950.0,425528,Real Estate
 DUKB,Duke Energy Corporation 5.625% Junior Subordinated Debentures due 2078,20.15,15711122185.0,75520,Utilities
-BURL,Burlington Stores Inc. Common Stock,250.07,15708195814.0,1747713,Consumer Discretionary
+BURL,Burlington Stores Inc. Common Stock,250.07,15637071905.0,1747713,Consumer Discretionary
 NWS,News Corporation Class B Common Stock,28.94,15545848378.0,1110645,Consumer Discretionary
 ULS,UL Solutions Inc. Class A Common Stock,76.977,15541883151.0,374693,Health Care
 CLH,Clean Harbors Inc. Common Stock,294.15,15510482730.0,639864,Industrials
@@ -553,7 +553,7 @@ SMCI,Super Micro Computer Inc. Common Stock,23.31,15366589925.0,43383911,Technol
 MTSI,MACOM Technology Solutions Holdings Inc. Common Stock,199.94,15352905146.0,1885474,Technology
 TLN,Talen Energy Corporation Common Stock,351.61,15296902752.0,1019547,Utilities
 APA,APA Corporation Common Stock,45.48,15270183107.0,3816768,Energy
-ARMK,Aramark Common Stock,57.77,15229618792.0,3040654,Consumer Discretionary
+ARMK,Aramark Common Stock,57.77,15218118691.0,3040654,Consumer Discretionary
 CRBG,Corebridge Financial Inc. Common Stock,34.625,15182228418.0,4788636,Finance
 RBC,RBC Bearings Incorporated Common Stock,477.245,15110478693.0,290738,Industrials
 DOCU,DocuSign Inc. Common Stock,80.75,15092372999.0,2205904,Technology
@@ -565,6 +565,7 @@ SOLV,Solventum Corporation Common Stock,87.17,14796177832.0,849842,Health Care
 VNOM,Viper Energy Inc. Class A Common Stock,41.01,14784128253.0,1307255,Energy
 WY,Weyerhaeuser Company Common Stock,20.515,14777857160.0,9375131,Real Estate
 DINO,HF Sinclair Corporation Common Stock,85.805,14704502727.0,1990875,Energy
+SKYD.WS,Skydance Corporation Warrants to Purchase Class B Common Stock,2.91,14678687091.0,986483,Industrials
 PNFP,Pinnacle Financial Partners Inc. Common stock,97.015,14661055039.0,1071908,Finance
 SGI,Somnigroup International Inc. Common Stock,63.55,14632383115.0,2662201,Consumer Discretionary
 MANH,Manhattan Associates Inc. Common Stock,251.97,14629855179.0,989376,Technology
@@ -621,7 +622,7 @@ SAIL,SailPoint Inc. Common Stock,22.87,13056749047.0,4951479,Technology
 PS,Pershing Square Inc. Common Stock,32.37,12948000000.0,809303,Finance
 ERIE,Erie Indemnity Company Class A Common Stock,279.82,12925336310.0,128884,Finance
 VLYPO,Valley National Bancorp 5.50% Fixed-to-Floating Rate Non-Cumulative Perpetual Preferred Stock Series B,23.47,12903002270.0,9096,Finance
-BJ,BJ's Wholesale Club Holdings Inc. Common Stock,101.7,12846204176.0,2354084,Consumer Discretionary
+BJ,BJ's Wholesale Club Holdings Inc. Common Stock,101.7,12843392883.0,2354084,Consumer Discretionary
 WSO,Watsco Inc. Common Stock,310.315,12831552247.0,464848,Consumer Discretionary
 CRS,Carpenter Technology Corporation Common Stock,258.605,12811481257.0,1011848,Industrials
 AKAM,Akamai Technologies Inc. Common Stock,88.66,12787358656.0,3830728,Consumer Discretionary
@@ -956,7 +957,7 @@ BROS,Dutch Bros Inc. Class A Common Stock,36.085,6303745015.0,3178253,Consumer D
 UBSI,United Bankshares Inc. Common Stock,46.86,6303030681.0,788027,Finance
 M,Macy's Inc Common Stock,24.11,6296968935.0,9155261,Consumer Discretionary
 MP,MP Materials Corp. Common Stock,35.29,6291076873.0,6772843,Basic Materials
-CMC,Commercial Metals Company Common Stock,57.185,6289085811.0,870226,Industrials
+CMC,Commercial Metals Company Common Stock,57.185,6285221649.0,870226,Industrials
 COGT,Cogent Biosciences Inc. Common Stock,36.08,6277719828.0,6129843,Health Care
 JBTM,JBT Marel Corporation Common Stock,122.655,6264957371.0,361894,Industrials
 RIOT,Riot Platforms Inc. Common Stock ,16.65,6246813017.0,24391307,Finance
@@ -972,7 +973,7 @@ LGND,Ligand Pharmaceuticals Incorporated Common Stock,307.63,6153518583.0,134901
 MGY,Magnolia Oil & Gas Corporation Class A Common Stock,23.08,6146457903.0,3441975,Energy
 TTMI,TTM Technologies Inc. Common Stock,58.17,6129693998.0,5749907,Technology
 AVT,Avnet Inc. Common Stock,74.195,6101418406.0,1592202,Technology
-AMTM,Amentum Holdings Inc. Common Stock,24.88,6083319555.0,5577464,Consumer Discretionary
+AMTM,Amentum Holdings Inc. Common Stock,24.88,6091263366.0,5577464,Consumer Discretionary
 NOV,NOV Inc. Common Stock,17.035,6073190284.0,2721791,Consumer Discretionary
 ACT,Enact Holdings Inc. Common Stock,45.17,6072735654.0,436973,Finance
 FNB,F.N.B. Corporation Common Stock,17.29,6066041599.0,5313404,Finance
@@ -1044,7 +1045,6 @@ BGC,BGC Group Inc. Class A Common Stock,11.47,5397480591.0,2191994,Finance
 REYN,Reynolds Consumer Products Inc. Common Stock,25.58,5394285280.0,1595406,Consumer Discretionary
 OBDC,Blue Owl Capital Corporation Common Stock,10.985,5382975617.0,6239077,Finance
 FND,Floor & Decor Holdings Inc. Common Stock,51.63,5381612314.0,4215828,Consumer Discretionary
-DY,Dycom Industries Inc. Common Stock,177.555,5355228720.0,1198435,Industrials
 PSMT,PriceSmart Inc. Common Stock,173.09,5353366811.0,190590,Consumer Discretionary
 CGABL,The Carlyle Group Inc. 4.625% Subordinated Notes due 2061,14.79,5349615575.0,86332,Finance
 BCPC,Balchem Corporation Common Stock,168.3,5348123629.0,204093,Industrials
@@ -1054,6 +1054,7 @@ VAL,Valaris Limited Common Shares,76.56,5316560520.0,3307256,Energy
 PECO,Phillips Edison & Company Inc. Common Stock,41.17,5310930000.0,618692,Real Estate
 CVCO,Cavco Industries Inc. Common Stock When Issued,694.9,5302372604.0,83088,Consumer Discretionary
 MMED,MiniMed Group Inc. Common Stock,18.84,5300632700.0,7832785,Health Care
+DY,Dycom Industries Inc. Common Stock,177.555,5294924473.0,1198435,Industrials
 BILL,BILL Holdings Inc. Common Stock,61.54,5285242405.0,6362264,Technology
 RUSHA,Rush Enterprises Inc. Common Stock Cl A,45.49,5285083834.0,745340,Consumer Discretionary
 DOCS,Doximity Inc. Class A Common Stock,29.62,5284488027.0,1605504,Technology
@@ -1540,9 +1541,9 @@ WSBCO,WesBanco Inc. Depositary Shares each representing 1/40th interest in a sha
 BLKB,Blackbaud Inc. Common Stock,53.33,2398723404.0,280122,Technology
 WLYB,John Wiley & Sons Inc. Common Stock,47.22,2397056720.0,1570,Consumer Discretionary
 BHF,Brighthouse Financial Inc. Common Stock,41.59,2391934644.0,538035,Finance
+CENT,Central Garden & Pet Company Common Stock,38.12,2390830135.0,427122,Consumer Discretionary
 DNOW,DNOW Inc. Common Stock,13.25,2388621676.0,1672022,Consumer Discretionary
 CLMT,Calumet Inc. Common Stock,27.1,2387305124.0,1471948,Energy
-CENT,Central Garden & Pet Company Common Stock,38.12,2386029836.0,427122,Consumer Discretionary
 WLY,John Wiley & Sons Inc. Common Stock,46.98,2384873458.0,387135,Consumer Discretionary
 MD,Pediatrix Medical Group Inc. Common Stock,30.48,2381241344.0,685470,Health Care
 MFICL,MidCap Financial Investment Corporation 8.00% Notes due 2028,25.46,2375510216.0,8954,Finance
@@ -1718,9 +1719,9 @@ TY,Tri Continental Corporation Common Stock,32.78,1781623649.0,34919,Finance
 TRNZ,Trinity Capital Inc. 7.875% Notes due 2029,25.33,1781057673.0,9858,Finance
 AMR,Alpha Metallurgical Resources Inc. Common Stock,140.45,1778384361.0,273879,Energy
 ADAML,Adamas Trust Inc. 6.875% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock $0.01 par value per share,19.67,1776294354.0,8179,Real Estate
-JJSF,J & J Snack Foods Corp. Common Stock,95.07,1776060473.0,229904,Consumer Staples
 SFB,Stifel Financial Corporation 5.20% Senior Notes due 2047,17.38,1775773796.0,17398,Finance
 BLBD,Blue Bird Corporation Common Stock,56.61,1774557236.0,346473,Consumer Discretionary
+JJSF,J & J Snack Foods Corp. Common Stock,95.07,1773145436.0,229904,Consumer Staples
 DHC,Diversified Healthcare Trust Common Shares of Beneficial Interest,7.3,1770462846.0,1198848,Real Estate
 ARR,ARMOUR Residential REIT Inc.,11.92,1769111806.0,3863980,Real Estate
 RVMDW,Revolution Medicines Inc. Warrant,8.16,1764945356.0,360114,Health Care
@@ -2004,8 +2005,8 @@ PWP,Perella Weinberg Partners Class A Common Stock,11.65,1153614047.0,1999170,Fi
 MBINM,Merchants Bancorp Depositary Shares Each Representing a 1/40th Interest in a Share of 8.25% Fixed-Rate Reset Series D Non-Cumulative Perpetual Preferred Stock,25.06,1151265697.0,7477,Finance
 NPK,National Presto Industries Inc. Common Stock,161.02,1149375896.0,221303,Industrials
 CBLL,CeriBell Inc. Common Stock,29.44,1143302694.0,381150,Health Care
-SCCG,Sachem Capital Corp. 8.00% Notes due 2027,24.1,1140949141.0,644,Real Estate
 SCCF,Sachem Capital Corp. 7.125% Notes due 2027,24.1,1140949141.0,209,Real Estate
+SCCG,Sachem Capital Corp. 8.00% Notes due 2027,24.1,1140949141.0,644,Real Estate
 SCCE,Sachem Capital Corp. 6.00% Notes due 2027,24.08,1140002295.0,3172,Real Estate
 NUTX,Nutex Health Inc. Common Stock,165.95,1138548764.0,143546,Consumer Discretionary
 FUN,Six Flags Entertainment Corporation Common Stock New,11.1,1135639013.0,1883056,Consumer Discretionary
@@ -2019,6 +2020,7 @@ SGP,SpyGlass Pharma Inc. Common Stock,33.75,1129323938.0,123667,Health Care
 WBTN,WEBTOON Entertainment Inc. Common stock,8.3,1127005382.0,504023,Consumer Discretionary
 BOW,Bowhead Specialty Holdings Inc. Common Stock,34.19,1126394952.0,675392,Finance
 MLTX,MoonLake Immunotherapeutics Class A Ordinary Shares,13.22,1125110376.0,1267357,Health Care
+SPH,Suburban Propane Partners L.P. Common Stock,16.57,1123555130.0,282309,Consumer Discretionary
 ATEC,Alphatec Holdings Inc. Common Stock,7.24,1123212326.0,2411258,Health Care
 NHP,National Healthcare Properties Inc. Common Stock,15.38,1122159620.0,755834,Real Estate
 VTOL,Bristow Group Inc. Common Stock,38.45,1118779650.0,186252,Consumer Discretionary
@@ -2029,7 +2031,6 @@ RHLD,Resolute Holdings Management Common Stock ,142.43,1113744916.0,104185,Finan
 MSEX,Middlesex Water Company Common Stock,58.22,1113729911.0,132905,Utilities
 RDVT,Red Violet Inc. Common Stock ,69.18,1110417658.0,177613,Technology
 LADR,Ladder Capital Corp Class A Common Stock,8.785,1106839746.0,2086689,Real Estate
-SPH,Suburban Propane Partners L.P. Common Stock,16.57,1105424253.0,282309,Consumer Discretionary
 HFWA,Heritage Financial Corporation Common Stock,27.2,1103691000.0,179062,Finance
 AMRC,Ameresco Inc. Class A Common Stock,20.665,1097546564.0,602443,Consumer Discretionary
 INOD,Innodata Inc. Common Stock,31.89,1097420748.0,941125,Technology
@@ -2080,7 +2081,6 @@ AHCO,AdaptHealth Corp. Common Stock,7.48,1021209603.0,1198780,Health Care
 DJT,Trump Media & Technology Group Corp. Common Stock,3.65,1016263156.0,5671405,Technology
 LCID,Lucid Group Inc. Common Stock,2.56,1014407245.0,9768000,Industrials
 CODI,D/B/A Compass Diversified Holdings Shares of Beneficial Interest,13.48,1014180822.0,826750,Consumer Discretionary
-CFFN,Capitol Federal Financial Inc. Common Stock,8.06,1013128161.0,546272,Finance
 SVRA,Savara Inc. Common Stock,4.59,1012661915.0,4333574,Health Care
 LGIH,LGI Homes Inc. Common Stock,43.49,1012027869.0,215019,Consumer Discretionary
 KFRC,Kforce Inc. Common Stock,56.35,1009115800.0,132863,Consumer Discretionary
@@ -2100,6 +2100,7 @@ SBET,Sharplink Inc. Common Stock,4.63,996771397.0,14784102,Technology
 SMP,Standard Motor Products Inc. Common Stock,44.6,996444771.0,116754,Consumer Discretionary
 HQH,abrdn Healthcare Investors Shares of Beneficial Interest,20.99,993744809.0,161873,Finance
 APOG,Apogee Enterprises Inc. Common Stock,47.46,991705129.0,176647,Consumer Discretionary
+CFFN,Capitol Federal Financial Inc. Common Stock,8.06,988692498.0,546272,Finance
 RJET,Republic Airways Holdings Inc. Common Stock,21.0,981756657.0,135148,Consumer Discretionary
 SWIM,Latham Group Inc. Common Stock,8.33,980862248.0,999769,Industrials
 OIG,Orion180 Insurance Group Inc. Class A common stock,9.89,979685529.0,100981,Finance
@@ -2133,9 +2134,9 @@ WINA,Winmark Corporation Common Stock,263.03,936175061.0,38690,Consumer Discreti
 TDAY,USA TODAY Co. Inc. Common Stock,6.32,934335623.0,1586999,Consumer Discretionary
 HRTG,Heritage Insurance Holdings Inc. Common Stock,31.5,933421104.0,156142,Finance
 COUR,Coursera Inc. Common Stock,3.685,933410500.0,5189711,Technology
+CMP,Compass Minerals Intl Inc Common Stock,22.1,931701215.0,871437,Industrials
 ODTX,Odyssey Therapeutics Inc. Common Stock,19.34,929632741.0,305822,Health Care
 PTA,Cohen & Steers Tax-Advantaged Preferred Securities and Income Fund Common Shares of Beneficial Interest,16.79,928041343.0,531697,Finance
-CMP,Compass Minerals Intl Inc Common Stock,22.1,927777315.0,871437,Industrials
 TRNS,Transcat Inc. Common Stock,98.55,926847573.0,180438,Industrials
 BMBL,Bumble Inc. Class A Common Stock,5.98,926050930.0,3611290,Technology
 BST,BlackRock Science and Technology Trust Common Shares of Beneficial Interest,41.77,925532559.0,155290,Finance
@@ -2398,7 +2399,7 @@ AESI,Atlas Energy Solutions Inc. Common Stock,4.995,625662716.0,3279704,Industri
 NXP,Nuveen Select Tax Free Income Portfolio Common Stock,13.27,621024230.0,520226,Finance
 TCMD,Tactile Systems Technology Inc. Common Stock,27.6,618277895.0,336158,Health Care
 MOV,Movado Group Inc. Common Stock,27.7,618112592.0,258003,Consumer Discretionary
-GDOT,Green Dot Corporation Class A Common Stock $0.001 par value,10.835,617692201.0,493656,Finance
+GDOT,Green Dot Corporation Class A Common Stock $0.001 par value,10.835,617753419.0,493656,Finance
 NIE,Virtus Equity & Convertible Income Fund Common Shares of Beneficial Interest,22.24,616247382.0,50057,Finance
 BME,Blackrock Health Sciences Trust,46.18,615718771.0,56532,Finance
 DLY,DoubleLine Yield Opportunities Fund Common Shares of Beneficial Interest,12.84,615623802.0,274476,Finance
@@ -2418,6 +2419,7 @@ CCB,Coastal Financial Corporation Common Stock,39.01,596517124.0,169557,Finance
 SLRC,SLR Investment Corp. Common Stock,11.09,595207309.0,703513,Finance
 CIM,Chimera Investment Corporation Common Stock,7.11,595195832.0,2173413,Real Estate
 FCEL,FuelCell Energy Inc. Common Stock,7.44,594859218.0,5774075,Energy
+DMAC,DiaMedica Therapeutics Inc. Common Stock,9.17,593340027.0,323254,Health Care
 VMO,Invesco Municipal Opportunity Trust Common Stock,8.79,592803621.0,343143,Finance
 ACRS,Aclaris Therapeutics Inc. Common Stock,3.735,592416377.0,1861829,Health Care
 WHFCL,WhiteHorse Finance Inc. 7.875% Notes due 2028,25.4,590374435.0,11835,Uncategorized
@@ -2527,14 +2529,14 @@ HMH,HMH Holding Inc. Class A Common Stock,11.25,496047971.0,302414,Consumer Disc
 VGM,Invesco Trust for Investment Grade Municipals Common Stock (DE),9.145,495951347.0,426429,Finance
 RXT,Rackspace Technology Inc. Common Stock,1.885,495847094.0,5848607,Technology
 LYEL,Lyell Immunopharma Inc. Common Stock,15.48,495603268.0,232879,Health Care
-DMAC,DiaMedica Therapeutics Inc. Common Stock,9.17,494790037.0,323254,Health Care
 FOSL,Fossil Group Inc. Common Stock,8.27,494603650.0,1565445,Consumer Discretionary
 OPRT,Oportun Financial Corporation Common Stock,10.73,494436458.0,569413,Finance
 PACB,Pacific Biosciences of California Inc. Common Stock,1.58,494424233.0,7124512,Industrials
 CBIO,Crescent Biopharma Inc. Common Stock,12.7,493972113.0,443298,Health Care
+MAGN,Magnera Corporation Common Stock,13.73,492907000.0,438970,Basic Materials
+FVR,FrontView REIT Inc. Common Stock,18.21,492557683.0,225340,Real Estate
 CZNC,Citizens & Northern Corp Common Stock,27.42,492204355.0,86003,Finance
 KOPN,Kopin Corporation Common Stock,2.645,491984849.0,3294043,Technology
-MAGN,Magnera Corporation Common Stock,13.73,491534000.0,438970,Basic Materials
 BDN,Brandywine Realty Trust Common Stock,2.89,491431738.0,1797405,Real Estate
 VKQ,Invesco Municipal Trust Common Stock,8.87,490826018.0,328522,Finance
 TKNO,Alpha Teknova Inc. Common Stock,7.8,490644414.0,273737,Health Care
@@ -2544,7 +2546,6 @@ OVID,Ovid Therapeutics Inc. Common Stock,2.59,488815657.0,1432941,Health Care
 CTMX,CytomX Therapeutics Inc. Common Stock,2.24,488331021.0,3139471,Health Care
 HNST,The Honest Company Inc. Common Stock,4.47,487608685.0,2816194,Consumer Discretionary
 OOMA,Ooma Inc. Common Stock,17.635,486726000.0,200837,Technology
-FVR,FrontView REIT Inc. Common Stock,18.21,486642856.0,225340,Real Estate
 FMAO,Farmers & Merchants Bancorp Inc. Common Stock,35.28,485484411.0,67223,Finance
 DC,Dakota Gold Corp. Common Stock,3.605,483783001.0,3502172,Basic Materials
 SENS,Senseonics Holdings Inc. Common Stock,8.8,482068470.0,769035,Health Care
@@ -2870,6 +2871,7 @@ LCNB,LCNB Corporation Common Stock,19.7,280823264.0,31588,Finance
 FLXS,Flexsteel Industries Inc. Common Stock,67.46,280766699.0,50399,Consumer Discretionary
 TBCH,Turtle Beach Corporation Common Stock,15.65,280765241.0,274721,Telecommunications
 CMRC,Commerce.com Inc. Series 1 Common Stock,3.36,280064975.0,410493,Technology
+EVI,EVI Industries Inc.  Common Stock,19.075,280029584.0,103335,Consumer Discretionary
 ISBA,Isabella Bank Corporation Common stock,36.55,279645695.0,27626,Finance
 EBS,Emergent BioSolutions Inc. Common Stock,5.435,279441514.0,734292,Health Care
 FWDI,Forward Industries Inc. Common Stock,3.43,279337118.0,2107549,Finance
@@ -2935,7 +2937,6 @@ SNFCA,Security National Financial Corporation Class A Common Stock,9.08,24878499
 NAUT,Nautilus Biotechnology Inc. Common Stock,1.95,248376229.0,2941477,Industrials
 TTRX,Turn Therapeutics Inc. Common Stock,8.12,248250356.0,93669,Health Care
 FTH,Faeth Therapeutics Inc. Common Stock,9.58,247584993.0,558281,Health Care
-EVI,EVI Industries Inc.  Common Stock,19.075,247425278.0,103335,Consumer Discretionary
 NUAIW,New Era Energy & Digital Inc. Warrants,1.76,247402258.0,24969,Energy
 RDIB,Reading International Inc Class B Common Stock,10.8,247213372.0,257,Consumer Discretionary
 FIRY,Firy Inc. Class A Common Stock,14.55,244975556.0,430921,Technology
@@ -3133,6 +3134,7 @@ TARA,Protara Therapeutics Inc.  Common Stock,2.58,158851506.0,608037,Health Care
 WHG,Westwood Holdings Group Inc Common Stock,16.67,158655958.0,8132,Finance
 VRA,Vera Bradley Inc. Common Stock,5.48,157213879.0,297445,Consumer Discretionary
 AEYE,AudioEye Inc. Common Stock,12.36,156781372.0,155413,Technology
+OBMT,Opportunity Bancorp Inc. Common Stock,19.67,156680028.0,23616,Finance
 ONEW,OneWater Marine Inc. Class A Common Stock,9.4,156656819.0,149798,Consumer Discretionary
 RAIL,FreightCar America Inc. Common Stock,4.76,156103200.0,120610,Industrials
 KGEI,Kolibri Global Energy Inc. Common stock,4.33,155669973.0,144434,Energy
@@ -3581,7 +3583,7 @@ ELTX,Elicio Therapeutics Inc. Common Stock,1.47,41611621.0,297302,Health Care
 RFL,Rafael Holdings Inc. Class B Common Stock,0.795,41480330.0,117579,Health Care
 RDI,Reading International Inc Class A Common Stock,1.8,41202229.0,38339,Consumer Discretionary
 DTCX,Datacentrex Inc. Common Stock,0.8716,41086913.0,124257,Technology
-GRDX,GridAI Technologies Corp. Common Stock,3.09,41067830.0,207960,Health Care
+GRDX,GridAI Power Corp. Common Stock,3.09,41067830.0,207960,Health Care
 RNTX,Rein Therapeutics Inc. Common Stock,0.4749,40968213.0,470000,Health Care
 THRY,Thryv Holdings Inc. Common Stock,0.9179,40804300.0,372376,Consumer Discretionary
 PXLW,Pixelworks Inc.  Common Stock,6.82,40729633.0,49871,Technology
@@ -3618,8 +3620,8 @@ VERU,Veru Inc. Common Stock,2.15,36658188.0,307733,Health Care
 GPUS,Hyperscale Data Inc. Common Stock,0.1398,36425643.0,6982325,Technology
 HGBL,Heritage Global Inc. Common Stock,1.05,36379786.0,304848,Consumer Discretionary
 EYPT,EyePoint Inc. Common Stock,0.3194,36342161.0,6481295,Industrials
+CATO,Cato Corporation (The) Class A Common Stock,1.8,35929692.0,171350,Consumer Discretionary
 KDKRW,Kodiak AI Inc. Warrants,0.1757,35857489.0,12814,Technology
-CATO,Cato Corporation (The) Class A Common Stock,1.8,35841508.0,171350,Consumer Discretionary
 TYGO,Tigo Energy Inc. Common Stock,0.4601,35698415.0,883359,Technology
 LONA,LeonaBio Inc. Common Stock,2.71,35436903.0,1359548,Health Care
 YDESW,YD Bio Limited Warrants,0.5,35415673.0,45034,Health Care
@@ -3649,13 +3651,13 @@ MAMO,Massimo Group Common Stock,0.7921,32983796.0,45655,Consumer Discretionary
 FRMM,Forum Markets Incorporated Common Stock,2.35,32872611.0,289228,Finance
 IDN,Intellicheck Inc. Common Stock,1.605,32771452.0,277977,Technology
 RMCO,Royalty Management Holding Corporation Class A Common Stock,2.15,32652409.0,27202,Miscellaneous
+CLSKW,CleanSpark Inc. Warrant,0.125,32563718.0,23405,Finance
 SCWO,374Water Inc. Common Stock,1.81,32473416.0,48117,Consumer Discretionary
 DWTX,Dogwood Therapeutics Inc. Common Stock,0.8494,32470789.0,309053,Health Care
 CCEL,Cryo-Cell International Inc. Common Stock,4.02,32411853.0,7680,Health Care
 AERT,Aeries Technology Inc. Class A Ordinary Share,5.85,32344469.0,14051,Consumer Discretionary
 DAIO,Data I/O Corporation Common Stock,2.62,32186784.0,22067,Industrials
 KLRS,Kalaris Therapeutics Inc. Common Stock,1.35,32136724.0,51812,Health Care
-CLSKW,CleanSpark Inc. Warrant,0.125,32102134.0,23405,Finance
 GAIA,Gaia Inc. Class A Common Stock,1.26,32036499.0,28583,Consumer Discretionary
 KOSS,Koss Corporation Common Stock,3.38,31996560.0,31189,Consumer Staples
 NNVC,NanoViricides Inc. Common Stock,1.25,31943750.0,186108,Health Care
@@ -4085,6 +4087,7 @@ AIRE,reAlpha Tech Corp. Common Stock,0.3489,2593731.0,168251,Finance
 ONCO,Onconetix Inc. Common Stock,3.1,2543894.0,190604,Health Care
 GRI,GRI Bio Inc. Common Stock,1.16,2535893.0,11808,Health Care
 TVGNW,Tevogen Inc. Warrant,0.0369,2534246.0,1479932,Health Care
+BIVIW,BioVie Inc. Warrant,0.2209,2525304.0,484,Health Care
 AUID,authID Inc. Common Stock,0.1494,2498019.0,305551,Technology
 DRMA,Dermata Therapeutics Inc. Common Stock,0.5026,2477922.0,38802,Health Care
 TGL,Treasure Global Inc. Common Stock,2.7,2475638.0,30831,Consumer Discretionary
@@ -4092,7 +4095,6 @@ MSS,Maison Solutions Inc. Class A Common Stock,1.01,2419194.0,454925,Consumer St
 REVB,Revelation Biosciences Inc. Common Stock,3.53,2412550.0,4490,Health Care
 AIDX,20/20 Biolabs Inc. Common Stock,0.1722,2409451.0,101007,Health Care
 QCLS,Q/C Technologies Inc. Common Stock,0.2758,2377176.0,55218,Health Care
-BIVIW,BioVie Inc. Warrant,0.2209,2369092.0,484,Health Care
 PMCB,PharmaCyte  Biotech Inc. Common Stock,4.135,2340770.0,5963,Health Care
 IVDA,Iveda Solutions Inc. Common Stock,0.1717,2293009.0,136518,Technology
 AMSS,AMASS Brands Inc. Common Stock,0.1886,2291895.0,103625,Consumer Staples
@@ -4109,15 +4111,15 @@ BJDX,Bluejay Diagnostics Inc. Common Stock,1.845,2060882.0,59862,Health Care
 AIRI,Air Industries Group Common Stock,2.12,2059020.0,34477,Industrials
 OPTT,Ocean Power Technologies Inc. Common Stock,0.19,2056160.0,2129374,Utilities
 KITT,Nauticus Robotics Inc. Common stock,0.7534,1991369.0,174386,Industrials
-YHC,LQR House Inc. Common Stock,1.52,1981863.0,12798,Consumer Staples
+YHC,LQR House Inc. Common Stock,1.52,1981945.0,12798,Consumer Staples
 GNPX,Genprex Inc. Common Stock,1.48,1975434.0,18919,Health Care
 XPON,Expion Energy Inc. Common Stock,1.92,1943996.0,13840,Miscellaneous
-SGLY,Singularity Future Technology Ltd. Common Stock,0.347,1943154.0,202864,Industrials
 MBIO,Mustang Bio Inc. Common Stock,0.2554,1936974.0,77851,Health Care
 CTNT,Cheetah Net Supply Chain Service Inc Class A Common Stock,1.35,1935151.0,46624,Consumer Discretionary
 AMIX,Autonomix Medical Inc. Common Stock,0.93,1902029.0,30422,Health Care
 POLA,Polar Power Inc. Common Stock,0.229,1887797.0,556456,Miscellaneous
 RIME,Algorhythm Holdings Inc. Common Stock,0.4612,1883955.0,2327331,Technology
+ZNB,Zeta Network Group Class A Ordinary Shares,0.2854,1883051.0,42822993,Real Estate
 PARA,Parabolic Technologies Inc. Class A Common Stock,2.73,1856913.0,124391,Technology
 HCWB,HCW Biologics Inc. Common Stock,0.5901,1852877.0,42297,Health Care
 BURU,Nuburu Inc. Common Stock,0.1988,1841354.0,2697555,Miscellaneous
@@ -4132,7 +4134,6 @@ CETX,Cemtrex Inc. Common Stock,0.4281,1672758.0,175919,Technology
 NXL,Nexalin Technology Inc. Common Stock,1.335,1650808.0,6363,Health Care
 BFLR,BlueFlare Inc. Common Stock,0.0168,1643146.0,373025714,Technology
 DBGI,Digital Brands Group Inc. Common Stock,0.1372,1626096.0,867769,Consumer Discretionary
-VVOS,Vivos Therapeutics Inc. Common Stock,0.046,1555755.0,5405374,Health Care
 WORX,SCWorx Corp. Common Stock,1.12,1553551.0,24899,Consumer Discretionary
 SKYAW,SkyAI Inc. Warrant,0.0302,1535797.0,65,Technology
 BRTX,BioRestorative Therapies Inc. Common Stock (NV),1.11,1533052.0,16538,Health Care
@@ -4140,7 +4141,6 @@ SXTP,60 Degrees Pharmaceuticals Inc. Common Stock,0.3304,1481719.0,99473,Health 
 EXYNW,Exyn Technologies Inc. Warrant,0.185,1471482.0,2508,Technology
 IPST,IP Strategy Holdings Inc. Common Stock,1.475,1469001.0,7128,Consumer Staples
 BFRGW,Bullfrog AI Holdings Inc. Warrants,0.0783,1463684.0,2436,Health Care
-ZNB,Zeta Network Group Class A Ordinary Shares,0.2854,1427590.0,42822993,Real Estate
 ARTL,Artelo Biosciences Inc. Common Stock,1.52,1424509.0,28100,Health Care
 HDRNW,Hadron Energy Inc. Warrant,0.0199,1412383.0,283432,Utilities
 CODX,Co-Diagnostics Inc. Common Stock,2.64,1377497.0,504011,Health Care
@@ -4148,7 +4148,7 @@ VIVK,Vivakor Inc. Common Stock,0.137,1374143.0,85827624,Utilities
 GIPR,Generation Income Properties Inc. Common Stock,0.1887,1372732.0,396132,Real Estate
 FFAI,Faraday Future Intelligent Electric Inc. Class A Common Stock,0.1072,1369137.0,62240665,Industrials
 TDOG,21Shares Dogecoin ETF Common Shares of Beneficial Interest,11.3688,1365109.0,456,Uncategorized
-CAPS,Capstone Holding Corp. Common Stock,1.45,1356308.0,45586,Health Care
+CAPS,Capstone Holding Corp. Common Stock,1.45,1356308.0,45586,Consumer Discretionary
 ELAB,PMGC Holdings Inc. Common Stock,1.16,1355965.0,40355,Health Care
 SQFT,Presidio Property Trust Inc. Class A Common Stock,0.5898,1330814.0,14000,Real Estate
 PW,Power REIT (MD) Common Stock,3.555,1305112.0,57138,Real Estate
@@ -4185,6 +4185,7 @@ KIDZ,KIDZ AI Inc. Class B Common Stock,0.6487,665087.0,47653,Real Estate
 BOXL,Boxlight Corporation Class A Common Stock,0.775,654531.0,45012,Real Estate
 FLDDW,Fold Holdings Inc. Warrant,0.0114,627712.0,75641,Finance
 BAERW,Bridger Aerospace Group Holdings Inc. Warrant,0.0106,625931.0,23025,Industrials
+GNLN,Greenlane Holdings Inc. Class A Common Stock,0.5557,596524.0,116923,Consumer Discretionary
 AMODW,Alpha Modus Holdings Inc. Warrant,0.0089,568850.0,16664,Miscellaneous
 OGEN,Oragenics Inc. Common Stock,0.1251,564446.0,648523,Health Care
 SCLXW,Scilex Holding Company Warrant,0.065,552045.0,19859,Health Care
@@ -4192,11 +4193,9 @@ HSCSW,HeartSciences Inc. Warrant,0.09,510167.0,6,Health Care
 XBPEW,XBP Europe Holdings Inc. Warrant,0.0354,503241.0,1400,Technology
 BZFDW,BuzzFeed Inc. Warrant,0.0053,476097.0,21340,Consumer Discretionary
 CSAI,Cloudastructure Inc. Class A Common Stock,0.3934,475908.0,215507,Technology
-GNLN,Greenlane Holdings Inc. Class A Common Stock,0.5557,470380.0,116923,Consumer Discretionary
 BLUWW,Blue Water Acquisition Corp. III Warrant.,0.0647,468752.0,1508,Uncategorized
 BNAIW,Brand Engagement Network Inc. Warrant,0.0603,461589.0,93931,Technology
 HOLOW,MicroCloud Hologram Inc. Warrant,0.0197,451373.0,16,Technology
-HCTI,Healthcare Triangle Inc. Common Stock,0.4624,423183.0,2806625,Technology
 CDT,CDT Equity Inc. Common Stock,0.2192,416512.0,6105246,Health Care
 DAVEW,Dave Inc. Warrants,0.03,383792.0,4841,Finance
 DFNSW,T3 Defense Inc. Warrants,0.0624,352893.0,154506,Consumer Discretionary
@@ -4210,6 +4209,7 @@ FUSEW,Fusemachines Inc. Warrants,0.0075,244085.0,1406,Technology
 LUCYW,Innovative Eyewear Inc. Series A Warrants 8/16/27,0.0251,218678.0,34071,Health Care
 COCHW,Envoy Medical Inc Warrant,0.026,201357.0,101,Health Care
 VEEAW,Veea Inc. Warrant,0.0481,195840.0,4789,Technology
+SGLY,Compower Ltd. Common Stock,0.347,187512.0,202864,Industrials
 SRTM,Stratum Holdings Corp. Common Stock,0.363,183083.0,2938544,Finance
 BENFW,Beneficient Warrant,0.0085,163002.0,124712,Finance
 IVDAW,Iveda Solutions Inc. Warrant,0.012,160257.0,150573,Technology
@@ -4246,192 +4246,268 @@ PIIIW,P3 Health Partners Inc. Warrant,0.0008,5809.0,34731,Health Care
 PARAW,Banzai International Inc. Warrant,0.0067,4557.0,1414,Technology
 NXGLW,NexGel Inc Warrant,0.0078,4182.0,7402,Health Care
 REVBW,Revelation Biosciences Inc. Warrant,0.0024,1640.0,20738,Health Care
-FACTW,FACT II Acquisition Corp. Warrant,0.1253,0.0,21800,Finance
-DMIIU,Drugs Made In America Acquisition II Corp. Unit,10.25,0.0,85,Uncategorized
-EWAVU,East West Ave Acquisition Corp. Units,10.02,0.0,2,Finance
-EVOXW,Evolution Global Acquisition Corp Warrants,0.2,0.0,36883,Finance
-EVG,Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest,9.94,0.0,38363,Finance
-FAX,abrdn Asia-Pacific Income Fund Inc. Common Stock,12.375,0.0,280071,Finance
-EVT,Eaton Vance Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,26.17,0.0,87493,Finance
-EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest,9.14,0.0,864689,Finance
-EVV,Eaton Vance Limited Duration Income Fund Common Shares of Beneficial Interest,8.375,0.0,607586,Finance
-DMIIR,Drugs Made In America Acquisition II Corp. Right,0.0513,0.0,15680,Finance
-FACT,FACT II Acquisition Corp. Class A Ordinary Shares,10.66,0.0,1400,Uncategorized
-EWAVR,East West Ave Acquisition Corp. Rights,0.131,0.0,3600,Finance
-FACTU,FACT II Acquisition Corp. Unit,10.83,0.0,336,Finance
-DMII,Drugs Made In America Acquisition II Corp. Ordinary Shares,10.25,0.0,108810,Finance
-DMAAU,Drugs Made In America Acquisition Corp. Units,10.96,0.0,210,Finance
-EWAV,East West Ave Acquisition Corp. Common Stock,9.95,0.0,22,Finance
 EVOX,Evolution Global Acquisition Corp Class A Ordinary Shares,10.19,0.0,12,Finance
-EOI,Eaton Vance Enhance Equity Income Fund Eaton Vance Enhanced Equity Income Fund Shares of Beneficial Interest,17.73,0.0,84593,Finance
-EFR,Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest,10.26,0.0,112138,Finance
-DNP,DNP Select Income Fund Inc. Common Stock,9.93,0.0,777488,Finance
-DUKU,Duke Energy Corporation Corporate Units,51.97,0.0,39638,Utilities
-EGHA,EGH Acquisition Corp. Class A Ordinary Shares,10.49,0.0,206,Finance
-EGHAR,EGH Acquisition Corp. Rights,0.2,0.0,12,Finance
-EGHAU,EGH Acquisition Corp. Unit,10.66,0.0,12,Finance
-EHI,Western Asset Global High Income Fund Inc Common Stock,5.155,0.0,80558,Finance
-EIM,Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest $.01 par value,9.075,0.0,261041,Finance
-DNMXW,Dynamix Corporation III Warrants,0.15,0.0,26800,Finance
-ELLA,Ellington Credit Company 8.50% Notes due 2031,25.0,0.0,33782,Real Estate
-CRAQ,Cal Redwood Acquisition Corp. Class A Ordinary Shares,10.49,0.0,10,Finance
-DBL,DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest,13.18,0.0,71995,Uncategorized
-DNMXU,Dynamix Corporation III Unit,10.2,0.0,2205,Finance
-DNMX,Dynamix Corporation III Class A Ordinary Shares,10.16,0.0,829,Finance
-CXIIW,Churchill Capital Corp XII Warrants,1.09,0.0,7194,Finance
-DAAQ,Digital Asset Acquisition Corp. Class A Ordinary shares,10.53,0.0,206,Finance
-DAAQU,Digital Asset Acquisition Corp. Units,10.57,0.0,10802,Finance
-DBCAW,D. Boral Acquisition I Corp. Warrants,0.1312,0.0,4020,Finance
-DAAQW,Digital Asset Acquisition Corp. Warrant,0.1067,0.0,1621,Finance
-UYSC,UY Scuti Acquisition Corp. Ordinary Shares,11.04,0.0,39,Finance
-UYSCR,UY Scuti Acquisition Corp. Rights,0.1999,0.0,303,Finance
-UYSCU,UY Scuti Acquisition Corp. Units,11.03,0.0,211,Uncategorized
-VBF,Invesco Bond Fund Common Stock,14.405,0.0,358471,Finance
-ECCU,Eagle Point Credit Company 7.75% Notes due 2030,24.97,0.0,11605,Uncategorized
+EVG,Eaton Vance Short Diversified Income Fund Eaton Vance Short Duration Diversified Income Fund Common Shares of Beneficial Interest,9.94,0.0,38363,Finance
+EURKU,Eureka Acquisition Corp Unit,11.81,0.0,2,Consumer Discretionary
 EVOXU,Evolution Global Acquisition Corp Units,10.23,0.0,710,Finance
-DRDB,Roman DBDR Acquisition Corp. II Ordinary shares,10.81,0.0,75113,Uncategorized
-DRDBU,Roman DBDR Acquisition Corp. II Unit,10.78,0.0,1119,Uncategorized
-DMAAR,Drugs Made In America Acquisition Corp. Rights,0.1045,0.0,28,Finance
-DRDBW,Roman DBDR Acquisition Corp. II Warrants,0.0714,0.0,1384,Uncategorized
-DSM,BNY Mellon Strategic Municipal Bond Fund Inc. Common Stock,5.69,0.0,127256,Finance
-DMAA,Drugs Made In America Acquisition Corp. Ordinary Shares,10.9,0.0,25047,Uncategorized
-DSU,Blackrock Debt Strategies Fund Inc. Common Stock,8.55,0.0,294903,Finance
-DTK,DTE Energy Company 2025 Series H 6.25% Junior Subordinated Debentures due 2085,20.75,0.0,63482,Utilities
-DTSQ,DT Cloud Star Acquisition Corporation Ordinary Shares,11.74,0.0,1243,Uncategorized
-DTSQR,DT Cloud Star Acquisition Corporation Right,0.12,0.0,300,Finance
-DYOR,Insight Digital Partners II Class A Ordinary Shares,10.19,0.0,15124,Finance
-EEA,The European Equity Fund Inc. Common Stock,9.895,0.0,64573,Finance
-DTSQU,DT Cloud Star Acquisition Corporation Units,12.75,0.0,1408,Finance
-DYORW,Insight Digital Partners II Warrants,0.1703,0.0,6027,Finance
-EAD,Allspring Income Opportunities Fund Common Shares,5.945,0.0,229777,Finance
-DHY,UBS Asset Management High Yield Credit Fund Common Stock,16.39,0.0,34636,Finance
-USA,Liberty All-Star Equity Fund Common Stock,5.64,0.0,2927432,Finance
-UTF,Cohen & Steers Infrastructure Fund Inc Common Stock,24.915,0.0,336210,Finance
-UTG,Reaves Utility Income Fund Common Shares of Beneficial Interest,31.15,0.0,400336,Finance
-DPG,Duff & Phelps Utility and Infrastructure Fund Inc.,13.67,0.0,50249,Finance
-ECF,Ellsworth Growth and Income Fund Ltd.,10.13,0.0,67621,Finance
-DHF,BNY Mellon High Yield Strategies Fund Common Stock,2.215,0.0,581775,Finance
-EDD,Morgan Stanley Emerging Markets Domestic Debt Fund Inc. Common Stock,4.955,0.0,554073,Finance
-EDF,Virtus Stone Harbor Emerging Markets Income Fund Common Shares of Beneficial Interest,4.19,0.0,109028,Finance
-DYORU,Insight Digital Partners II Units,10.21,0.0,20189,Finance
-GIXXR,GigCapital9 Corp. Rights,0.0851,0.0,11105,Finance
-GIXXU,GigCapital9 Corp. Units,10.16,0.0,1015,Finance
-GJH,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,9.57,0.0,6,Finance
-GJO,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,24.5493,0.0,2870,Finance
-GJP,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,24.47,0.0,2738,Finance
-TSI,TCW Strategic Income Fund Inc. Common Stock,4.34,0.0,1095548,Finance
-GGN,GAMCO Global Gold Natural Resources & Income Trust,4.595,0.0,1542118,Finance
-GHXI,Gores Holdings XI Inc. Class A Ordinary Shares,9.88,0.0,50,Uncategorized
-GHXIU,Gores Holdings XI Inc. Units,10.09,0.0,14,Uncategorized
-GHXIW,Gores Holdings XI Inc. Warrant,0.348,0.0,4100,Uncategorized
-GHY,PGIM Global High Yield Fund Inc.,10.48,0.0,140629,Finance
-GIW,GigCapital8 Corp. Class A Ordinary Shares,10.27,0.0,5339,Finance
-GPATU,GP-Act III Acquisition Corp. Units,11.11,0.0,100,Uncategorized
-DMO,Western Asset Mortgage Opportunity Fund Inc. Common Stock,9.31,0.0,56421,Finance
-GLO,Clough Global Opportunities Fund Common Stock,5.24,0.0,102794,Finance
-GLQ,Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,7.09,0.0,155392,Finance
-FXACW,FortuneX Acquisition Corporation Warrant,0.1601,0.0,201,Finance
-FSHP,Flag Ship Acquisition Corp. Ordinary Shares,11.41,0.0,11,Uncategorized
-FSHPR,Flag Ship Acquisition Corp. Right,0.0905,0.0,1604,Uncategorized
-FSHPU,Flag Ship Acquisition Corp. Unit,12.46,0.0,1,Uncategorized
-FSSL,FS Specialty Lending Fund Common Shares of Beneficial Interest,11.745,0.0,275382,Finance
-FPF,First Trust Intermediate Duration Preferred & Income Fund Common Shares of Beneficial Interest,15.71,0.0,183015,Finance
-FVAV,Fortress Value Acquisition Corp. V Class A Ordinary Shares,10.2399,0.0,2570,Uncategorized
-FWAC,Futurewave Acquisition Corporation Ordinary Shares,10.0,0.0,78,Finance
-FWACR,Futurewave Acquisition Corporation Rights,0.15,0.0,13898,Finance
-FWACU,Futurewave Acquisition Corporation Units,10.92,0.0,1,Finance
-FWACW,Futurewave Acquisition Corporation Warrants,0.03,0.0,15054,Finance
-FXAC,FortuneX Acquisition Corporation Ordinary shares,10.17,0.0,14,Finance
-GPATW,GP-Act III Acquisition Corp. Warrants,0.1435,0.0,697,Uncategorized
-GSHRW,Gesher Acquisition Corp. II Warrants,0.1504,0.0,4186,Finance
-GSRF,GSR IV Acquisition Corp. Class A ordinary share,10.33,0.0,268,Uncategorized
-GSRFR,GSR IV Acquisition Corp. Rights,1.42,0.0,2458,Uncategorized
-GSRFU,GSR IV Acquisition Corp. Units,11.29,0.0,1,Uncategorized
-GSRV,GSR V Acquisition Corp. Class A ordinary shares,9.93,0.0,15063,Finance
-GUG,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,13.795,0.0,57101,Finance
-HACQ,HCM IV Acquisition Corp. Class A Ordinary Share,10.02,0.0,55,Finance
-HACQU,HCM IV Acquisition Corp. Unit,10.11,0.0,182,Uncategorized
-HACQW,HCM IV Acquisition Corp. Warrants,0.3504,0.0,10000,Finance
-TRGS,TRG Latin America Acquisitions Corp. Class A Ordinary Shares,10.01,0.0,1536727,Finance
-TRGSR,TRG Latin America Acquisitions Corp. Rights,0.125,0.0,202,Finance
-TRGSU,TRG Latin America Acquisitions Corp. Units,10.56,0.0,1147,Uncategorized
-HCMAU,HCM III Acquisition Corp. Units,10.43,0.0,1,Uncategorized
-GTEN,Gores Holdings X Inc. Class A ordinary shares,10.45,0.0,55,Uncategorized
-GIX,GigCapital9 Corp. Class A Ordinary Share,10.1,0.0,13,Finance
-GTENW,Gores Holdings X Inc. Warrants,0.63,0.0,3,Uncategorized
-GUAC,Berto Acquisition Corp. II Ordinary Shares,9.9,0.0,549,Finance
-GUACU,Berto Acquisition Corp. II Unit,10.11,0.0,2754,Finance
-GUACW,Berto Acquisition Corp. II Warrants,0.34,0.0,630,Finance
-GJR,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,24.51,0.0,1452,Finance
-GJT,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,22.9701,0.0,1909,Finance
-GDL,GDL Fund The Common Shares of Beneficial Interest,8.28,0.0,7527,Finance
-GDO,Western Asset Global Corporate Opportunity Fund Inc. Common Stock,8.96,0.0,46071,Finance
-GECCG,Great Elm Capital Corp. 7.75% Notes Due 2030,24.66,0.0,197,Finance
-GECCH,Great Elm Capital Corp. 8.125% Notes Due 2029,24.81,0.0,480,Uncategorized
-GECCI,Great Elm Capital Corp. 8.50% NOTES DUE 2029,25.15,0.0,1552,Finance
-GF,New Germany Fund Inc. (The) Common Stock,9.45,0.0,47509,Finance
-GIWWR,GigCapital8 Corp. Rights,0.17,0.0,11,Uncategorized
-GIWWU,GigCapital8 Corp. Units,10.37,0.0,6,Finance
-GTENU,Gores Holdings X Inc. Units,10.55,0.0,1946,Uncategorized
-FJDI,ARC Group Securities Acquisition I Class A Ordinary Shares,9.9,0.0,111,Uncategorized
-FJDIR,ARC Group Securities Acquisition I Rights,0.11,0.0,104,Uncategorized
-FJDIU,ARC Group Securities Acquisition I Units,10.1,0.0,358,Uncategorized
-FJDIW,ARC Group Securities Acquisition I Warrants,0.0221,0.0,3588,Uncategorized
-FLC,Flaherty & Crumrine Total Return Fund Inc Common Stock,15.32,0.0,88560,Finance
+TMTSU,Spartacus Acquisition Corp. II Unit,10.09,0.0,457,Finance
+EVOXW,Evolution Global Acquisition Corp Warrants,0.2,0.0,36883,Finance
+EURKR,Eureka Acquisition Corp Right,0.2594,0.0,100,Consumer Discretionary
+EURK,Eureka Acquisition Corp Class A Ordinary Share,11.44,0.0,10,Uncategorized
 TWLV,Twelve Seas Investment Company III Class A Ordinary Shares,10.24,0.0,12,Finance
 TWLVR,Twelve Seas Investment Company III Rights,0.0825,0.0,900,Finance
-FLSC,Frazier Life Sciences Acquisition Corp. II Class A Ordinary Shares,10.03,0.0,2901,Uncategorized
-FMAC,Future Money Acquisition Corporation Ordinary Shares,10.21,0.0,15,Finance
-FMACR,Future Money Acquisition Corporation Rights,0.156,0.0,600,Finance
-FMACU,Future Money Acquisition Corporation Units,10.14,0.0,79,Finance
-FMY,First Trust Mortgage Income Fund Common Shares of Beneficial Interest,10.98,0.0,6617,Finance
-FIGX,FIGX Capital Acquisition Corp. Class A Ordinary Share,10.43,0.0,40,Finance
-FXACU,FortuneX Acquisition Corporation Units,10.22,0.0,103,Finance
-FIGXW,FIGX Capital Acquisition Corp. Warrant,0.1101,0.0,1413,Uncategorized
-ERC,Allspring Multi-Sector Income Fund Common Stock,8.23,0.0,132061,Finance
-EMD,Western Asset Emerging Markets Debt Fund Inc Common Stock,8.9,0.0,292211,Finance
-EMF,Templeton Emerging Markets Fund Common Stock,18.203,0.0,38321,Finance
-EMIS,Emmis Acquisition Corp. Class A Ordinary Shares,10.35,0.0,706,Health Care
-EMISR,Emmis Acquisition Corp. Rights,0.06,0.0,19318,Uncategorized
-EMO,ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock,46.98,0.0,76162,Finance
-EOD,Allspring Global Dividend Opportunity Fund Common Shares of Beneficial Interest,5.94,0.0,88205,Finance
-ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest,21.945,0.0,182402,Finance
-ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,7.57,0.0,148868,Finance
+TWLVU,Twelve Seas Investment Company III Units,10.17,0.0,286,Finance
+TWN,Taiwan Fund Inc. (The) Common Stock,69.865,0.0,17197,Finance
 ETY,Eaton Vance Tax-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,12.75,0.0,530217,Finance
-EURK,Eureka Acquisition Corp Class A Ordinary Share,11.44,0.0,10,Uncategorized
-EURKR,Eureka Acquisition Corp Right,0.2594,0.0,100,Consumer Discretionary
-EURKU,Eureka Acquisition Corp Unit,11.81,0.0,2,Consumer Discretionary
-FIGXU,FIGX Capital Acquisition Corp. Units,10.45,0.0,3870,Finance
-TVAI,Thayer Ventures Acquisition Corporation II Class A Ordinary Shares,10.54,0.0,600910,Uncategorized
-TVAIR,Thayer Ventures Acquisition Corporation II Rights,0.0601,0.0,7680,Uncategorized
-TVAIU,Thayer Ventures Acquisition Corporation II Unit,10.49,0.0,2,Finance
-TVC,Tennessee Valley Authority Common Stock,23.81,0.0,7888,Utilities
+EOD,Allspring Global Dividend Opportunity Fund Common Shares of Beneficial Interest,5.94,0.0,88205,Finance
+EOI,Eaton Vance Enhance Equity Income Fund Eaton Vance Enhanced Equity Income Fund Shares of Beneficial Interest,17.73,0.0,84593,Finance
+ERC,Allspring Multi-Sector Income Fund Common Stock,8.23,0.0,132061,Finance
+CHARU,Charlton Aria Acquisition Corporation Units,11.03,0.0,152,Uncategorized
+CHI,Calamos Convertible Opportunities and Income Fund Common Stock,9.95,0.0,316901,Finance
+CHPG,ChampionsGate Acquisition Corporation Class A Ordinary Share,10.54,0.0,6451,Uncategorized
+CHPGR,ChampionsGate Acquisition Corporation Rights,0.1014,0.0,30,Uncategorized
+CHPGU,ChampionsGate Acquisition Corporation Unit,10.8,0.0,772,Uncategorized
+FJDIR,ARC Group Securities Acquisition I Rights,0.11,0.0,104,Uncategorized
 TVE,Tennessee Valley Authority,23.06,0.0,9365,Utilities
 TVIV,Texas Ventures Acquisition IV Corp Class A Ordinary Shares,9.98,0.0,33,Uncategorized
 TVIVU,Texas Ventures Acquisition IV Corp Units,10.19,0.0,1911,Uncategorized
 TVIVW,Texas Ventures Acquisition IV Corp Warrant,0.21,0.0,28,Uncategorized
-GAING,Gladstone Investment Corporation 7.125% Notes due 2031,24.82,0.0,3016,Finance
-GAINI,Gladstone Investment Corporation 7.875% Notes due 2030,24.97,0.0,11088,Finance
-GCGR,General Catalyst Global Resilience Merger Corp. Class A Ordinary Shares,9.97,0.0,10548,Uncategorized
-GCGRU,General Catalyst Global Resilience Merger Corp. Units,10.19,0.0,1,Uncategorized
-GCGRW,General Catalyst Global Resilience Merger Corp. Warrants,0.58,0.0,240,Uncategorized
+TMUSZ,T-Mobile US Inc. 5.500% Senior Notes due March 2070,17.85,0.0,41966,Telecommunications
+MSD,Morgan Stanley Emerging Markets Debt Fund Inc. Common Stock,6.62,0.0,33865,Finance
+MSDL,Morgan Stanley Direct Lending Fund Common Stock,13.305,0.0,552694,Uncategorized
+MTAK,Market Technology Acquisition Corp Class A Ordinary Shares,9.9,0.0,1803,Uncategorized
+TMUSL,T-Mobile US Inc. 6.250% Senior Notes due 2069,20.35,0.0,52872,Telecommunications
+MTAKU,Market Technology Acquisition Corp Unit,9.97,0.0,110,Finance
+MTAKW,Market Technology Acquisition Corp Warrants,0.18,0.0,100,Uncategorized
+BGB,Blackstone Strategic Credit 2027 Term Fund Common Shares of Beneficial Interest,10.93,0.0,212193,Finance
+BACC,Blue Acquisition Corp. Class A Ordinary Shares,10.47,0.0,193206,Finance
+BGT,BlackRock Floating Rate Income Trust,9.82,0.0,128626,Finance
+TMUSI,T-Mobile US Inc. 5.500% Senior Notes due June 2070,17.92,0.0,57005,Telecommunications
+BGY,Blackrock Enhanced International Dividend Trust,5.24,0.0,437308,Finance
+TMTSW,Spartacus Acquisition Corp. II Warrants,0.23,0.0,36294,Uncategorized
+BHAIU,BHAV Acquisition Corp II Unit,10.05,0.0,8,Uncategorized
+BHAV,BHAV Acquisition Corp Class A Ordinary Shares,10.11,0.0,85,Finance
+BHAVR,BHAV Acquisition Corp Rights,0.1725,0.0,1937,Finance
+BHAVU,BHAV Acquisition Corp Units,10.24,0.0,11348,Finance
+CHW,Calamos Global Dynamic Income Fund Common Stock,7.22,0.0,93770,Finance
+BACCR,Blue Acquisition Corp. Right ,0.2499,0.0,9900,Finance
+ETG,Eaton Vance Tax-Advantaged Global Dividend Income Fund Common Shares of Beneficial Interest,21.945,0.0,182402,Finance
+ETJ,Eaton Vance Risk-Managed Diversified Equity Income Fund Common Shares of Beneficial Interest,7.57,0.0,148868,Finance
+BGH,Barings Global Short Duration High Yield Fund Common Shares of Beneficial Interests,12.06,0.0,95613,Finance
+USA,Liberty All-Star Equity Fund Common Stock,5.64,0.0,2927432,Finance
+UTF,Cohen & Steers Infrastructure Fund Inc Common Stock,24.915,0.0,336210,Finance
+UTG,Reaves Utility Income Fund Common Shares of Beneficial Interest,31.15,0.0,400336,Finance
+ECCU,Eagle Point Credit Company 7.75% Notes due 2030,24.97,0.0,11605,Uncategorized
+ECF,Ellsworth Growth and Income Fund Ltd.,10.13,0.0,67621,Finance
+EDD,Morgan Stanley Emerging Markets Domestic Debt Fund Inc. Common Stock,4.955,0.0,554073,Finance
+IPHXW,Inflection Point Acquisition Corp. VIII Warrant,0.31,0.0,2307,Uncategorized
+IPVV,InterPrivate Investment Partners V Inc. Class A Ordinary Shares,9.86,0.0,105,Finance
+FIGXW,FIGX Capital Acquisition Corp. Warrant,0.1101,0.0,1413,Uncategorized
+IPVVU,InterPrivate Investment Partners V Inc. Units,9.91,0.0,5,Finance
+FIGXU,FIGX Capital Acquisition Corp. Units,10.45,0.0,3870,Finance
+IPVVW,InterPrivate Investment Partners V Inc. Warrants,0.1445,0.0,1133,Finance
+AGD,abrdn Global Dynamic Dividend Fund Common Shares of Beneficial Interest,10.72,0.0,154664,Finance
+IPXGU,Inflection Point Acquisition Corp. VII Unit,10.1,0.0,69980,Finance
+IPXGW,Inflection Point Acquisition Corp. VII Warrant,0.5353,0.0,21755,Finance
+IRHO,Iron Horse Acquisitions II Corp. Common Stock,10.12,0.0,20919,Finance
+IRHOR,Iron Horse Acquisitions Corp. II Rights,0.0901,0.0,800,Finance
+IRHOU,Iron Horse Acquisitions II Corp. Units,10.21,0.0,1346,Finance
+ISD,PGIM High Yield Bond Fund Inc.,11.33,0.0,87014,Finance
+ISNR,Snow Rothschild Acquisition Corp. Class A Ordinary Shares,9.82,0.0,145,Finance
+FIGX,FIGX Capital Acquisition Corp. Class A Ordinary Share,10.43,0.0,40,Finance
+ISNRU,Snow Rothschild Acquisition Corp. Units,10.5,0.0,1,Finance
+RNGT,Range Capital Acquisition Corp II Class A Ordinary Shares,10.24,0.0,23398,Finance
+RNAQ,Rainier Acquisition Corporation Class A Ordinary Shares,10.0,0.0,193506,Finance
+RNAQU,Rainier Acquisition Corporation Units,10.17,0.0,645,Finance
+RNAQW,Rainier Acquisition Corporation Warrants,0.56,0.0,1300,Finance
+IPXG,Inflection Point Acquisition Corp. VII Class A Ordinary Shares,9.8,0.0,14230,Finance
+CHY,Calamos Convertible and High Income Fund Common Stock,10.33,0.0,251926,Finance
+AFJKR,Aimei Health Technology Co. Ltd Right,0.1,0.0,160,Uncategorized
+AFJKU,Aimei Health Technology Co. Ltd Unit,12.03,0.0,1287,Uncategorized
+TVC,Tennessee Valley Authority Common Stock,23.81,0.0,7888,Utilities
+EGHAR,EGH Acquisition Corp. Rights,0.2,0.0,12,Finance
+EGHAU,EGH Acquisition Corp. Unit,10.66,0.0,12,Finance
+EHI,Western Asset Global High Income Fund Inc Common Stock,5.155,0.0,80558,Finance
+MUZE,Muzero Acquisition Corp Class A Ordinary Shares,10.06,0.0,3421,Finance
+MUZEU,Muzero Acquisition Corp Unit,10.21,0.0,619,Finance
+MUZEW,Muzero Acquisition Corp Warrant,0.21,0.0,3547,Finance
+MXE,Mexico Equity and Income Fund Inc. (The) Common Stock,12.75,0.0,10617,Finance
+MXF,Mexico Fund Inc. (The) Common Stock,20.36,0.0,125532,Finance
+MYN,Blackrock MuniYield New York Quality Fund Inc.Common Stock,9.01,0.0,290953,Finance
+EMO,ClearBridge Energy Midstream Opportunity Fund Inc. Common Stock,46.98,0.0,76162,Finance
+ONCHU,1RT Acquisition Corp. Units,10.43,0.0,9797,Uncategorized
+ONCHW,1RT Acquisition Corp. Warrant,0.27,0.0,1641,Finance
+FJDI,ARC Group Securities Acquisition I Class A Ordinary Shares,9.9,0.0,111,Uncategorized
+OPP,RiverNorth/DoubleLine Strategic Opportunity Fund Inc. Common Stock,6.87,0.0,157847,Finance
+MRCO,Mercator Acquisition Corp. Class A Ordinary Shares,9.91,0.0,9,Finance
+MRCOU,Mercator Acquisition Corp. Units,9.98,0.0,201,Finance
+MRCOW,Mercator Acquisition Corp. Warrant,0.2,0.0,3175,Finance
+EIM,Eaton Vance Municipal Bond Fund Common Shares of Beneficial Interest $.01 par value,9.075,0.0,261041,Finance
+ELLA,Ellington Credit Company 8.50% Notes due 2031,25.0,0.0,33782,Real Estate
+EMD,Western Asset Emerging Markets Debt Fund Inc Common Stock,8.9,0.0,292211,Finance
+EMF,Templeton Emerging Markets Fund Common Stock,18.203,0.0,38321,Finance
+EMIS,Emmis Acquisition Corp. Class A Ordinary Shares,10.35,0.0,706,Health Care
+EMISR,Emmis Acquisition Corp. Rights,0.06,0.0,19318,Uncategorized
+ONCH,1RT Acquisition Corp. Class A Ordinary Share,10.42,0.0,3736,Uncategorized
+FACTU,FACT II Acquisition Corp. Unit,10.83,0.0,336,Finance
+FACTW,FACT II Acquisition Corp. Warrant,0.1253,0.0,21800,Finance
+FAX,abrdn Asia-Pacific Income Fund Inc. Common Stock,12.375,0.0,280071,Finance
+TSI,TCW Strategic Income Fund Inc. Common Stock,4.34,0.0,1095548,Finance
 TVA,Texas Ventures Acquisition III Corp Class A Ordinary Share,10.67,0.0,6878,Uncategorized
-FGIIW,FG Imperii Acquisition Corp. Warrants,0.24,0.0,51932,Finance
+TVACU,Texas Ventures Acquisition III Corp Unit,10.72,0.0,203,Finance
 TVACW,Texas Ventures Acquisition III Corp Warrants,0.15,0.0,2114,Uncategorized
-FGSN,F&G Annuities & Life Inc. 7.300% Junior Subordinated Notes due 2065,17.26,0.0,41753,Finance
+TVAI,Thayer Ventures Acquisition Corporation II Class A Ordinary Shares,10.54,0.0,600910,Uncategorized
+TVAIR,Thayer Ventures Acquisition Corporation II Rights,0.0601,0.0,7680,Uncategorized
+TVAIU,Thayer Ventures Acquisition Corporation II Unit,10.49,0.0,2,Finance
+EVT,Eaton Vance Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,26.17,0.0,87493,Finance
+OYSE,Oyster Enterprises II Acquisition Corp Class A Ordinary Shares,10.5,0.0,27,Finance
+CHAR,Charlton Aria Acquisition Corporation Class A Ordinary Shares,11.0,0.0,1529,Uncategorized
+EWAV,East West Ave Acquisition Corp. Common Stock,9.95,0.0,22,Finance
+EWAVR,East West Ave Acquisition Corp. Rights,0.131,0.0,3600,Finance
+OXSQH,Oxford Square Capital Corp. 7.75% Notes due 2030,24.805,0.0,6251,Finance
+MLCIL,Mount Logan Capital Inc. 8.00% Notes Due 2031,21.5,0.0,2,Finance
+EWAVU,East West Ave Acquisition Corp. Units,10.02,0.0,2,Finance
+CEPF,Cantor Equity Partners IV Inc. Class A Ordinary Shares,10.33,0.0,290499,Finance
+CEPO,Cantor Equity Partners I Inc. Class A Ordinary Shares,10.84,0.0,5397,Finance
+BACCU,Blue Acquisition Corp. Unit,10.11,0.0,147,Finance
+MLAAW,Mountain Lake Acquisition Corp. II Warrants,0.125,0.0,1900,Finance
+MMD,NYLIM MacKay DefinedTerm Muni Opportunities Fund Common Shares,14.115,0.0,124293,Finance
+MMU,Western Asset Managed Municipals Fund Inc. Common Stock,9.27,0.0,570360,Finance
+MLAAU,Mountain Lake Acquisition Corp. II Units,10.09,0.0,1,Finance
+MPA,Blackrock MuniYield Pennsylvania Quality Fund Common Stock,9.99,0.0,92822,Finance
+EVV,Eaton Vance Limited Duration Income Fund Common Shares of Beneficial Interest,8.375,0.0,607586,Finance
+OYSEU,Oyster Enterprises II Acquisition Corp Units,10.47,0.0,3000,Finance
+PAACU,Proem Acquisition Corp I Units,10.575,0.0,16580,Finance
+PAACW,Proem Acquisition Corp I Warrants,0.44,0.0,905,Finance
+PACH,Pioneer Acquisition I Corp Class A Ordinary Shares,10.44,0.0,4366,Uncategorized
+PACHU,Pioneer Acquisition I Corp Units,10.49,0.0,7,Uncategorized
+PACHW,Pioneer Acquisition I Corp Warrants,0.1149,0.0,1216,Uncategorized
+PAI,Western Asset Investment Grade Income Fund Inc.,11.39,0.0,12306,Finance
+PALO,Paloma Acquisition Corp I Class A Ordinary Shares,10.04,0.0,129,Finance
+PALOU,Paloma Acquisition Corp I Units,10.1,0.0,4,Finance
+PALOW,Paloma Acquisition Corp I Warrants,0.2001,0.0,2661,Finance
+OYSER,Oyster Enterprises II Acquisition Corp Rights,0.05,0.0,51121,Finance
+BHK,Blackrock Core Bond Trust,8.48,0.0,461376,Finance
+BHV,BlackRock Virginia Municipal Bond Trust,12.22,0.0,16518,Finance
+FACT,FACT II Acquisition Corp. Class A Ordinary Shares,10.66,0.0,1400,Uncategorized
+ALOVW,Aldabra 4 Liquidity Opportunity Vehicle Inc. Warrants,0.33,0.0,17632,Uncategorized
 FDGX,First Digital Acquisition Corp Ltd. Class A Ordinary Shares,10.31,0.0,3044,Uncategorized
 FDGXU,First Digital Acquisition Corp Ltd. Units,10.4,0.0,768,Uncategorized
 FDGXW,First Digital Acquisition Corp Ltd. Warrants,0.11,0.0,1862,Uncategorized
 FDMM,Freedom Metals Acquisition Corp. Class A Ordinary Shares,9.85,0.0,2332,Finance
 FDMMU,Freedom Metals Acquisition Corp. Units,10.03,0.0,125,Finance
 FDMMW,Freedom Metals Acquisition Corp. Warrants,0.2401,0.0,1166,Finance
-TWLVU,Twelve Seas Investment Company III Units,10.17,0.0,286,Finance
-TWN,Taiwan Fund Inc. (The) Common Stock,69.865,0.0,17197,Finance
 FFA,First Trust Enhanced Equity Income Fund Common Shares of Beneficial Interest,21.055,0.0,28318,Finance
 FFC,Flaherty & Crumrine Preferred and Income Securities Fund Incorporated,14.57,0.0,195294,Finance
-FGII,FG Imperii Acquisition Corp. Class A Ordinary Shares,10.11,0.0,1689,Finance
-FGIIU,FG Imperii Acquisition Corp. Units,10.18,0.0,3,Finance
-TVACU,Texas Ventures Acquisition III Corp Unit,10.72,0.0,203,Finance
+ALPX,Alpex Acquisition Corporation Class A Ordinary Shares,10.02,0.0,128,Finance
+TRGS,TRG Latin America Acquisitions Corp. Class A Ordinary Shares,10.01,0.0,1536727,Finance
+TRGSR,TRG Latin America Acquisitions Corp. Rights,0.125,0.0,202,Finance
+TRGSU,TRG Latin America Acquisitions Corp. Units,10.56,0.0,1147,Uncategorized
+ALOV,Aldabra 4 Liquidity Opportunity Vehicle Inc. Class A Ordinary Shares,10.04,0.0,97,Uncategorized
+ARCLR,ARC Group Acquisition I Corp Right,0.135,0.0,25212,Finance
+ARCLU,ARC Group Acquisition I Corp Unit,10.2,0.0,8,Finance
+ARCLW,ARC Group Acquisition I Corp Warrants,0.0553,0.0,1576,Finance
+ARTC,Art Technology Acquisition Corp. Class A Ordinary Shares,10.065,0.0,5241,Finance
+ARTCU,Art Technology Acquisition Corp. Units,10.1,0.0,4,Uncategorized
+ARTCW,Art Technology Acquisition Corp. Warrants,0.2502,0.0,7367,Uncategorized
+RREVU,RRE Ventures Acquisition Corp. Units,9.99,0.0,27000,Finance
+OSPRW,Osprey Acquisition Corp. III Warrants,0.2006,0.0,21500,Finance
+ALF,Centurion Acquisition Corp. Class A Ordinary Shares,10.92,0.0,13,Uncategorized
+OTGA,OTG Acquisition Corp. I Class A Ordinary Share ,10.31,0.0,6215,Finance
+OTGAU,OTG Acquisition Corp. I Unit,10.37,0.0,9959,Finance
+OTGAW,OTG Acquisition Corp. I Warrants,0.16,0.0,47530,Finance
+OSPR,Osprey Acquisition Corp. III Class A Ordinary Shares,9.84,0.0,86551,Finance
+OXLCI,Oxford Lane Capital Corp. 8.75% Notes due 2030,25.27,0.0,11173,Uncategorized
+MHF,Western Asset Municipal High Income Fund Inc. Common Stock,6.3,0.0,136658,Finance
+MIAC,Meridian3 Industrials Acquisition Corp Class A Ordinary Shares,9.81,0.0,10,Uncategorized
+MIACU,Meridian3 Industrials Acquisition Corp Units,10.0,0.0,1024,Uncategorized
+MIACW,Meridian3 Industrials Acquisition Corp Warrant,0.2505,0.0,1200,Uncategorized
+CEPS,Cantor Equity Partners VI Inc. Class A Ordinary Shares,10.09,0.0,301520,Finance
+CEPV,Cantor Equity Partners V Inc. Class A Ordinary Shares,10.21,0.0,759295,Uncategorized
+CGCF,Cartesian Growth Corporation IV Class A Ordinary Shares,9.805,0.0,25404,Finance
+CGCFU,Cartesian Growth Corporation IV Unit,9.89,0.0,11,Finance
+CGCFW,Cartesian Growth Corporation IV Warrants,0.31,0.0,1180,Finance
+CGO,Calamos Global Total Return Fund Common Stock,11.21,0.0,25289,Finance
+CHARR,Charlton Aria Acquisition Corporation Rights,0.17,0.0,140,Finance
+EXG,Eaton Vance Tax-Managed Global Diversified Equity Income Fund Common Shares of Beneficial Interest,9.14,0.0,864689,Finance
+OXLCG,Oxford Lane Capital Corp. 7.95% Notes due 2032,24.78,0.0,5003,Finance
+OSPRU,Osprey Acquisition Corp. III Units,9.87,0.0,15063,Finance
+MLAA,Mountain Lake Acquisition Corp. II Class A Ordinary Shares,10.06,0.0,475156,Finance
+ASG,Liberty All-Star Growth Fund Inc.,4.565,0.0,508342,Finance
+ASGI,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,19.49,0.0,138171,Finance
+KBONU,Karbon Capital Partners Corp. Units,10.23,0.0,226,Finance
+MKLYU,McKinley Acquisition Corporation Units,10.45,0.0,26,Finance
+KBONW,Karbon Capital Partners Corp. Warrant,0.35,0.0,9999,Finance
+KCHV,Kochav Defense Acquisition Corp. Class A Ordinary Shares,10.59,0.0,3583,Uncategorized
+MKLYR,McKinley Acquisition Corporation Rights,0.18,0.0,1345,Finance
+MKLY,McKinley Acquisition Corporation Class A Ordinary Shares,10.35,0.0,5761,Finance
+KCHVR,Kochav Defense Acquisition Corp. Right,0.062,0.0,1300,Finance
+KCHVU,Kochav Defense Acquisition Corp. Units,10.57,0.0,113,Uncategorized
+KEYY,Keystone Acquisition Corp. Class A Ordinary Shares,9.95,0.0,108863,Finance
+ARCL,ARC Group Acquisition I Corp Class A Ordinary Shares,10.08,0.0,23,Finance
+KEYYW,Keystone Acquisition Corp. Warrants,0.3,0.0,1846,Finance
+KF,Korea Fund Inc. (The) New Common Stock,47.29,0.0,3721,Finance
+KFII,K&F Growth Acquisition Corp. II Class A Ordinary shares,10.82,0.0,200,Finance
+KFIIR,K&F Growth Acquisition Corp. II Rights,0.1206,0.0,1901,Uncategorized
+KFIIU,K&F Growth Acquisition Corp. II Unit,10.72,0.0,8,Finance
+RREV,RRE Ventures Acquisition Corp. Class A Ordinary Shares,9.93,0.0,29702,Finance
+ALISU,Calisa Acquisition Corp Units,8.74,0.0,1188,Uncategorized
+IPHX,Inflection Point Acquisition Corp. VIII Class A Ordinary Shares,9.79,0.0,18327,Uncategorized
+IPHXU,Inflection Point Acquisition Corp. VIII Unit,10.05,0.0,5102,Uncategorized
+ALISR,Calisa Acquisition Corp Right,0.658,0.0,221,Finance
+ARCIW,Archimedes Tech SPAC Partners III Co. Warrant,0.3203,0.0,3042,Uncategorized
+ALIS,Calisa Acquisition Corp Ordinary shares,7.39,0.0,4508,Uncategorized
+ALFUW,Centurion Acquisition Corp. Warrant,0.0903,0.0,26695,Finance
+KEYYU,Keystone Acquisition Corp. Unit,10.06,0.0,23,Finance
+BCCQU,Bleichroeder Acquisition Corp. III Units,10.19,0.0,309,Finance
+ADAC,American Drive Acquisition Company Class A Ordinary Shares,10.14,0.0,9022,Finance
+ADACU,American Drive Acquisition Company Units,10.3,0.0,934,Finance
+ADACW,American Drive Acquisition Company Warrant,0.25,0.0,1131,Finance
+ADAMG,Adamas Trust Inc. 9.125% Senior Notes Due 2030,23.47,0.0,9397,Real Estate
+ADAMH,Adamas Trust Inc. 9.875% Senior Notes Due 2030,23.82,0.0,10982,Real Estate
+ADAMK,Adamas Trust Inc. 9.600% Senior Notes Due 2031 ,23.28,0.0,73526,Real Estate
+ADAMO,Adamas Trust Inc. 9.250% Senior Notes Due 2031,23.18,0.0,40630,Real Estate
+DAAQ,Digital Asset Acquisition Corp. Class A Ordinary shares,10.53,0.0,206,Finance
+DAAQU,Digital Asset Acquisition Corp. Units,10.57,0.0,10802,Finance
+DAAQW,Digital Asset Acquisition Corp. Warrant,0.1067,0.0,1621,Finance
+DBCA,D. Boral Acquisition I Corp. Class A Ordinary Shares,10.08,0.0,19771,Finance
+DBCAU,D. Boral Acquisition I Corp. Unit,10.33,0.0,9,Finance
+FGSN,F&G Annuities & Life Inc. 7.300% Junior Subordinated Notes due 2065,17.26,0.0,41753,Finance
+DBL,DoubleLine Opportunistic Credit Fund Common Shares of Beneficial Interest,13.18,0.0,71995,Uncategorized
+CXII,Churchill Capital Corp XII Class A Ordinary Shares,10.28,0.0,66,Finance
+CXIIU,Churchill Capital Corp XII Units,10.6,0.0,2213,Finance
+CXIIW,Churchill Capital Corp XII Warrants,1.09,0.0,7194,Finance
+WDI,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,11.21,0.0,448493,Finance
+WEA,Western Asset Bond Fund Share of Beneficial Interest,9.72,0.0,38267,Finance
+WENN,Wen Acquisition Corp Class A Ordinary Shares,10.5,0.0,26376,Uncategorized
+WENNU,Wen Acquisition Corp Unit,10.56,0.0,732,Finance
+WENNW,Wen Acquisition Corp Warrant,0.189,0.0,248,Finance
+NPAC,New Providence Acquisition Corp. III Class A Ordinary Shares,10.59,0.0,1245,Finance
+NPACU,New Providence Acquisition Corp. III Units,10.572,0.0,100,Finance
+NPACW,New Providence Acquisition Corp. III Warrants,0.0554,0.0,3200,Finance
+NPCT,Nuveen Core Plus Impact Fund Common Shares of Beneficial Interest,8.87,0.0,129527,Finance
+ACAAW,Averin Capital Acquisition Corp. Warrants,0.5,0.0,6558,Finance
+DBCAW,D. Boral Acquisition I Corp. Warrants,0.1312,0.0,4020,Finance
+JPC,Nuveen Preferred & Income Opportunities Fund,6.75,0.0,1789675,Finance
+JQC,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest,4.52,0.0,663082,Finance
+JRI,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest,10.9,0.0,133881,Finance
+JRS,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest,7.55,0.0,68995,Finance
+JCE,Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest,16.33,0.0,36943,Finance
+JFR,Nuveen Floating Rate Income Fund Common Stock,7.185,0.0,1091509,Finance
+JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest,11.2,0.0,95094,Finance
+ISNRW,Snow Rothschild Acquisition Corp. Warrants,0.1728,0.0,1200,Finance
+BRRKW,Bluerock Acquisition Corp. II Warrants,0.199,0.0,136537,Uncategorized
+BRTM,B&R Technology Merger Corp. Class A Ordinary Shares,9.79,0.0,8,Finance
+BRTMU,B&R Technology Merger Corp. Units,9.82,0.0,452,Uncategorized
+BRTMW,B&R Technology Merger Corp. Warrants,0.2609,0.0,33333,Finance
+BRW,Saba Capital Income & Opportunities Fund SBI,5.63,0.0,209849,Finance
+BCCQ,Bleichroeder Acquisition Corp. III Class A Ordinary Shares,10.01,0.0,4252,Finance
+BTO,John Hancock Financial Opportunities Fund Common Stock,36.66,0.0,53001,Finance
+RIV,RiverNorth Opportunities Fund Inc. Common Stock,9.5,0.0,169260,Finance
+VVR,Invesco Senior Income Trust Common Stock (DE),2.825,0.0,996447,Finance
+NUW,Nuveen AMT-Free Municipal Value Fund,13.62,0.0,59778,Finance
+NVG,Nuveen AMT-Free Municipal Credit Income Fund ,10.98,0.0,1292571,Finance
+NEWTO,NewtekOne Inc. 8.50% Fixed Rate Senior Notes due 2031,25.04,0.0,75,Finance
 BCV,Bancroft Fund Ltd.,19.895,0.0,16757,Finance
 BDCI,BTC Development Corp. Class A Ordinary Shares,10.24,0.0,102637,Finance
 BDCIU,BTC Development Corp. Unit,10.23,0.0,3735,Finance
@@ -4439,20 +4515,412 @@ BDCIW,BTC Development Corp. Warrant,0.2703,0.0,15,Finance
 BEAG,Bold Eagle Acquisition Corp. Class A Ordinary Shares,10.63,0.0,4959,Finance
 BEAGR,Bold Eagle Acquisition Corp. Right,0.17,0.0,55124,Finance
 BEAGU,Bold Eagle Acquisition Corp. Units,10.79,0.0,34,Finance
+BBN,BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest,14.65,0.0,276078,Finance
+BSL,Blackstone Senior Floating Rate 2027 Term Fund Common Shares of Beneficial Interest,12.85,0.0,66493,Finance
+XSLLU,Xsolla SPAC 1 Units,10.1,0.0,205,Finance
+ACGC,ACP Holdings Acquisition Corp. Class A Ordinary Shares,10.15,0.0,165041,Finance
+ACGCW,ACP Holdings Acquisition Corp. Warrants,0.27,0.0,56055,Finance
+JTTT,JATT III Acquisition Corp Ordinary Shares,10.22,0.0,323,Finance
+KBON,Karbon Capital Partners Corp. Class A Ordinary Shares,10.15,0.0,971,Finance
+ITHA,ITHAX Acquisition Corp III Class A Ordinary Shares,10.14,0.0,537,Uncategorized
+ITHAU,ITHAX Acquisition Corp III Units,10.15,0.0,10801,Uncategorized
+XSLL,Xsolla SPAC 1 Class A Ordinary Shares,10.06,0.0,2598,Finance
+JATT,JATT II Acquisition Corp Ordinary Shares,10.25,0.0,173716,Finance
+JBK,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,25.75,0.0,3625,Finance
+KIO,KKR Income Opportunities Fund Common Shares,9.765,0.0,347391,Finance
+RANG,Range Capital Acquisition Corp. Ordinary Shares,10.97,0.0,19,Finance
+RANGR,Range Capital Acquisition Corp. Rights,0.17,0.0,82333,Finance
+XTER,Xterax Corporation II Class A Ordinary Shares,9.81,0.0,26920,Finance
+RCD,Ready Capital Corporation 9.00% Senior Notes due 2029,17.88,0.0,9690,Real Estate
+RCG,RENN Fund Inc Common Stock,2.62,0.0,157,Finance
+NFJ,Virtus Dividend Interest & Premium Strategy Fund Common Shares of Beneficial Interest,13.48,0.0,323040,Finance
+NHIV,NewHold Investment Corp IV Class A Ordinary Shares,9.95,0.0,12,Finance
+NHIVU,NewHold Investment Corp IV Units,10.03,0.0,5,Finance
+NHIVW,NewHold Investment Corp IV Warrants,0.39,0.0,1801,Finance
+NHS,Neuberger High Yield Strategies Fund Inc. Common Stock,5.39,0.0,150366,Finance
+NIM,Nuveen Select Maturities Municipal Fund Common Stock,8.71,0.0,338739,Finance
+NKX,Nuveen California AMT-Free Quality Municipal Income Fund,11.31,0.0,299291,Finance
+NMAI,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,12.49,0.0,107150,Finance
+NMI,Nuveen Municipal Income Fund Inc. Common Stock,9.37,0.0,16638,Finance
+NML,Neuberger Energy Infrastructure and Income Fund Inc. Common Stock,9.51,0.0,114731,Finance
+NTWO,Newbury Street II Acquisition Corp Class A Ordinary Shares,10.84,0.0,58355,Uncategorized
+NTWOU,Newbury Street II Acquisition Corp Unit,11.0,0.0,400,Uncategorized
+RANGU,Range Capital Acquisition Corp. Units,11.11,0.0,500,Finance
+XTERU,Xterax Corporation II Units,9.87,0.0,11,Uncategorized
+XTERW,Xterax Corporation II Warrants,0.1305,0.0,33,Finance
+CRAQR,Cal Redwood Acquisition Corp. Right,0.06,0.0,2,Finance
+CRAQU,Cal Redwood Acquisition Corp. Units,10.91,0.0,336,Finance
+CRBD,Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064,20.38,0.0,79920,Finance
+CRF,Cornerstone Total Return Fund Inc. (The) Common Stock,5.31,0.0,1168550,Finance
+XRPN,Evernorth Holdings Inc. Class A Ordinary Shares,7.19,0.0,308800,Finance
+ZKPU,Lafayette Digital Acquisition Corp. I Unit,10.25,0.0,2645,Finance
+ZKPW,Lafayette Digital Acquisition Corp. I Warrant,0.16,0.0,361,Finance
+AACO,Abony Acquisition Corp. I Class A Ordinary Share,10.025,0.0,24046,Uncategorized
+AACIW,Armada Acquisition Corp. III Warrant,0.1864,0.0,140,Finance
+NPFD,Nuveen Variable Rate Preferred & Income Fund Common Shares,16.63,0.0,96848,Finance
+NPV,Nuveen Virginia Quality Municipal Income Fund Common Stock,9.62,0.0,67056,Finance
+NRK,Nuveen New York AMT-Free Quality Municipal Income Fund ,9.36,0.0,650718,Finance
+NOEMU,CO2 Energy Transition Corp. Unit,10.8,0.0,179,Uncategorized
+NRUC,National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes),18.71,0.0,19461,Finance
+NSAI,NorthStrive Acquisition Corp I. Class A Ordinary Shares,9.98,0.0,127,Finance
+NSAIR,NorthStrive Acquisition Corp I. Rights,0.17,0.0,49,Finance
+NSAIU,NorthStrive Acquisition Corp I. Units,10.1,0.0,428,Uncategorized
+NSAIW,NorthStrive Acquisition Corp I. Warrants,0.025,0.0,363,Finance
+NMP,NMP Acquisition Corp. Class A Ordinary Shares,10.48,0.0,67787,Finance
+NMPAR,NMP Acquisition Corp. Right,0.208,0.0,1000,Finance
+NMPAU,NMP Acquisition Corp. Units,10.53,0.0,16,Finance
+NMS,Nuveen Minnesota Quality Municipal Income Fund ,10.21,0.0,22537,Finance
+NMT,Nuveen Massachusetts Quality Municipal Income Fund Common Stock,10.2,0.0,30195,Finance
+NMZ,Nuveen Municipal High Income Opportunity Fund Common Stock $0.01 par value per share,8.675,0.0,1915997,Finance
+NNY,Nuveen New York Municipal Value Fund Common Stock,7.74,0.0,112752,Finance
+NOEM,CO2 Energy Transition Corp. Common Stock,10.53,0.0,41,Uncategorized
+NOEMR,CO2 Energy Transition Corp. Right,0.14,0.0,77,Uncategorized
+NRO,Neuberger Real Estate Securities Income Fund Inc. Common Stock,2.575,0.0,119350,Finance
+MYXXW,Maywood Acquisition Corp. 2 Warrants,0.08,0.0,600,Finance
+NAC,Nuveen California Quality Municipal Income Fund,9.895,0.0,1644337,Finance
+NAD,Nuveen Quality Municipal Income Fund Common Stock,10.345,0.0,1449617,Finance
+NAZ,Nuveen Arizona Quality Municipal Income Fund Common Stock,10.31,0.0,31676,Finance
+NBB,Nuveen Taxable Municipal Income Fund Common Shares of Beneficial Interest,14.475,0.0,86118,Finance
+NBH,Neuberger Municipal Fund Inc. Common Stock,9.41,0.0,231063,Finance
+NBXG,Neuberger Next Generation Connectivity Fund Inc. Common Stock,13.29,0.0,559508,Finance
+OCLTU,OceanLight Acquisition Corporation Units,10.07,0.0,17670,Finance
+OCLTW,OceanLight Acquisition Corporation Warrants,0.02,0.0,176561,Finance
+OFSSO,OFS Capital Corporation 7.50% Notes due 2028,26.24,0.0,19014,Uncategorized
+OHAC,Oceanhawk Acquisition Corp. Class A Ordinary Shares,10.04,0.0,31776,Uncategorized
+OHACR,Oceanhawk Acquisition Corp. Rights,0.2125,0.0,1100,Uncategorized
+OHACU,Oceanhawk Acquisition Corp. Units,10.24,0.0,1,Uncategorized
+JONEU,Jones Ventures INTL Acquisition1 Corp Units,10.1,0.0,3209,Uncategorized
+OIMAU,OneIM Acquisition Corp. Units,10.16,0.0,2,Finance
+OIMAW,OneIM Acquisition Corp. Warrant,0.41,0.0,16766,Uncategorized
+DYOR,Insight Digital Partners II Class A Ordinary Shares,10.19,0.0,15124,Finance
+DYORU,Insight Digital Partners II Units,10.21,0.0,20189,Finance
+DYORW,Insight Digital Partners II Warrants,0.1703,0.0,6027,Finance
+EAD,Allspring Income Opportunities Fund Common Shares,5.945,0.0,229777,Finance
+VESI,Vesicor Therapeutics Holdings Inc. Class A Common Stock,0.7396,0.0,453405,Health Care
+VGI,Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest,6.57,0.0,41373,Finance
+VHCP,Vine Hill Capital Investment Corp. II Class A Ordinary Shares,10.12,0.0,116506,Uncategorized
+VHCPU,Vine Hill Capital Investment Corp. II Units,10.16,0.0,123,Finance
+VHCPW,Vine Hill Capital Investment Corp. II Warrants,0.2201,0.0,7653,Uncategorized
+VLOS,Velos Acquisition I Corp. Class A Ordinary shares,10.63,0.0,116,Uncategorized
+VLOSU,Velos Acquisition I Corp. Units,10.81,0.0,4,Finance
+VLOSW,Velos Acquisition I Corp. Warrant,0.2616,0.0,1000,Finance
+OIM,OneIM Acquisition Corp. Class A Ordinary Shares,10.12,0.0,14,Uncategorized
+RNGTU,Range Capital Acquisition Corp II Units,10.3,0.0,9805,Finance
+RNGTW,Range Capital Acquisition Corp II Warrants,0.2101,0.0,2500,Finance
+BRKH,Burtech Acquisition Corp II Class A Ordinary Shares,10.09,0.0,1616,Finance
+BRKHU,Burtech Acquisition Corp II Unit,10.3,0.0,3274,Technology
+BRKHW,Burtech Acquisition Corp II Warrants,0.1203,0.0,201,Finance
+BRRK,Bluerock Acquisition Corp. II Class A Ordinary Shares,9.81,0.0,11,Uncategorized
+BRRKU,Bluerock Acquisition Corp. II Units,10.0,0.0,2572,Uncategorized
+QUMSU,Quantumsphere Acquisition Corp. Units,10.5,0.0,10,Uncategorized
+RA,Brookfield Real Assets Income Fund Inc. Common Stock,11.695,0.0,188457,Finance
+RACC,Research Alliance Corporation III Class A Ordinary Shares,12.84,0.0,16900,Finance
+RACD,Research Alliance Corporation IV Class A Ordinary Shares,10.35,0.0,66,Uncategorized
+EDF,Virtus Stone Harbor Emerging Markets Income Fund Common Shares of Beneficial Interest,4.19,0.0,109028,Finance
+EEA,The European Equity Fund Inc. Common Stock,9.895,0.0,64573,Finance
+MYXXU,Maywood Acquisition Corp. 2 Units,10.71,0.0,469,Finance
+EGHA,EGH Acquisition Corp. Class A Ordinary Shares,10.49,0.0,206,Finance
+UYSC,UY Scuti Acquisition Corp. Ordinary Shares,11.04,0.0,39,Finance
+UYSCR,UY Scuti Acquisition Corp. Rights,0.1999,0.0,303,Finance
+UYSCU,UY Scuti Acquisition Corp. Units,11.03,0.0,211,Uncategorized
+VBF,Invesco Bond Fund Common Stock,14.405,0.0,358471,Finance
+CLM,Cornerstone Strategic Investment Fund Inc. Common Shares,5.485,0.0,2187757,Finance
+DTSQ,DT Cloud Star Acquisition Corporation Ordinary Shares,11.74,0.0,1243,Uncategorized
+DTSQR,DT Cloud Star Acquisition Corporation Right,0.12,0.0,300,Finance
+DTSQU,DT Cloud Star Acquisition Corporation Units,12.75,0.0,1408,Finance
+DUKU,Duke Energy Corporation Corporate Units,51.97,0.0,39638,Utilities
+OCLT,OceanLight Acquisition Corporation Ordinary Shares,9.96,0.0,8,Finance
+OCLTR,OceanLight Acquisition Corporation Rights,0.16,0.0,1915,Finance
+MYX,Maywood Acquisition Corp. 2 Class A Ordinary Share,10.05,0.0,12,Finance
+MYXXR,Maywood Acquisition Corp. 2 Rights,0.2001,0.0,34317,Finance
+EFR,Eaton Vance Senior Floating-Rate Fund Common Shares of Beneficial Interest,10.26,0.0,112138,Finance
+NEWTH,NewtekOne Inc. 8.625% Fixed Rate Senior Notes due 2029,24.53,0.0,2978,Finance
+NZF,Nuveen Municipal Credit Income Fund ,11.07,0.0,1537531,Finance
+OACC,Oaktree Acquisition Corp. III Life Sciences Class A Ordinary Share,10.73,0.0,1053,Finance
+OACCU,Oaktree Acquisition Corp. III Life Sciences Unit,10.7598,0.0,2500,Finance
+OACCW,Oaktree Acquisition Corp. III Life Sciences Warrant,0.674,0.0,5110,Finance
+OCCIM,OFS Credit Company Inc. 7.875% Series F Term Preferred Stock,24.59,0.0,10,Uncategorized
+DMIIR,Drugs Made In America Acquisition II Corp. Right,0.0513,0.0,15680,Finance
+DMIIU,Drugs Made In America Acquisition II Corp. Unit,10.25,0.0,85,Uncategorized
+DMO,Western Asset Mortgage Opportunity Fund Inc. Common Stock,9.31,0.0,56421,Finance
+DNMX,Dynamix Corporation III Class A Ordinary Shares,10.16,0.0,829,Finance
+DNMXU,Dynamix Corporation III Unit,10.2,0.0,2205,Finance
+DNMXW,Dynamix Corporation III Warrants,0.15,0.0,26800,Finance
+DNP,DNP Select Income Fund Inc. Common Stock,9.93,0.0,777488,Finance
+VLT,Invesco High Income Trust II,8.685,0.0,17421,Finance
+DRDB,Roman DBDR Acquisition Corp. II Ordinary shares,10.81,0.0,75113,Uncategorized
+DRDBU,Roman DBDR Acquisition Corp. II Unit,10.78,0.0,1119,Uncategorized
+DRDBW,Roman DBDR Acquisition Corp. II Warrants,0.0714,0.0,1384,Uncategorized
+DHF,BNY Mellon High Yield Strategies Fund Common Stock,2.215,0.0,581775,Finance
+DHY,UBS Asset Management High Yield Credit Fund Common Stock,16.39,0.0,34636,Finance
+RCS,PIMCO Strategic Income Fund Inc.,4.82,0.0,225103,Finance
+RDAG,Republic Digital Acquisition Company Class A Ordinary Shares,10.51,0.0,7490,Finance
+RDAGU,Republic Digital Acquisition Company Unit,10.56,0.0,7819,Finance
+RDAGW,Republic Digital Acquisition Company Warrants,0.1403,0.0,2,Finance
+JLS,Nuveen Mortgage and Income Fund,16.14,0.0,10936,Finance
+JMM,Nuveen Multi-Market Income Fund (MA),5.5,0.0,2087,Finance
+JOF,Japan Smaller Capitalization Fund Inc Common Stock,10.27,0.0,48455,Finance
+JONE,Jones Ventures INTL Acquisition1 Corp Class A Ordinary Shares,9.8805,0.0,34,Finance
+JONER,Jones Ventures INTL Acquisition1 Corp Rights,0.1176,0.0,1400,Finance
+DPG,Duff & Phelps Utility and Infrastructure Fund Inc.,13.67,0.0,50249,Finance
+DSM,BNY Mellon Strategic Municipal Bond Fund Inc. Common Stock,5.69,0.0,127256,Finance
+DSU,Blackrock Debt Strategies Fund Inc. Common Stock,8.55,0.0,294903,Finance
+DTK,DTE Energy Company 2025 Series H 6.25% Junior Subordinated Debentures due 2085,20.75,0.0,63482,Utilities
+CICB,CION Investment Corporation 7.50% Notes due 2029,24.53,0.0,5364,Finance
+CICC,CION Investment Corporation 7.50% Notes due 2031,24.01,0.0,3939,Finance
+CIK,UBS Asset Management Income Fund Inc. Common Stock,2.3,0.0,200780,Finance
+CIMO,Chimera Investment Corporation 9.250% Senior Notes due 2029,23.75,0.0,21438,Real Estate
+CIMP,Chimera Investment Corporation 8.875% Senior Notes due 2030,22.9,0.0,16030,Real Estate
+VNME,Vendome Acquisition Corporation I Class A Ordinary Shares,10.4,0.0,86,Finance
+VNMEU,Vendome Acquisition Corporation I Unit,10.41,0.0,10,Finance
+VNMEW,Vendome Acquisition Corporation I Warrant,0.216,0.0,600,Finance
+ADX,Adams Diversified Equity Fund Inc.,23.27,0.0,393900,Finance
+AEFC,Aegon Funding Company LLC 5.10% Subordinated Notes due 2049,17.75,0.0,104434,Uncategorized
+AESP,Aeon Acquisition I Corp. Class A Ordinary Shares,10.08,0.0,19,Finance
+NEA,Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01,10.07,0.0,1939162,Finance
+AESPU,Aeon Acquisition I Corp. Units,10.3,0.0,114,Uncategorized
+AESPW,Aeon Acquisition I Corp. Warrants,0.055,0.0,395,Finance
+AFB,AllianceBernstein National Municipal Income Fund Inc,10.05,0.0,189642,Finance
+AFJK,Aimei Health Technology Co. Ltd Ordinary Share,11.86,0.0,632,Uncategorized
+DMAA,Drugs Made In America Acquisition Corp. Ordinary Shares,10.9,0.0,25047,Uncategorized
+DMAAR,Drugs Made In America Acquisition Corp. Rights,0.1045,0.0,28,Finance
+DMAAU,Drugs Made In America Acquisition Corp. Units,10.96,0.0,210,Finance
+DMII,Drugs Made In America Acquisition II Corp. Ordinary Shares,10.25,0.0,108810,Finance
+BCCQW,Bleichroeder Acquisition Corp. III Warrant,0.4944,0.0,10036,Finance
+NCA,Nuveen California Municipal Value Fund,8.3,0.0,147217,Finance
+NCO,Southern Cross Acquisition I Corp. Ordinary Shares,10.0,0.0,11,Uncategorized
+NCOOR,Southern Cross Acquisition I Corp. Rights,0.1601,0.0,50,Finance
+NCOOU,Southern Cross Acquisition I Corp. Units,10.13,0.0,12,Finance
+NCOOW,Southern Cross Acquisition I Corp. Warrants,0.0251,0.0,5729,Uncategorized
+AESPR,Aeon Acquisition I Corp. Rights,0.18,0.0,131,Finance
+LTGR,Long Table Growth Corp. Class A Ordinary Shares,10.01,0.0,3363,Finance
+LTGRU,Long Table Growth Corp. Units,10.23,0.0,3,Finance
+LTGRW,Long Table Growth Corp. Warrants,0.22,0.0,1400,Uncategorized
+PLMKW,Plum Acquisition Corp. IV Warrants,0.29,0.0,100,Uncategorized
+PML,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,6.825,0.0,791524,Finance
+PMTR,Perimeter Acquisition Corp. I Class A Ordinary Shares,10.5,0.0,18197,Finance
+PMTRU,Perimeter Acquisition Corp. I Unit,10.63,0.0,12,Finance
+PMTRW,Perimeter Acquisition Corp. I Warrant,0.34,0.0,1027,Finance
+PMTV,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,23.9,0.0,22027,Real Estate
+PMTW,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,24.21,0.0,10890,Real Estate
+PNI,Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest,6.44,0.0,122742,Finance
+LKSP,Lake Superior Acquisition Corp. Class A Ordinary Shares,10.34,0.0,2092,Uncategorized
+LKSPR,Lake Superior Acquisition Corp. Rights,1.52,0.0,2028,Uncategorized
+FJDIU,ARC Group Securities Acquisition I Units,10.1,0.0,358,Uncategorized
+GUG,Guggenheim Active Allocation Fund Common Shares of Beneficial Interest,13.795,0.0,57101,Finance
+HACQ,HCM IV Acquisition Corp. Class A Ordinary Share,10.02,0.0,55,Finance
+HACQU,HCM IV Acquisition Corp. Unit,10.11,0.0,182,Uncategorized
+HACQW,HCM IV Acquisition Corp. Warrants,0.3504,0.0,10000,Finance
+GRF,Eagle Capital Growth Fund Inc. Common Stock,10.255,0.0,3948,Finance
+GSHR,Gesher Acquisition Corp. II Class A Ordinary Shares,10.66,0.0,115,Uncategorized
+GSHRU,Gesher Acquisition Corp. II Units,10.61,0.0,432,Finance
+GSHRW,Gesher Acquisition Corp. II Warrants,0.1504,0.0,4186,Finance
+GSRF,GSR IV Acquisition Corp. Class A ordinary share,10.33,0.0,268,Uncategorized
+GSRFR,GSR IV Acquisition Corp. Rights,1.42,0.0,2458,Uncategorized
+GSRFU,GSR IV Acquisition Corp. Units,11.29,0.0,1,Uncategorized
+GSRV,GSR V Acquisition Corp. Class A ordinary shares,9.93,0.0,15063,Finance
+GSRVR,GSR V Acquisition Corp. Rights,1.375,0.0,154,Finance
+GSRVU,GSR V Acquisition Corp. Units,10.1,0.0,593,Finance
+LKSPU,Lake Superior Acquisition Corp. Units,10.46,0.0,122,Uncategorized
+ATLQ,JAB Acquisition Corp I Class A Ordinary Shares,10.0544,0.0,38,Finance
+ATLQR,JAB Acquisition Corp I Rights,0.1225,0.0,13500,Finance
+ATLQU,JAB Acquisition Corp I Unit,10.18,0.0,3,Finance
+ATLQW,JAB Acquisition Corp I Warrants,0.03,0.0,261,Finance
+LFAC,Leapfrog Acquisition Corporation Class A Ordinary Shares,10.12,0.0,10,Finance
+LFACU,Leapfrog Acquisition Corporation Units,10.25,0.0,888,Uncategorized
+CAES,Cantor Equity Partners VII Inc. Class A Ordinary Shares,10.04,0.0,19580,Finance
+CAF,Morgan Stanley China A Share Fund Inc. Common Stock,15.705,0.0,321646,Finance
+CAII,Collective Acquisition Corp. II Class A Ordinary Shares,10.0428,0.0,64,Finance
+CAIIU,Collective Acquisition Corp. II Units,10.225,0.0,1268,Finance
+CAIIW,Collective Acquisition Corp. II Warrants,0.19,0.0,602,Finance
+SHOT,RMG ML Sports Holdings Class A Ordinary Shares,9.9,0.0,11536,Uncategorized
+SHOTR,RMG ML Sports Holdings Rights,0.0811,0.0,100,Uncategorized
+SHOTU,RMG ML Sports Holdings Unit,10.11,0.0,2016,Uncategorized
+LPCVW,Launchpad Cadenza Acquisition Corp I Warrant,0.2625,0.0,1948,Uncategorized
+SIMAW,SIM Acquisition Corp. I Warrant,0.1103,0.0,63,Finance
+HCIC,Hennessy Capital Investment Corp. VIII Class A Ordinary Shares,9.99,0.0,10,Uncategorized
+HCICR,Hennessy Capital Investment Corp. VIII Share Rights,0.0728,0.0,1707,Uncategorized
+HCICU,Hennessy Capital Investment Corp. VIII Units,10.15,0.0,2,Uncategorized
+HCMAU,HCM III Acquisition Corp. Units,10.43,0.0,1,Uncategorized
+HEQ,John Hancock Diversified Income Fund Common Shares of Beneficial Interest,10.97,0.0,21034,Finance
+HERZ,Herzfeld Credit Income Fund Inc. Common Stock,13.075,0.0,2347,Finance
+HFRO,Highland Opportunities and Income Fund Common Shares of Beneficial Interest,5.345,0.0,134793,Finance
+GTEN,Gores Holdings X Inc. Class A ordinary shares,10.45,0.0,55,Uncategorized
+GTENU,Gores Holdings X Inc. Units,10.55,0.0,1946,Uncategorized
+GTENW,Gores Holdings X Inc. Warrants,0.63,0.0,3,Uncategorized
+GUAC,Berto Acquisition Corp. II Ordinary Shares,9.9,0.0,549,Finance
+GUACU,Berto Acquisition Corp. II Unit,10.11,0.0,2754,Finance
+GUACW,Berto Acquisition Corp. II Warrants,0.34,0.0,630,Finance
+SIMA,SIM Acquisition Corp. I Class A Ordinary Shares,10.89,0.0,1497,Miscellaneous
+IACQU,Irenic Acquisition Corp. Unit,10.09,0.0,101,Finance
+IACQW,Irenic Acquisition Corp. Warrants,0.35,0.0,33576,Finance
+AOMN,Angel Oak Mortgage REIT Inc. 9.500% Senior Notes due 2029,22.375,0.0,4192,Finance
+APAC,StoneBridge Acquisition II Corporation Class A Ordinary Shares,10.31,0.0,107,Finance
 APACR,StoneBridge Acquisition II Corporation Rights,0.115,0.0,16129,Uncategorized
 APACU,StoneBridge Acquisition II Corporation Units,10.39,0.0,2,Finance
+SOCA,Solarius Capital Acquisition Corp. Class A Ordinary Share,10.47,0.0,9,Uncategorized
+SOCAU,Solarius Capital Acquisition Corp. Units,10.6,0.0,149,Finance
+SOCAW,Solarius Capital Acquisition Corp. Warrant,0.15,0.0,43100,Uncategorized
+SOJF,Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15 2085,22.0,0.0,109352,Utilities
+SORN,Soren Acquisition Corp. Class A Ordinary Shares,10.06,0.0,9,Finance
+SORNU,Soren Acquisition Corp. Unit,10.13,0.0,3,Finance
+SORNW,Soren Acquisition Corp. Warrant,0.1703,0.0,1267,Finance
+AOD,abrdn Total Dynamic Dividend Fund Common Shares of Beneficial Interest,9.56,0.0,576283,Finance
+CAPN,Cayson Acquisition Corp Ordinary shares,11.47,0.0,62,Uncategorized
+CAPNR,Cayson Acquisition Corp Right,0.0768,0.0,706,Finance
+CAPNU,Cayson Acquisition Corp Unit,11.35,0.0,444,Uncategorized
+CAQ,Cambridge Acquisition Corp. Class A Ordinary Shares,10.04,0.0,769,Uncategorized
+CAQUU,Cambridge Acquisition Corp. Unit,10.09,0.0,182,Uncategorized
+CAQUW,Cambridge Acquisition Corp. Warrants,0.285,0.0,500,Uncategorized
+BLRK,Bluerock Acquisition Corp. Class A Ordinary Shares,10.16,0.0,7386,Uncategorized
+BLRKU,Bluerock Acquisition Corp. Unit,10.17,0.0,100,Uncategorized
+BLRKW,Bluerock Acquisition Corp. Warrants,0.18,0.0,266,Uncategorized
+BLUWU,Blue Water Acquisition Corp. III Unit.,10.45,0.0,35,Health Care
+BLZR,Trailblazer Acquisition Corp. Class A Ordinary Shares,10.295,0.0,4079,Finance
+BLZRU,Trailblazer Acquisition Corp. Unit,10.34,0.0,594,Uncategorized
+BLZRW,Trailblazer Acquisition Corp. Warrant,0.1701,0.0,126,Finance
+PGP,Pimco Global StocksPlus & Income Fund Common Shares of Beneficial Interest,7.6,0.0,78931,Finance
+GPATW,GP-Act III Acquisition Corp. Warrants,0.1435,0.0,697,Uncategorized
+AOMD,Angel Oak Mortgage REIT Inc. 9.750% Senior Notes due 2030,21.45,0.0,8920,Finance
+QSEAU,Quartzsea Acquisition Corporation Units,10.85,0.0,40,Finance
+QUMS,Quantumsphere Acquisition Corp. Ordinary Shares,10.45,0.0,25,Uncategorized
+QUMSR,Quantumsphere Acquisition Corp. Rights,0.0977,0.0,5574,Uncategorized
+KKRT,KKR & Co. Inc. 6.875% Subordinated Notes due 2065,21.1,0.0,85606,Finance
+BPAC,Blueport Acquisition Ltd Class A Ordinary Shares,10.33,0.0,23,Uncategorized
+BPACR,Blueport Acquisition Ltd Rights,0.1351,0.0,238000,Finance
+BPACU,Blueport Acquisition Ltd Units,10.41,0.0,1022,Finance
+BREZ,Breeze Acquisition Corp. II Ordinary Shares,10.15,0.0,208,Finance
+BREZR,Breeze Acquisition Corp. II Right,0.3,0.0,755,Finance
+IGA,Voya Global Advantage and Premium Opportunity Fund Common Shares of Beneficial Interest,10.08,0.0,73565,Finance
+IGAC,Invest Green Acquisition Corporation Class A Ordinary Shares,10.16,0.0,8,Finance
+IGACR,Invest Green Acquisition Corporation Rights,0.125,0.0,3900,Uncategorized
+IGACU,Invest Green Acquisition Corporation Units,10.72,0.0,3,Finance
+IACQ,Irenic Acquisition Corp. Class A Ordinary Shares,9.96,0.0,86909,Finance
+IGI,Western Asset Investment Grade Opportunity Trust Inc. Common Stock,15.22,0.0,8963,Finance
+IGR,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest,10.72,0.0,687422,Finance
+IIF,Morgan Stanley India Investment Fund Inc. Common Stock,24.0,0.0,18806,Finance
+SAAQ,Space Asset Acquisition Corp. Class A Ordinary Shares,10.055,0.0,8215,Finance
+SAAQU,Space Asset Acquisition Corp. Units,10.11,0.0,7829,Finance
+SAAQW,Space Asset Acquisition Corp. Warrants,0.29,0.0,100,Finance
+SABA,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,7.41,0.0,44002,Uncategorized
+SAV,Saratoga Investment Corp 7.50% Notes due 2031,23.9,0.0,7098,Finance
+SAX,Saratoga Investment Corp 8.00% Notes due 2031,24.45,0.0,60825,Finance
+SBI,Western Asset Intermediate Muni Fund Inc Common Stock,7.13,0.0,111192,Finance
+HYT,Blackrock Corporate High Yield Fund Inc. Common Stock,7.595,0.0,1975892,Finance
+IACO,Idea Acquisition Corp. Class A Ordinary Shares,10.01,0.0,8,Finance
+IACOU,Idea Acquisition Corp. Units,10.08,0.0,301,Finance
+IACOW,Idea Acquisition Corp. Warrants,0.24,0.0,366,Finance
+IGD,Voya Global Equity Dividend and Premium Opportunity Fund,6.29,0.0,356815,Finance
+AACPW,Apogee Acquisition Corp Warrant,0.0598,0.0,84,Finance
+AACPU,Apogee Acquisition Corp Units,10.24,0.0,956,Finance
+ZTR,Virtus Total Return Fund Inc.,6.315,0.0,158796,Finance
+AACIU,Armada Acquisition Corp. III Units,10.21,0.0,1228,Finance
+AACP,Apogee Acquisition Corp Class A Ordinary Shares,10.13,0.0,249,Finance
+AACPR,Apogee Acquisition Corp Rights,0.16,0.0,10,Finance
+AACOW,Abony Acquisition Corp. I Warrants,0.29,0.0,23466,Uncategorized
+AACI,Armada Acquisition Corp. III Class A Ordinary Share,10.12,0.0,2052637,Finance
+XRPNW,Evernorth Holdings Inc. Warrants,1.29,0.0,161077,Finance
+WLIIU,Willow Lane Acquisition Corp. II Unit,10.51,0.0,3142,Uncategorized
+WLIIW,Willow Lane Acquisition Corp. II Warrants,0.5,0.0,341,Finance
+XCBE,X3 Acquisition Corp. Ltd. Class A Ordinary Shares,10.08,0.0,150642,Uncategorized
+XCBEU,X3 Acquisition Corp. Ltd. Unit,10.11,0.0,2,Finance
+POLEW,Andretti Acquisition Corp. II Warrant,0.15,0.0,9000,Uncategorized
+HTD,John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,22.47,0.0,112631,Finance
+HVMC,Highview Merger Corp. Class A Ordinary Share,10.34,0.0,2021,Uncategorized
+SCD,LMP Capital and Income Fund Inc. Common Stock,14.49,0.0,189959,Finance
+SCII,SC II Acquisition Corp. Class A ordinary share,10.25,0.0,7,Uncategorized
+SCIIR,SC II Acquisition Corp. Rights,0.15,0.0,4646,Uncategorized
+SCIIU,SC II Acquisition Corp. Units,10.27,0.0,119,Uncategorized
+SCPQ,Social Commerce Partners Corporation Class A Ordinary Shares,10.12,0.0,42,Uncategorized
+SCPQU,Social Commerce Partners Corporation Unit,10.14,0.0,11259,Uncategorized
+SCPQW,Social Commerce Partners Corporation Warrant,0.19,0.0,2,Uncategorized
+SCQC,SPACCircle Acquisition Corp. Class A Ordinary Shares,9.87,0.0,424,Uncategorized
+SCQCR,SPACCircle Acquisition Corp. Rights,0.15,0.0,25431,Uncategorized
+SCQCU,SPACCircle Acquisition Corp. Units,10.04,0.0,4897,Uncategorized
+SCQCW,SPACCircle Acquisition Corp. Warrants,0.03,0.0,206250,Uncategorized
+SDHI,Siddhi Acquisition Corp Class A Common stock,10.63,0.0,99,Finance
+XCBEW,X3 Acquisition Corp. Ltd. Warrant,0.196,0.0,29887,Finance
+NOEMW,CO2 Energy Transition Corp. Warrant,0.0905,0.0,309,Uncategorized
+CTAAR,ClearThink 1 Acquisition Corp. Rights,0.156,0.0,20300,Finance
+NTWOW,Newbury Street II Acquisition Corp Warrant,0.5003,0.0,3361,Uncategorized
+ZKP,Lafayette Digital Acquisition Corp. I Class A Ordinary Shares,10.13,0.0,2448,Finance
+AACOU,Abony Acquisition Corp. I Units,10.1,0.0,10804,Uncategorized
+ACAAU,Averin Capital Acquisition Corp. Units,10.11,0.0,512,Finance
+YICC,Yorkville International Capital Corp. Class A Ordinary Shares,9.88,0.0,301210,Finance
+YICCU,Yorkville International Capital Corp. Units,10.02,0.0,1486,Finance
+YICCW,Yorkville International Capital Corp. Warrants,0.2002,0.0,475,Finance
+NUV,Nuveen Municipal Value Fund Inc. Common Stock,8.355,0.0,1231455,Finance
+WIA,Western Asset Inflation-Linked Income Fund,7.525,0.0,50331,Finance
+WIW,Western Asset Inflation-Linked Opportunities & Income Fund,7.845,0.0,199802,Finance
+CUBWU,Lionheart Holdings Unit,11.6,0.0,10814,Finance
+CUBWW,Lionheart Holdings Warrant,0.095,0.0,801,Industrials
+ACP,abrdn Income Credit Strategies Fund Common Shares,4.13,0.0,856929,Finance
+XSLLW,Xsolla SPAC 1 Warrants,0.1604,0.0,552,Finance
+CTAAU,ClearThink 1 Acquisition Corp. Units,10.14,0.0,606,Finance
+CTGG,Qwest Corporation 6.500% Senior Notes due 2051,12.12,0.0,47940,Telecommunications
+CTHH,Qwest Corporation 6.750% Senior Notes due 2052,12.89,0.0,36807,Telecommunications
+WLII,Willow Lane Acquisition Corp. II Class A Ordinary Shares,10.14,0.0,11,Finance
+XELLL,Xcel Energy Inc. 6.25% Junior Subordinated Notes Series due 2085,20.48,0.0,338117,Utilities
+ACAA,Averin Capital Acquisition Corp. Class A Ordinary Shares,10.0,0.0,11475,Finance
+XIII,Churchill Capital Corp XIII Class A Ordinary Shares,10.24,0.0,286,Uncategorized
+XIIIU,Churchill Capital Corp XIII Units,10.48,0.0,1525,Uncategorized
+XIIIW,Churchill Capital Corp XIII Warrants,0.95,0.0,5082,Uncategorized
+CRAN,Crane Harbor Acquisition Corp. II Class A Ordinary Shares,10.14,0.0,38,Finance
+CRANR,Crane Harbor Acquisition Corp. II Rights,0.14,0.0,3900,Finance
+CRANU,Crane Harbor Acquisition Corp. II Units,10.31,0.0,1,Uncategorized
+CRAQ,Cal Redwood Acquisition Corp. Class A Ordinary Shares,10.49,0.0,10,Finance
+CTAA,ClearThink 1 Acquisition Corp. Class A Ordinary Shares,10.05,0.0,1247,Finance
+BTT,BlackRock Municipal 2030 Target Term Trust,22.175,0.0,163461,Finance
+BUI,BlackRock Utility Infrastructure & Power Opportunities Trust,24.92,0.0,164109,Finance
+BWG,BrandywineGLOBAL Global Income Opportunities Fund Inc.,6.46,0.0,64827,Finance
+PTY,Pimco Corporate & Income Opportunity Fund,10.535,0.0,1265366,Finance
+PWRL,Powerlaw Corp. Common Stock,10.25,0.0,81991,Uncategorized
+PYT,PPlus Tr GSC-2 Tr Ctf Fltg Rate,23.0,0.0,1011,Finance
+KRAQ,KRAKacquisition Corp Class A Ordinary Shares,10.02,0.0,5672,Uncategorized
+KRAQU,KRAKacquisition Corp Unit,10.08,0.0,3,Uncategorized
+KRAQW,KRAKacquisition Corp Warrants,0.29,0.0,318,Uncategorized
+LFACW,Leapfrog Acquisition Corporation Warrants,0.18,0.0,1600,Finance
+LGI,Lazard Global Total Return and Income Fund Common Stock,16.03,0.0,48778,Uncategorized
+LDP,Cohen & Steers Limited Duration Preferred and Income Fund Inc.,19.08,0.0,338233,Finance
+LEDR,Leader's Advantage Acquisition Corp. Class A Ordinary Shares,9.89,0.0,450,Uncategorized
+LEDRU,Leader's Advantage Acquisition Corp. Units,9.95,0.0,2241,Finance
+SDHIR,Siddhi Acquisition Corp Right,0.12,0.0,29552,Uncategorized
+BOE,Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest,10.74,0.0,177233,Finance
+SDHIU,Siddhi Acquisition Corp Unit,11.51,0.0,224,Finance
+HIX,Western Asset High Income Fund II Inc. Common Stock,3.325,0.0,325948,Finance
+HLXC,Helix Acquisition Corp. III Class A Ordinary Shares,10.26,0.0,372,Uncategorized
+HPF,John Hancock Pfd Income Fund II Pfd Income Fund II,12.41,0.0,72699,Finance
+HPI,John Hancock Preferred Income Fund Common Shares of Beneficial Interest,12.475,0.0,79427,Finance
+HPS,John Hancock Preferred Income Fund III Preferred Income Fund III,11.33,0.0,160282,Finance
+HIO,Western Asset High Income Opportunity Fund Inc. Common Stock,3.21,0.0,463321,Finance
+LOVI,Live Oak Acquisition Corp. VI Class A Ordinary Shares,9.81,0.0,3011,Finance
+LOVIU,Live Oak Acquisition Corp. VI Units,9.96,0.0,8315,Finance
+LOVIW,Live Oak Acquisition Corp. VI Warrants,0.2133,0.0,112681,Finance
+LPAA,Launch One Acquisition Corp. Class A Ordinary shares,10.74,0.0,26,Uncategorized
+POLE,Andretti Acquisition Corp. II Class A Ordinary Shares,10.77,0.0,11890,Uncategorized
+POLEU,Andretti Acquisition Corp. II Unit,10.81,0.0,201,Uncategorized
+LEDRW,Leader's Advantage Acquisition Corp. Warrants,0.2001,0.0,548,Finance
+LATA,Galata Acquisition Corp. II Class A Ordinary Shares,10.27,0.0,221,Finance
+LATAU,Galata Acquisition Corp. II Units,10.54,0.0,1944,Uncategorized
+LATAW,Galata Acquisition Corp. II Warrant,0.1699,0.0,125684,Finance
+LCCC,Lakeshore Acquisition III Corp. Ordinary Shares,10.675,0.0,107,Finance
+LCCCR,Lakeshore Acquisition III Corp. Rights,0.1433,0.0,535,Finance
+LCCCU,Lakeshore Acquisition III Corp. Unit,11.22,0.0,324,Finance
+PTAC,Patriot Acquisition Corp. Class A Ordinary Shares,10.12,0.0,15028,Finance
+PTACU,Patriot Acquisition Corp. Units,10.21,0.0,54,Uncategorized
+PTOR,Praetorian Acquisition Corp. Class A Ordinary Shares,10.0,0.0,9822,Finance
+PTORU,Praetorian Acquisition Corp. Units,10.07,0.0,125,Uncategorized
+PTORW,Praetorian Acquisition Corp. Warrant,0.1802,0.0,20294,Finance
+IAF,abrdn Australia Equity Fund Inc. Common Stock,11.11,0.0,36014,Finance
+IBAC,IB Acquisition Corp. Common Stock,10.84,0.0,15,Finance
+IBACR,IB Acquisition Corp. Right,0.115,0.0,4417,Finance
+HVMCW,Highview Merger Corp. Warrants,0.1508,0.0,1106,Uncategorized
+SCATR,Southern Cross Acquisition II Corp. Rights,0.13,0.0,10693,Finance
+SCATU,Southern Cross Acquisition II Corp. Units,10.02,0.0,13,Finance
+SCATW,Southern Cross Acquisition II Corp. Warrants,0.03,0.0,16884,Finance
 APMC,AmperCap Acquisition Company Ordinary Shares,10.02,0.0,45,Finance
 APMCR,AmperCap Acquisition Company Right,0.1,0.0,4460,Finance
 APMCU,AmperCap Acquisition Company Unit,10.1,0.0,1404,Finance
-AMAN,Amanat Acquisition Corp Class A Ordinary Shares,10.1,0.0,7010,Finance
-CHAR,Charlton Aria Acquisition Corporation Class A Ordinary Shares,11.0,0.0,1529,Uncategorized
-ARCL,ARC Group Acquisition I Corp Class A Ordinary Shares,10.08,0.0,23,Finance
-ARCLR,ARC Group Acquisition I Corp Right,0.135,0.0,25212,Finance
-ARCLU,ARC Group Acquisition I Corp Unit,10.2,0.0,8,Finance
-AOD,abrdn Total Dynamic Dividend Fund Common Shares of Beneficial Interest,9.56,0.0,576283,Finance
-AOMD,Angel Oak Mortgage REIT Inc. 9.750% Senior Notes due 2030,21.45,0.0,8920,Finance
-AOMN,Angel Oak Mortgage REIT Inc. 9.500% Senior Notes due 2029,22.375,0.0,4192,Finance
-APAC,StoneBridge Acquisition II Corporation Class A Ordinary Shares,10.31,0.0,107,Finance
 APUR,Aperture AC Class A Ordinary Shares,10.11,0.0,83,Finance
 APURR,Aperture AC Rights,0.25,0.0,322,Finance
 APXT,Apex Treasury Corporation Class A Ordinary Share,10.23,0.0,2087,Finance
@@ -4460,84 +4928,22 @@ APXTU,Apex Treasury Corporation Units,10.32,0.0,1,Finance
 APXTW,Apex Treasury Corporation Warrants,0.16,0.0,2631,Finance
 ARCI,Archimedes Tech SPAC Partners III Co. Ordinary Share,10.06,0.0,151601,Uncategorized
 ARCIU,Archimedes Tech SPAC Partners III Co. Units,10.11,0.0,465,Finance
-ARCIW,Archimedes Tech SPAC Partners III Co. Warrant,0.3203,0.0,3042,Uncategorized
+HVMCU,Highview Merger Corp. Units,10.41,0.0,1,Finance
+SCAT,Southern Cross Acquisition II Corp. Ordinary Shares,9.95,0.0,508,Finance
+TBCVW,Thunder Bridge Capital Partners V Ltd. Warrants,0.2201,0.0,667,Finance
+TCGX,TCGX Acquisition Corp. Class A Ordinary Shares,10.04,0.0,18582,Finance
+TCXB,TCGX Acquisition Corp. II Class A Ordinary Shares,10.14,0.0,2034,Uncategorized
+BID,Tribeca Strategic Acquisition Corp. Class A Ordinary Shares,9.94,0.0,920,Finance
+BIDWR,Tribeca Strategic Acquisition Corp. Rights,0.0851,0.0,2000,Finance
+BIDWU,Tribeca Strategic Acquisition Corp. Unit,10.11,0.0,1347,Finance
 BIT,BlackRock Multi-Sector Income Trust Common Shares of Beneficial Interest,10.92,0.0,371119,Finance
 BIXI,Bitcoin Infrastructure Acquisition Corp Ltd. Class A Ordinary Shares,10.135,0.0,1544,Uncategorized
-BIXIU,Bitcoin Infrastructure Acquisition Corp Ltd. Unit ,10.23,0.0,11,Finance
-BIXIW,Bitcoin Infrastructure Acquisition Corp Ltd. Warrant,0.15,0.0,1521,Uncategorized
-WDI,Western Asset Diversified Income Fund Common Shares of Beneficial Interest,11.21,0.0,448493,Finance
-BLRKW,Bluerock Acquisition Corp. Warrants,0.18,0.0,266,Uncategorized
-BLUWU,Blue Water Acquisition Corp. III Unit.,10.45,0.0,35,Health Care
-BLZR,Trailblazer Acquisition Corp. Class A Ordinary Shares,10.295,0.0,4079,Finance
-BLZRU,Trailblazer Acquisition Corp. Unit,10.34,0.0,594,Uncategorized
-BLZRW,Trailblazer Acquisition Corp. Warrant,0.1701,0.0,126,Finance
-BHV,BlackRock Virginia Municipal Bond Trust,12.22,0.0,16518,Finance
-AVK,Advent Convertible and Income Fund,10.07,0.0,227183,Finance
-AWF,Alliancebernstein Global High Income Fund,9.46,0.0,352454,Finance
-AWP,abrdn Global Premier Properties Fund Common Shares of Beneficial Interest,10.285,0.0,116793,Finance
-BHK,Blackrock Core Bond Trust,8.48,0.0,461376,Finance
-ATLQR,JAB Acquisition Corp I Rights,0.1225,0.0,13500,Finance
-ATLQU,JAB Acquisition Corp I Unit,10.18,0.0,3,Finance
-ATLQW,JAB Acquisition Corp I Warrants,0.03,0.0,261,Finance
-WLII,Willow Lane Acquisition Corp. II Class A Ordinary Shares,10.14,0.0,11,Finance
-WLIIU,Willow Lane Acquisition Corp. II Unit,10.51,0.0,3142,Uncategorized
-WLIIW,Willow Lane Acquisition Corp. II Warrants,0.5,0.0,341,Finance
-BACC,Blue Acquisition Corp. Class A Ordinary Shares,10.47,0.0,193206,Finance
-BACCR,Blue Acquisition Corp. Right ,0.2499,0.0,9900,Finance
-BACCU,Blue Acquisition Corp. Unit,10.11,0.0,147,Finance
-BBN,BlackRock Taxable Municipal Bond Trust Common Shares of Beneficial Interest,14.65,0.0,276078,Finance
-BCCQ,Bleichroeder Acquisition Corp. III Class A Ordinary Shares,10.01,0.0,4252,Finance
-BCCQU,Bleichroeder Acquisition Corp. III Units,10.19,0.0,309,Finance
-BCCQW,Bleichroeder Acquisition Corp. III Warrant,0.4944,0.0,10036,Finance
-WIW,Western Asset Inflation-Linked Opportunities & Income Fund,7.845,0.0,199802,Finance
-ATLQ,JAB Acquisition Corp I Class A Ordinary Shares,10.0544,0.0,38,Finance
-ADX,Adams Diversified Equity Fund Inc.,23.27,0.0,393900,Finance
-AESP,Aeon Acquisition I Corp. Class A Ordinary Shares,10.08,0.0,19,Finance
-AESPR,Aeon Acquisition I Corp. Rights,0.18,0.0,131,Finance
-AESPU,Aeon Acquisition I Corp. Units,10.3,0.0,114,Uncategorized
-AESPW,Aeon Acquisition I Corp. Warrants,0.055,0.0,395,Finance
-AFB,AllianceBernstein National Municipal Income Fund Inc,10.05,0.0,189642,Finance
-AFJK,Aimei Health Technology Co. Ltd Ordinary Share,11.86,0.0,632,Uncategorized
-AFJKR,Aimei Health Technology Co. Ltd Right,0.1,0.0,160,Uncategorized
-RNAQU,Rainier Acquisition Corporation Units,10.17,0.0,645,Finance
-XCBEU,X3 Acquisition Corp. Ltd. Unit,10.11,0.0,2,Finance
-XCBEW,X3 Acquisition Corp. Ltd. Warrant,0.196,0.0,29887,Finance
-XELLL,Xcel Energy Inc. 6.25% Junior Subordinated Notes Series due 2085,20.48,0.0,338117,Utilities
-XIII,Churchill Capital Corp XIII Class A Ordinary Shares,10.24,0.0,286,Uncategorized
-ASG,Liberty All-Star Growth Fund Inc.,4.565,0.0,508342,Finance
-XIIIW,Churchill Capital Corp XIII Warrants,0.95,0.0,5082,Uncategorized
-AEFC,Aegon Funding Company LLC 5.10% Subordinated Notes due 2049,17.75,0.0,104434,Uncategorized
-ALPXR,Alpex Acquisition Corporation Rights,0.1552,0.0,600,Finance
-ALPXU,Alpex Acquisition Corporation Unit,10.18,0.0,64,Finance
-ALPXW,Alpex Acquisition Corporation Warrants,0.025,0.0,7000,Finance
-ALF,Centurion Acquisition Corp. Class A Ordinary Shares,10.92,0.0,13,Uncategorized
-AGD,abrdn Global Dynamic Dividend Fund Common Shares of Beneficial Interest,10.72,0.0,154664,Finance
-XCBE,X3 Acquisition Corp. Ltd. Class A Ordinary Shares,10.08,0.0,150642,Uncategorized
-ALFUW,Centurion Acquisition Corp. Warrant,0.0903,0.0,26695,Finance
-ALIS,Calisa Acquisition Corp Ordinary shares,7.39,0.0,4508,Uncategorized
-ALISR,Calisa Acquisition Corp Right,0.658,0.0,221,Finance
-ALISU,Calisa Acquisition Corp Units,8.74,0.0,1188,Uncategorized
-ALOV,Aldabra 4 Liquidity Opportunity Vehicle Inc. Class A Ordinary Shares,10.04,0.0,97,Uncategorized
-ALOVW,Aldabra 4 Liquidity Opportunity Vehicle Inc. Warrants,0.33,0.0,17632,Uncategorized
-XIIIU,Churchill Capital Corp XIII Units,10.48,0.0,1525,Uncategorized
-ASGI,abrdn Global Infrastructure Income Fund Common Shares of Beneficial Interest,19.49,0.0,138171,Finance
-ARCLW,ARC Group Acquisition I Corp Warrants,0.0553,0.0,1576,Finance
-ARTC,Art Technology Acquisition Corp. Class A Ordinary Shares,10.065,0.0,5241,Finance
-ARTCU,Art Technology Acquisition Corp. Units,10.1,0.0,4,Uncategorized
-ARTCW,Art Technology Acquisition Corp. Warrants,0.2502,0.0,7367,Uncategorized
-RREV,RRE Ventures Acquisition Corp. Class A Ordinary Shares,9.93,0.0,29702,Finance
-RREVU,RRE Ventures Acquisition Corp. Units,9.99,0.0,27000,Finance
 RREVW,RRE Ventures Acquisition Corp. Warrants,0.1951,0.0,590,Finance
-RNAQ,Rainier Acquisition Corporation Class A Ordinary Shares,10.0,0.0,193506,Finance
-ACAAW,Averin Capital Acquisition Corp. Warrants,0.5,0.0,6558,Finance
-RWTS,Redwood Trust Inc. 9.75% Senior Notes Due 2031,19.55,0.0,28859,Real Estate
-SAAQ,Space Asset Acquisition Corp. Class A Ordinary Shares,10.055,0.0,8215,Finance
-SAAQU,Space Asset Acquisition Corp. Units,10.11,0.0,7829,Finance
-SAAQW,Space Asset Acquisition Corp. Warrants,0.29,0.0,100,Finance
-ZKPU,Lafayette Digital Acquisition Corp. I Unit,10.25,0.0,2645,Finance
-RNGT,Range Capital Acquisition Corp II Class A Ordinary Shares,10.24,0.0,23398,Finance
-RNGTU,Range Capital Acquisition Corp II Units,10.3,0.0,9805,Finance
-RNGTW,Range Capital Acquisition Corp II Warrants,0.2101,0.0,2500,Finance
+ILLUU,Illumination Acquisition Corp I Units,10.07,0.0,33,Finance
+ILLUW,Illumination Acquisition Corp I Warrant,0.2755,0.0,1004,Uncategorized
+INAC,Indigo Acquisition Corp. Ordinary Shares,10.47,0.0,109,Uncategorized
+INACR,Indigo Acquisition Corp. Right,0.0551,0.0,40,Uncategorized
+PHK,Pimco High Income Fund,3.96,0.0,990964,Finance
 RTAC,Renatus Tactical Acquisition Corp I Class A Ordinary Shares,10.51,0.0,10786,Finance
 RTACU,Renatus Tactical Acquisition Corp I Unit,10.56,0.0,9457,Finance
 RTACW,Renatus Tactical Acquisition Corp I Warrant,0.148,0.0,122857,Finance
@@ -4545,631 +4951,223 @@ RWAYI,Runway Growth Finance Corp. 7.25% Notes due 2031,24.13,0.0,6893,Finance
 RWAYM,Runway Growth Finance Corp. 7.75% Notes Due 2031,24.87,0.0,8609,Finance
 RWTP,Redwood Trust Inc. 9.125% Senior Notes Due 2030,20.27,0.0,5158,Real Estate
 RWTQ,Redwood Trust Inc. 9.500% Senior Notes Due 2030,20.0,0.0,43562,Real Estate
-YICC,Yorkville International Capital Corp. Class A Ordinary Shares,9.88,0.0,301210,Finance
-YICCU,Yorkville International Capital Corp. Units,10.02,0.0,1486,Finance
-YICCW,Yorkville International Capital Corp. Warrants,0.2002,0.0,475,Finance
-ZKP,Lafayette Digital Acquisition Corp. I Class A Ordinary Shares,10.13,0.0,2448,Finance
-SABA,Saba Capital Income & Opportunities Fund II Shares of Beneficial Interest,7.41,0.0,44002,Uncategorized
-CHARU,Charlton Aria Acquisition Corporation Units,11.03,0.0,152,Uncategorized
-VLOSU,Velos Acquisition I Corp. Units,10.81,0.0,4,Finance
-VLOSW,Velos Acquisition I Corp. Warrant,0.2616,0.0,1000,Finance
-VLT,Invesco High Income Trust II,8.685,0.0,17421,Finance
-VNME,Vendome Acquisition Corporation I Class A Ordinary Shares,10.4,0.0,86,Finance
-VNMEU,Vendome Acquisition Corporation I Unit,10.41,0.0,10,Finance
-VNMEW,Vendome Acquisition Corporation I Warrant,0.216,0.0,600,Finance
-CEPS,Cantor Equity Partners VI Inc. Class A Ordinary Shares,10.09,0.0,301520,Finance
-CEPV,Cantor Equity Partners V Inc. Class A Ordinary Shares,10.21,0.0,759295,Uncategorized
-CHPGU,ChampionsGate Acquisition Corporation Unit,10.8,0.0,772,Uncategorized
-CHW,Calamos Global Dynamic Income Fund Common Stock,7.22,0.0,93770,Finance
-CHY,Calamos Convertible and High Income Fund Common Stock,10.33,0.0,251926,Finance
-CICB,CION Investment Corporation 7.50% Notes due 2029,24.53,0.0,5364,Finance
-BIDWU,Tribeca Strategic Acquisition Corp. Unit,10.11,0.0,1347,Finance
-VLOS,Velos Acquisition I Corp. Class A Ordinary shares,10.63,0.0,116,Uncategorized
-CIMO,Chimera Investment Corporation 9.250% Senior Notes due 2029,23.75,0.0,21438,Real Estate
-CIMP,Chimera Investment Corporation 8.875% Senior Notes due 2030,22.9,0.0,16030,Real Estate
-CLM,Cornerstone Strategic Investment Fund Inc. Common Shares,5.485,0.0,2187757,Finance
-CHI,Calamos Convertible Opportunities and Income Fund Common Stock,9.95,0.0,316901,Finance
-CHPG,ChampionsGate Acquisition Corporation Class A Ordinary Share,10.54,0.0,6451,Uncategorized
-CHPGR,ChampionsGate Acquisition Corporation Rights,0.1014,0.0,30,Uncategorized
-CAES,Cantor Equity Partners VII Inc. Class A Ordinary Shares,10.04,0.0,19580,Finance
-CAF,Morgan Stanley China A Share Fund Inc. Common Stock,15.705,0.0,321646,Finance
-CAII,Collective Acquisition Corp. II Class A Ordinary Shares,10.0428,0.0,64,Finance
-CAIIU,Collective Acquisition Corp. II Units,10.225,0.0,1268,Finance
-CAIIW,Collective Acquisition Corp. II Warrants,0.19,0.0,602,Finance
-CAPN,Cayson Acquisition Corp Ordinary shares,11.47,0.0,62,Uncategorized
-CAPNR,Cayson Acquisition Corp Right,0.0768,0.0,706,Finance
-CICC,CION Investment Corporation 7.50% Notes due 2031,24.01,0.0,3939,Finance
-CRAQR,Cal Redwood Acquisition Corp. Right,0.06,0.0,2,Finance
-CRAQU,Cal Redwood Acquisition Corp. Units,10.91,0.0,336,Finance
-CRBD,Corebridge Financial Inc. 6.375% Junior Subordinated Notes due 2064,20.38,0.0,79920,Finance
-CRF,Cornerstone Total Return Fund Inc. (The) Common Stock,5.31,0.0,1168550,Finance
-CIK,UBS Asset Management Income Fund Inc. Common Stock,2.3,0.0,200780,Finance
-VGI,Virtus Global Multi-Sector Income Fund Common Shares of Beneficial Interest,6.57,0.0,41373,Finance
-VHCP,Vine Hill Capital Investment Corp. II Class A Ordinary Shares,10.12,0.0,116506,Uncategorized
-VHCPU,Vine Hill Capital Investment Corp. II Units,10.16,0.0,123,Finance
-VHCPW,Vine Hill Capital Investment Corp. II Warrants,0.2201,0.0,7653,Uncategorized
-CRAN,Crane Harbor Acquisition Corp. II Class A Ordinary Shares,10.14,0.0,38,Finance
-CRANR,Crane Harbor Acquisition Corp. II Rights,0.14,0.0,3900,Finance
-CRANU,Crane Harbor Acquisition Corp. II Units,10.31,0.0,1,Uncategorized
-CUBWU,Lionheart Holdings Unit,11.6,0.0,10814,Finance
-CUBWW,Lionheart Holdings Warrant,0.095,0.0,801,Industrials
-CHARR,Charlton Aria Acquisition Corporation Rights,0.17,0.0,140,Finance
-CTAAR,ClearThink 1 Acquisition Corp. Rights,0.156,0.0,20300,Finance
-CTAAU,ClearThink 1 Acquisition Corp. Units,10.14,0.0,606,Finance
-VESI,Vesicor Therapeutics Holdings Inc. Class A Common Stock,0.7396,0.0,453405,Health Care
-DBCA,D. Boral Acquisition I Corp. Class A Ordinary Shares,10.08,0.0,19771,Finance
-DBCAU,D. Boral Acquisition I Corp. Unit,10.33,0.0,9,Finance
-CXII,Churchill Capital Corp XII Class A Ordinary Shares,10.28,0.0,66,Finance
-CXIIU,Churchill Capital Corp XII Units,10.6,0.0,2213,Finance
-CTGG,Qwest Corporation 6.500% Senior Notes due 2051,12.12,0.0,47940,Telecommunications
-CTHH,Qwest Corporation 6.750% Senior Notes due 2052,12.89,0.0,36807,Telecommunications
-CGCF,Cartesian Growth Corporation IV Class A Ordinary Shares,9.805,0.0,25404,Finance
-CGCFU,Cartesian Growth Corporation IV Unit,9.89,0.0,11,Finance
-CGCFW,Cartesian Growth Corporation IV Warrants,0.31,0.0,1180,Finance
-CGO,Calamos Global Total Return Fund Common Stock,11.21,0.0,25289,Finance
-GSHRU,Gesher Acquisition Corp. II Units,10.61,0.0,432,Finance
-CTAA,ClearThink 1 Acquisition Corp. Class A Ordinary Shares,10.05,0.0,1247,Finance
-BRRK,Bluerock Acquisition Corp. II Class A Ordinary Shares,9.81,0.0,11,Uncategorized
-BRRKU,Bluerock Acquisition Corp. II Units,10.0,0.0,2572,Uncategorized
-BSL,Blackstone Senior Floating Rate 2027 Term Fund Common Shares of Beneficial Interest,12.85,0.0,66493,Finance
-BTO,John Hancock Financial Opportunities Fund Common Stock,36.66,0.0,53001,Finance
-BTT,BlackRock Municipal 2030 Target Term Trust,22.175,0.0,163461,Finance
-VVR,Invesco Senior Income Trust Common Stock (DE),2.825,0.0,996447,Finance
-BPACR,Blueport Acquisition Ltd Rights,0.1351,0.0,238000,Finance
-BUI,BlackRock Utility Infrastructure & Power Opportunities Trust,24.92,0.0,164109,Finance
-BWG,BrandywineGLOBAL Global Income Opportunities Fund Inc.,6.46,0.0,64827,Finance
-BRTM,B&R Technology Merger Corp. Class A Ordinary Shares,9.79,0.0,8,Finance
-BRTMU,B&R Technology Merger Corp. Units,9.82,0.0,452,Uncategorized
-BRTMW,B&R Technology Merger Corp. Warrants,0.2609,0.0,33333,Finance
-BRW,Saba Capital Income & Opportunities Fund SBI,5.63,0.0,209849,Finance
-CAPNU,Cayson Acquisition Corp Unit,11.35,0.0,444,Uncategorized
-BGH,Barings Global Short Duration High Yield Fund Common Shares of Beneficial Interests,12.06,0.0,95613,Finance
-BGT,BlackRock Floating Rate Income Trust,9.82,0.0,128626,Finance
-BGY,Blackrock Enhanced International Dividend Trust,5.24,0.0,437308,Finance
-BHAIU,BHAV Acquisition Corp II Unit,10.05,0.0,8,Uncategorized
-BHAV,BHAV Acquisition Corp Class A Ordinary Shares,10.11,0.0,85,Finance
-BHAVR,BHAV Acquisition Corp Rights,0.1725,0.0,1937,Finance
-BHAVU,BHAV Acquisition Corp Units,10.24,0.0,11348,Finance
-WEA,Western Asset Bond Fund Share of Beneficial Interest,9.72,0.0,38267,Finance
-WENN,Wen Acquisition Corp Class A Ordinary Shares,10.5,0.0,26376,Uncategorized
-WENNU,Wen Acquisition Corp Unit,10.56,0.0,732,Finance
-WENNW,Wen Acquisition Corp Warrant,0.189,0.0,248,Finance
-WIA,Western Asset Inflation-Linked Income Fund,7.525,0.0,50331,Finance
-BID,Tribeca Strategic Acquisition Corp. Class A Ordinary Shares,9.94,0.0,920,Finance
-BIDWR,Tribeca Strategic Acquisition Corp. Rights,0.0851,0.0,2000,Finance
-BGB,Blackstone Strategic Credit 2027 Term Fund Common Shares of Beneficial Interest,10.93,0.0,212193,Finance
-CAQ,Cambridge Acquisition Corp. Class A Ordinary Shares,10.04,0.0,769,Uncategorized
-CAQUU,Cambridge Acquisition Corp. Unit,10.09,0.0,182,Uncategorized
-CAQUW,Cambridge Acquisition Corp. Warrants,0.285,0.0,500,Uncategorized
-CATL, Catalyst Acquisition Corp. Class A Ordinary Share,9.81,0.0,1468,Finance
-CATLR,Catalyst Acquisition Corp. Rights,0.125,0.0,6505,Finance
-CATLU,Catalyst Acquisition Corp. Units,9.91,0.0,802,Finance
-CCAQW,Collective Acquisition Corp. Warrants,0.1101,0.0,1239,Finance
-CCCT,Columbus Circle Capital Corp III Class A Ordinary Shares,9.8553,0.0,39,Uncategorized
-CCCTU,Columbus Circle Capital Corp III Units,9.93,0.0,159,Uncategorized
-CCCTW,Columbus Circle Capital Corp III Warrants,0.355,0.0,703,Uncategorized
-CCD,Calamos Dynamic Convertible & Income Fund Common Stock,19.47,0.0,162993,Finance
-CCII,Cohen Circle Acquisition Corp. II Class A Ordinary Shares,10.36,0.0,370,Uncategorized
-CCIIU,Cohen Circle Acquisition Corp. II Unit,10.47,0.0,1,Uncategorized
-CCIIW,Cohen Circle Acquisition Corp. II Warrant,0.4151,0.0,300,Uncategorized
-BRKHW,Burtech Acquisition Corp II Warrants,0.1203,0.0,201,Finance
-CEPF,Cantor Equity Partners IV Inc. Class A Ordinary Shares,10.33,0.0,290499,Finance
-CEPO,Cantor Equity Partners I Inc. Class A Ordinary Shares,10.84,0.0,5397,Finance
-CCAQ,Collective Acquisition Corp. Class A Ordinary Shares,10.53,0.0,3,Finance
-CCAQU,Collective Acquisition Corp. Units,10.54,0.0,431,Finance
-BRRKW,Bluerock Acquisition Corp. II Warrants,0.199,0.0,136537,Uncategorized
-BOE,Blackrock Enhanced Global Dividend Trust Common Shares of Beneficial Interest,10.74,0.0,177233,Finance
-BPAC,Blueport Acquisition Ltd Class A Ordinary Shares,10.33,0.0,23,Uncategorized
-BLRK,Bluerock Acquisition Corp. Class A Ordinary Shares,10.16,0.0,7386,Uncategorized
-BLRKU,Bluerock Acquisition Corp. Unit,10.17,0.0,100,Uncategorized
-BPACU,Blueport Acquisition Ltd Units,10.41,0.0,1022,Finance
-BREZ,Breeze Acquisition Corp. II Ordinary Shares,10.15,0.0,208,Finance
-BREZR,Breeze Acquisition Corp. II Right,0.3,0.0,755,Finance
-BRKH,Burtech Acquisition Corp II Class A Ordinary Shares,10.09,0.0,1616,Finance
-BRKHU,Burtech Acquisition Corp II Unit,10.3,0.0,3274,Technology
-CEE,The Central and Eastern Europe Fund Inc. (The) Common Stock,17.25,0.0,12930,Finance
-OHACR,Oceanhawk Acquisition Corp. Rights,0.2125,0.0,1100,Uncategorized
-OHACU,Oceanhawk Acquisition Corp. Units,10.24,0.0,1,Uncategorized
-ONCHW,1RT Acquisition Corp. Warrant,0.27,0.0,1641,Finance
-SIMA,SIM Acquisition Corp. I Class A Ordinary Shares,10.89,0.0,1497,Miscellaneous
-SIMAW,SIM Acquisition Corp. I Warrant,0.1103,0.0,63,Finance
-SKYD.WS,Skydance Corporation Warrants to Purchase Class B Common Stock,2.91,0.0,986483,Uncategorized
-OCLT,OceanLight Acquisition Corporation Ordinary Shares,9.96,0.0,8,Finance
-OTGA,OTG Acquisition Corp. I Class A Ordinary Share ,10.31,0.0,6215,Finance
-OTGAU,OTG Acquisition Corp. I Unit,10.37,0.0,9959,Finance
-OTGAW,OTG Acquisition Corp. I Warrants,0.16,0.0,47530,Finance
-OXLCG,Oxford Lane Capital Corp. 7.95% Notes due 2032,24.78,0.0,5003,Finance
-OXLCI,Oxford Lane Capital Corp. 8.75% Notes due 2030,25.27,0.0,11173,Uncategorized
-OPP,RiverNorth/DoubleLine Strategic Opportunity Fund Inc. Common Stock,6.87,0.0,157847,Finance
-ONCH,1RT Acquisition Corp. Class A Ordinary Share,10.42,0.0,3736,Uncategorized
-TMUSZ,T-Mobile US Inc. 5.500% Senior Notes due March 2070,17.85,0.0,41966,Telecommunications
-NMAI,Nuveen Multi-Asset Income Fund Common Shares of Beneficial Interest,12.49,0.0,107150,Finance
-NMI,Nuveen Municipal Income Fund Inc. Common Stock,9.37,0.0,16638,Finance
-NML,Neuberger Energy Infrastructure and Income Fund Inc. Common Stock,9.51,0.0,114731,Finance
-NMP,NMP Acquisition Corp. Class A Ordinary Shares,10.48,0.0,67787,Finance
-NMPAR,NMP Acquisition Corp. Right,0.208,0.0,1000,Finance
-NMPAU,NMP Acquisition Corp. Units,10.53,0.0,16,Finance
-NMS,Nuveen Minnesota Quality Municipal Income Fund ,10.21,0.0,22537,Finance
-NMT,Nuveen Massachusetts Quality Municipal Income Fund Common Stock,10.2,0.0,30195,Finance
-NPACU,New Providence Acquisition Corp. III Units,10.572,0.0,100,Finance
-NPACW,New Providence Acquisition Corp. III Warrants,0.0554,0.0,3200,Finance
-NPCT,Nuveen Core Plus Impact Fund Common Shares of Beneficial Interest,8.87,0.0,129527,Finance
-NPFD,Nuveen Variable Rate Preferred & Income Fund Common Shares,16.63,0.0,96848,Finance
-NPV,Nuveen Virginia Quality Municipal Income Fund Common Stock,9.62,0.0,67056,Finance
-NRK,Nuveen New York AMT-Free Quality Municipal Income Fund ,9.36,0.0,650718,Finance
-NRO,Neuberger Real Estate Securities Income Fund Inc. Common Stock,2.575,0.0,119350,Finance
-ONCHU,1RT Acquisition Corp. Units,10.43,0.0,9797,Uncategorized
-OSPRW,Osprey Acquisition Corp. III Warrants,0.2006,0.0,21500,Finance
-SHOT,RMG ML Sports Holdings Class A Ordinary Shares,9.9,0.0,11536,Uncategorized
-SHOTR,RMG ML Sports Holdings Rights,0.0811,0.0,100,Uncategorized
-SHOTU,RMG ML Sports Holdings Unit,10.11,0.0,2016,Uncategorized
-OXSQH,Oxford Square Capital Corp. 7.75% Notes due 2030,24.805,0.0,6251,Finance
-OYSE,Oyster Enterprises II Acquisition Corp Class A Ordinary Shares,10.5,0.0,27,Finance
-OYSER,Oyster Enterprises II Acquisition Corp Rights,0.05,0.0,51121,Finance
-OYSEU,Oyster Enterprises II Acquisition Corp Units,10.47,0.0,3000,Finance
-PAACU,Proem Acquisition Corp I Units,10.575,0.0,16580,Finance
-PAXG,Pine Tree Acquisition Corp. Class A Ordinary Shares,9.89,0.0,41838,Finance
-PAXGR,Pine Tree Acquisition Corp. Rights,0.1725,0.0,24821,Finance
-PAXGU,Pine Tree Acquisition Corp. Units,10.01,0.0,143,Finance
-PAXS,PIMCO Access Income Fund Common Shares of Beneficial Interest,12.67,0.0,504579,Finance
-PCF,High Income Securities Fund Common Stock,5.08,0.0,217339,Finance
-OHAC,Oceanhawk Acquisition Corp. Class A Ordinary Shares,10.04,0.0,31776,Uncategorized
-PCN,Pimco Corporate & Income Strategy Fund Common Stock,10.395,0.0,454616,Finance
-PCQ,PIMCO California Municipal Income Fund Common Stock,8.07,0.0,258344,Finance
-PDT,John Hancock Premium Dividend Fund,11.73,0.0,92167,Finance
-PALO,Paloma Acquisition Corp I Class A Ordinary Shares,10.04,0.0,129,Finance
-PALOU,Paloma Acquisition Corp I Units,10.1,0.0,4,Finance
-PALOW,Paloma Acquisition Corp I Warrants,0.2001,0.0,2661,Finance
-OIM,OneIM Acquisition Corp. Class A Ordinary Shares,10.12,0.0,14,Uncategorized
-OIMAU,OneIM Acquisition Corp. Units,10.16,0.0,2,Finance
-OIMAW,OneIM Acquisition Corp. Warrant,0.41,0.0,16766,Uncategorized
-NZF,Nuveen Municipal Credit Income Fund ,11.07,0.0,1537531,Finance
-OACC,Oaktree Acquisition Corp. III Life Sciences Class A Ordinary Share,10.73,0.0,1053,Finance
-OCLTR,OceanLight Acquisition Corporation Rights,0.16,0.0,1915,Finance
-OCLTU,OceanLight Acquisition Corporation Units,10.07,0.0,17670,Finance
-OCLTW,OceanLight Acquisition Corporation Warrants,0.02,0.0,176561,Finance
-OFSSO,OFS Capital Corporation 7.50% Notes due 2028,26.24,0.0,19014,Uncategorized
-PCM,PCM Fund Inc. Common Stock,4.86,0.0,40707,Finance
-NIM,Nuveen Select Maturities Municipal Fund Common Stock,8.71,0.0,338739,Finance
-NKX,Nuveen California AMT-Free Quality Municipal Income Fund,11.31,0.0,299291,Finance
-NEA,Nuveen AMT-Free Quality Municipal Income Fund Common Shares of Beneficial Interest Par Value $.01,10.07,0.0,1939162,Finance
-NEWTH,NewtekOne Inc. 8.625% Fixed Rate Senior Notes due 2029,24.53,0.0,2978,Finance
-NEWTO,NewtekOne Inc. 8.50% Fixed Rate Senior Notes due 2031,25.04,0.0,75,Finance
-NMZ,Nuveen Municipal High Income Opportunity Fund Common Stock $0.01 par value per share,8.675,0.0,1915997,Finance
-NNY,Nuveen New York Municipal Value Fund Common Stock,7.74,0.0,112752,Finance
-NOEM,CO2 Energy Transition Corp. Common Stock,10.53,0.0,41,Uncategorized
-NOEMR,CO2 Energy Transition Corp. Right,0.14,0.0,77,Uncategorized
-NOEMU,CO2 Energy Transition Corp. Unit,10.8,0.0,179,Uncategorized
-NOEMW,CO2 Energy Transition Corp. Warrant,0.0905,0.0,309,Uncategorized
-NFJ,Virtus Dividend Interest & Premium Strategy Fund Common Shares of Beneficial Interest,13.48,0.0,323040,Finance
-NHIV,NewHold Investment Corp IV Class A Ordinary Shares,9.95,0.0,12,Finance
-MRCOW,Mercator Acquisition Corp. Warrant,0.2,0.0,3175,Finance
-NRUC,National Rural Utilities Cooperative Finance Corporation 5.500% Subordinated Notes due 2064 (Subordinated Deferrable Interest Notes),18.71,0.0,19461,Finance
-MSDL,Morgan Stanley Direct Lending Fund Common Stock,13.305,0.0,552694,Uncategorized
-MPA,Blackrock MuniYield Pennsylvania Quality Fund Common Stock,9.99,0.0,92822,Finance
-MLAA,Mountain Lake Acquisition Corp. II Class A Ordinary Shares,10.06,0.0,475156,Finance
-MLAAU,Mountain Lake Acquisition Corp. II Units,10.09,0.0,1,Finance
-SORNU,Soren Acquisition Corp. Unit,10.13,0.0,3,Finance
-SORNW,Soren Acquisition Corp. Warrant,0.1703,0.0,1267,Finance
-SPE,Special Opportunities Fund Inc Common Stock,11.75,0.0,33877,Finance
-SPEG,Silver Pegasus Acquisition Corp Class A Ordinary Shares,10.48,0.0,106,Uncategorized
-SPEGR,Silver Pegasus Acquisition Corp Rights.,0.15,0.0,1,Uncategorized
-SPEGU,Silver Pegasus Acquisition Corp Unit,10.68,0.0,3,Uncategorized
-MRCO,Mercator Acquisition Corp. Class A Ordinary Shares,9.91,0.0,9,Finance
-MRCOU,Mercator Acquisition Corp. Units,9.98,0.0,201,Finance
-NAD,Nuveen Quality Municipal Income Fund Common Stock,10.345,0.0,1449617,Finance
-MTAK,Market Technology Acquisition Corp Class A Ordinary Shares,9.9,0.0,1803,Uncategorized
-MTAKU,Market Technology Acquisition Corp Unit,9.97,0.0,110,Finance
-MSD,Morgan Stanley Emerging Markets Debt Fund Inc. Common Stock,6.62,0.0,33865,Finance
-NSAIR,NorthStrive Acquisition Corp I. Rights,0.17,0.0,49,Finance
-NSAIU,NorthStrive Acquisition Corp I. Units,10.1,0.0,428,Uncategorized
-NSAIW,NorthStrive Acquisition Corp I. Warrants,0.025,0.0,363,Finance
-NTWO,Newbury Street II Acquisition Corp Class A Ordinary Shares,10.84,0.0,58355,Uncategorized
-NTWOU,Newbury Street II Acquisition Corp Unit,11.0,0.0,400,Uncategorized
-NTWOW,Newbury Street II Acquisition Corp Warrant,0.5003,0.0,3361,Uncategorized
-NPAC,New Providence Acquisition Corp. III Class A Ordinary Shares,10.59,0.0,1245,Finance
-OACCU,Oaktree Acquisition Corp. III Life Sciences Unit,10.7598,0.0,2500,Finance
-OACCW,Oaktree Acquisition Corp. III Life Sciences Warrant,0.674,0.0,5110,Finance
-OBMT,Opportunity Bancorp Inc. Common Stock,19.67,0.0,23616,Uncategorized
-OCCIM,OFS Credit Company Inc. 7.875% Series F Term Preferred Stock,24.59,0.0,10,Uncategorized
-NUV,Nuveen Municipal Value Fund Inc. Common Stock,8.355,0.0,1231455,Finance
-NUW,Nuveen AMT-Free Municipal Value Fund,13.62,0.0,59778,Finance
-NVG,Nuveen AMT-Free Municipal Credit Income Fund ,10.98,0.0,1292571,Finance
-NSAI,NorthStrive Acquisition Corp I. Class A Ordinary Shares,9.98,0.0,127,Finance
-NHS,Neuberger High Yield Strategies Fund Inc. Common Stock,5.39,0.0,150366,Finance
-NCA,Nuveen California Municipal Value Fund,8.3,0.0,147217,Finance
-NCO,Southern Cross Acquisition I Corp. Ordinary Shares,10.0,0.0,11,Uncategorized
-NCOOR,Southern Cross Acquisition I Corp. Rights,0.1601,0.0,50,Finance
-NCOOU,Southern Cross Acquisition I Corp. Units,10.13,0.0,12,Finance
-NCOOW,Southern Cross Acquisition I Corp. Warrants,0.0251,0.0,5729,Uncategorized
-MUZEW,Muzero Acquisition Corp Warrant,0.21,0.0,3547,Finance
-SOCA,Solarius Capital Acquisition Corp. Class A Ordinary Share,10.47,0.0,9,Uncategorized
-SOCAU,Solarius Capital Acquisition Corp. Units,10.6,0.0,149,Finance
-SOCAW,Solarius Capital Acquisition Corp. Warrant,0.15,0.0,43100,Uncategorized
-SOJF,Southern Company (The) Series 2025A 6.50% Junior Subordinated Notes due March 15 2085,22.0,0.0,109352,Utilities
-NAZ,Nuveen Arizona Quality Municipal Income Fund Common Stock,10.31,0.0,31676,Finance
-NBB,Nuveen Taxable Municipal Income Fund Common Shares of Beneficial Interest,14.475,0.0,86118,Finance
-NBH,Neuberger Municipal Fund Inc. Common Stock,9.41,0.0,231063,Finance
-NHIVU,NewHold Investment Corp IV Units,10.03,0.0,5,Finance
-NHIVW,NewHold Investment Corp IV Warrants,0.39,0.0,1801,Finance
-NBXG,Neuberger Next Generation Connectivity Fund Inc. Common Stock,13.29,0.0,559508,Finance
-ALPX,Alpex Acquisition Corporation Class A Ordinary Shares,10.02,0.0,128,Finance
-QUMSR,Quantumsphere Acquisition Corp. Rights,0.0977,0.0,5574,Uncategorized
-QUMSU,Quantumsphere Acquisition Corp. Units,10.5,0.0,10,Uncategorized
-RA,Brookfield Real Assets Income Fund Inc. Common Stock,11.695,0.0,188457,Finance
-RACC,Research Alliance Corporation III Class A Ordinary Shares,12.84,0.0,16900,Finance
-RACD,Research Alliance Corporation IV Class A Ordinary Shares,10.35,0.0,66,Uncategorized
-SCAT,Southern Cross Acquisition II Corp. Ordinary Shares,9.95,0.0,508,Finance
-SCATR,Southern Cross Acquisition II Corp. Rights,0.13,0.0,10693,Finance
-SCATU,Southern Cross Acquisition II Corp. Units,10.02,0.0,13,Finance
-SCATW,Southern Cross Acquisition II Corp. Warrants,0.03,0.0,16884,Finance
-QSEA,Quartzsea Acquisition Corporation Ordinary Shares,10.75,0.0,125,Finance
-QSEAR,Quartzsea Acquisition Corporation Rights,0.245,0.0,2503,Finance
-QSEAU,Quartzsea Acquisition Corporation Units,10.85,0.0,40,Finance
-QUMS,Quantumsphere Acquisition Corp. Ordinary Shares,10.45,0.0,25,Uncategorized
-OSPRU,Osprey Acquisition Corp. III Units,9.87,0.0,15063,Finance
-RCS,PIMCO Strategic Income Fund Inc.,4.82,0.0,225103,Finance
-RDAG,Republic Digital Acquisition Company Class A Ordinary Shares,10.51,0.0,7490,Finance
-RDAGU,Republic Digital Acquisition Company Unit,10.56,0.0,7819,Finance
-RDAGW,Republic Digital Acquisition Company Warrants,0.1403,0.0,2,Finance
-SAV,Saratoga Investment Corp 7.50% Notes due 2031,23.9,0.0,7098,Finance
-SAX,Saratoga Investment Corp 8.00% Notes due 2031,24.45,0.0,60825,Finance
-SBI,Western Asset Intermediate Muni Fund Inc Common Stock,7.13,0.0,111192,Finance
-RNAQW,Rainier Acquisition Corporation Warrants,0.56,0.0,1300,Finance
-RIV,RiverNorth Opportunities Fund Inc. Common Stock,9.5,0.0,169260,Finance
-RANG,Range Capital Acquisition Corp. Ordinary Shares,10.97,0.0,19,Finance
-RANGR,Range Capital Acquisition Corp. Rights,0.17,0.0,82333,Finance
-RANGU,Range Capital Acquisition Corp. Units,11.11,0.0,500,Finance
-RCD,Ready Capital Corporation 9.00% Senior Notes due 2029,17.88,0.0,9690,Real Estate
-PTORW,Praetorian Acquisition Corp. Warrant,0.1802,0.0,20294,Finance
-PTY,Pimco Corporate & Income Opportunity Fund,10.535,0.0,1265366,Finance
-RCG,RENN Fund Inc Common Stock,2.62,0.0,157,Finance
-AACI,Armada Acquisition Corp. III Class A Ordinary Share,10.12,0.0,2052637,Finance
-AACPU,Apogee Acquisition Corp Units,10.24,0.0,956,Finance
-AACPW,Apogee Acquisition Corp Warrant,0.0598,0.0,84,Finance
-ACAA,Averin Capital Acquisition Corp. Class A Ordinary Shares,10.0,0.0,11475,Finance
-ACAAU,Averin Capital Acquisition Corp. Units,10.11,0.0,512,Finance
-AACP,Apogee Acquisition Corp Class A Ordinary Shares,10.13,0.0,249,Finance
-ZTR,Virtus Total Return Fund Inc.,6.315,0.0,158796,Finance
-AACOW,Abony Acquisition Corp. I Warrants,0.29,0.0,23466,Uncategorized
-AACOU,Abony Acquisition Corp. I Units,10.1,0.0,10804,Uncategorized
-AACO,Abony Acquisition Corp. I Class A Ordinary Share,10.025,0.0,24046,Uncategorized
-AACIW,Armada Acquisition Corp. III Warrant,0.1864,0.0,140,Finance
-AACIU,Armada Acquisition Corp. III Units,10.21,0.0,1228,Finance
-AFJKU,Aimei Health Technology Co. Ltd Unit,12.03,0.0,1287,Uncategorized
-XSLL,Xsolla SPAC 1 Class A Ordinary Shares,10.06,0.0,2598,Finance
-XSLLU,Xsolla SPAC 1 Units,10.1,0.0,205,Finance
-ADAMO,Adamas Trust Inc. 9.250% Senior Notes Due 2031,23.18,0.0,40630,Real Estate
-XTER,Xterax Corporation II Class A Ordinary Shares,9.81,0.0,26920,Finance
-XTERU,Xterax Corporation II Units,9.87,0.0,11,Uncategorized
-XTERW,Xterax Corporation II Warrants,0.1305,0.0,33,Finance
-AACPR,Apogee Acquisition Corp Rights,0.16,0.0,10,Finance
-ACGC,ACP Holdings Acquisition Corp. Class A Ordinary Shares,10.15,0.0,165041,Finance
-ACGCW,ACP Holdings Acquisition Corp. Warrants,0.27,0.0,56055,Finance
-ACP,abrdn Income Credit Strategies Fund Common Shares,4.13,0.0,856929,Finance
-ADAC,American Drive Acquisition Company Class A Ordinary Shares,10.14,0.0,9022,Finance
-XRPN,Evernorth Holdings Inc. Class A Ordinary Shares,7.19,0.0,308800,Finance
-XRPNW,Evernorth Holdings Inc. Warrants,1.29,0.0,161077,Finance
-ADACU,American Drive Acquisition Company Units,10.3,0.0,934,Finance
-ADACW,American Drive Acquisition Company Warrant,0.25,0.0,1131,Finance
-ADAMG,Adamas Trust Inc. 9.125% Senior Notes Due 2030,23.47,0.0,9397,Real Estate
-ADAMH,Adamas Trust Inc. 9.875% Senior Notes Due 2030,23.82,0.0,10982,Real Estate
-ADAMK,Adamas Trust Inc. 9.600% Senior Notes Due 2031 ,23.28,0.0,73526,Real Estate
-XSLLW,Xsolla SPAC 1 Warrants,0.1604,0.0,552,Finance
-PCAPU,ProCap Acquisition Corp Unit,10.5,0.0,2459,Uncategorized
-PCAPW,ProCap Acquisition Corp Warrant,0.1703,0.0,1264,Finance
-PHK,Pimco High Income Fund,3.96,0.0,990964,Finance
-PECE,Peace Acquisition Corp Ordinary Shares,10.065,0.0,1165,Finance
-PECER,Peace Acquisition Corp Right,0.32,0.0,10,Finance
-PECEU,Peace Acquisition Corp Units,10.47,0.0,89,Finance
-PECEW,Peace Acquisition Corp Warrant,0.0772,0.0,400,Finance
-PEO,Adams Natural Resources Fund Inc. Common Stock,26.54,0.0,69955,Finance
-PFD,Flaherty & Crumrine Preferred and Income Fund Incorporated,10.3,0.0,70731,Finance
-PLMKW,Plum Acquisition Corp. IV Warrants,0.29,0.0,100,Uncategorized
-PML,Pimco Municipal Income Fund II Common Shares of Beneficial Interest,6.825,0.0,791524,Finance
-PMTR,Perimeter Acquisition Corp. I Class A Ordinary Shares,10.5,0.0,18197,Finance
-PGAC,Pantages Capital Acquisition Corporation Class A Ordinary Shares,10.86,0.0,10,Uncategorized
-PGACR,Pantages Capital Acquisition Corporation Right,0.13,0.0,2,Uncategorized
-PMTRU,Perimeter Acquisition Corp. I Unit,10.63,0.0,12,Finance
-PGP,Pimco Global StocksPlus & Income Fund Common Shares of Beneficial Interest,7.6,0.0,78931,Finance
-POLE,Andretti Acquisition Corp. II Class A Ordinary Shares,10.77,0.0,11890,Uncategorized
-POLEU,Andretti Acquisition Corp. II Unit,10.81,0.0,201,Uncategorized
-POLEW,Andretti Acquisition Corp. II Warrant,0.15,0.0,9000,Uncategorized
-PLCI,Pelican Acquisition II Corporation Ordinary Shares,9.92,0.0,320,Finance
-PLCIR,Pelican Acquisition II Corporation Right,0.0701,0.0,3360,Finance
-PLCIU,Pelican Acquisition II Corporation Unit,10.03,0.0,3,Finance
-PLMK,Plum Acquisition Corp. IV Class A Ordinary Shares,10.67,0.0,3087,Uncategorized
-PLMKU,Plum Acquisition Corp. IV Unit,10.81,0.0,233,Uncategorized
-PAACW,Proem Acquisition Corp I Warrants,0.44,0.0,905,Finance
-PACH,Pioneer Acquisition I Corp Class A Ordinary Shares,10.44,0.0,4366,Uncategorized
-PACHU,Pioneer Acquisition I Corp Units,10.49,0.0,7,Uncategorized
-PACHW,Pioneer Acquisition I Corp Warrants,0.1149,0.0,1216,Uncategorized
-PAI,Western Asset Investment Grade Income Fund Inc.,11.39,0.0,12306,Finance
-OSPR,Osprey Acquisition Corp. III Class A Ordinary Shares,9.84,0.0,86551,Finance
-PGACU,Pantages Capital Acquisition Corporation Unit,10.91,0.0,4,Uncategorized
-PMTRW,Perimeter Acquisition Corp. I Warrant,0.34,0.0,1027,Finance
-PMTV,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,23.9,0.0,22027,Real Estate
-PMTW,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,24.21,0.0,10890,Real Estate
-PNI,Pimco New York Municipal Income Fund II Common Shares of Beneficial Interest,6.44,0.0,122742,Finance
-SCQCW,SPACCircle Acquisition Corp. Warrants,0.03,0.0,206250,Uncategorized
-SDHI,Siddhi Acquisition Corp Class A Common stock,10.63,0.0,99,Finance
-SDHIR,Siddhi Acquisition Corp Right,0.12,0.0,29552,Uncategorized
-SDHIU,Siddhi Acquisition Corp Unit,11.51,0.0,224,Finance
-PTAC,Patriot Acquisition Corp. Class A Ordinary Shares,10.12,0.0,15028,Finance
-PTACU,Patriot Acquisition Corp. Units,10.21,0.0,54,Uncategorized
-PTOR,Praetorian Acquisition Corp. Class A Ordinary Shares,10.0,0.0,9822,Finance
-PTORU,Praetorian Acquisition Corp. Units,10.07,0.0,125,Uncategorized
-SCIIU,SC II Acquisition Corp. Units,10.27,0.0,119,Uncategorized
-SCPQ,Social Commerce Partners Corporation Class A Ordinary Shares,10.12,0.0,42,Uncategorized
-SCPQU,Social Commerce Partners Corporation Unit,10.14,0.0,11259,Uncategorized
-PCAP,ProCap Acquisition Corp Class A Ordinary Shares,10.47,0.0,56,Finance
-SCQC,SPACCircle Acquisition Corp. Class A Ordinary Shares,9.87,0.0,424,Uncategorized
-SCQCR,SPACCircle Acquisition Corp. Rights,0.15,0.0,25431,Uncategorized
-SCQCU,SPACCircle Acquisition Corp. Units,10.04,0.0,4897,Uncategorized
-PWRL,Powerlaw Corp. Common Stock,10.25,0.0,81991,Uncategorized
-PYT,PPlus Tr GSC-2 Tr Ctf Fltg Rate,23.0,0.0,1011,Finance
-QADR,QDRO Acquisition Corp. Class A Ordinary Shares,10.09,0.0,3828,Finance
-QADRU,QDRO Acquisition Corp. Units,10.61,0.0,2795,Finance
-QADRW,QDRO Acquisition Corp. Warrant,0.1804,0.0,5698,Finance
-SCD,LMP Capital and Income Fund Inc. Common Stock,14.49,0.0,189959,Finance
-SCII,SC II Acquisition Corp. Class A ordinary share,10.25,0.0,7,Uncategorized
-SCIIR,SC II Acquisition Corp. Rights,0.15,0.0,4646,Uncategorized
-PFL,PIMCO Income Strategy Fund Shares of Beneficial Interest,6.7,0.0,238463,Finance
-PFLA,PennantPark Floating Rate Capital Ltd. 7.375% Notes Due 2031,24.06,0.0,8719,Finance
-PFN,PIMCO Income Strategy Fund II,6.06,0.0,550782,Finance
-PFO,Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated,8.42,0.0,17775,Finance
-SCPQW,Social Commerce Partners Corporation Warrant,0.19,0.0,2,Uncategorized
-ILLUW,Illumination Acquisition Corp I Warrant,0.2755,0.0,1004,Uncategorized
-INAC,Indigo Acquisition Corp. Ordinary Shares,10.47,0.0,109,Uncategorized
-INACR,Indigo Acquisition Corp. Right,0.0551,0.0,40,Uncategorized
-INACU,Indigo Acquisition Corp. Unit,10.61,0.0,3771,Uncategorized
-TEI,Templeton Emerging Markets Income Fund Inc. Common Stock,5.805,0.0,242260,Finance
-IPHX,Inflection Point Acquisition Corp. VIII Class A Ordinary Shares,9.79,0.0,18327,Uncategorized
-IPHXU,Inflection Point Acquisition Corp. VIII Unit,10.05,0.0,5102,Uncategorized
-IPHXW,Inflection Point Acquisition Corp. VIII Warrant,0.31,0.0,2307,Uncategorized
-IPVV,InterPrivate Investment Partners V Inc. Class A Ordinary Shares,9.86,0.0,105,Finance
-IPVVU,InterPrivate Investment Partners V Inc. Units,9.91,0.0,5,Finance
-TDAC,Translational Development Acquisition Corp. Ordinary Shares,10.92,0.0,28448,Uncategorized
-TDACU,Translational Development Acquisition Corp. Units,11.3,0.0,1682,Uncategorized
-TDACW,Translational Development Acquisition Corp. Warrants,0.6906,0.0,31882,Uncategorized
-TDF,Templeton Dragon Fund Inc. Common Stock,8.66,0.0,72108,Finance
-MTAKW,Market Technology Acquisition Corp Warrants,0.18,0.0,100,Uncategorized
-TDWDR,Tailwind 2.0 Acquisition Corp. Rights,0.1026,0.0,3900,Finance
-TDWDU,Tailwind 2.0 Acquisition Corp. Unit,10.72,0.0,207,Finance
-IRHOR,Iron Horse Acquisitions Corp. II Rights,0.0901,0.0,800,Finance
-IRHOU,Iron Horse Acquisitions II Corp. Units,10.21,0.0,1346,Finance
-ISD,PGIM High Yield Bond Fund Inc.,11.33,0.0,87014,Finance
-ISNR,Snow Rothschild Acquisition Corp. Class A Ordinary Shares,9.82,0.0,145,Finance
-ISNRU,Snow Rothschild Acquisition Corp. Units,10.5,0.0,1,Finance
-ISNRW,Snow Rothschild Acquisition Corp. Warrants,0.1728,0.0,1200,Finance
-ITHA,ITHAX Acquisition Corp III Class A Ordinary Shares,10.14,0.0,537,Uncategorized
-TCXB,TCGX Acquisition Corp. II Class A Ordinary Shares,10.14,0.0,2034,Uncategorized
-HYT,Blackrock Corporate High Yield Fund Inc. Common Stock,7.595,0.0,1975892,Finance
-IACO,Idea Acquisition Corp. Class A Ordinary Shares,10.01,0.0,8,Finance
-IACOU,Idea Acquisition Corp. Units,10.08,0.0,301,Finance
-IACOW,Idea Acquisition Corp. Warrants,0.24,0.0,366,Finance
-IACQ,Irenic Acquisition Corp. Class A Ordinary Shares,9.96,0.0,86909,Finance
-TDWD,Tailwind 2.0 Acquisition Corp. Class A Ordinary Shares,10.18,0.0,11,Finance
-IPXG,Inflection Point Acquisition Corp. VII Class A Ordinary Shares,9.8,0.0,14230,Finance
-IPXGU,Inflection Point Acquisition Corp. VII Unit,10.1,0.0,69980,Finance
-IPXGW,Inflection Point Acquisition Corp. VII Warrant,0.5353,0.0,21755,Finance
-IRHO,Iron Horse Acquisitions II Corp. Common Stock,10.12,0.0,20919,Finance
-TAVIR,Tavia Acquisition Corp. Right,0.0633,0.0,505977,Finance
-TAVIU,Tavia Acquisition Corp. Unit,10.91,0.0,6,Finance
-TBCV,Thunder Bridge Capital Partners V Ltd. Class A Ordinary Shares,9.78,0.0,110,Finance
-TBCVU,Thunder Bridge Capital Partners V Ltd. Units,9.85,0.0,666,Finance
-TBCVW,Thunder Bridge Capital Partners V Ltd. Warrants,0.2201,0.0,667,Finance
-TCGX,TCGX Acquisition Corp. Class A Ordinary Shares,10.04,0.0,18582,Finance
-ITHAU,ITHAX Acquisition Corp III Units,10.15,0.0,10801,Uncategorized
-ITHAW,ITHAX Acquisition Corp III Warrants,0.1011,0.0,431,Uncategorized
-JRI,Nuveen Real Asset Income and Growth Fund Common Shares of Beneficial Interest,10.9,0.0,133881,Finance
-JRS,Nuveen Real Estate Income Fund Common Shares of Beneficial Interest,7.55,0.0,68995,Finance
-ILLUU,Illumination Acquisition Corp I Units,10.07,0.0,33,Finance
-TACHU,Titan Acquisition Corp. Units,10.7,0.0,596,Finance
-TACHW,Titan Acquisition Corp. Warrants,0.2929,0.0,58283,Finance
-TACOU,Berto Acquisition Corp. Unit,10.68,0.0,296,Finance
-TACOW,Berto Acquisition Corp. Warrant,0.33,0.0,30256,Finance
-TAVI,Tavia Acquisition Corp. Ordinary Shares,10.86,0.0,1539,Finance
-JLS,Nuveen Mortgage and Income Fund,16.14,0.0,10936,Finance
-JMM,Nuveen Multi-Market Income Fund (MA),5.5,0.0,2087,Finance
-JOF,Japan Smaller Capitalization Fund Inc Common Stock,10.27,0.0,48455,Finance
-JONE,Jones Ventures INTL Acquisition1 Corp Class A Ordinary Shares,9.8805,0.0,34,Finance
-JONER,Jones Ventures INTL Acquisition1 Corp Rights,0.1176,0.0,1400,Finance
-JONEU,Jones Ventures INTL Acquisition1 Corp Units,10.1,0.0,3209,Uncategorized
-JPC,Nuveen Preferred & Income Opportunities Fund,6.75,0.0,1789675,Finance
-JQC,Nuveen Credit Strategies Income Fund Shares of Beneficial Interest,4.52,0.0,663082,Finance
-IPVVW,InterPrivate Investment Partners V Inc. Warrants,0.1445,0.0,1133,Finance
-IIF,Morgan Stanley India Investment Fund Inc. Common Stock,24.0,0.0,18806,Finance
-TACH,Titan Acquisition Corp. Class A Ordinary Shares,10.61,0.0,216,Finance
-HCICU,Hennessy Capital Investment Corp. VIII Units,10.15,0.0,2,Uncategorized
-TMTS,Spartacus Acquisition Corp. II Class A Ordinary Shares,10.05,0.0,150,Uncategorized
-TMTSU,Spartacus Acquisition Corp. II Unit,10.09,0.0,457,Finance
-TMTSW,Spartacus Acquisition Corp. II Warrants,0.23,0.0,36294,Uncategorized
-TMUSI,T-Mobile US Inc. 5.500% Senior Notes due June 2070,17.92,0.0,57005,Telecommunications
-TMUSL,T-Mobile US Inc. 6.250% Senior Notes due 2069,20.35,0.0,52872,Telecommunications
-ZKPW,Lafayette Digital Acquisition Corp. I Warrant,0.16,0.0,361,Finance
-HTD,John Hancock Tax Advantaged Dividend Income Fund Common Shares of Beneficial Interest,22.47,0.0,112631,Finance
-HLXC,Helix Acquisition Corp. III Class A Ordinary Shares,10.26,0.0,372,Uncategorized
-TLACW,Three Lions Acquisition Corp. Warrants,0.1755,0.0,358,Uncategorized
-TLNC,Talon Capital Corp. Class A Ordinary Shares,10.3,0.0,302550,Finance
-TLNCU,Talon Capital Corp. Units,10.39,0.0,200,Finance
-TLNCW,Talon Capital Corp. Warrants,0.31,0.0,32624,Uncategorized
-IBAC,IB Acquisition Corp. Common Stock,10.84,0.0,15,Finance
-IACQU,Irenic Acquisition Corp. Unit,10.09,0.0,101,Finance
-HVMC,Highview Merger Corp. Class A Ordinary Share,10.34,0.0,2021,Uncategorized
-HVMCU,Highview Merger Corp. Units,10.41,0.0,1,Finance
-HVMCW,Highview Merger Corp. Warrants,0.1508,0.0,1106,Uncategorized
-HPF,John Hancock Pfd Income Fund II Pfd Income Fund II,12.41,0.0,72699,Finance
-HPI,John Hancock Preferred Income Fund Common Shares of Beneficial Interest,12.475,0.0,79427,Finance
-HPS,John Hancock Preferred Income Fund III Preferred Income Fund III,11.33,0.0,160282,Finance
-GSRVR,GSR V Acquisition Corp. Rights,1.375,0.0,154,Finance
-GSRVU,GSR V Acquisition Corp. Units,10.1,0.0,593,Finance
-GOF,Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest,8.57,0.0,1650281,Finance
-GPAC,General Purpose Acquisition Corp. Class A Ordinary Shares,10.17,0.0,14846,Uncategorized
-GPACU,General Purpose Acquisition Corp. Units,10.25,0.0,1,Uncategorized
-GPACW,General Purpose Acquisition Corp. Warrant,0.2001,0.0,90000,Industrials
-GPAT,GP-Act III Acquisition Corp. Class A Ordinary Share,11.06,0.0,772,Uncategorized
-GRF,Eagle Capital Growth Fund Inc. Common Stock,10.255,0.0,3948,Finance
-GSHR,Gesher Acquisition Corp. II Class A Ordinary Shares,10.66,0.0,115,Uncategorized
-IBACR,IB Acquisition Corp. Right,0.115,0.0,4417,Finance
-IACQW,Irenic Acquisition Corp. Warrants,0.35,0.0,33576,Finance
-IAF,abrdn Australia Equity Fund Inc. Common Stock,11.11,0.0,36014,Finance
-IFN,Aberdeen India Fund Inc. Common Stock,11.4,0.0,371489,Finance
-IGA,Voya Global Advantage and Premium Opportunity Fund Common Shares of Beneficial Interest,10.08,0.0,73565,Finance
-IGAC,Invest Green Acquisition Corporation Class A Ordinary Shares,10.16,0.0,8,Finance
-IGACR,Invest Green Acquisition Corporation Rights,0.125,0.0,3900,Uncategorized
-IGACU,Invest Green Acquisition Corporation Units,10.72,0.0,3,Finance
-IGD,Voya Global Equity Dividend and Premium Opportunity Fund,6.29,0.0,356815,Finance
-IGI,Western Asset Investment Grade Opportunity Trust Inc. Common Stock,15.22,0.0,8963,Finance
-IGR,CBRE Global Real Estate Income Fund Common Shares of Beneficial Interest,10.72,0.0,687422,Finance
+RWTS,Redwood Trust Inc. 9.75% Senior Notes Due 2031,19.55,0.0,28859,Real Estate
 IDAC,Iron Dome Acquisition I Corp. Class A Ordinary Shares,10.03,0.0,210,Uncategorized
 IDACU,Iron Dome Acquisition I Corp. Units,10.21,0.0,356,Uncategorized
 IDACW,Iron Dome Acquisition I Corp. Warrant,0.215,0.0,700,Uncategorized
 IDE,Voya Infrastructure Industrials and Materials Fund Common Shares of Beneficial Interest,11.34,0.0,61360,Finance
 IEAG,Infinite Eagle Acquisition Corp. Class A Ordinary Shares,10.18,0.0,60,Finance
-HCICR,Hennessy Capital Investment Corp. VIII Share Rights,0.0728,0.0,1707,Uncategorized
-IEAGU,Infinite Eagle Acquisition Corp. Unit,10.24,0.0,114,Uncategorized
+IEAGR,Infinite Eagle Acquisition Corp. Rights,0.1526,0.0,1500,Finance
+INACU,Indigo Acquisition Corp. Unit,10.61,0.0,3771,Uncategorized
+CCIIW,Cohen Circle Acquisition Corp. II Warrant,0.4151,0.0,300,Uncategorized
+FWAC,Futurewave Acquisition Corporation Ordinary Shares,10.0,0.0,78,Finance
+FWACR,Futurewave Acquisition Corporation Rights,0.15,0.0,13898,Finance
+FWACU,Futurewave Acquisition Corporation Units,10.92,0.0,1,Finance
+FWACW,Futurewave Acquisition Corporation Warrants,0.03,0.0,15054,Finance
+FXAC,FortuneX Acquisition Corporation Ordinary shares,10.17,0.0,14,Finance
+FXACU,FortuneX Acquisition Corporation Units,10.22,0.0,103,Finance
+FXACW,FortuneX Acquisition Corporation Warrant,0.1601,0.0,201,Finance
+GAING,Gladstone Investment Corporation 7.125% Notes due 2031,24.82,0.0,3016,Finance
+GAINI,Gladstone Investment Corporation 7.875% Notes due 2030,24.97,0.0,11088,Finance
+GCGR,General Catalyst Global Resilience Merger Corp. Class A Ordinary Shares,9.97,0.0,10548,Uncategorized
+SZZL,Sizzle Acquisition Corp. II Class A ordinary shares,10.56,0.0,4456,Finance
+ALPXR,Alpex Acquisition Corporation Rights,0.1552,0.0,600,Finance
+ALPXU,Alpex Acquisition Corporation Unit,10.18,0.0,64,Finance
+TBCVU,Thunder Bridge Capital Partners V Ltd. Units,9.85,0.0,666,Finance
+AMAN,Amanat Acquisition Corp Class A Ordinary Shares,10.1,0.0,7010,Finance
+SZZLR,Sizzle Acquisition Corp. II Right,0.0901,0.0,3190,Finance
+SZZLU,Sizzle Acquisition Corp. II Unit,10.89,0.0,2,Finance
+TACH,Titan Acquisition Corp. Class A Ordinary Shares,10.61,0.0,216,Finance
+FSSL,FS Specialty Lending Fund Common Shares of Beneficial Interest,11.745,0.0,275382,Finance
+FVAV,Fortress Value Acquisition Corp. V Class A Ordinary Shares,10.2399,0.0,2570,Uncategorized
+TACHU,Titan Acquisition Corp. Units,10.7,0.0,596,Finance
+TACHW,Titan Acquisition Corp. Warrants,0.2929,0.0,58283,Finance
+TACOU,Berto Acquisition Corp. Unit,10.68,0.0,296,Finance
+TACOW,Berto Acquisition Corp. Warrant,0.33,0.0,30256,Finance
+TAVI,Tavia Acquisition Corp. Ordinary Shares,10.86,0.0,1539,Finance
+TAVIR,Tavia Acquisition Corp. Right,0.0633,0.0,505977,Finance
+TAVIU,Tavia Acquisition Corp. Unit,10.91,0.0,6,Finance
+TBCV,Thunder Bridge Capital Partners V Ltd. Class A Ordinary Shares,9.78,0.0,110,Finance
+ALPXW,Alpex Acquisition Corporation Warrants,0.025,0.0,7000,Finance
+TDWD,Tailwind 2.0 Acquisition Corp. Class A Ordinary Shares,10.18,0.0,11,Finance
+TDWDR,Tailwind 2.0 Acquisition Corp. Rights,0.1026,0.0,3900,Finance
+TDWDU,Tailwind 2.0 Acquisition Corp. Unit,10.72,0.0,207,Finance
+TEI,Templeton Emerging Markets Income Fund Inc. Common Stock,5.805,0.0,242260,Finance
 THEO,BOA Acquisition Corp. II Class A Ordinary Shares,9.97,0.0,356,Finance
 THEOR,BOA Acquisition Corp. II Rights,0.28,0.0,10031,Finance
 THEOU,BOA Acquisition Corp. II Units,10.23,0.0,5716,Finance
+FLSC,Frazier Life Sciences Acquisition Corp. II Class A Ordinary Shares,10.03,0.0,2901,Uncategorized
+FMAC,Future Money Acquisition Corporation Ordinary Shares,10.21,0.0,15,Finance
+FMACR,Future Money Acquisition Corporation Rights,0.156,0.0,600,Finance
+FMACU,Future Money Acquisition Corporation Units,10.14,0.0,79,Finance
+FMY,First Trust Mortgage Income Fund Common Shares of Beneficial Interest,10.98,0.0,6617,Finance
 THQ,abrdn Healthcare Opportunities Fund Shares of Beneficial Interest,18.06,0.0,165247,Finance
 THW,abrdn World Healthcare Fund Shares of Beneficial Interest,12.83,0.0,102802,Finance
-THYP,21shares Hyperliquid Staking ETF,36.2604,0.0,81,Finance
+IEAGU,Infinite Eagle Acquisition Corp. Unit,10.24,0.0,114,Uncategorized
 TLAC,Three Lions Acquisition Corp. Ordinary Shares,9.82,0.0,1035,Uncategorized
 TLACU,Three Lions Acquisition Corp. Units,9.99,0.0,3,Uncategorized
-HEQ,John Hancock Diversified Income Fund Common Shares of Beneficial Interest,10.97,0.0,21034,Finance
-HERZ,Herzfeld Credit Income Fund Inc. Common Stock,13.075,0.0,2347,Finance
-HFRO,Highland Opportunities and Income Fund Common Shares of Beneficial Interest,5.345,0.0,134793,Finance
-HIO,Western Asset High Income Opportunity Fund Inc. Common Stock,3.21,0.0,463321,Finance
-HIX,Western Asset High Income Fund II Inc. Common Stock,3.325,0.0,325948,Finance
-HCIC,Hennessy Capital Investment Corp. VIII Class A Ordinary Shares,9.99,0.0,10,Uncategorized
-IEAGR,Infinite Eagle Acquisition Corp. Rights,0.1526,0.0,1500,Finance
-MMD,NYLIM MacKay DefinedTerm Muni Opportunities Fund Common Shares,14.115,0.0,124293,Finance
-MMU,Western Asset Managed Municipals Fund Inc. Common Stock,9.27,0.0,570360,Finance
-MHF,Western Asset Municipal High Income Fund Inc. Common Stock,6.3,0.0,136658,Finance
-MIAC,Meridian3 Industrials Acquisition Corp Class A Ordinary Shares,9.81,0.0,10,Uncategorized
-MIACU,Meridian3 Industrials Acquisition Corp Units,10.0,0.0,1024,Uncategorized
-MIACW,Meridian3 Industrials Acquisition Corp Warrant,0.2505,0.0,1200,Uncategorized
-LOVIW,Live Oak Acquisition Corp. VI Warrants,0.2133,0.0,112681,Finance
-LPAA,Launch One Acquisition Corp. Class A Ordinary shares,10.74,0.0,26,Uncategorized
+TLACW,Three Lions Acquisition Corp. Warrants,0.1755,0.0,358,Uncategorized
+TLNC,Talon Capital Corp. Class A Ordinary Shares,10.3,0.0,302550,Finance
+TLNCU,Talon Capital Corp. Units,10.39,0.0,200,Finance
+TLNCW,Talon Capital Corp. Warrants,0.31,0.0,32624,Uncategorized
+TMTS,Spartacus Acquisition Corp. II Class A Ordinary Shares,10.05,0.0,150,Uncategorized
+ITHAW,ITHAX Acquisition Corp III Warrants,0.1011,0.0,431,Uncategorized
+FJDIW,ARC Group Securities Acquisition I Warrants,0.0221,0.0,3588,Uncategorized
+CEE,The Central and Eastern Europe Fund Inc. (The) Common Stock,17.25,0.0,12930,Finance
+FLC,Flaherty & Crumrine Total Return Fund Inc Common Stock,15.32,0.0,88560,Finance
+FGII,FG Imperii Acquisition Corp. Class A Ordinary Shares,10.11,0.0,1689,Finance
+FGIIU,FG Imperii Acquisition Corp. Units,10.18,0.0,3,Finance
+FGIIW,FG Imperii Acquisition Corp. Warrants,0.24,0.0,51932,Finance
+THYP,21shares Hyperliquid Staking ETF,36.2604,0.0,81,Finance
+IFN,Aberdeen India Fund Inc. Common Stock,11.4,0.0,371489,Finance
+KTH,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,27.69,0.0,696,Finance
+KTN,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),25.85,0.0,4614,Finance
+QADR,QDRO Acquisition Corp. Class A Ordinary Shares,10.09,0.0,3828,Finance
+QADRU,QDRO Acquisition Corp. Units,10.61,0.0,2795,Finance
+QADRW,QDRO Acquisition Corp. Warrant,0.1804,0.0,5698,Finance
+QSEA,Quartzsea Acquisition Corporation Ordinary Shares,10.75,0.0,125,Finance
+QSEAR,Quartzsea Acquisition Corporation Rights,0.245,0.0,2503,Finance
+BIXIU,Bitcoin Infrastructure Acquisition Corp Ltd. Unit ,10.23,0.0,11,Finance
+BIXIW,Bitcoin Infrastructure Acquisition Corp Ltd. Warrant,0.15,0.0,1521,Uncategorized
+PAXG,Pine Tree Acquisition Corp. Class A Ordinary Shares,9.89,0.0,41838,Finance
+PAXGR,Pine Tree Acquisition Corp. Rights,0.1725,0.0,24821,Finance
+PAXGU,Pine Tree Acquisition Corp. Units,10.01,0.0,143,Finance
+PAXS,PIMCO Access Income Fund Common Shares of Beneficial Interest,12.67,0.0,504579,Finance
+TDF,Templeton Dragon Fund Inc. Common Stock,8.66,0.0,72108,Finance
+PCAPU,ProCap Acquisition Corp Unit,10.5,0.0,2459,Uncategorized
+PCAPW,ProCap Acquisition Corp Warrant,0.1703,0.0,1264,Finance
+PCF,High Income Securities Fund Common Stock,5.08,0.0,217339,Finance
+PCM,PCM Fund Inc. Common Stock,4.86,0.0,40707,Finance
+PCN,Pimco Corporate & Income Strategy Fund Common Stock,10.395,0.0,454616,Finance
+PCQ,PIMCO California Municipal Income Fund Common Stock,8.07,0.0,258344,Finance
+MEGI,NYLIM CBRE Global Infrastructure Megatrends Term Fund Common Shares,13.77,0.0,130806,Finance
+FPF,First Trust Intermediate Duration Preferred & Income Fund Common Shares of Beneficial Interest,15.71,0.0,183015,Finance
+FSHP,Flag Ship Acquisition Corp. Ordinary Shares,11.41,0.0,11,Uncategorized
+FSHPR,Flag Ship Acquisition Corp. Right,0.0905,0.0,1604,Uncategorized
+FSHPU,Flag Ship Acquisition Corp. Unit,12.46,0.0,1,Uncategorized
+TDAC,Translational Development Acquisition Corp. Ordinary Shares,10.92,0.0,28448,Uncategorized
+TDACU,Translational Development Acquisition Corp. Units,11.3,0.0,1682,Uncategorized
+TDACW,Translational Development Acquisition Corp. Warrants,0.6906,0.0,31882,Uncategorized
+PCAP,ProCap Acquisition Corp Class A Ordinary Shares,10.47,0.0,56,Finance
+GGN,GAMCO Global Gold Natural Resources & Income Trust,4.595,0.0,1542118,Finance
+GHXI,Gores Holdings XI Inc. Class A Ordinary Shares,9.88,0.0,50,Uncategorized
+GHXIU,Gores Holdings XI Inc. Units,10.09,0.0,14,Uncategorized
+GHXIW,Gores Holdings XI Inc. Warrant,0.348,0.0,4100,Uncategorized
+GHY,PGIM Global High Yield Fund Inc.,10.48,0.0,140629,Finance
+GIW,GigCapital8 Corp. Class A Ordinary Shares,10.27,0.0,5339,Finance
+GIWWR,GigCapital8 Corp. Rights,0.17,0.0,11,Uncategorized
+GIWWU,GigCapital8 Corp. Units,10.37,0.0,6,Finance
+GIX,GigCapital9 Corp. Class A Ordinary Share,10.1,0.0,13,Finance
+GIXXR,GigCapital9 Corp. Rights,0.0851,0.0,11105,Finance
+MCN,XAI Madison Equity Premium Income Fund Common Shares,5.18,0.0,39718,Uncategorized
+LWACU,LightWave Acquisition Corp. Units,10.42,0.0,1000,Finance
+LWACW,LightWave Acquisition Corp. Warrants,0.1303,0.0,225,Finance
+CCIIU,Cohen Circle Acquisition Corp. II Unit,10.47,0.0,1,Uncategorized
+PECER,Peace Acquisition Corp Right,0.32,0.0,10,Finance
+PECEU,Peace Acquisition Corp Units,10.47,0.0,89,Finance
+PECEW,Peace Acquisition Corp Warrant,0.0772,0.0,400,Finance
+PEO,Adams Natural Resources Fund Inc. Common Stock,26.54,0.0,69955,Finance
+PFD,Flaherty & Crumrine Preferred and Income Fund Incorporated,10.3,0.0,70731,Finance
+PFL,PIMCO Income Strategy Fund Shares of Beneficial Interest,6.7,0.0,238463,Finance
+PFLA,PennantPark Floating Rate Capital Ltd. 7.375% Notes Due 2031,24.06,0.0,8719,Finance
+PFN,PIMCO Income Strategy Fund II,6.06,0.0,550782,Finance
+PFO,Flaherty & Crumrine Preferred and Income Opportunity Fund Incorporated,8.42,0.0,17775,Finance
+PGAC,Pantages Capital Acquisition Corporation Class A Ordinary Shares,10.86,0.0,10,Uncategorized
+PGACR,Pantages Capital Acquisition Corporation Right,0.13,0.0,2,Uncategorized
+PGACU,Pantages Capital Acquisition Corporation Unit,10.91,0.0,4,Uncategorized
+LWAC,LightWave Acquisition Corp. Class A Ordinary Shares,10.41,0.0,258,Finance
+GIXXU,GigCapital9 Corp. Units,10.16,0.0,1015,Finance
+PECE,Peace Acquisition Corp Ordinary Shares,10.065,0.0,1165,Finance
+PLCI,Pelican Acquisition II Corporation Ordinary Shares,9.92,0.0,320,Finance
+PLCIR,Pelican Acquisition II Corporation Right,0.0701,0.0,3360,Finance
+PLCIU,Pelican Acquisition II Corporation Unit,10.03,0.0,3,Finance
+PLMK,Plum Acquisition Corp. IV Class A Ordinary Shares,10.67,0.0,3087,Uncategorized
+PLMKU,Plum Acquisition Corp. IV Unit,10.81,0.0,233,Uncategorized
 LPAAU,Launch One Acquisition Corp. Unit,11.05,0.0,3,Finance
 LPAAW,Launch One Acquisition Corp. Warrant,0.0501,0.0,6896,Finance
 LPBB,Launch Two Acquisition Corp. Class A Ordinary Shares,10.85,0.0,51,Uncategorized
 LPBBU,Launch Two Acquisition Corp. Unit,10.84,0.0,143,Finance
 LPBBW,Launch Two Acquisition Corp. Warrant,0.1399,0.0,3210,Finance
 LPCV,Launchpad Cadenza Acquisition Corp I Class A Ordinary Share,10.1,0.0,8,Uncategorized
-JCE,Nuveen Core Equity Alpha Fund Common Shares of Beneficial Interest,16.33,0.0,36943,Finance
-SSEA,Starry Sea Acquisition Corp	Ordinary Shares,10.51,0.0,28,Finance
-SSEAR,Starry Sea Acquisition Corp Rights,0.0702,0.0,210,Finance
-SSEAU,Starry Sea Acquisition Corp Unit,11.0,0.0,1040,Finance
-STEW,SRH Total Return Fund Inc. Common Stock,18.53,0.0,103096,Finance
-STK,Columbia Seligman Premium Technology Growth Fund Inc,47.19,0.0,129299,Finance
-LOVI,Live Oak Acquisition Corp. VI Class A Ordinary Shares,9.81,0.0,3011,Finance
-LOVIU,Live Oak Acquisition Corp. VI Units,9.96,0.0,8315,Finance
-MCGAW,Yorkville Acquisition Corp. Warrant,0.15,0.0,1000,Uncategorized
-LTGR,Long Table Growth Corp. Class A Ordinary Shares,10.01,0.0,3363,Finance
-LTGRU,Long Table Growth Corp. Units,10.23,0.0,3,Finance
-LTGRW,Long Table Growth Corp. Warrants,0.22,0.0,1400,Uncategorized
-LWAC,LightWave Acquisition Corp. Class A Ordinary Shares,10.41,0.0,258,Finance
-LWACU,LightWave Acquisition Corp. Units,10.42,0.0,1000,Finance
-LWACW,LightWave Acquisition Corp. Warrants,0.1303,0.0,225,Finance
-MBVI,M3-Brigade Acquisition VI Corp. Class A Ordinary Shares,10.33,0.0,20674,Uncategorized
-SSACW,SPACSphere Acquisition Corp. Warrant,0.0449,0.0,18194,Finance
-MUZE,Muzero Acquisition Corp Class A Ordinary Shares,10.06,0.0,3421,Finance
-MUZEU,Muzero Acquisition Corp Unit,10.21,0.0,619,Finance
-SORN,Soren Acquisition Corp. Class A Ordinary Shares,10.06,0.0,9,Finance
-MXE,Mexico Equity and Income Fund Inc. (The) Common Stock,12.75,0.0,10617,Finance
-MXF,Mexico Fund Inc. (The) Common Stock,20.36,0.0,125532,Finance
-MYN,Blackrock MuniYield New York Quality Fund Inc.Common Stock,9.01,0.0,290953,Finance
-MYX,Maywood Acquisition Corp. 2 Class A Ordinary Share,10.05,0.0,12,Finance
-MYXXR,Maywood Acquisition Corp. 2 Rights,0.2001,0.0,34317,Finance
-MYXXU,Maywood Acquisition Corp. 2 Units,10.71,0.0,469,Finance
-MYXXW,Maywood Acquisition Corp. 2 Warrants,0.08,0.0,600,Finance
-NAC,Nuveen California Quality Municipal Income Fund,9.895,0.0,1644337,Finance
-MEVO,M Evo Global Acquisition Corp II Class A Ordinary Shares,10.04,0.0,11,Finance
-MEVOU,M Evo Global Acquisition Corp II Units,10.14,0.0,2,Finance
-MEVOW,M Evo Global Acquisition Corp II Warrants,0.1713,0.0,791,Finance
-MCN,XAI Madison Equity Premium Income Fund Common Shares,5.18,0.0,39718,Uncategorized
-MLCIL,Mount Logan Capital Inc. 8.00% Notes Due 2031,21.5,0.0,2,Finance
+LPCVU,Launchpad Cadenza Acquisition Corp I Unit,10.47,0.0,986,Finance
+CATL, Catalyst Acquisition Corp. Class A Ordinary Share,9.81,0.0,1468,Finance
+CATLR,Catalyst Acquisition Corp. Rights,0.125,0.0,6505,Finance
+SSAC,SPACSphere Acquisition Corp. Class A Ordinary Shares,10.2,0.0,4534,Finance
+SPE,Special Opportunities Fund Inc Common Stock,11.75,0.0,33877,Finance
+SPEG,Silver Pegasus Acquisition Corp Class A Ordinary Shares,10.48,0.0,106,Finance
+SPEGR,Silver Pegasus Acquisition Corp Rights.,0.15,0.0,1,Finance
+SPEGU,Silver Pegasus Acquisition Corp Unit,10.68,0.0,3,Finance
+SPXX,Nuveen S&P 500 Dynamic Overwrite Fund,17.36,0.0,337410,Finance
+GLQ,Clough Global Equity Fund Clough Global Equity Fund Common Shares of Beneficial Interest,7.09,0.0,155392,Finance
+GOF,Guggenheim Strategic Opportunities Fund Common Shares of Beneficial Interest,8.57,0.0,1650281,Finance
+GPAC,General Purpose Acquisition Corp. Class A Ordinary Shares,10.17,0.0,14846,Uncategorized
+GPACU,General Purpose Acquisition Corp. Units,10.25,0.0,1,Uncategorized
+GPACW,General Purpose Acquisition Corp. Warrant,0.2001,0.0,90000,Industrials
+GPAT,GP-Act III Acquisition Corp. Class A Ordinary Share,11.06,0.0,772,Uncategorized
+GPATU,GP-Act III Acquisition Corp. Units,11.11,0.0,100,Uncategorized
+SRJN,Spire Inc. 6.375% Junior Subordinated Notes due 2086,20.23,0.0,35781,Utilities
+SRV,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,31.81,0.0,76286,Finance
+CATLU,Catalyst Acquisition Corp. Units,9.91,0.0,802,Finance
+CCAQ,Collective Acquisition Corp. Class A Ordinary Shares,10.53,0.0,3,Finance
+CCAQU,Collective Acquisition Corp. Units,10.54,0.0,431,Finance
+CCAQW,Collective Acquisition Corp. Warrants,0.1101,0.0,1239,Finance
+CCCT,Columbus Circle Capital Corp III Class A Ordinary Shares,9.8553,0.0,39,Uncategorized
+CCCTU,Columbus Circle Capital Corp III Units,9.93,0.0,159,Uncategorized
 MESH,Meshflow Acquisition Corp. Class A Ordinary Shares,10.14,0.0,6,Uncategorized
 MESHU,Meshflow Acquisition Corp. Units,10.19,0.0,1,Uncategorized
-SRV,NXG Cushing Midstream Energy Fund Common Shares of Beneficial Interest,31.81,0.0,76286,Finance
-SSAC,SPACSphere Acquisition Corp. Class A Ordinary Shares,10.2,0.0,4534,Finance
-SSACR,SPACSphere Acquisition Corp. Rights,0.175,0.0,10388,Finance
-SSACU,SPACSphere Acquisition Corp. Unit,10.3,0.0,226,Finance
 MESHW,Meshflow Acquisition Corp. Warrants,0.0839,0.0,1766,Uncategorized
 METCI,Ramaco Resources Inc. 8.250% Senior Notes due 2030,24.62,0.0,10790,Energy
 METCZ,Ramaco Resources Inc. 8.375% Senior Notes due 2029,24.3,0.0,1823,Energy
-MKLY,McKinley Acquisition Corporation Class A Ordinary Shares,10.35,0.0,5761,Finance
-MKLYR,McKinley Acquisition Corporation Rights,0.18,0.0,1345,Finance
-MKLYU,McKinley Acquisition Corporation Units,10.45,0.0,26,Finance
-SPXX,Nuveen S&P 500 Dynamic Overwrite Fund,17.36,0.0,337410,Finance
-SRJN,Spire Inc. 6.375% Junior Subordinated Notes due 2086,20.23,0.0,35781,Utilities
-MLAAW,Mountain Lake Acquisition Corp. II Warrants,0.125,0.0,1900,Finance
-MEGI,NYLIM CBRE Global Infrastructure Megatrends Term Fund Common Shares,13.77,0.0,130806,Finance
-LKSPR,Lake Superior Acquisition Corp. Rights,1.52,0.0,2028,Uncategorized
-LKSPU,Lake Superior Acquisition Corp. Units,10.46,0.0,122,Uncategorized
-LFAC,Leapfrog Acquisition Corporation Class A Ordinary Shares,10.12,0.0,10,Finance
-KCHV,Kochav Defense Acquisition Corp. Class A Ordinary Shares,10.59,0.0,3583,Uncategorized
-KCHVR,Kochav Defense Acquisition Corp. Right,0.062,0.0,1300,Finance
-KCHVU,Kochav Defense Acquisition Corp. Units,10.57,0.0,113,Uncategorized
-KEYY,Keystone Acquisition Corp. Class A Ordinary Shares,9.95,0.0,108863,Finance
-KEYYU,Keystone Acquisition Corp. Unit,10.06,0.0,23,Finance
-KEYYW,Keystone Acquisition Corp. Warrants,0.3,0.0,1846,Finance
-JFR,Nuveen Floating Rate Income Fund Common Stock,7.185,0.0,1091509,Finance
-JGH,Nuveen Global High Income Fund Common Shares of Beneficial Interest,11.2,0.0,95094,Finance
-SZZLR,Sizzle Acquisition Corp. II Right,0.0901,0.0,3190,Finance
-SZZLU,Sizzle Acquisition Corp. II Unit,10.89,0.0,2,Finance
-JTTT,JATT III Acquisition Corp Ordinary Shares,10.22,0.0,323,Finance
+MEVO,M Evo Global Acquisition Corp II Class A Ordinary Shares,10.04,0.0,11,Finance
+MEVOU,M Evo Global Acquisition Corp II Units,10.14,0.0,2,Finance
+MEVOW,M Evo Global Acquisition Corp II Warrants,0.1713,0.0,791,Finance
+PDT,John Hancock Premium Dividend Fund,11.73,0.0,92167,Finance
+GJH,Synthetic Fixed-Income Securities Inc 6.375% (STRATS) Cl A-1,9.57,0.0,6,Finance
+AWF,Alliancebernstein Global High Income Fund,9.46,0.0,352454,Finance
+AWP,abrdn Global Premier Properties Fund Common Shares of Beneficial Interest,10.285,0.0,116793,Finance
+MBVI,M3-Brigade Acquisition VI Corp. Class A Ordinary Shares,10.33,0.0,20674,Uncategorized
 MBVIU,M3-Brigade Acquisition VI Corp. Units,10.44,0.0,6,Finance
-KBONU,Karbon Capital Partners Corp. Units,10.23,0.0,226,Finance
-KBONW,Karbon Capital Partners Corp. Warrant,0.35,0.0,9999,Finance
-KKRT,KKR & Co. Inc. 6.875% Subordinated Notes due 2065,21.1,0.0,85606,Finance
-SVIV,Spring Valley Acquisition Corp. IV Class A Ordinary Shares,10.045,0.0,199213,Finance
-SVIVU,Spring Valley Acquisition Corp. IV Units,10.22,0.0,3,Finance
-SVIVW,Spring Valley Acquisition Corp. IV Warrants,0.45,0.0,350,Finance
-SWZ,Total Return Securities Fund Common Stock,5.73,0.0,29439,Finance
-SZZL,Sizzle Acquisition Corp. II Class A ordinary shares,10.56,0.0,4456,Finance
-KF,Korea Fund Inc. (The) New Common Stock,47.29,0.0,3721,Finance
-KFII,K&F Growth Acquisition Corp. II Class A Ordinary shares,10.82,0.0,200,Finance
-KFIIR,K&F Growth Acquisition Corp. II Rights,0.1206,0.0,1901,Uncategorized
-KFIIU,K&F Growth Acquisition Corp. II Unit,10.72,0.0,8,Finance
-KIO,KKR Income Opportunities Fund Common Shares,9.765,0.0,347391,Finance
-JATT,JATT II Acquisition Corp Ordinary Shares,10.25,0.0,173716,Finance
-JBK,Lehman ABS 3.50 3.50% Adjustable Corp Backed Tr Certs GS Cap I,25.75,0.0,3625,Finance
-KBON,Karbon Capital Partners Corp. Class A Ordinary Shares,10.15,0.0,971,Finance
 MBVIW,M3-Brigade Acquisition VI Corp. Warrant,0.2,0.0,6812,Uncategorized
 MCAH,Mountain Crest Acquisition 6 Corp. Ordinary Shares,10.13,0.0,11,Finance
 MCAHR,Mountain Crest Acquisition 6 Corp. Rights,0.15,0.0,4900,Finance
 MCAHU,Mountain Crest Acquisition 6 Corp. Units,10.3,0.0,47,Finance
 MCGA,Yorkville Acquisition Corp. Class A Ordinary Share,10.43,0.0,604,Utilities
 MCGAU,Yorkville Acquisition Corp. Unit,10.45,0.0,307,Finance
-LEDRU,Leader's Advantage Acquisition Corp. Units,9.95,0.0,2241,Finance
-LEDRW,Leader's Advantage Acquisition Corp. Warrants,0.2001,0.0,548,Finance
-KTH,Structures Products Cp 8% CorTS Issued by Peco Energy Cap Tr II Preferred Stock,27.69,0.0,696,Finance
-KTN,Structured Products Corp 8.205% CorTS 8.205% Corporate Backed Trust Securities (CorTS),25.85,0.0,4614,Finance
-KRAQ,KRAKacquisition Corp Class A Ordinary Shares,10.02,0.0,5672,Uncategorized
-KRAQU,KRAKacquisition Corp Unit,10.08,0.0,3,Uncategorized
-KRAQW,KRAKacquisition Corp Warrants,0.29,0.0,318,Uncategorized
-LATA,Galata Acquisition Corp. II Class A Ordinary Shares,10.27,0.0,221,Finance
-LATAU,Galata Acquisition Corp. II Units,10.54,0.0,1944,Uncategorized
-LKSP,Lake Superior Acquisition Corp. Class A Ordinary Shares,10.34,0.0,2092,Uncategorized
-LCCC,Lakeshore Acquisition III Corp. Ordinary Shares,10.675,0.0,107,Finance
-LCCCR,Lakeshore Acquisition III Corp. Rights,0.1433,0.0,535,Finance
-LCCCU,Lakeshore Acquisition III Corp. Unit,11.22,0.0,324,Finance
-LDP,Cohen & Steers Limited Duration Preferred and Income Fund Inc.,19.08,0.0,338233,Finance
-LEDR,Leader's Advantage Acquisition Corp. Class A Ordinary Shares,9.89,0.0,450,Uncategorized
-LFACU,Leapfrog Acquisition Corporation Units,10.25,0.0,888,Uncategorized
-LFACW,Leapfrog Acquisition Corporation Warrants,0.18,0.0,1600,Finance
-LGI,Lazard Global Total Return and Income Fund Common Stock,16.03,0.0,48778,Uncategorized
+MCGAW,Yorkville Acquisition Corp. Warrant,0.15,0.0,1000,Uncategorized
+CCCTW,Columbus Circle Capital Corp III Warrants,0.355,0.0,703,Uncategorized
+CCD,Calamos Dynamic Convertible & Income Fund Common Stock,19.47,0.0,162993,Finance
+CCII,Cohen Circle Acquisition Corp. II Class A Ordinary Shares,10.36,0.0,370,Uncategorized
+AVK,Advent Convertible and Income Fund,10.07,0.0,227183,Finance
+GJO,Synthetic Fixed-Income Securities Inc. on behalf of STRATS(SM) Trust for Wal-Mart Stores Inc. Securities Series 2004-5,24.5493,0.0,2870,Finance
+GJP,Synthetic Fixed-Income Securities Inc. on behalf of STRATS (SM) Trust for Dominion Resources Inc. Securities Series 2005-6 Floating Rate Structured Repackaged Asset-Backed Trust Securities (STRATS) Certificates,24.47,0.0,2738,Finance
+GJR,Synthetic Fixed-Income Securities Inc. STRATS Trust for Procter&Gamble Securities Series 2006-1,24.51,0.0,1452,Finance
+GJT,Synthetic Fixed-Income Securities Inc. Floating Rate Structured Repackaged Asset-Backed Trust Securities Certificates Series 2006-3,22.9701,0.0,1909,Finance
+GLO,Clough Global Opportunities Fund Common Stock,5.24,0.0,102794,Finance
+SSACR,SPACSphere Acquisition Corp. Rights,0.175,0.0,10388,Finance
+SSACU,SPACSphere Acquisition Corp. Unit,10.3,0.0,226,Finance
+SSACW,SPACSphere Acquisition Corp. Warrant,0.0449,0.0,18194,Finance
+SSEA,Starry Sea Acquisition Corp	Ordinary Shares,10.51,0.0,28,Finance
+SSEAR,Starry Sea Acquisition Corp Rights,0.0702,0.0,210,Finance
+SSEAU,Starry Sea Acquisition Corp Unit,11.0,0.0,1040,Finance
+STEW,SRH Total Return Fund Inc. Common Stock,18.53,0.0,103096,Finance
+STK,Columbia Seligman Premium Technology Growth Fund Inc,47.19,0.0,129299,Finance
+GDL,GDL Fund The Common Shares of Beneficial Interest,8.28,0.0,7527,Finance
+GCGRW,General Catalyst Global Resilience Merger Corp. Warrants,0.58,0.0,240,Uncategorized
+GECCG,Great Elm Capital Corp. 7.75% Notes Due 2030,24.66,0.0,197,Finance
+GECCH,Great Elm Capital Corp. 8.125% Notes Due 2029,24.81,0.0,480,Uncategorized
+GECCI,Great Elm Capital Corp. 8.50% NOTES DUE 2029,25.15,0.0,1552,Finance
+GF,New Germany Fund Inc. (The) Common Stock,9.45,0.0,47509,Finance
 SVAQ,Silicon Valley Acquisition Corp. Class A Ordinary Shares,10.24,0.0,27678,Finance
 SVAQU,Silicon Valley Acquisition Corp. Units,10.8,0.0,700,Finance
 SVAQW,Silicon Valley Acquisition Corp. Warrants,0.21,0.0,21448,Finance
 SVCC,Stellar V Capital Corp. Class A Ordinary Shares,10.59,0.0,1570,Uncategorized
 SVCCW,Stellar V Capital Corp. Warrant,0.1701,0.0,9,Finance
-LPCVU,Launchpad Cadenza Acquisition Corp I Unit,10.47,0.0,986,Finance
-LPCVW,Launchpad Cadenza Acquisition Corp I Warrant,0.2625,0.0,1948,Uncategorized
-LATAW,Galata Acquisition Corp. II Warrant,0.1699,0.0,125684,Finance
+SVIV,Spring Valley Acquisition Corp. IV Class A Ordinary Shares,10.045,0.0,199213,Finance
+SVIVU,Spring Valley Acquisition Corp. IV Units,10.22,0.0,3,Finance
+SVIVW,Spring Valley Acquisition Corp. IV Warrants,0.45,0.0,350,Finance
+SWZ,Total Return Securities Fund Common Stock,5.73,0.0,29439,Finance
+GCGRU,General Catalyst Global Resilience Merger Corp. Units,10.19,0.0,1,Uncategorized
+GDO,Western Asset Global Corporate Opportunity Fund Inc. Common Stock,8.96,0.0,46071,Finance
 ABR^D,Arbor Realty Trust 6.375% Series D Cumulative Redeemable Preferred Stock Liquidation Preference $25.00 per Share,5.57,,75966,Uncategorized
 ABR^E,Arbor Realty Trust 6.25% Series E Cumulative Redeemable Preferred Stock,5.46,,21200,Uncategorized
 ABR^F,Arbor Realty Trust 6.25% Series F Fixed-to-Floating Rate Cumulative Redeemable Preferred Stock Liquidation Preference $25.00 per share,6.61,,121963,Uncategorized

@@ -336,6 +336,7 @@ IMMX,Immix Biopharma Inc. Common Stock,7.73,647870285.0,813227,Health Care
 GERN,Geron Corporation Common Stock,0.9786,630452147.0,5542790,Health Care
 TCMD,Tactile Systems Technology Inc. Common Stock,27.6,618277895.0,336158,Health Care
 SGHT,Sight Sciences Inc. Common Stock,10.96,609145588.0,279296,Health Care
+DMAC,DiaMedica Therapeutics Inc. Common Stock,9.17,593340027.0,323254,Health Care
 ACRS,Aclaris Therapeutics Inc. Common Stock,3.735,592416377.0,1861829,Health Care
 ALMS,Alumis Inc. Common Stock,4.535,588738099.0,1453201,Health Care
 SBC,SBC Medical Group Holdings Incorporated Common Stock,5.69,585199106.0,226682,Health Care
@@ -357,7 +358,6 @@ ASMB,Assembly Biosciences Inc. Common Stock,24.5,501692478.0,274490,Health Care
 STTK,Shattuck Labs Inc. Common Stock,4.91,500046930.0,1278284,Health Care
 ARVN,Arvinas Inc. Common Stock,7.58,496376345.0,1042672,Health Care
 LYEL,Lyell Immunopharma Inc. Common Stock,15.48,495603268.0,232879,Health Care
-DMAC,DiaMedica Therapeutics Inc. Common Stock,9.17,494790037.0,323254,Health Care
 CBIO,Crescent Biopharma Inc. Common Stock,12.7,493972113.0,443298,Health Care
 TKNO,Alpha Teknova Inc. Common Stock,7.8,490644414.0,273737,Health Care
 OVID,Ovid Therapeutics Inc. Common Stock,2.59,488815657.0,1432941,Health Care
@@ -596,7 +596,7 @@ TLSIW,TriSalus Life Sciences Inc. Warrant,0.71,43806314.0,50,Health Care
 DXR,Daxor Corporation Common Stock,7.28,42502271.0,15520,Health Care
 ELTX,Elicio Therapeutics Inc. Common Stock,1.47,41611621.0,297302,Health Care
 RFL,Rafael Holdings Inc. Class B Common Stock,0.795,41480330.0,117579,Health Care
-GRDX,GridAI Technologies Corp. Common Stock,3.09,41067830.0,207960,Health Care
+GRDX,GridAI Power Corp. Common Stock,3.09,41067830.0,207960,Health Care
 RNTX,Rein Therapeutics Inc. Common Stock,0.4749,40968213.0,470000,Health Care
 FLNA,Filana Therapeutics Inc. Common Stock,0.81,40718391.0,407381,Health Care
 ELUT,Elutia Inc. Class A Common Stock,0.9075,40290867.0,47232,Health Care
@@ -766,11 +766,11 @@ ESLAW,Estrella Immunopharma Inc. Warrant,0.0601,2642602.0,3000,Health Care
 ONCO,Onconetix Inc. Common Stock,3.1,2543894.0,190604,Health Care
 GRI,GRI Bio Inc. Common Stock,1.16,2535893.0,11808,Health Care
 TVGNW,Tevogen Inc. Warrant,0.0369,2534246.0,1479932,Health Care
+BIVIW,BioVie Inc. Warrant,0.2209,2525304.0,484,Health Care
 DRMA,Dermata Therapeutics Inc. Common Stock,0.5026,2477922.0,38802,Health Care
 REVB,Revelation Biosciences Inc. Common Stock,3.53,2412550.0,4490,Health Care
 AIDX,20/20 Biolabs Inc. Common Stock,0.1722,2409451.0,101007,Health Care
 QCLS,Q/C Technologies Inc. Common Stock,0.2758,2377176.0,55218,Health Care
-BIVIW,BioVie Inc. Warrant,0.2209,2369092.0,484,Health Care
 PMCB,PharmaCyte  Biotech Inc. Common Stock,4.135,2340770.0,5963,Health Care
 LABT,Lakewood-Amedex Biotherapeutics Inc. Common Stock,0.2444,2187402.0,613234,Health Care
 XAIR,Beyond Air Inc. Common Stock,1.28,2132613.0,43013,Health Care
@@ -787,13 +787,11 @@ PFSA,Profusa Inc. Common Stock,0.2841,1785539.0,450608,Health Care
 JUNS,Jupiter Neurosciences Inc. Common Stock,1.3,1714077.0,17743,Health Care
 NXGL,NexGel Inc Common Stock,3.14,1683392.0,35752,Health Care
 NXL,Nexalin Technology Inc. Common Stock,1.335,1650808.0,6363,Health Care
-VVOS,Vivos Therapeutics Inc. Common Stock,0.046,1555755.0,5405374,Health Care
 BRTX,BioRestorative Therapies Inc. Common Stock (NV),1.11,1533052.0,16538,Health Care
 SXTP,60 Degrees Pharmaceuticals Inc. Common Stock,0.3304,1481719.0,99473,Health Care
 BFRGW,Bullfrog AI Holdings Inc. Warrants,0.0783,1463684.0,2436,Health Care
 ARTL,Artelo Biosciences Inc. Common Stock,1.52,1424509.0,28100,Health Care
 CODX,Co-Diagnostics Inc. Common Stock,2.64,1377497.0,504011,Health Care
-CAPS,Capstone Holding Corp. Common Stock,1.45,1356308.0,45586,Health Care
 ELAB,PMGC Holdings Inc. Common Stock,1.16,1355965.0,40355,Health Care
 ADGM,Adagio Medical Holdings Inc Common Stock,1.24,1219426.0,45517,Health Care
 APVO,Aptevo Therapeutics Inc. Common Stock,0.3398,1177381.0,515687,Health Care
@@ -825,5 +823,5 @@ PIIIW,P3 Health Partners Inc. Warrant,0.0008,5809.0,34731,Health Care
 NXGLW,NexGel Inc Warrant,0.0078,4182.0,7402,Health Care
 REVBW,Revelation Biosciences Inc. Warrant,0.0024,1640.0,20738,Health Care
 EMIS,Emmis Acquisition Corp. Class A Ordinary Shares,10.35,0.0,706,Health Care
-BLUWU,Blue Water Acquisition Corp. III Unit.,10.45,0.0,35,Health Care
 VESI,Vesicor Therapeutics Holdings Inc. Class A Common Stock,0.7396,0.0,453405,Health Care
+BLUWU,Blue Water Acquisition Corp. III Unit.,10.45,0.0,35,Health Care

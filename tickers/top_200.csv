@@ -12,7 +12,7 @@ AVGO,Broadcom Inc. Common Stock,300.86,1436194281184.0,34349549,Technology
 LLY,Eli Lilly and Company Common Stock,1392.27,1309771084310.0,2928819,Health Care
 BRK/A,Berkshire Hathaway Inc.,869830.1051,1279410486009.0,160,Uncategorized
 BRK/B,Berkshire Hathaway Inc.,579.28,1278072050993.0,4320606,Uncategorized
-ANT,Anthropic PBC Class A Common Stock,82.79,1083445623974.0,293740431,Technology
+ANT,Anthropic PBC Class A Common Stock,82.79,1094454184030.0,293740431,Technology
 WMT,Walmart Inc. Common Stock,131.94,1046778479038.0,23619941,Consumer Discretionary
 JPM,JP Morgan Chase & Co. Common Stock,316.85,841429872927.0,7639012,Finance
 V,Visa Inc.,424.5,765387560714.0,6593575,Consumer Discretionary
@@ -77,8 +77,8 @@ DE,Deere & Company Common Stock,641.61,172994360593.0,2353951,Industrials
 WMB,Williams Companies Inc. (The) Common Stock,66.46,168791986174.0,7674243,Utilities
 CRM,Salesforce Inc. Common Stock,197.175,162275025000.0,6736401,Technology
 PFE,Pfizer Inc. Common Stock,28.46,162217837241.0,27143420,Health Care
-ADI,Analog Devices Inc. Common Stock,333.105,161411179219.0,9205503,Technology
 SCHW,Charles Schwab Corporation (The) Common Stock,93.46,161312680109.0,10793268,Finance
+ADI,Analog Devices Inc. Common Stock,333.105,160781926552.0,9205503,Technology
 TJX,TJX Companies Inc. (The) Common Stock,146.11,160717210053.0,9309103,Consumer Discretionary
 DHR,Danaher Corporation Common Stock,227.4,159982907331.0,2503376,Industrials
 COP,ConocoPhillips Common Stock,135.05,159674349448.0,5853057,Energy
@@ -89,7 +89,7 @@ LMT,Lockheed Martin Corporation Common Stock,599.18,138413360195.0,1545116,Indus
 PGR,Progressive Corporation (The) Common Stock,238.74,138316925660.0,1946229,Finance
 UBER,Uber Technologies Inc. Common Stock,66.35,135479936945.0,19842511,Consumer Discretionary
 SPGI,S&P Global Inc. Common Stock,460.94,133626506000.0,1539869,Finance
-LOW,Lowe's Companies Inc. Common Stock,235.62,132195547957.0,3099377,Consumer Discretionary
+LOW,Lowe's Companies Inc. Common Stock,235.62,132194109968.0,3099377,Consumer Discretionary
 BA,Boeing Company (The) Common Stock,164.54,130389713128.0,6094442,Industrials
 TBB,AT&T Inc. 5.350% Global Notes due 2066,18.04,128992954059.0,265230,Telecommunications
 MO,Altria Group Inc.,76.25,126837064769.0,7112519,Health Care
@@ -162,7 +162,7 @@ ITW,Illinois Tool Works Inc. Common Stock,285.22,81059524000.0,965328,Industrial
 CDNS,Cadence Design Systems Inc. Common Stock,294.89,80911623310.0,2153705,Technology
 CL,Colgate-Palmolive Company Common Stock,99.68,79237676736.0,5121874,Consumer Discretionary
 NOC,Northrop Grumman Corporation Common Stock,556.08,78999221043.0,583235,Industrials
-TGT,Target Corporation Common Stock,172.17,78216269037.0,5082631,Consumer Discretionary
+TGT,Target Corporation Common Stock,172.17,77948614072.0,5082631,Consumer Discretionary
 EPD,Enterprise Products Partners L.P. Common Stock,36.065,77777954204.0,2111817,Utilities
 SNPS,Synopsys Inc. Common Stock,405.09,77630088928.0,1796583,Technology
 ORLY,O'Reilly Automotive Inc. Common Stock,96.69,77550091994.0,6992269,Consumer Discretionary

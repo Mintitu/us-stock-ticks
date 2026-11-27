@@ -7,7 +7,7 @@ GOOG,Alphabet Inc. Class C Capital Stock,270.98,3331428120000.0,27916853,Technol
 SPCX,Space Exploration Technologies Corp. Class A Common Stock,127.44,1730770759075.0,148279917,Technology
 META,Meta Platforms Inc. Class A Common Stock,609.89,1559025977792.0,18668227,Technology
 AVGO,Broadcom Inc. Common Stock,300.86,1436194281184.0,34349549,Technology
-ANT,Anthropic PBC Class A Common Stock,82.79,1083445623974.0,293740431,Technology
+ANT,Anthropic PBC Class A Common Stock,82.79,1094454184030.0,293740431,Technology
 MU,Micron Technology Inc. Common Stock,601.25,681065310998.0,52988430,Technology
 AMD,Advanced Micro Devices Inc. Common Stock,406.03,672514598179.0,51632011,Technology
 GOOGM,Alphabet Inc. Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock,40.66,499874040000.0,1206764,Technology
@@ -28,7 +28,7 @@ APH,Amphenol Corporation Common Stock,73.09,180478300231.0,16371430,Technology
 QCOM,QUALCOMM Incorporated Common Stock,168.66,180466200000.0,14054367,Technology
 KLAC,KLA Corporation Common Stock,134.2,174857558777.0,14192582,Technology
 CRM,Salesforce Inc. Common Stock,197.175,162275025000.0,6736401,Technology
-ADI,Analog Devices Inc. Common Stock,333.105,161411179219.0,9205503,Technology
+ADI,Analog Devices Inc. Common Stock,333.105,160781926552.0,9205503,Technology
 METAM,Meta Platforms Inc. Depositary Shares representing a 1/20th Interest in a Share of Series A Mandatory Convertible Preferred Stock,49.55,126661754086.0,2137235,Technology
 APP,Applovin Corporation Class A Common Stock,378.95,125554497669.0,4533963,Technology
 ADP,Automatic Data Processing Inc. Common Stock,316.72,125028207303.0,2262482,Technology
@@ -49,7 +49,7 @@ VRT,Vertiv Holdings LLC Class A Common Stock,173.335,66744448074.0,7335725,Techn
 MPWR,Monolithic Power Systems Inc. Common Stock,1194.63,58259715840.0,923244,Technology
 DDOG,Datadog Inc. Class A Common Stock,158.25,57134982746.0,5791733,Technology
 HPE,Hewlett Packard Enterprise Company Common Stock,40.83,54200386927.0,27644120,Technology
-ADSK,Autodesk Inc. Common Stock,246.785,51578065000.0,3320956,Technology
+ADSK,Autodesk Inc. Common Stock,246.785,51331280000.0,3320956,Technology
 XYZ,Block Inc. Class A Common Stock,76.06,45979943320.0,4738542,Technology
 VEEV,Veeva Systems Inc. Class A Common Stock,271.76,44000349076.0,1185346,Technology
 WDAY,Workday Inc. Class A Common Stock,180.44,42944720000.0,4119067,Technology
@@ -517,7 +517,6 @@ XBPEW,XBP Europe Holdings Inc. Warrant,0.0354,503241.0,1400,Technology
 CSAI,Cloudastructure Inc. Class A Common Stock,0.3934,475908.0,215507,Technology
 BNAIW,Brand Engagement Network Inc. Warrant,0.0603,461589.0,93931,Technology
 HOLOW,MicroCloud Hologram Inc. Warrant,0.0197,451373.0,16,Technology
-HCTI,Healthcare Triangle Inc. Common Stock,0.4624,423183.0,2806625,Technology
 RMSGW,Real Messenger Corporation Warrants,0.0191,308822.0,99408,Technology
 AIMDW,Ainos Inc. Warrants,0.0364,275387.0,5180,Technology
 FUSEW,Fusemachines Inc. Warrants,0.0075,244085.0,1406,Technology

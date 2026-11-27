@@ -71,9 +71,9 @@ DE,Deere & Company Common Stock,641.61,172994360593.0,2353951,Industrials
 WMB,Williams Companies Inc. (The) Common Stock,66.46,168791986174.0,7674243,Utilities
 CRM,Salesforce Inc. Common Stock,197.175,162275025000.0,6736401,Technology
 PFE,Pfizer Inc. Common Stock,28.46,162217837241.0,27143420,Health Care
-ADI,Analog Devices Inc. Common Stock,333.105,161411179219.0,9205503,Technology
 SCHW,Charles Schwab Corporation (The) Common Stock,93.46,161312680109.0,10793268,Finance
 ACN,Accenture plc Class A Ordinary Shares (Ireland),240.49,160821149539.0,4133405,Consumer Discretionary
+ADI,Analog Devices Inc. Common Stock,333.105,160781926552.0,9205503,Technology
 TJX,TJX Companies Inc. (The) Common Stock,146.11,160717210053.0,9309103,Consumer Discretionary
 DHR,Danaher Corporation Common Stock,227.4,159982907331.0,2503376,Industrials
 COP,ConocoPhillips Common Stock,135.05,159674349448.0,5853057,Energy
@@ -85,7 +85,7 @@ LMT,Lockheed Martin Corporation Common Stock,599.18,138413360195.0,1545116,Indus
 PGR,Progressive Corporation (The) Common Stock,238.74,138316925660.0,1946229,Finance
 UBER,Uber Technologies Inc. Common Stock,66.35,135479936945.0,19842511,Consumer Discretionary
 SPGI,S&P Global Inc. Common Stock,460.94,133626506000.0,1539869,Finance
-LOW,Lowe's Companies Inc. Common Stock,235.62,132195547957.0,3099377,Consumer Discretionary
+LOW,Lowe's Companies Inc. Common Stock,235.62,132194109968.0,3099377,Consumer Discretionary
 BA,Boeing Company (The) Common Stock,164.54,130389713128.0,6094442,Industrials
 MO,Altria Group Inc.,76.25,126837064769.0,7112519,Health Care
 SYK,Stryker Corporation Common Stock,332.915,126737745597.0,2196229,Health Care
@@ -157,7 +157,7 @@ ITW,Illinois Tool Works Inc. Common Stock,285.22,81059524000.0,965328,Industrial
 CDNS,Cadence Design Systems Inc. Common Stock,294.89,80911623310.0,2153705,Technology
 CL,Colgate-Palmolive Company Common Stock,99.68,79237676736.0,5121874,Consumer Discretionary
 NOC,Northrop Grumman Corporation Common Stock,556.08,78999221043.0,583235,Industrials
-TGT,Target Corporation Common Stock,172.17,78216269037.0,5082631,Consumer Discretionary
+TGT,Target Corporation Common Stock,172.17,77948614072.0,5082631,Consumer Discretionary
 SNPS,Synopsys Inc. Common Stock,405.09,77630088928.0,1796583,Technology
 ORLY,O'Reilly Automotive Inc. Common Stock,96.69,77550091994.0,6992269,Consumer Discretionary
 RSG,Republic Services Inc. Common Stock,254.27,77460724568.0,1178240,Utilities
@@ -221,7 +221,7 @@ GRMN,Garmin Ltd. Common Stock (Switzerland),279.92,53939267816.0,636313,Industri
 AME,AMETEK Inc.,227.45,52158378645.0,1974822,Industrials
 XEL,Xcel Energy Inc. Common Stock,81.11,52062436477.0,6270639,Utilities
 SRE,DBA Sempra Common Stock,79.09,51734318452.0,3256689,Utilities
-ADSK,Autodesk Inc. Common Stock,246.785,51578065000.0,3320956,Technology
+ADSK,Autodesk Inc. Common Stock,246.785,51331280000.0,3320956,Technology
 ETR,Entergy Corporation Common Stock,107.325,51282795761.0,4544522,Utilities
 KDP,Keurig Dr Pepper Inc. Common Stock,35.63,50865923056.0,12647580,Consumer Staples
 EBAY,eBay Inc. Common Stock,115.54,50722060000.0,4545213,Consumer Discretionary
@@ -339,7 +339,7 @@ HPQ,HP Inc. Common Stock,31.12,28063734955.0,39105251,Technology
 TWLO,Twilio Inc. Class A Common Stock,180.7,27960439582.0,1883202,Technology
 AXON,Axon Enterprise Inc. Common Stock,343.05,27935491852.0,2023563,Industrials
 VICI,VICI Properties Inc. Common Stock,25.11,27648259014.0,8126073,Real Estate
-FE,FirstEnergy Corp. Common Stock,47.655,27587161641.0,4215649,Utilities
+FE,FirstEnergy Corp. Common Stock,47.655,27592723599.0,4215649,Utilities
 PPG,PPG Industries Inc. Common Stock,124.66,27537394000.0,1477982,Consumer Discretionary
 EME,EMCOR Group Inc. Common Stock,628.91,27534940136.0,370516,Industrials
 ULTA,Ulta Beauty Inc. Common Stock,642.64,27477661163.0,477852,Consumer Discretionary

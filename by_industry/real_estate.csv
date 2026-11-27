@@ -124,8 +124,8 @@ ALX,Alexander's Inc. Common Stock,240.45,1228047881.0,64046,Real Estate
 PDM,Piedmont Realty Trust Inc. Class A Common Stock,9.88,1223387789.0,1024076,Real Estate
 SCCD,Sachem Capital Corp. 6.00% Notes due 2026,24.95,1181190086.0,640,Real Estate
 STRA,Strategic Education Inc. Common Stock,53.34,1167192654.0,303276,Real Estate
-SCCG,Sachem Capital Corp. 8.00% Notes due 2027,24.1,1140949141.0,644,Real Estate
 SCCF,Sachem Capital Corp. 7.125% Notes due 2027,24.1,1140949141.0,209,Real Estate
+SCCG,Sachem Capital Corp. 8.00% Notes due 2027,24.1,1140949141.0,644,Real Estate
 SCCE,Sachem Capital Corp. 6.00% Notes due 2027,24.08,1140002295.0,3172,Real Estate
 NHP,National Healthcare Properties Inc. Common Stock,15.38,1122159620.0,755834,Real Estate
 LADR,Ladder Capital Corp Class A Common Stock,8.785,1106839746.0,2086689,Real Estate
@@ -159,8 +159,8 @@ IVR,INVESCO MORTGAGE CAPITAL INC Common Stock,5.755,627891690.0,11037153,Real Es
 CIM,Chimera Investment Corporation Common Stock,7.11,595195832.0,2173413,Real Estate
 UHT,Universal Health Realty Income Trust Common Stock,38.68,537639971.0,63801,Real Estate
 TRTX,TPG RE Finance Trust Inc. Common Stock,6.67,505765783.0,1514828,Real Estate
+FVR,FrontView REIT Inc. Common Stock,18.21,492557683.0,225340,Real Estate
 BDN,Brandywine Realty Trust Common Stock,2.89,491431738.0,1797405,Real Estate
-FVR,FrontView REIT Inc. Common Stock,18.21,486642856.0,225340,Real Estate
 ADAM,Adamas Trust Inc. Common Stock,5.325,480872772.0,1557018,Real Estate
 FBRT,Franklin BSP Realty Trust Inc. Common Stock,6.2,469171949.0,996528,Real Estate
 OLP,One Liberty Properties Inc. Common Stock,21.35,467708942.0,66952,Real Estate
@@ -222,7 +222,7 @@ GPMT,Granite Point Mortgage Trust Inc. Common Stock,1.86,8966746.0,105717,Real E
 SQFTP,Presidio Property Trust Inc. 9.375% Series D Cumulative Redeemable Perpetual Preferred Stock $0.01 par value per share,3.68,8303482.0,12077,Real Estate
 EEIQ,EpicQuest Education Group International Limited Common Stock,2.89,4758740.0,10049,Real Estate
 MKZR,MacKenzie Realty Capital Inc. Common Stock,1.03,2857929.0,11677,Real Estate
-ZNB,Zeta Network Group Class A Ordinary Shares,0.2854,1427590.0,42822993,Real Estate
+ZNB,Zeta Network Group Class A Ordinary Shares,0.2854,1883051.0,42822993,Real Estate
 GIPR,Generation Income Properties Inc. Common Stock,0.1887,1372732.0,396132,Real Estate
 SQFT,Presidio Property Trust Inc. Class A Common Stock,0.5898,1330814.0,14000,Real Estate
 PW,Power REIT (MD) Common Stock,3.555,1305112.0,57138,Real Estate
@@ -232,15 +232,15 @@ BOXL,Boxlight Corporation Class A Common Stock,0.775,654531.0,45012,Real Estate
 SQFTW,Presidio Property Trust Inc. Series A Common Stock Purchase Warrants,0.0072,16246.0,1956,Real Estate
 KIDZW,KIDZ AI Inc. Warrants,0.0066,6767.0,900,Real Estate
 ELLA,Ellington Credit Company 8.50% Notes due 2031,25.0,0.0,33782,Real Estate
-RWTS,Redwood Trust Inc. 9.75% Senior Notes Due 2031,19.55,0.0,28859,Real Estate
-RWTP,Redwood Trust Inc. 9.125% Senior Notes Due 2030,20.27,0.0,5158,Real Estate
-RWTQ,Redwood Trust Inc. 9.500% Senior Notes Due 2030,20.0,0.0,43562,Real Estate
-CIMO,Chimera Investment Corporation 9.250% Senior Notes due 2029,23.75,0.0,21438,Real Estate
-CIMP,Chimera Investment Corporation 8.875% Senior Notes due 2030,22.9,0.0,16030,Real Estate
-RCD,Ready Capital Corporation 9.00% Senior Notes due 2029,17.88,0.0,9690,Real Estate
-ADAMO,Adamas Trust Inc. 9.250% Senior Notes Due 2031,23.18,0.0,40630,Real Estate
 ADAMG,Adamas Trust Inc. 9.125% Senior Notes Due 2030,23.47,0.0,9397,Real Estate
 ADAMH,Adamas Trust Inc. 9.875% Senior Notes Due 2030,23.82,0.0,10982,Real Estate
 ADAMK,Adamas Trust Inc. 9.600% Senior Notes Due 2031 ,23.28,0.0,73526,Real Estate
+ADAMO,Adamas Trust Inc. 9.250% Senior Notes Due 2031,23.18,0.0,40630,Real Estate
+RCD,Ready Capital Corporation 9.00% Senior Notes due 2029,17.88,0.0,9690,Real Estate
+CIMO,Chimera Investment Corporation 9.250% Senior Notes due 2029,23.75,0.0,21438,Real Estate
+CIMP,Chimera Investment Corporation 8.875% Senior Notes due 2030,22.9,0.0,16030,Real Estate
 PMTV,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,23.9,0.0,22027,Real Estate
 PMTW,PennyMac Mortgage Investment Trust 9.00% Senior Notes due 2030,24.21,0.0,10890,Real Estate
+RWTP,Redwood Trust Inc. 9.125% Senior Notes Due 2030,20.27,0.0,5158,Real Estate
+RWTQ,Redwood Trust Inc. 9.500% Senior Notes Due 2030,20.0,0.0,43562,Real Estate
+RWTS,Redwood Trust Inc. 9.75% Senior Notes Due 2031,19.55,0.0,28859,Real Estate
